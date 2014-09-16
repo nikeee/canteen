@@ -2,7 +2,7 @@
 <html data-ng-app="canteen" data-ng-controller="CanteenCtrl">
 <head>
 	<meta chatset="utf-8">
-	<title>Mensaplan</title>
+	<title>{{currentMenu.menu.info.name || 'Mensaplan'}}</title>
 
 	<meta name="autor" content="Niklas Mollenhauer <holzig@outlook.com>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,6 +13,10 @@
 <body>
 	<div class="container">
 		<h1>Mensaplan</h1>
+		<div data-ng-show="isLoading">Lade...</div>
+		<div data-ng-hide="isLoading">
+
+		</div>
 	</div>
 	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.24/angular.min.js"></script>
 	<script type="text/javascript" src="./main.js"></script>

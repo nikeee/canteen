@@ -10,23 +10,48 @@ interface CanteenScope extends ng.IScope
 {
 	isLoading: boolean;
 	canteenApi: CanteenApi;
+
+	refresh: () => void;
+	currentMenu: IParseResult;
+
+	apiUrl: string;
+
+	refreshInterval: number;
 }
 
 class CanteenApi
 {
-	constructor(private $q: ng.IQService)
+	constructor(private $q: ng.IQService, private $http: ng.IHttpService)
 	{ }
 
-	public getMenu(): ng.IPromise<IParseResult>
+	public getMenu(url: string): ng.IPromise<IParseResult>
 	{
-		var d = this.$q.defer<IParseResult>();
+		if(!url)
+			return <ng.IPromise<IParseResult>><any>this.$q.reject("No url.");
 
-
-		return d.promise();
+		return this.$http.get(url);
 	}
 }
 
 canteen.controller("CanteenCtrl", ($scope: CanteenScope, $http: ng.IHttpService, $interval: ng.IIntervalService, $q: ng.IQService) => {
 
-	$scope.canteenApi = new CanteenApi($q);
+	$scope.apiUrl = "http://holz.nu:8081/menu/wilhemshoehe";
+
+	$scope.isLoading = true;
+	$scope.canteenApi = new CanteenApi($q, $http);
+	$scope.currentMenu = null;
+	$scope.refreshInterval = 30 * 60 * 1000;
+
+	$scope.refresh = () => {
+		$scope.isLoading = true;
+		$scope.canteenApi.getMenu($scope.apiUrl).then(res => {
+			if(res)
+			{
+				$scope.currentMenu = res;
+				$scope.isLoading = false;
+			}
+		});
+	};
+
+	$interval(() => $scope.refresh(), $scope.refreshInterval);
 });
