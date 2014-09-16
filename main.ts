@@ -9,10 +9,11 @@ var canteen = angular.module("canteen", []);
 interface CanteenScope extends ng.IScope
 {
 	isLoading: boolean;
+	isError: boolean;
 	canteenApi: CanteenApi;
 
 	refresh: () => void;
-	currentMenu: IParseResult;
+	lastResult: IParseResult;
 
 	apiUrl: string;
 
@@ -28,30 +29,45 @@ class CanteenApi
 	{
 		if(!url)
 			return <ng.IPromise<IParseResult>><any>this.$q.reject("No url.");
-
-		return this.$http.get(url);
+		var d = this.$q.defer();
+		//this.$http.get(url)
+		this.$http({url: url, method: "GET"})
+			.success((data, status) => d.resolve(data))
+			.error((data, status) => d.reject(status));
+		return d.promise;
 	}
 }
 
 canteen.controller("CanteenCtrl", ($scope: CanteenScope, $http: ng.IHttpService, $interval: ng.IIntervalService, $q: ng.IQService) => {
 
-	$scope.apiUrl = "http://holz.nu:8081/menu/wilhemshoehe";
+	$scope.apiUrl = "http://uni.holz.nu:8081/menu/wilhelmshoehe";
 
 	$scope.isLoading = true;
+	$scope.isError = false;
 	$scope.canteenApi = new CanteenApi($q, $http);
-	$scope.currentMenu = null;
+	$scope.lastResult = null;
 	$scope.refreshInterval = 30 * 60 * 1000;
 
 	$scope.refresh = () => {
 		$scope.isLoading = true;
-		$scope.canteenApi.getMenu($scope.apiUrl).then(res => {
+
+		var p = $scope.canteenApi.getMenu($scope.apiUrl);
+		p.then(res => {
 			if(res)
 			{
-				$scope.currentMenu = res;
+				$scope.lastResult = res;
 				$scope.isLoading = false;
+				$scope.isError = false;
 			}
+			else
+			{
+				$scope.isError = true;
+			}
+		}, err => {
+			$scope.isError = true;
 		});
 	};
 
+	$scope.refresh();
 	$interval(() => $scope.refresh(), $scope.refreshInterval);
 });

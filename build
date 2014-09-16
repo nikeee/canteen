@@ -1,3 +1,0 @@
-#!/bin/bash
-
-tsc --removeComments --target ES5 --out ./js/main.js ./main.ts
