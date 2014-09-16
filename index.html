@@ -8,17 +8,21 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+	<!-- CDN for production environment -->
+	<!-- <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"> -->
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 </head>
 <body>
 	<div class="container">
-		<h1>Mensaplan</h1>
+		<h1>{{currentMenu.menu.info.name || 'Mensaplan'}}</h1>
 		<div data-ng-show="isLoading">Lade...</div>
 		<div data-ng-hide="isLoading">
 
 		</div>
 	</div>
-	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.24/angular.min.js"></script>
-	<script type="text/javascript" src="./main.js"></script>
+	<!-- CDN for production environment -->
+	<!-- <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.24/angular.min.js"></script> -->
+	<script type="text/javascript" src="js/angular.min.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
 </body>
 </html>
