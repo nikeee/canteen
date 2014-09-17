@@ -24,6 +24,11 @@ class CanteenApi
 	}
 }
 
+/*
+	ng does not parse date strings in JSOn responses as Date.
+	This code found somewhere on the internet does exactly that.
+*/
+
 canteen.config(["$httpProvider", $httpProvider => {
 	$httpProvider.defaults.transformResponse.push(responseData => {
 		convertDateStringsToDates(responseData);
@@ -63,6 +68,7 @@ function convertDateStringsToDates(input) {
 		}
 	}
 }
+/* / internet-code */
 
 canteen.controller("CanteenCtrl", ($scope: CanteenScope, $http: ng.IHttpService, $interval: ng.IIntervalService, $q: ng.IQService) => {
 
