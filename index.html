@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html data-ng-app="canteen" data-ng-controller="CanteenCtrl">
+<html data-ng-app="canteen" data-ng-controller="CanteenCtrl" lan="de">
 <head>
 	<meta chatset="utf-8">
 	<title>{{lastResult.menu.info.name || 'Mensaplan lädt...'}}</title>
@@ -22,7 +22,7 @@
 				<thead>
 					<tr>
 						<th></th>
-						<th data-ng-repeat="wd in getValidWeekdays()">{{wd}}</th>
+						<th data-ng-repeat="wd in validWeekdays">{{wd}}</th>
 					</tr>
 				</thead>
 				<tbody>

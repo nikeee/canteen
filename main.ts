@@ -21,7 +21,8 @@ interface CanteenScope extends ng.IScope
 	updateApiUrl: () => void;
 	supportedCanteens: { [name: string]: string; };
 
-	getValidWeekdays(): string[];
+	refreshValidWeekdays(): void;
+	validWeekdays: string[];
 	dayNames: string[];
 }
 
@@ -123,22 +124,18 @@ canteen.controller("CanteenCtrl", ($scope: CanteenScope, $http: ng.IHttpService,
 	$scope.lastResult = null;
 	$scope.refreshInterval = 30 * 60 * 1000;
 
-	$scope.getValidWeekdays = () => {
+	$scope.refreshValidWeekdays = () => {
 		if($scope.isLoading || $scope.isError)
 			return [];
 
-		//var menuDays = new Array<Date>();
 		var loopTime = $scope.lastResult.menu.validity.from.getTime();
 		var endTime = $scope.lastResult.menu.validity.until.getTime();
 		var arr = new Array<string>();
 		for(; loopTime <= endTime; loopTime += 86400000)
 		{
 			arr.push($scope.dayNames[(new Date(loopTime)).getDay()]);
-			//menuDays.push(new Date(loopTime));
 		}
-		//var arr = new Array<string>(menuDays.length);
-		//for(var i = 0; i < menuDays.length; ++i)
-		return arr;
+		$scope.validWeekdays = arr;
 	};
 
 	$scope.refresh = () => {
@@ -149,6 +146,7 @@ canteen.controller("CanteenCtrl", ($scope: CanteenScope, $http: ng.IHttpService,
 			if(res)
 			{
 				$scope.lastResult = res;
+				$scope.refreshValidWeekdays();
 				$scope.isLoading = false;
 				$scope.isError = false;
 			}
