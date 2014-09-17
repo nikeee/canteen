@@ -14,10 +14,29 @@
 </head>
 <body>
 	<div class="container">
-		<h1>{{lastResult.menu.info.name || 'Mensaplan lädt...'}}</h1>
-		<div data-ng-show="isLoading">Lade...</div>
+		<h1 class="page-header">{{lastResult.menu.info.name || 'Lade Mensaplan...'}}</h1>
 		<div data-ng-hide="isLoading">
-
+			<h4 class="pull-right">Essensplan vom {{lastResult.menu.validity.from | date:'dd.MM.yy'}} bis zum {{lastResult.menu.validity.until | date:'dd.MM.yy'}}</h4>
+			<a data-ng-repeat="(cant, disp) in supportedCanteens" class="btn btn-small" data-ng-href="#{{cant}}">{{disp}}</a>
+			<table class="table table-striped">
+				<thead>
+					<tr>
+						<th></th>
+						<th data-ng-repeat="wd in getValidWeekdays()">{{wd}}</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr data-ng-repeat="(gen, spec) in lastResult.menu.meals">
+						<td>{{gen}}</td>
+						<td data-ng-repeat="(dayOfWeek, meal) in spec">
+							<span data-ng-show="meal != null">
+								<span>{{meal.name}}</span>
+								<span>{{meal.price.student}}/{{meal.price.employee}}/{{meal.price.foreign}}{{lastResult.menu.currency}}</span>
+							</span>
+						</td>
+					</tr>
+				</tbody>
+			</table>
 		</div>
 	</div>
 	<!-- CDN for production environment -->
