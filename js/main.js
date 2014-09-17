@@ -91,7 +91,7 @@ canteen.controller("CanteenCtrl", function ($scope, $http, $interval, $q) {
     $scope.lastResult = null;
     $scope.refreshInterval = 30 * 60 * 1000;
 
-    $scope.getValidWeekdays = function () {
+    $scope.refreshValidWeekdays = function () {
         if ($scope.isLoading || $scope.isError)
             return [];
 
@@ -101,8 +101,7 @@ canteen.controller("CanteenCtrl", function ($scope, $http, $interval, $q) {
         for (; loopTime <= endTime; loopTime += 86400000) {
             arr.push($scope.dayNames[(new Date(loopTime)).getDay()]);
         }
-
-        return arr;
+        $scope.validWeekdays = arr;
     };
 
     $scope.refresh = function () {
@@ -112,6 +111,7 @@ canteen.controller("CanteenCtrl", function ($scope, $http, $interval, $q) {
         p.then(function (res) {
             if (res) {
                 $scope.lastResult = res;
+                $scope.refreshValidWeekdays();
                 $scope.isLoading = false;
                 $scope.isError = false;
             } else {
