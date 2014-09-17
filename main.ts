@@ -92,7 +92,7 @@ canteen.controller("CanteenCtrl", ($scope: CanteenScope, $http: ng.IHttpService,
 		wilhelmshoehe: "Wilhelmshöhe"
 	};
 
-	var fallback = $scope.supportedCanteens["wilhelmshoehe"];
+	var fallback = "wilhelmshoehe";
 	var newApiUrl = () => {
 		var h = document.location.hash;
 		return apiBase + (h.length > 1 ? h.substring(1) || fallback : fallback);

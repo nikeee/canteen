@@ -60,7 +60,7 @@ canteen.controller("CanteenCtrl", function ($scope, $http, $interval, $q) {
         wilhelmshoehe: "Wilhelmshöhe"
     };
 
-    var fallback = $scope.supportedCanteens["wilhelmshoehe"];
+    var fallback = "wilhelmshoehe";
     var newApiUrl = function () {
         var h = document.location.hash;
         return apiBase + (h.length > 1 ? h.substring(1) || fallback : fallback);
