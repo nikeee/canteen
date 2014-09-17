@@ -1,3 +1,5 @@
 *.js
+node_modules/
+
 !typings/
-offline-docs
+!js/*.js
