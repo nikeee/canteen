@@ -14,7 +14,10 @@
 </head>
 <body>
 	<div class="container">
-		<h1 class="page-header">{{lastResult.menu.info.name || 'Lade Mensaplan...'}}</h1>
+		<h1 class="page-header">
+			<span class="glyphicon glyphicon-cutlery"></span>
+			{{lastResult.menu.info.name || 'Lade Mensaplan...'}}
+		</h1>
 		<div data-ng-show="isError">
 			<h2>Es trat ein Fehler auf. Bitte versuche es später noch ein mal.</h2>
 		</div>
@@ -31,10 +34,12 @@
 				<tbody>
 					<tr data-ng-repeat="(gen, spec) in lastResult.menu.meals">
 						<td>{{gen}}</td>
-						<td data-ng-repeat="(dayOfWeek, meal) in spec">
+						<td data-ng-repeat="(dayOfWeek, meal) in spec"
+							data-ng-class="getMealClass(meal)">
 							<span data-ng-show="meal != null">
 								<span>{{meal.name}}</span>
-								<span>{{meal.price.student}}/{{meal.price.employee}}/{{meal.price.foreign}}{{lastResult.menu.currency}}</span>
+								<span class="glyphicon glyphicon-tree-deciduous" data-ng-show="isVegan(meal)"></span>
+								<span><strong>{{meal.price.student}}</strong>/{{meal.price.employee}}/{{meal.price.foreign}}{{lastResult.menu.currency}}</span>
 							</span>
 						</td>
 					</tr>

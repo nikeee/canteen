@@ -16,4 +16,8 @@ interface CanteenScope extends ng.IScope
 	refreshValidWeekdays(): void;
 	validWeekdays: string[];
 	dayNames: string[];
+
+	isMeatless(m: IMealItem) : boolean;
+	isVegan(m: IMealItem) : boolean;
+	getMealClass(m: IMealItem): string;
 }

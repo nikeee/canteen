@@ -110,6 +110,16 @@ canteen.controller("CanteenCtrl", ($scope: CanteenScope, $http: ng.IHttpService,
 	$scope.lastResult = null;
 	$scope.refreshInterval = 30 * 60 * 1000;
 
+	$scope.isMeatless = m => !!m && m.attributes.indexOf("F") > -1;
+	$scope.isVegan = m => !!m && m.attributes.indexOf("V") > -1;
+	$scope.getMealClass = m => {
+		if($scope.isVegan(m))
+			return "vegan";
+		if($scope.isMeatless(m))
+			return "meatless";
+		return "containsmeat";
+	};
+
 	$scope.refreshValidWeekdays = () => {
 		if($scope.isLoading || $scope.isError)
 			return [];
@@ -149,4 +159,5 @@ canteen.controller("CanteenCtrl", ($scope: CanteenScope, $http: ng.IHttpService,
 	$interval(() => $scope.refresh(), $scope.refreshInterval);
 
 	window.addEventListener("hashchange",() => $scope.updateApiUrl(), false);
+
 });
