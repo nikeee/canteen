@@ -91,6 +91,20 @@ canteen.controller("CanteenCtrl", function ($scope, $http, $interval, $q) {
     $scope.lastResult = null;
     $scope.refreshInterval = 30 * 60 * 1000;
 
+    $scope.isMeatless = function (m) {
+        return !!m && m.attributes.indexOf("F") > -1;
+    };
+    $scope.isVegan = function (m) {
+        return !!m && m.attributes.indexOf("V") > -1;
+    };
+    $scope.getMealClass = function (m) {
+        if ($scope.isVegan(m))
+            return "vegan";
+        if ($scope.isMeatless(m))
+            return "meatless";
+        return "containsmeat";
+    };
+
     $scope.refreshValidWeekdays = function () {
         if ($scope.isLoading || $scope.isError)
             return [];

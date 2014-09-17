@@ -22,7 +22,7 @@
 			<h2>Es trat ein Fehler auf. Bitte versuche es später noch ein mal.</h2>
 		</div>
 		<div data-ng-hide="isLoading || isError">
-			<h4 class="pull-right">Essensplan vom {{lastResult.menu.validity.from | date:'dd.MM.yy'}} bis zum {{lastResult.menu.validity.until | date:'dd.MM.yy'}}</h4>
+			<h4 class="pull-right">Essensplan vom {{lastResult.menu.validity.from | date: 'dd.MM.yy'}} bis zum {{lastResult.menu.validity.until | date: 'dd.MM.yy'}}</h4>
 			<a data-ng-repeat="(cant, disp) in supportedCanteens" class="btn btn-small" data-ng-href="#{{cant}}">{{disp}}</a>
 			<table class="table table-striped">
 				<thead>
@@ -39,7 +39,7 @@
 							<span data-ng-show="meal != null">
 								<span>{{meal.name}}</span>
 								<span class="glyphicon glyphicon-tree-deciduous" data-ng-show="isVegan(meal)"></span>
-								<span><strong>{{meal.price.student}}</strong>/{{meal.price.employee}}/{{meal.price.foreign}}{{lastResult.menu.currency}}</span>
+								<span><strong>{{meal.price.student | currency: lastResult.menu.currency}}</strong>/{{meal.price.employee | currency: lastResult.menu.currency}}/{{meal.price.foreign | currency: lastResult.menu.currency}}</span>
 							</span>
 						</td>
 					</tr>
