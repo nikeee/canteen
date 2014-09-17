@@ -15,7 +15,10 @@
 <body>
 	<div class="container">
 		<h1 class="page-header">{{lastResult.menu.info.name || 'Lade Mensaplan...'}}</h1>
-		<div data-ng-hide="isLoading">
+		<div data-ng-show="isError">
+			<h2>Es trat ein Fehler auf. Bitte versuche es später noch ein mal.</h2>
+		</div>
+		<div data-ng-hide="isLoading || isError">
 			<h4 class="pull-right">Essensplan vom {{lastResult.menu.validity.from | date:'dd.MM.yy'}} bis zum {{lastResult.menu.validity.until | date:'dd.MM.yy'}}</h4>
 			<a data-ng-repeat="(cant, disp) in supportedCanteens" class="btn btn-small" data-ng-href="#{{cant}}">{{disp}}</a>
 			<table class="table table-striped">
