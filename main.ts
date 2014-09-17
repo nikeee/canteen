@@ -2,29 +2,9 @@
 ///<reference path="typings/angularjs/angular.d.ts" />
 ///<reference path="typings/bootstrap/bootstrap.d.ts" />
 ///<reference path="../node-canteen/interfaces-shared.ts" />
+///<reference path="interfaces.ts" />
 
 var canteen = angular.module("canteen", []);
-
-
-interface CanteenScope extends ng.IScope
-{
-	isLoading: boolean;
-	isError: boolean;
-	canteenApi: CanteenApi;
-
-	refresh: () => void;
-	lastResult: IParseResult;
-
-	apiUrl: string;
-
-	refreshInterval: number;
-	updateApiUrl: () => void;
-	supportedCanteens: { [name: string]: string; };
-
-	refreshValidWeekdays(): void;
-	validWeekdays: string[];
-	dayNames: string[];
-}
 
 class CanteenApi
 {
@@ -36,7 +16,7 @@ class CanteenApi
 		if(!url)
 			return <ng.IPromise<IParseResult>><any>this.$q.reject("No url.");
 		var d = this.$q.defer();
-		//this.$http.get(url)
+
 		this.$http({url: url, method: "GET"})
 			.success((data, status) => d.resolve(data))
 			.error((data, status) => d.reject(status));
