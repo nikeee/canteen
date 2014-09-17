@@ -1,4 +1,3 @@
-
 interface CanteenScope extends ng.IScope
 {
 	isLoading: boolean;
