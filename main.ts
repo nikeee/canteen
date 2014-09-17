@@ -2,28 +2,9 @@
 ///<reference path="typings/angularjs/angular.d.ts" />
 ///<reference path="typings/bootstrap/bootstrap.d.ts" />
 ///<reference path="../node-canteen/interfaces-shared.ts" />
+///<reference path="interfaces.ts" />
 
 var canteen = angular.module("canteen", []);
-
-
-interface CanteenScope extends ng.IScope
-{
-	isLoading: boolean;
-	isError: boolean;
-	canteenApi: CanteenApi;
-
-	refresh: () => void;
-	lastResult: IParseResult;
-
-	apiUrl: string;
-
-	refreshInterval: number;
-	updateApiUrl: () => void;
-	supportedCanteens: { [name: string]: string; };
-
-	getValidWeekdays(): string[];
-	dayNames: string[];
-}
 
 class CanteenApi
 {
@@ -35,13 +16,18 @@ class CanteenApi
 		if(!url)
 			return <ng.IPromise<IParseResult>><any>this.$q.reject("No url.");
 		var d = this.$q.defer();
-		//this.$http.get(url)
+
 		this.$http({url: url, method: "GET"})
 			.success((data, status) => d.resolve(data))
 			.error((data, status) => d.reject(status));
 		return d.promise;
 	}
 }
+
+/*
+	ng does not parse date strings in JSOn responses as Date.
+	This code found somewhere on the internet does exactly that.
+*/
 
 canteen.config(["$httpProvider", $httpProvider => {
 	$httpProvider.defaults.transformResponse.push(responseData => {
@@ -82,6 +68,7 @@ function convertDateStringsToDates(input) {
 		}
 	}
 }
+/* / internet-code */
 
 canteen.controller("CanteenCtrl", ($scope: CanteenScope, $http: ng.IHttpService, $interval: ng.IIntervalService, $q: ng.IQService) => {
 
@@ -123,22 +110,18 @@ canteen.controller("CanteenCtrl", ($scope: CanteenScope, $http: ng.IHttpService,
 	$scope.lastResult = null;
 	$scope.refreshInterval = 30 * 60 * 1000;
 
-	$scope.getValidWeekdays = () => {
+	$scope.refreshValidWeekdays = () => {
 		if($scope.isLoading || $scope.isError)
 			return [];
 
-		//var menuDays = new Array<Date>();
 		var loopTime = $scope.lastResult.menu.validity.from.getTime();
 		var endTime = $scope.lastResult.menu.validity.until.getTime();
 		var arr = new Array<string>();
 		for(; loopTime <= endTime; loopTime += 86400000)
 		{
 			arr.push($scope.dayNames[(new Date(loopTime)).getDay()]);
-			//menuDays.push(new Date(loopTime));
 		}
-		//var arr = new Array<string>(menuDays.length);
-		//for(var i = 0; i < menuDays.length; ++i)
-		return arr;
+		$scope.validWeekdays = arr;
 	};
 
 	$scope.refresh = () => {
@@ -149,6 +132,7 @@ canteen.controller("CanteenCtrl", ($scope: CanteenScope, $http: ng.IHttpService,
 			if(res)
 			{
 				$scope.lastResult = res;
+				$scope.refreshValidWeekdays();
 				$scope.isLoading = false;
 				$scope.isError = false;
 			}
