@@ -82,7 +82,8 @@ canteen.controller("CanteenCtrl", ($scope: CanteenScope, $http: ng.IHttpService,
 	var fallback = "wilhelmshoehe";
 	var newApiUrl = () => {
 		var h = document.location.hash;
-		return apiBase + (h.length > 1 ? h.substring(1) || fallback : fallback);
+		$scope.currentCanteen = (h.length > 1 ? h.substring(1) || fallback : fallback);
+		return apiBase + $scope.currentCanteen;
 	};
 
 	$scope.apiUrl = newApiUrl();

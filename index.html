@@ -14,16 +14,20 @@
 </head>
 <body>
 	<div class="container">
-		<h1 class="page-header">
-			<span class="glyphicon glyphicon-cutlery"></span>
-			{{lastResult.menu.info.name || 'Lade Mensaplan...'}}
-		</h1>
+		<header class="page-header">
+			<h1>
+				<span class="glyphicon glyphicon-cutlery"></span>
+				{{lastResult.menu.info.name || 'Lade Mensaplan...'}}
+				<small data-ng-hide="isLoading || isError">
+					Essensplan vom {{lastResult.menu.validity.from | date: 'dd.MM.yy'}} bis zum {{lastResult.menu.validity.until | date: 'dd.MM.yy'}}
+				</small>
+			</h1>
+		</header>
 		<div data-ng-show="isError">
 			<h2>Es trat ein Fehler auf. Bitte versuche es später noch ein mal.</h2>
 		</div>
 		<div data-ng-hide="isLoading || isError">
-			<h4 class="pull-right">Essensplan vom {{lastResult.menu.validity.from | date: 'dd.MM.yy'}} bis zum {{lastResult.menu.validity.until | date: 'dd.MM.yy'}}</h4>
-			<a data-ng-repeat="(cant, disp) in supportedCanteens" class="btn btn-small" data-ng-href="#{{cant}}">{{disp}}</a>
+			<h4 class="pull-right"></h4>
 			<table class="table table-striped">
 				<thead>
 					<tr>
@@ -51,6 +55,15 @@
 				</tbody>
 			</table>
 		</div>
+		<footer>
+			<nav class="navbar navbar-default navbar-fixed-bottom">
+				<ul class="nav navbar-nav">
+					<li data-ng-repeat="(cant, disp) in supportedCanteens">
+						<a data-ng-href="#{{cant}}" data-ng-class="currentCanteen == cant ? 'active' : ''">{{disp}}</a>
+					</li>
+				</ul>
+			</nav>
+		</footer>
 	</div>
 	<!-- CDN for production environment -->
 	<!-- <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.24/angular.min.js"></script> -->

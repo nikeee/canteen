@@ -12,6 +12,7 @@ interface CanteenScope extends ng.IScope
 	refreshInterval: number;
 	updateApiUrl: () => void;
 	supportedCanteens: { [name: string]: string; };
+	currentCanteen: string;
 
 	refreshValidWeekdays(): void;
 	validWeekdays: string[];
