@@ -87,6 +87,16 @@ canteen.controller("CanteenCtrl", function ($scope, $http, $interval, $q) {
             $scope.refresh();
     };
 
+    $scope.isToday = function (dow) {
+        var f = $scope.lastResult.menu.validity.from.getTime();
+        f -= 86400000;
+        f += 86400000 * dow;
+        var now = new Date();
+        var dowD = new Date(f);
+
+        return dowD.getDate() === now.getDate() && dowD.getMonth() === now.getMonth() && dowD.getFullYear() === now.getFullYear();
+    };
+
     $scope.dayNames = [
         "Sonntag",
         "Montag",

@@ -29,39 +29,43 @@
 		</div>
 		<div data-ng-hide="isLoading || isError">
 			<h4 class="pull-right"></h4>
-			<table class="table table-striped">
-				<thead>
-					<tr>
-						<th></th>
-						<th data-ng-repeat="wd in validWeekdays">{{wd}}</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr data-ng-repeat="(gen, spec) in lastResult.menu.meals">
-						<td>{{gen}}</td>
-						<td data-ng-repeat="(dayOfWeek, meal) in spec"
-							data-ng-class="getMealClass(meal)">
-							<span data-ng-show="meal != null">
-								<div>
-									<span>{{meal.name}}</span>
-									<span class="glyphicon glyphicon-tree-deciduous" data-ng-show="isVegan(meal)"></span>
-								</div>
-								<div class="pull-right">
-									<small>{{meal.price.foreign | number: 2}}/{{meal.price.employee | number: 2}}/</small>
-									<strong>{{meal.price.student | number: 2}}</strong>
-									<small class="currency">{{lastResult.menu.currency}}</small>
-								</div>
-							</span>
-						</td>
-					</tr>
-				</tbody>
-			</table>
+			<div class="panel panel-default">
+				<table class="table table-striped">
+					<thead>
+						<tr>
+							<th></th>
+							<th data-ng-repeat="(index, wd) in validWeekdays"
+								data-ng-class="(isToday(index + 1) ? ' today' : '')">{{wd}}</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr data-ng-repeat="(gen, spec) in lastResult.menu.meals">
+							<td>{{gen}}</td>
+							<td data-ng-repeat="(dayOfWeek, meal) in spec"
+								data-ng-class="getMealClass(meal) + (isToday(dayOfWeek) ? ' today' : '')">
+								<span data-ng-show="meal != null">
+									<div>
+										<span>{{meal.name}}</span>
+										<span class="glyphicon glyphicon-tree-deciduous" data-ng-show="isVegan(meal)"></span>
+									</div>
+									<div class="pull-right">
+										<small>{{meal.price.foreign | number: 2}}/{{meal.price.employee | number: 2}}/</small>
+										<strong>{{meal.price.student | number: 2}}</strong>
+										<small class="currency">{{lastResult.menu.currency}}</small>
+									</div>
+								</span>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
 		</div>
 		<footer>
 			<nav class="navbar navbar-default navbar-fixed-bottom">
 				<ul class="nav navbar-nav">
-					<li data-ng-repeat="(cant, disp) in supportedCanteens">
-						<a data-ng-href="#{{cant}}" data-ng-class="currentCanteen == cant ? 'active' : ''">{{disp}}</a>
+					<li data-ng-repeat="(cant, disp) in supportedCanteens"
+						data-ng-class="currentCanteen == cant ? 'active' : ''">
+						<a data-ng-href="#{{cant}}">{{disp}}</a>
 					</li>
 				</ul>
 				<span class="pull-right about-notice">

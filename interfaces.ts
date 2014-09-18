@@ -21,6 +21,7 @@ interface CanteenScope extends ng.IScope
 	isMeatless(m: IMealItem) : boolean;
 	isVegan(m: IMealItem) : boolean;
 	getMealClass(m: IMealItem): string;
+	isToday(dayOfWeek: number): boolean;
 }
 
 interface IAvailableCanteens

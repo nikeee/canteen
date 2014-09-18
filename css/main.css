@@ -31,3 +31,6 @@
 table td:nth-child(1) {
 	min-width: 70px;
 }
+.today {
+	background-color: #D9EDF7 !important;
+}
