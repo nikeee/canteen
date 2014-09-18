@@ -122,7 +122,10 @@ canteen.controller("CanteenCtrl", ($scope: CanteenScope, $http: ng.IHttpService,
 
 	$scope.refreshValidWeekdays = () => {
 		if($scope.isLoading || $scope.isError)
-			return [];
+		{
+			$scope.validWeekdays = [];
+			return;
+		}
 
 		var loopTime = $scope.lastResult.menu.validity.from.getTime();
 		var endTime = $scope.lastResult.menu.validity.until.getTime();
@@ -142,9 +145,9 @@ canteen.controller("CanteenCtrl", ($scope: CanteenScope, $http: ng.IHttpService,
 			if(res)
 			{
 				$scope.lastResult = res;
-				$scope.refreshValidWeekdays();
 				$scope.isLoading = false;
 				$scope.isError = false;
+				$scope.refreshValidWeekdays();
 			}
 			else
 			{
