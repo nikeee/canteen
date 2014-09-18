@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html data-ng-app="canteen" data-ng-controller="CanteenCtrl" lan="de">
+<html data-ng-app="canteen" data-ng-controller="CanteenCtrl" lang="de">
 <head>
-	<meta chatset="utf-8">
+	<meta charset="utf-8">
 	<title>{{lastResult.menu.info.name || 'Mensaplan lädt...'}}</title>
 
-	<meta name="autor" content="Niklas Mollenhauer <holzig@outlook.com>">
+	<meta name="author" content="Niklas Mollenhauer <holzig@outlook.com>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
@@ -28,7 +28,6 @@
 			<h2>Es trat ein Fehler auf. Bitte versuche es später noch ein mal.</h2>
 		</div>
 		<div data-ng-hide="isLoading || isError">
-			<h4 class="pull-right"></h4>
 			<div class="panel panel-default">
 				<table class="table table-striped">
 					<thead>
