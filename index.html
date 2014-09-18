@@ -39,7 +39,7 @@
 							<span data-ng-show="meal != null">
 								<span>{{meal.name}}</span>
 								<span class="glyphicon glyphicon-tree-deciduous" data-ng-show="isVegan(meal)"></span>
-								<span><strong>{{meal.price.student | currency: lastResult.menu.currency}}</strong>/{{meal.price.employee | currency: lastResult.menu.currency}}/{{meal.price.foreign | currency: lastResult.menu.currency}}</span>
+								<span><strong>{{meal.price.student | number: 2}}</strong>/{{meal.price.employee | number: 2}}/{{meal.price.foreign | number: 2}}{{lastResult.menu.currency}}</span>
 							</span>
 						</td>
 					</tr>
