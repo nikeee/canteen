@@ -43,17 +43,19 @@
 							<td>{{gen}}</td>
 							<td data-ng-repeat="(dayOfWeek, meal) in spec"
 								data-ng-class="getMealClass(meal) + (isToday(dayOfWeek) ? ' today' : '')">
-								<span data-ng-show="meal != null">
+								<div data-ng-show="meal != null">
 									<div>
 										<span>{{meal.name}}</span>
 										<span class="glyphicon glyphicon-tree-deciduous" data-ng-show="isVegan(meal)"></span>
 									</div>
 									<div class="pull-right">
-										<small>{{meal.price.foreign | number: 2}}/{{meal.price.employee | number: 2}}/</small>
+										<small class="other-prices">
+											{{meal.price.foreign | number: 2}}/{{meal.price.employee | number: 2}}/
+										</small>
 										<strong>{{meal.price.student | number: 2}}</strong>
 										<small class="currency">{{lastResult.menu.currency}}</small>
 									</div>
-								</span>
+								</div>
 							</td>
 						</tr>
 					</tbody>

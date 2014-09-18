@@ -11,7 +11,9 @@
 .containsmeat {
 	/* none */
 }
-
+.meal-price  {
+	vertical-align: bottom;
+}
 .navbar .navbar-nav {
 	display: inline-block;
 	float: none;
@@ -27,6 +29,9 @@
 }
 .about-notice {
 	margin-right: 20px;
+}
+.other-prices {
+	margin-right: -2px;
 }
 .currency {
 	margin-left: -4px;
