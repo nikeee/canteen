@@ -17,3 +17,10 @@
 .navbar .navbar-collapse {
 	text-align: center;
 }
+.navbar {
+	line-height: 50px;
+	height: 50px;
+}
+.legal-notice {
+	margin-right: 20px;
+}
