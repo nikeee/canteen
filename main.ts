@@ -8,19 +8,30 @@ var canteen = angular.module("canteen", []);
 
 class CanteenApi
 {
-	constructor(private $q: ng.IQService, private $http: ng.IHttpService)
+
+	constructor(private $scope: CanteenScope, private $q: ng.IQService, private $http: ng.IHttpService)
 	{ }
 
-	public getMenu(url: string): ng.IPromise<IParseResult>
+	private doGet<T>(url: string): ng.IPromise<T>
 	{
 		if(!url)
-			return <ng.IPromise<IParseResult>><any>this.$q.reject("No url.");
+			return <ng.IPromise<T>><any>this.$q.reject("No url.");
 		var d = this.$q.defer();
 
 		this.$http({url: url, method: "GET"})
 			.success((data, status) => d.resolve(data))
 			.error((data, status) => d.reject(status));
 		return d.promise;
+	}
+
+	public getMenu(url: string): ng.IPromise<IParseResult>
+	{
+		return this.doGet<IParseResult>(url);
+	}
+
+	public getCanteens(): ng.IPromise<IAvailableCanteens>
+	{
+		return this.doGet<IAvailableCanteens>(this.$scope.apiUrl + "canteens");
 	}
 }
 
@@ -109,7 +120,7 @@ canteen.controller("CanteenCtrl", ($scope: CanteenScope, $http: ng.IHttpService,
 
 	$scope.isLoading = true;
 	$scope.isError = false;
-	$scope.canteenApi = new CanteenApi($q, $http);
+	$scope.canteenApi = new CanteenApi($scope, $q, $http);
 	$scope.lastResult = null;
 	$scope.refreshInterval = 30 * 60 * 1000;
 

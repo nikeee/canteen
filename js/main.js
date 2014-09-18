@@ -1,11 +1,12 @@
 var canteen = angular.module("canteen", []);
 
 var CanteenApi = (function () {
-    function CanteenApi($q, $http) {
+    function CanteenApi($scope, $q, $http) {
+        this.$scope = $scope;
         this.$q = $q;
         this.$http = $http;
     }
-    CanteenApi.prototype.getMenu = function (url) {
+    CanteenApi.prototype.doGet = function (url) {
         if (!url)
             return this.$q.reject("No url.");
         var d = this.$q.defer();
@@ -16,6 +17,14 @@ var CanteenApi = (function () {
             return d.reject(status);
         });
         return d.promise;
+    };
+
+    CanteenApi.prototype.getMenu = function (url) {
+        return this.doGet(url);
+    };
+
+    CanteenApi.prototype.getCanteens = function () {
+        return this.doGet(this.$scope.apiUrl + "canteens");
     };
     return CanteenApi;
 })();
@@ -90,7 +99,7 @@ canteen.controller("CanteenCtrl", function ($scope, $http, $interval, $q) {
 
     $scope.isLoading = true;
     $scope.isError = false;
-    $scope.canteenApi = new CanteenApi($q, $http);
+    $scope.canteenApi = new CanteenApi($scope, $q, $http);
     $scope.lastResult = null;
     $scope.refreshInterval = 30 * 60 * 1000;
 
