@@ -75,8 +75,8 @@ canteen.controller("CanteenCtrl", ($scope: CanteenScope, $http: ng.IHttpService,
 	var apiBase = "http://uni.holz.nu:8081/menu/";
 
 	$scope.supportedCanteens = {
-		hopla: "Holländischer Platz",
 		wilhelmshoehe: "Wilhelmshöhe",
+		hopla: "Holländischer Platz",
 		menzelstrasse: "Menzelstraße",
 		plett: "Heinrich-Plett"
 	};

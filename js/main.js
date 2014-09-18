@@ -56,8 +56,10 @@ canteen.controller("CanteenCtrl", function ($scope, $http, $interval, $q) {
     var apiBase = "http://uni.holz.nu:8081/menu/";
 
     $scope.supportedCanteens = {
+        wilhelmshoehe: "Wilhelmshöhe",
         hopla: "Holländischer Platz",
-        wilhelmshoehe: "Wilhelmshöhe"
+        menzelstrasse: "Menzelstraße",
+        plett: "Heinrich-Plett"
     };
 
     var fallback = "wilhelmshoehe";

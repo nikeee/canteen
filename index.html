@@ -19,7 +19,7 @@
 			<h1>
 				<span class="glyphicon glyphicon-cutlery"></span>
 				{{lastResult.menu.info.name || 'Lade Mensaplan...'}}
-				<small data-ng-hide="isLoading || isError">
+				<small data-ng-hide="isLoading || isError" class="pull-right">
 					Essensplan vom {{lastResult.menu.validity.from | date: 'dd.MM.yy'}} bis zum {{lastResult.menu.validity.until | date: 'dd.MM.yy'}}
 				</small>
 			</h1>
@@ -64,7 +64,11 @@
 						<a data-ng-href="#{{cant}}" data-ng-class="currentCanteen == cant ? 'active' : ''">{{disp}}</a>
 					</li>
 				</ul>
-				<span class="pull-right legal-notice">Alle Angaben ohne Gewähr und so.</span>
+				<span class="pull-right about-notice">
+					<span>Alle Angaben ohne Gewähr und so.</span>
+					<a href="https://github.com/nikeee/canteen-ng">Quellcode</a>
+					<a href="https://github.com/nikeee/node-canteen">(Server)</a>
+				</span>
 			</nav>
 		</footer>
 	</div>
