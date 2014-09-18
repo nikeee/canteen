@@ -1,5 +1,9 @@
+.today {
+	background-color: #D9EDF7 !important;
+}
+
 .meatless {
-	background-color: #DFF0D8;
+	background-color: #DFF0D8 !important;
 }
 .vegan {
 	/* todo */
@@ -30,7 +34,4 @@
 
 table td:nth-child(1) {
 	min-width: 70px;
-}
-.today {
-	background-color: #D9EDF7 !important;
 }
