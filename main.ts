@@ -89,7 +89,8 @@ canteen.controller("CanteenCtrl", ($scope: CanteenScope, $http: ng.IHttpService,
 		wilhelmshoehe: "Wilhelmshöhe",
 		hopla: "Holländischer Platz",
 		menzelstrasse: "Menzelstraße",
-		plett: "Heinrich-Plett"
+		plett: "Heinrich-Plett",
+		witzenhausen: "Witzenhausen"
 	};
 
 	var fallback = "wilhelmshoehe";
