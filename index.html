@@ -37,9 +37,14 @@
 						<td data-ng-repeat="(dayOfWeek, meal) in spec"
 							data-ng-class="getMealClass(meal)">
 							<span data-ng-show="meal != null">
-								<span>{{meal.name}}</span>
-								<span class="glyphicon glyphicon-tree-deciduous" data-ng-show="isVegan(meal)"></span>
-								<span><strong>{{meal.price.student | number: 2}}</strong>/{{meal.price.employee | number: 2}}/{{meal.price.foreign | number: 2}}{{lastResult.menu.currency}}</span>
+								<div>
+									<span>{{meal.name}}</span>
+									<span class="glyphicon glyphicon-tree-deciduous" data-ng-show="isVegan(meal)"></span>
+								</div>
+								<div class="pull-right">
+									<strong>{{meal.price.student | number: 2}}</strong>
+									<small>/{{meal.price.employee | number: 2}}/{{meal.price.foreign | number: 2}}{{lastResult.menu.currency}}</small>
+								</div>
 							</span>
 						</td>
 					</tr>
