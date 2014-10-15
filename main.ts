@@ -83,7 +83,7 @@ function convertDateStringsToDates(input) {
 
 canteen.controller("CanteenCtrl", ($scope: CanteenScope, $http: ng.IHttpService, $interval: ng.IIntervalService, $q: ng.IQService) => {
 
-	var apiBase = "http://uni.holz.nu:8081/menu/";
+	var apiBase = "http://canteen.holz.nu/menu/";
 
 	$scope.supportedCanteens = {
 		wilhelmshoehe: "Wilhelmshöhe",
