@@ -62,7 +62,7 @@ function convertDateStringsToDates(input) {
 }
 
 canteen.controller("CanteenCtrl", function ($scope, $http, $interval, $q) {
-    var apiBase = "http://canteen.holz.nu/menu/";
+    var apiBase = "https://node-canteen.herokuapp.com/menu/";
 
     $scope.supportedCanteens = {
         wilhelmshoehe: "Wilhelmshöhe",
