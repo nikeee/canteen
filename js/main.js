@@ -67,9 +67,7 @@ canteen.controller("CanteenCtrl", function ($scope, $http, $interval, $q) {
     $scope.supportedCanteens = {
         wilhelmshoehe: "Wilhelmshöhe",
         hopla: "Holländischer Platz",
-        menzelstrasse: "Menzelstraße",
-        plett: "Heinrich-Plett",
-        witzenhausen: "Witzenhausen"
+        plett: "Heinrich-Plett"
     };
 
     var fallback = "wilhelmshoehe";
