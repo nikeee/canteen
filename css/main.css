@@ -14,19 +14,6 @@
 .meal-price  {
 	vertical-align: bottom;
 }
-.navbar .navbar-nav {
-	display: inline-block;
-	float: none;
-	vertical-align: top;
-}
-
-.navbar .navbar-collapse {
-	text-align: center;
-}
-.navbar {
-	line-height: 50px;
-	height: 50px;
-}
 .about-notice {
 	margin-right: 20px;
 }
