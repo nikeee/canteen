@@ -1,0 +1,367 @@
+{
+	"info": {
+		"name": "Mensa Wilhelmshöher Allee",
+		"location": {
+			"lat": 51.31116,
+			"long": 9.47467
+		}
+	},
+	"validity": {
+		"from": "2015-10-26T00:00:00.000Z",
+		"until": "2015-10-30T00:00:00.000Z"
+	},
+	"currency": "€",
+	"meals": {
+		"Essen 1": {
+			"1": {
+				"name": "Blumenkohl-Käse-Medaillon an Béchamelsauce",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"foreign": 3.9
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Salat von Penne-Nudeln mit Petersilienpesto an gartenfrischen Salaten",
+				"attributes": [
+					"F",
+					"1",
+					"2",
+					"6",
+					"30",
+					"36",
+					"37"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"foreign": 3.9
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Hausgemachter Spinatpfannkuchen auf Quarkdip",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"foreign": 3.9
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gebratenes Curry-Quinoa mit Mandeln, Karotten und Brokkoli",
+				"attributes": [
+					"V",
+					"37"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"foreign": 3.9
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Orientalische Linsenpfanne mit bunten Gemüsen",
+				"attributes": [
+					"V",
+					"2",
+					"38",
+					"39",
+					"40",
+					"41"
+				],
+				"price": {
+					"student": 1.7,
+					"employee": 3,
+					"foreign": 3.8
+				},
+				"vitalInfo": null
+			}
+		},
+		"Essen 2": {
+			"1": {
+				"name": "Balkan-Reisgericht mit Schweinefleisch",
+				"attributes": [
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"foreign": 4.4
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
+				"attributes": [
+					"1",
+					"36",
+					"38",
+					"39",
+					"R"
+				],
+				"price": {
+					"student": 2.2,
+					"employee": 3.5,
+					"foreign": 4.3
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Schweinesteak vom Nacken an Kräuterbutter",
+				"attributes": [
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"foreign": 4.4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Nudelpfanne mit Salami, Schinken und Ei",
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"30",
+					"32",
+					"36",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"foreign": 4.4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Fischstäbchen mit Remouladensauce",
+				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"foreign": 4.4
+				},
+				"vitalInfo": null
+			}
+		},
+		"Essen 3 oder 4": {
+			"1": {
+				"name": "Ofenfrisches Lammhacksteak auf Thymianjus",
+				"attributes": [
+					"30",
+					"32",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"foreign": 5.4
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Paniertes Schnitzel vom Schwein auf einer Käse-Kürbis-Cremesauce",
+				"attributes": [
+					"30",
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"foreign": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": null,
+			"4": null,
+			"5": null
+		},
+		"Angebot des Tages I": {
+			"1": {
+				"name": "Backfrischer Flammkuchen Diavolo mit scharfer Salami",
+				"attributes": [
+					"2",
+					"3",
+					"30",
+					"36",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"foreign": 5.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Seehecht auf Balsamicolinsen und Meerrettichstampf",
+				"attributes": [
+					"MV",
+					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"foreign": 5.1
+				},
+				"vitalInfo": {
+					"fat": 19,
+					"carbohydrate": 86,
+					"protein": 44,
+					"calories": 698
+				}
+			},
+			"3": {
+				"name": "Tomaten-Chili-Knoblauchspaghetti mit Tofu",
+				"attributes": [
+					"V",
+					"MV",
+					"6",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"foreign": 4.6
+				},
+				"vitalInfo": {
+					"fat": 23,
+					"carbohydrate": 85,
+					"protein": 23,
+					"calories": 640
+				}
+			},
+			"4": {
+				"name": "Gegrillte Steaks von Sellerie und Steckrübe mit cremiger Pastinakensauce und Kräuterkartoffeln",
+				"attributes": [
+					"V",
+					"3",
+					"30",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 2.2,
+					"employee": 3.5,
+					"foreign": 4.3
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hirschragout mit Birnen, dazu Rosenkohlgemüse und Klöße",
+				"attributes": [
+					"A",
+					"MV",
+					"3",
+					"30",
+					"36",
+					"41"
+				],
+				"price": {
+					"student": 5,
+					"employee": 6.3,
+					"foreign": 7.1
+				},
+				"vitalInfo": {
+					"fat": 26,
+					"carbohydrate": 88,
+					"protein": 44,
+					"calories": 741
+				}
+			}
+		},
+		"Angebot des Tages II": {
+			"1": null,
+			"2": null,
+			"3": {
+				"name": "Gebratene Gnocchi in Salbei-Sahnesauce mit Champignons und getrockneter Tomate",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4,
+					"foreign": 4.8
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Cordon bleu von der Pute auf einer tomatisierten Sauce Hollandaise und Röstitalern",
+				"attributes": [
+					"1",
+					"2",
+					"3",
+					"8",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"foreign": 6.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Klassischer Burger mit Beef, Bacon, Salat, Käsedip und Tomatendip, dazu Steakhouse Pommes frites",
+				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
+					"36",
+					"39",
+					"40",
+					"R"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"foreign": 6.1
+				},
+				"vitalInfo": null
+			}
+		}
+	}
+}

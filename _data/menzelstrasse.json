@@ -1,0 +1,23 @@
+{
+	"info": {
+		"name": "Mensa Menzelstraße",
+		"location": {
+			"lat": 51.305234,
+			"long": 9.489587
+		}
+	},
+	"validity": {
+		"from": "2015-10-25T01:00:00.000Z",
+		"until": "2015-10-31T23:59:59.999Z"
+	},
+	"currency": "€",
+	"meals": {
+		"": {
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null
+		}
+	}
+}
