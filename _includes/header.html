@@ -14,16 +14,13 @@
         <ul class="nav navbar-nav">
           {% for currentPage in site.pages %}
             {% if currentPage.title %}
-              {% if currentPage.title == page.title %}
-              <li class="active">
-              {% else %}
-              <li>
-              {% endif %}
+              {% if currentPage.title == page.title %}<li class="active">{% else %}<li>{% endif %}
               <a class="page-link" href="{{ currentPage.url | prepend: currentPage.baseurl }}">{{ currentPage.title }}</a>
-            </li>
+              </li>
             {% endif %}
           {% endfor %}
         </ul>
+    </div>
     </div>
   </nav>
 </header>
