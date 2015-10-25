@@ -15,7 +15,7 @@
           {% for currentPage in site.pages %}
             {% if currentPage.title %}
               {% if currentPage.title == page.title %}<li class="active">{% else %}<li>{% endif %}
-              <a class="page-link" href="{{ currentPage.url | prepend: currentPage.baseurl }}">{{ currentPage.title }}</a>
+              <a class="page-link" href="{{ site.url | prepend: site.baseurl }}">{{ currentPage.title }}</a>
               </li>
             {% endif %}
           {% endfor %}
