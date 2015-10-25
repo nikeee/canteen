@@ -7,16 +7,268 @@
 		}
 	},
 	"validity": {
-		"from": "2015-10-25T01:00:00.000Z",
-		"until": "2015-10-31T23:59:59.999Z"
+		"from": "2015-10-26T00:00:00.000Z",
+		"until": "2015-10-30T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
-		"": {
+		"Essen 1": {
+			"1": {
+				"name": "Spinat-Nudelauflauf mit Sauce Hollandaise",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 3.9
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Griechischer Bohneneintopf",
+				"attributes": [
+					"F",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 1.7,
+					"employee": 3,
+					"visitor": 3.8
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Ofenfrischer Apfelstrudel auf Vanillesauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 3.9
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Herbstlicher Wirsing-Kartoffeleintopf",
+				"attributes": [
+					"V",
+					"38"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 3.9
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Eier in Senfsauce",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 3.9
+				},
+				"vitalInfo": null
+			}
+		},
+		"Essen 2": {
+			"1": {
+				"name": "Rotes Sri Lanka Hühnchencurry auf Reis",
+				"attributes": [
+					"39"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.4
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Kassler Braten mit Rotweinjus",
+				"attributes": [
+					"A",
+					"2",
+					"3",
+					"8",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.4
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Niederländischer Bäckerofen - Schweinegulasch in Bier gegart",
+				"attributes": [
+					"A",
+					"30",
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Hähnchenfilet mit Chili, dazu Erdnusssauce",
+				"attributes": [
+					"34",
+					"35"
+				],
+				"price": {
+					"student": 2.2,
+					"employee": 3.5,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Matjesfilet nach Hausfrauen Art mit Äpfeln, Gurken, Zwiebeln",
+				"attributes": [
+					"2",
+					"9",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.4
+				},
+				"vitalInfo": null
+			}
+		},
+		"Bio-Essen": {
+			"1": {
+				"name": "Kartoffelpuffer mit Apfelkompott",
+				"attributes": [
+					"V",
+					"Ö",
+					"30"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Bunte Spirelli mit grüner Erbsensauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Polenta mit buntem Gemüse und Paprikasauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"35"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Mediterraner Gemüsebratling mit Tomatensauce",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"32"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Spaghetti mit Tomaten-Olivensauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			}
+		},
+		"Aktions-Essen": {
 			"1": null,
-			"2": null,
+			"2": {
+				"name": "Hessisches Weckewerk mit Schippeln und Gurke",
+				"attributes": [
+					"2",
+					"9",
+					"30",
+					"38",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
 			"3": null,
-			"4": null,
+			"4": {
+				"name": "Französisches Schweineragout mit weißen Bohnen und Karotten",
+				"attributes": [
+					"Ö",
+					"S"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.6
+				},
+				"vitalInfo": null
+			},
 			"5": null
 		}
 	}
