@@ -2,7 +2,7 @@
 title: Mensaplan der Uni Kassel
 description: >
   Inoffizieller Mensaplan für die Mensen der Universität Kassel.
-baseurl: "/canteen-ng"
+baseurl: "/canteen"
 url: "//nikeee.github.io"
 github_username: nikeee
 source_code_url: "//github.com/nikeee/canteen"
