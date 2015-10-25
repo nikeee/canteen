@@ -1,45 +1,16 @@
-<footer class="site-footer">
-  <div class="wrapper">
-    <h2 class="footer-heading"></h2>
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          {% if site.email %}
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          {% endif %}
-        </ul>
-        <p>
-        Made with <span class="herzlol">❤</span> und Mensaessen.
-        </p>
-        <p>
-        Gehostet auf <a href="//github.com/nikeee/canteen">GitHub Pages</a>
-        </p>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>GitHub: <a href="//github.com/{{ site.github_username }}" class="username">{{ site.github_username }}</a></li>
-          {% endif %}
-          {% if site.source_code_url %}
-          <li><a href="site.source_code_url">{{ Quelltext dieser Webseite }}</a></li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
-      </div>
-    </div>
-
+<footer class="footer">
+  <div class="container">
+    <p class="text-muted">Made with <span class="herzlol">❤</span> und Mensaessen. {{ site.description }}</p>
+     <p class="pull-right"><a href="site.source_code_url">{{ Quelltext dieser Webseite }}</a>, Gehostet auf <a href="//github.com/nikeee/canteen">GitHub Pages</a></p>
   </div>
-  <script type="text/javascript" src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
-  <script>
-    (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,"script","//www.google-analytics.com/analytics.js","ga");
-    ga("create", "UA-54947740-1", "auto");
-    ga("send", "pageview");
-  </script>
 </footer>
+
+<script type="text/javascript" src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,"script","//www.google-analytics.com/analytics.js","ga");
+  ga("create", "UA-54947740-1", "auto");
+  ga("send", "pageview");
+</script>
