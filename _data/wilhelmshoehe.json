@@ -337,9 +337,9 @@
 					"36"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.1
+					"student": 2.2,
+					"employee": 3.5,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			},
