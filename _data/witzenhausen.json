@@ -7,18 +7,17 @@
 		}
 	},
 	"validity": {
-		"from": "2015-10-26T00:00:00.000Z",
-		"until": "2015-10-30T00:00:00.000Z"
+		"from": "2015-11-02T00:00:00.000Z",
+		"until": "2015-11-06T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Spinat-Nudelauflauf mit Sauce Hollandaise",
+				"name": "Grießbrei mit Kirschsauce",
 				"attributes": [
 					"F",
 					"30",
-					"32",
 					"36"
 				],
 				"price": {
@@ -29,10 +28,13 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Griechischer Bohneneintopf",
+				"name": "Asiatische Nudelpfanne mit knackigem Gemüse",
 				"attributes": [
 					"F",
-					"36",
+					"2",
+					"30",
+					"32",
+					"35",
 					"38"
 				],
 				"price": {
@@ -43,13 +45,10 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Ofenfrischer Apfelstrudel auf Vanillesauce",
+				"name": "Ägyptischer Linseneintopf mit Porree, Tomaten und Kartoffeln",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
+					"V",
+					"39"
 				],
 				"price": {
 					"student": 1.8,
@@ -59,9 +58,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Herbstlicher Wirsing-Kartoffeleintopf",
+				"name": "Cremiges Gemüserisotto",
 				"attributes": [
 					"V",
+					"35",
 					"38"
 				],
 				"price": {
@@ -72,13 +72,10 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Eier in Senfsauce",
+				"name": "Nudeln mit mediterraner Tomatensauce",
 				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36",
-					"39"
+					"V",
+					"30"
 				],
 				"price": {
 					"student": 1.8,
@@ -90,9 +87,13 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Rotes Sri Lanka Hühnchencurry auf Reis",
+				"name": "Deftige gebratene Krakauer mit Grünkohl",
 				"attributes": [
-					"39"
+					"2",
+					"3",
+					"30",
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 2.3,
@@ -102,13 +103,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kassler Braten mit Rotweinjus",
+				"name": "Gebackene Hackfleischbällchen auf Westernsauce",
 				"attributes": [
-					"A",
-					"2",
-					"3",
-					"8",
-					"41",
+					"30",
+					"32",
+					"R",
 					"S"
 				],
 				"price": {
@@ -119,11 +118,10 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Niederländischer Bäckerofen - Schweinegulasch in Bier gegart",
+				"name": "Hähnchenbrust nach Gyros Art",
 				"attributes": [
-					"A",
-					"30",
-					"S"
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 2.3,
@@ -133,10 +131,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hähnchenfilet mit Chili, dazu Erdnusssauce",
+				"name": "Schweinegeschnetzeltes \"Züricher Art\"",
 				"attributes": [
-					"34",
-					"35"
+					"30",
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.2,
@@ -146,12 +145,15 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Matjesfilet nach Hausfrauen Art mit Äpfeln, Gurken, Zwiebeln",
+				"name": "Fischstäbchen mit Remouladensauce",
 				"attributes": [
-					"2",
+					"3",
 					"9",
+					"30",
+					"32",
 					"33",
-					"36"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.3,
@@ -163,11 +165,12 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Kartoffelpuffer mit Apfelkompott",
+				"name": "Griechischer Reistaler",
 				"attributes": [
 					"V",
 					"Ö",
-					"30"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.8,
@@ -177,23 +180,7 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Bunte Spirelli mit grüner Erbsensauce",
-				"attributes": [
-					"V",
-					"Ö",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 4.9
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Polenta mit buntem Gemüse und Paprikasauce",
+				"name": "Kartoffelgratin mit Schnittlauchsauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -206,13 +193,29 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Mediterraner Gemüsebratling mit Tomatensauce",
+			"3": {
+				"name": "Falafel aus Kichererbsen mit Joghurt-Schnittlauch-Dip",
 				"attributes": [
 					"F",
 					"Ö",
 					"30",
-					"32"
+					"32",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Tomaten-Zucchiniragout auf Kräuterreis",
+				"attributes": [
+					"V",
+					"Ö",
+					""
 				],
 				"price": {
 					"student": 2.8,
@@ -222,11 +225,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Spaghetti mit Tomaten-Olivensauce",
+				"name": "Kartoffelrösti mit Brokkoli-Rahmsauce",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"30"
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.8,
@@ -239,36 +243,20 @@
 		"Aktions-Essen": {
 			"1": null,
 			"2": {
-				"name": "Hessisches Weckewerk mit Schippeln und Gurke",
+				"name": "Schweineschnitzel an Champignon-Rahmsauce",
 				"attributes": [
-					"2",
-					"9",
-					"30",
-					"38",
-					"39",
+					"36",
 					"S"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.1
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.1
 				},
 				"vitalInfo": null
 			},
 			"3": null,
-			"4": {
-				"name": "Französisches Schweineragout mit weißen Bohnen und Karotten",
-				"attributes": [
-					"Ö",
-					"S"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.6
-				},
-				"vitalInfo": null
-			},
+			"4": null,
 			"5": null
 		}
 	}
