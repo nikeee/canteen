@@ -58,11 +58,13 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Cremiges Gemüserisotto",
+				"name": "Bunter Gemüseauflauf an Rahmsauce",
 				"attributes": [
-					"V",
+					"F",
+					"30",
+					"32",
 					"35",
-					"38"
+					"36"
 				],
 				"price": {
 					"student": 1.8,
