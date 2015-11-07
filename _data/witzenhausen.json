@@ -7,18 +7,17 @@
 		}
 	},
 	"validity": {
-		"from": "2015-11-02T00:00:00.000Z",
-		"until": "2015-11-06T00:00:00.000Z"
+		"from": "2015-11-09T00:00:00.000Z",
+		"until": "2015-11-13T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Grießbrei mit Kirschsauce",
+				"name": "Thailändischer Kürbis-Möhreneintopf mit Kokosmilch",
 				"attributes": [
-					"F",
-					"30",
-					"36"
+					"V",
+					"3"
 				],
 				"price": {
 					"student": 1.8,
@@ -28,14 +27,14 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Asiatische Nudelpfanne mit knackigem Gemüse",
+				"name": "Allgäuer Käse-Spätzlepfanne",
 				"attributes": [
 					"F",
+					"1",
 					"2",
 					"30",
 					"32",
-					"35",
-					"38"
+					"36"
 				],
 				"price": {
 					"student": 1.7,
@@ -45,10 +44,12 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Ägyptischer Linseneintopf mit Porree, Tomaten und Kartoffeln",
+				"name": "Gefüllter Eierpfannkuchen mit Vanillesauce",
 				"attributes": [
-					"V",
-					"39"
+					"F",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -58,12 +59,9 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Bunter Gemüseauflauf an Rahmsauce",
+				"name": "Kartoffeltasche mit Frischkäse, dazu Knoblauchdip",
 				"attributes": [
 					"F",
-					"30",
-					"32",
-					"35",
 					"36"
 				],
 				"price": {
@@ -74,10 +72,14 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Nudeln mit mediterraner Tomatensauce",
+				"name": "Pizza Hawaii mit Ananas und Schinken",
 				"attributes": [
-					"V",
-					"30"
+					"2",
+					"3",
+					"8",
+					"30",
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 1.8,
@@ -89,11 +91,10 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Deftige gebratene Krakauer mit Grünkohl",
+				"name": "Gefülltes hessisches Kraut auf Bechamelsauce",
 				"attributes": [
-					"2",
-					"3",
 					"30",
+					"36",
 					"39",
 					"S"
 				],
@@ -105,11 +106,8 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebackene Hackfleischbällchen auf Westernsauce",
+				"name": "Balkanreisgericht mit Schweinefleisch",
 				"attributes": [
-					"30",
-					"32",
-					"R",
 					"S"
 				],
 				"price": {
@@ -120,9 +118,8 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Hähnchenbrust nach Gyros Art",
+				"name": "Hähnchenfilet Maurische Art auf einer Curry-Honigsauce",
 				"attributes": [
-					"38",
 					"39"
 				],
 				"price": {
@@ -133,7 +130,7 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Schweinegeschnetzeltes \"Züricher Art\"",
+				"name": "Schweinegeschnetzeltes in Bärlauchrahm",
 				"attributes": [
 					"30",
 					"36",
@@ -147,15 +144,10 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Fischstäbchen mit Remouladensauce",
+				"name": "Fischragout in bunter Gemüsesauce",
 				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
 					"33",
-					"36",
-					"39"
+					"36"
 				],
 				"price": {
 					"student": 2.3,
@@ -167,26 +159,24 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Griechischer Reistaler",
+				"name": "Gegrillte Ofenkartoffeln mit Kohlrabi-Gemüsebett",
 				"attributes": [
 					"V",
-					"Ö",
-					"30",
 					"35"
 				],
 				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 4.9
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.1
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kartoffelgratin mit Schnittlauchsauce",
+				"name": "Penne mit Tomatenpesto",
 				"attributes": [
 					"V",
 					"Ö",
-					"35"
+					"30"
 				],
 				"price": {
 					"student": 2.8,
@@ -196,42 +186,40 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Falafel aus Kichererbsen mit Joghurt-Schnittlauch-Dip",
+				"name": "Glacierte Karotten mit Petersiliensauce",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"30",
-					"36",
-					"39"
+					"35"
 				],
 				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 4.9
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Tomaten-Zucchiniragout auf Kräuterreis",
+				"name": "Gedünstete Zucchini mit Tofu-Grünkernauflage überbacken",
 				"attributes": [
 					"V",
 					"Ö",
-					""
+					"30",
+					"35"
 				],
 				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 4.9
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.1
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Kartoffelrösti mit Brokkoli-Rahmsauce",
+				"name": "Reis-Gemüsetopf mit Grünkern",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"30",
-					"36"
+					"30"
 				],
 				"price": {
 					"student": 2.8,
@@ -244,20 +232,31 @@
 		"Aktions-Essen": {
 			"1": null,
 			"2": {
-				"name": "Schweineschnitzel an Champignon-Rahmsauce",
+				"name": "Zartes Geschnetzeltes vom Rind mit Zwiebelfond",
 				"attributes": [
-					"36",
-					"S"
+					"30",
+					"R"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.1
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.1
 				},
 				"vitalInfo": null
 			},
 			"3": null,
-			"4": null,
+			"4": {
+				"name": "Ofenfrische Gänsekeule auf Honigjus",
+				"attributes": [
+					""
+				],
+				"price": {
+					"student": 3.7,
+					"employee": 5,
+					"visitor": 5.8
+				},
+				"vitalInfo": null
+			},
 			"5": null
 		}
 	}

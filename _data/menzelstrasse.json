@@ -7,14 +7,28 @@
 		}
 	},
 	"validity": {
-		"from": "2015-11-02T00:00:00.000Z",
-		"until": "2015-11-06T00:00:00.000Z"
+		"from": "2015-11-09T00:00:00.000Z",
+		"until": "2015-11-13T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Original hessische grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"name": "Orientalischer Orangen-Couscous an fruchtigem Pfirsichdip",
+				"attributes": [
+					"V",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 3.9
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Rahmspinat mit Rührei",
 				"attributes": [
 					"F",
 					"32",
@@ -27,30 +41,13 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Orientalische Linsenpfanne mit bunten Gemüsen an cremiger Kürbissauce",
-				"attributes": [
-					"V",
-					"2",
-					"3",
-					"35",
-					"38",
-					"39",
-					"40",
-					"41"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 3.9
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Rosmarinkartoffeln mit fruchtigem Tomatendip",
+				"name": "Schwäbische Spätzle mit Röstzwiebeln und Rubbelkäse",
 				"attributes": [
-					"V",
-					""
+					"F",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -60,13 +57,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gebackene Gemüsekroketten mit Petersiliensauce",
+				"name": "Hausgemachter Karotten-Kartoffelstampf auf Tomatenragout",
 				"attributes": [
 					"V",
 					"3",
-					"30",
-					"35",
-					"38"
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -76,11 +71,10 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Vegane Gulaschsuppe Ungarische Art",
+				"name": "Schnippelbohnen-Eintopf mit Kartoffelwürfeln",
 				"attributes": [
 					"V",
-					"30",
-					"35"
+					"38"
 				],
 				"price": {
 					"student": 1.7,
@@ -92,13 +86,10 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Mini-Hackfleischbällchen auf Jalapeño-Tomatensauce",
+				"name": "Geschnetzeltes von der Putenoberkeule mit Pfefferrahm",
 				"attributes": [
 					"30",
-					"32",
-					"36",
-					"R",
-					"S"
+					"36"
 				],
 				"price": {
 					"student": 2.3,
@@ -108,27 +99,9 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Asia-Putenstreifen in Red-Thaicurry-Sauce",
+				"name": "Farfalle Tricolore an Béchamelsauce mit Hackfleisch und Kräutern",
 				"attributes": [
 					"30",
-					"35",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.4
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Semmelknödel mit einer Speck-Schmandstippe",
-				"attributes": [
-					"2",
-					"3",
-					"30",
-					"32",
 					"36",
 					"S"
 				],
@@ -139,11 +112,26 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Schaschliktopf",
+			"3": {
+				"name": "Hähnchenbrust mit Sauce Café de Paris",
 				"attributes": [
-					"2",
 					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvar-Bratenjus",
+				"attributes": [
+					"8",
+					"30",
+					"36",
 					"S"
 				],
 				"price": {
@@ -154,13 +142,9 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gefülltes hessisches Kraut auf Béchamelsauce",
+				"name": "Ofenfrischer Gyrosbraten vom Schweinerücken an griechischem Zaziki",
 				"attributes": [
-					"30",
-					"32",
-					"35",
 					"36",
-					"39",
 					"S"
 				],
 				"price": {
