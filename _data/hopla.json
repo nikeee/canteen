@@ -128,12 +128,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvar-Bratenjus",
+				"name": "Hähnchenbrust mit Sauce Café de Paris",
 				"attributes": [
-					"8",
 					"30",
-					"36",
-					"S"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.3,
