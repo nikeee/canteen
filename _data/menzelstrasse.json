@@ -7,73 +7,17 @@
 		}
 	},
 	"validity": {
-		"from": "2015-11-09T00:00:00.000Z",
-		"until": "2015-11-13T00:00:00.000Z"
+		"from": "2015-11-16T00:00:00.000Z",
+		"until": "2015-11-20T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Orientalischer Orangen-Couscous an fruchtigem Pfirsichdip",
+				"name": "Minestrone - italienische Gemüsesuppe mit Reis und Pasta",
 				"attributes": [
 					"V",
 					"30",
-					"38"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 3.9
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Rahmspinat mit Rührei",
-				"attributes": [
-					"F",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 3.9
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Schwäbische Spätzle mit Röstzwiebeln und Rubbelkäse",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 3.9
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Hausgemachter Karotten-Kartoffelstampf auf Tomatenragout",
-				"attributes": [
-					"V",
-					"3",
-					"35"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 3.9
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Schnippelbohnen-Eintopf mit Kartoffelwürfeln",
-				"attributes": [
-					"V",
 					"38"
 				],
 				"price": {
@@ -82,14 +26,71 @@
 					"visitor": 3.8
 				},
 				"vitalInfo": null
+			},
+			"2": {
+				"name": "Kartoffelpuffer mit Apfelmus",
+				"attributes": [
+					"F",
+					"3",
+					"32"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 3.9
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Geschwenktes Kichererbsen-Auberginen-Sambal",
+				"attributes": [
+					"V",
+					""
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 3.9
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Ofenfrische Brätlinge mit Spundekäse",
+				"attributes": [
+					"F",
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 3.9
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Sojageschnetzeltes \"Stroganoff\"",
+				"attributes": [
+					"V",
+					"9",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 3.9
+				},
+				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Geschnetzeltes von der Putenoberkeule mit Pfefferrahm",
+				"name": "Hühnerfrikassee mit Erbsen und Spargel",
 				"attributes": [
+					"A",
 					"30",
-					"36"
+					"36",
+					"41"
 				],
 				"price": {
 					"student": 2.3,
@@ -99,22 +100,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Farfalle Tricolore an Béchamelsauce mit Hackfleisch und Kräutern",
+				"name": "Italienische Gabelspaghetti Bolognese mit Putenfleisch und Parmesan",
 				"attributes": [
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.2,
-					"employee": 3.5,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Hähnchenbrust mit Sauce Café de Paris",
-				"attributes": [
+					"1",
+					"2",
 					"30",
 					"32",
 					"36"
@@ -126,10 +115,9 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvar-Bratenjus",
+			"3": {
+				"name": "Geschnetzeltes aus der Schweinekeule in Pfirsichrahm",
 				"attributes": [
-					"8",
 					"30",
 					"36",
 					"S"
@@ -141,16 +129,32 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Ofenfrischer Gyrosbraten vom Schweinerücken an griechischem Zaziki",
+			"4": {
+				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
 				"attributes": [
-					"36",
-					"S"
+					""
 				],
 				"price": {
 					"student": 2.3,
 					"employee": 3.6,
 					"visitor": 4.4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Gegrillter Fleischkäse auf einer Zwiebeljus",
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"30",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.2,
+					"employee": 3.5,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			}

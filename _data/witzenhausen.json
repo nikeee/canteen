@@ -7,17 +7,20 @@
 		}
 	},
 	"validity": {
-		"from": "2015-11-09T00:00:00.000Z",
-		"until": "2015-11-13T00:00:00.000Z"
+		"from": "2015-11-16T00:00:00.000Z",
+		"until": "2015-11-20T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Thailändischer Kürbis-Möhreneintopf mit Kokosmilch",
+				"name": "Kaiserschmarrn mit Kirschsauce",
 				"attributes": [
-					"V",
-					"3"
+					"F",
+					"A",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -27,11 +30,9 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Allgäuer Käse-Spätzlepfanne",
+				"name": "Semmelknödel mit Champignonsauce",
 				"attributes": [
 					"F",
-					"1",
-					"2",
 					"30",
 					"32",
 					"36"
@@ -44,10 +45,22 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gefüllter Eierpfannkuchen mit Vanillesauce",
+				"name": "Indische Curry-Gemüsesuppe",
+				"attributes": [
+					"V",
+					""
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 3.9
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Omelette mit Blattspinat",
 				"attributes": [
 					"F",
-					"30",
 					"32",
 					"36"
 				],
@@ -58,28 +71,15 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Kartoffeltasche mit Frischkäse, dazu Knoblauchdip",
+			"5": {
+				"name": "Frühlingsrollen an süß-saurer Asia-Sauce",
 				"attributes": [
 					"F",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 3.9
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Pizza Hawaii mit Ananas und Schinken",
-				"attributes": [
-					"2",
-					"3",
-					"8",
 					"30",
+					"32",
+					"35",
 					"36",
-					"S"
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -91,10 +91,8 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Gefülltes hessisches Kraut auf Bechamelsauce",
+				"name": "Bayrische Wirsing-Hackfleischpfanne",
 				"attributes": [
-					"30",
-					"36",
 					"39",
 					"S"
 				],
@@ -106,8 +104,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Balkanreisgericht mit Schweinefleisch",
+				"name": "Grillfrischer Krustenbraten",
 				"attributes": [
+					"2",
+					"3",
+					"8",
 					"S"
 				],
 				"price": {
@@ -118,10 +119,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Hähnchenfilet Maurische Art auf einer Curry-Honigsauce",
+				"name": "Gebratenes Putenschnitzel an Zitronen-Pfeffersauce",
 				"attributes": [
-					"F",
-					"39"
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.3,
@@ -131,10 +133,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Schweinegeschnetzeltes in Bärlauchrahm",
+				"name": "Königsberger Klopse in Kapernsauce",
 				"attributes": [
 					"30",
+					"32",
 					"36",
+					"39",
 					"S"
 				],
 				"price": {
@@ -145,10 +149,14 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Fischragout in bunter Gemüsesauce",
+				"name": "Gebratene Scholle mit Remouladensauce",
 				"attributes": [
+					"3",
+					"30",
+					"32",
 					"33",
-					"36"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.3,
@@ -160,7 +168,7 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Gegrillte Ofenkartoffeln mit Kohlrabi-Gemüsebett",
+				"name": "Kartoffelauflauf mit Lauch und Zwiebeln, dazu Béchamelsauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -174,11 +182,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Penne mit Tomatenpesto",
+				"name": "Polenta mit buntem Gemüse und Paprikasauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"30"
+					"35"
 				],
 				"price": {
 					"student": 2.8,
@@ -188,7 +196,7 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Glacierte Karotten mit Petersiliensauce",
+				"name": "Gebratener Tofu in Tomatensauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -202,12 +210,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gedünstete Zucchini mit Tofu-Grünkernauflage überbacken",
+				"name": "Sabee Sabee Kumala - Australisches Kürbisgulasch",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
-					"35"
+					""
 				],
 				"price": {
 					"student": 2.8,
@@ -217,11 +224,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Reis-Gemüsetopf mit Grünkern",
+				"name": "Frisches Gemüsegulasch mit Tomatensauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"30"
+					""
 				],
 				"price": {
 					"student": 2.8,
@@ -234,23 +241,10 @@
 		"Aktions-Essen": {
 			"1": null,
 			"2": {
-				"name": "Zartes Geschnetzeltes vom Rind",
+				"name": "Rinderragout mit Zwiebel-Meerrettichsauce",
 				"attributes": [
-					"30",
+					"Ö",
 					"R"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.6
-				},
-				"vitalInfo": null
-			},
-			"3": null,
-			"4": {
-				"name": "Ofenfrische Gänsekeule auf Honigjus",
-				"attributes": [
-					""
 				],
 				"price": {
 					"student": 5,
@@ -259,6 +253,8 @@
 				},
 				"vitalInfo": null
 			},
+			"3": null,
+			"4": null,
 			"5": null
 		}
 	}
