@@ -114,7 +114,8 @@
 					"32",
 					"33",
 					"36",
-					"39"
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 2.3,
@@ -235,10 +236,12 @@
 			"1": {
 				"name": "Bohnen-Lamm-Pfanne mit Backpflaumen und Thymiankartoffeln",
 				"attributes": [
+					"A",
 					"MV",
 					"2",
 					"3",
-					"36"
+					"36",
+					"41"
 				],
 				"price": {
 					"student": 3.5,
