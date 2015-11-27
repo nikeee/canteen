@@ -127,7 +127,10 @@
 			"3": {
 				"name": "Ofenfrischer Hähnchenschenkel auf scharfer Tomatensauce",
 				"attributes": [
-					"30"
+					"30",
+					"32",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.3,
@@ -278,7 +281,8 @@
 				"attributes": [
 					"V",
 					"MV",
-					"37"
+					"37",
+					"39"
 				],
 				"price": {
 					"student": 2.5,
