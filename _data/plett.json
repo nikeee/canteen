@@ -7,17 +7,26 @@
 		}
 	},
 	"validity": {
-		"from": "2015-11-23T00:00:00.000Z",
-		"until": "2015-11-27T00:00:00.000Z"
+		"from": "2015-11-30T00:00:00.000Z",
+		"until": "2015-12-04T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Spaghetti mit fruchtiger Tomatensauce",
+				"name": "Goldgelb gebackenes Möhrenschnitzel auf Passionsfrucht-Sahnesauce",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"1",
+					"2",
+					"3",
+					"9",
+					"30",
+					"32",
+					"36",
+					"38",
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 1.8,
@@ -27,25 +36,22 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kürbis-Kartoffelsuppe mit Würfeln von Roter Bete und Sesam",
+				"name": "Indisch Aloo Gobi mit Kartoffeln und Blumenkohl",
 				"attributes": [
 					"V",
-					"35",
-					"40"
+					""
 				],
 				"price": {
-					"student": 1.7,
-					"employee": 3,
-					"visitor": 3.8
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 3.9
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Mohnschmarrn mit hausgemachtem Apfelragout",
+				"name": "Schupfnudelpfanne mit bunten Gemüsen an Salbei-Sahnesauce",
 				"attributes": [
 					"F",
-					"1",
-					"3",
 					"30",
 					"32",
 					"36"
@@ -58,11 +64,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Italienische Drelli Pasta mit Rucola-Minz-Cremesauce",
+				"name": "Mit Reis und Gemüse gefüllte Paprikaschote auf fruchtigem Tomatendip",
 				"attributes": [
 					"V",
-					"30",
-					"35"
+					""
 				],
 				"price": {
 					"student": 1.8,
@@ -72,78 +77,29 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
+				"name": "Herbstlicher Wirsing-Kartoffeleintopf",
 				"attributes": [
 					"V",
-					"30"
+					"38"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 3.9
+					"student": 1.7,
+					"employee": 3,
+					"visitor": 3.8
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Ofenfrische Geflügelfrikadelle an Snackdip",
+				"name": "Feine Knackwurst auf hausgemachtem Kartoffelsalat",
 				"attributes": [
 					"2",
 					"3",
-					"30",
-					"32",
-					"36",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.4
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Gebackener Alaska-Seelachs an Remouladensauce",
-				"attributes": [
-					"3",
+					"8",
 					"9",
-					"30",
-					"32",
-					"33",
 					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.4
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Ofenfrischer Hähnchenschenkel auf scharfer Tomatensauce",
-				"attributes": [
-					"30"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.4
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Kassler-Nackenbraten auf einer Calvadosjus",
-				"attributes": [
-					"A",
-					"2",
-					"3",
-					"4",
-					"30",
-					"36",
-					"38",
+					"39",
 					"S"
 				],
 				"price": {
@@ -153,13 +109,59 @@
 				},
 				"vitalInfo": null
 			},
+			"2": {
+				"name": "Geschnetzeltes von der Putenoberkeule mit Champignons",
+				"attributes": [
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.4
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
+				"attributes": [
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Frühlingsrolle mit Geflügelfleisch gefüllt an süß-scharfer Sauce",
+				"attributes": [
+					"1",
+					"3",
+					"30",
+					"32",
+					"35",
+					"36",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.4
+				},
+				"vitalInfo": null
+			},
 			"5": {
-				"name": "Hausgemachter Steckrübeneintopf mit Speckwürfeln und Croûtons",
+				"name": "Hausgemachter Speckpfannkuchen auf Schmanddip",
 				"attributes": [
 					"2",
 					"30",
+					"32",
 					"36",
-					"38",
 					"S"
 				],
 				"price": {
@@ -171,55 +173,25 @@
 			}
 		},
 		"Essen 3 oder 4": {
-			"1": {
-				"name": "Braten vom Schweinerücken im Pfeffer-Kräuterkleid auf Marsala-Rahmsauce",
+			"1": null,
+			"2": {
+				"name": "Paniertes Schnitzel vom Schwein auf einer kräftigen Paprikasauce",
 				"attributes": [
-					"A",
 					"30",
-					"36",
-					"41",
+					"32",
 					"S"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.2
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.1
 				},
 				"vitalInfo": null
 			},
-			"2": null,
 			"3": {
-				"name": "Schwäbischer Gaisburger Marsch mit Spätzle und Kartoffeln",
+				"name": "Gebratene Hähnchenbrust auf cremigem Rahmspinat",
 				"attributes": [
 					"30",
-					"32",
-					"38",
-					"R"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.6
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Gegrilltes Putensteak Gyros Style an einem Knoblauchdip",
-				"attributes": [
-					"36"
-				],
-				"price": {
-					"student": 3.6,
-					"employee": 4.9,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Gebratenes Hähnchenbrustschnitzel an einem Radieschen-Quarkdip",
-				"attributes": [
-					"30",
-					"32",
 					"36"
 				],
 				"price": {
@@ -228,39 +200,44 @@
 					"visitor": 5.4
 				},
 				"vitalInfo": null
+			},
+			"4": {
+				"name": "Paniertes Schnitzel vom Schweinekotelett mit Pfefferbeeren in Rahm",
+				"attributes": [
+					"30",
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hähnchenschnitzel im Cornflakesmantel auf Erdbeer-Balsamicojus",
+				"attributes": [
+					"1",
+					"3",
+					"30",
+					"32"
+				],
+				"price": {
+					"student": 3.6,
+					"employee": 4.9,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
 			}
 		},
 		"Angebot des Tages I": {
 			"1": {
-				"name": "Bohnen-Lamm-Pfanne mit Backpflaumen und Thymiankartoffeln",
+				"name": "Putensteak im Backteig von rotem Linsenmehl an scharfer Tomatensauce, dazu Spiralkartoffeln",
 				"attributes": [
-					"MV",
-					"2",
-					"3",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.6
-				},
-				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 67,
-					"protein": 33,
-					"calories": 603
-				}
-			},
-			"2": {
-				"name": "Überbackenes Schnitzel mit Birne, Cranberry und Emmentaler auf Bratenjus und Kartoffelgratin",
-				"attributes": [
-					"A",
-					"3",
 					"30",
-					"32",
-					"36",
-					"41",
-					"S"
+					"32"
 				],
 				"price": {
 					"student": 3.5,
@@ -269,12 +246,13 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Kichererbsen-Kokos-Korma mit Mandelreis",
+			"2": {
+				"name": "Zartweizen-Kartoffelgratin mit Roter Beete und Karotten",
 				"attributes": [
 					"V",
 					"MV",
-					"37"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.5,
@@ -282,45 +260,69 @@
 					"visitor": 4.6
 				},
 				"vitalInfo": {
-					"fat": 22,
-					"carbohydrate": 88,
-					"protein": 25,
-					"calories": 652
+					"fat": 26,
+					"carbohydrate": 90,
+					"protein": 24,
+					"calories": 692
 				}
 			},
-			"4": {
-				"name": "Französische Zwiebelsuppe mit einem großem Käsecroûton",
+			"3": {
+				"name": "Hessisches Weckewerk mit Schippeln und Gurke",
 				"attributes": [
-					"V",
-					"1",
+					"2",
+					"9",
 					"30",
-					"35"
+					"38",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Eierragout in scharfer Senfsauce mit Paprika-Zartweizen",
+				"attributes": [
+					"F",
+					"MV",
+					"30",
+					"32",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.2,
 					"employee": 3.5,
 					"visitor": 4.3
 				},
-				"vitalInfo": null
+				"vitalInfo": {
+					"fat": 26,
+					"carbohydrate": 80,
+					"protein": 34,
+					"calories": 698
+				}
 			},
 			"5": {
-				"name": "Gebratenes Wildlachsfilet mit Barbecuegemüse und Wildreis",
+				"name": "Seelachs mit Kürbis-Kartoffelpüree und Lauch-Maissalat",
 				"attributes": [
 					"MV",
-					"9",
-					"30",
-					"33"
+					"33",
+					"36",
+					"40"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.6
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.1
 				},
 				"vitalInfo": {
-					"fat": 18,
-					"carbohydrate": 93,
-					"protein": 37,
-					"calories": 717
+					"fat": 25,
+					"carbohydrate": 83,
+					"protein": 43,
+					"calories": 727
 				}
 			}
 		}

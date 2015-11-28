@@ -7,20 +7,19 @@
 		}
 	},
 	"validity": {
-		"from": "2015-11-23T00:00:00.000Z",
-		"until": "2015-11-27T00:00:00.000Z"
+		"from": "2015-11-30T00:00:00.000Z",
+		"until": "2015-12-04T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Gemüseschnitzel mit Sahnesauce",
+				"name": "Gebackene Zucchinipuffer mit Hirtenkäse",
 				"attributes": [
 					"F",
 					"30",
 					"32",
-					"36",
-					"38"
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -30,9 +29,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Maultaschen auf Majoran-Schmandsauce",
+				"name": "Käsetortellini mit Kerbelsauce",
 				"attributes": [
 					"F",
+					"30",
 					"36"
 				],
 				"price": {
@@ -43,12 +43,13 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse, dazu Brötchen",
+				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
 					"V",
+					"2",
+					"3",
 					"30",
-					"38",
-					"39"
+					"41"
 				],
 				"price": {
 					"student": 1.8,
@@ -58,12 +59,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gefüllter Germknödel mit Vanillesauce",
+				"name": "Gebackener Blumenkohl mit Sauce Hollandaise",
 				"attributes": [
 					"F",
-					"1",
-					"30",
-					"35",
+					"32",
 					"36"
 				],
 				"price": {
@@ -74,12 +73,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Vegane Soljanka mit Gurke, Paprika und Tofu, dazu Brötchen",
+				"name": "Griechische Nudelpfanne mit Feta, Oliven, Paprika und Tomate",
 				"attributes": [
-					"V",
-					"9",
+					"F",
 					"30",
-					"35"
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -91,11 +89,10 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Feurige Gulaschsuppe mit Kartoffeln, dazu ein Brötchen",
+				"name": "Hähnchenschenkel mit Pfefferrahmsauce",
 				"attributes": [
-					"30",
-					"38",
-					"S"
+					"1",
+					"36"
 				],
 				"price": {
 					"student": 2.3,
@@ -105,12 +102,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hausmacher Bratwurst mit Zwiebelsauce",
+				"name": "Paprikaschote gefüllt mit Schweinehack und Tomatensauce",
 				"attributes": [
-					"3",
-					"8",
-					"36",
-					"R",
+					"30",
+					"35",
 					"S"
 				],
 				"price": {
@@ -121,12 +116,10 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gyrospfanne mit Zaziki",
+				"name": "Asiatische Schweinefleischstreifen mit buntem Gemüse",
 				"attributes": [
-					"9",
-					"36",
+					"35",
 					"38",
-					"39",
 					"S"
 				],
 				"price": {
@@ -137,13 +130,9 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Bretonischer Fischeintopf, dazu ein Brötchen",
+				"name": "Ghanaisches Hähnchen mit Reis",
 				"attributes": [
-					"A",
-					"5",
-					"30",
-					"33",
-					"41"
+					"36"
 				],
 				"price": {
 					"student": 2.2,
@@ -153,10 +142,13 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hähnchenbrust mit Tomate-Mozzarella überbacken in Tomatenjus",
+				"name": "Fischfrikadelle mit Dill-Sahnesauce",
 				"attributes": [
-					"35",
-					"36"
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.3,
@@ -168,12 +160,12 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Thailändisches Kartoffelcurry",
+				"name": "Nudeln mit Soja-Bolognese",
 				"attributes": [
 					"V",
 					"Ö",
-					"35",
-					"39"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.8,
@@ -183,7 +175,49 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Pekingsuppe mit Tofu",
+				"name": "Rosmarinkartoffeln mit buntem Ofengemüse",
+				"attributes": [
+					"V",
+					"Ö",
+					"38"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Möhrenpfannkuchen mit Schnittlauchsauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Penne mit Petersilienpesto",
+				"attributes": [
+					"V",
+					"Ö",
+					"30"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Thailändisches Räuchertofu-Curry",
 				"attributes": [
 					"V",
 					"Ö",
@@ -197,72 +231,81 @@
 					"visitor": 4.9
 				},
 				"vitalInfo": null
-			},
-			"3": {
-				"name": "Grünkerntaler mit warmer Schmand-Currysauce",
+			}
+		},
+		"Aktions-Essen": {
+			"1": {
+				"name": "Geschmorter Hirschbraten in Rotweinjus",
 				"attributes": [
-					"F",
-					"Ö",
-					"32",
-					"35",
-					"36",
-					"39"
+					"A",
+					"30",
+					"41"
 				],
 				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 4.9
+					"student": 5.5,
+					"employee": 6.8,
+					"visitor": 7.6
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Hirschedelgulasch \"Diana\" mit Waldpilzen und Preiselbeeren",
+				"attributes": [
+					"30"
+				],
+				"price": {
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Rehragout mit Birnen und Edelpilzen in Portweinrahmsauce",
+				"attributes": [
+					"A",
+					"3",
+					"30",
+					"36",
+					"41"
+				],
+				"price": {
+					"student": 5.5,
+					"employee": 6.8,
+					"visitor": 7.6
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Bunte Gemüse-Reispfanne mit Erbsen-Champignonsauce",
+				"name": "Frisch gegrillte Wildbratwurst auf Kräuter-Zwiebelfond",
 				"attributes": [
-					"V",
-					"Ö",
-					"35"
+					"8",
+					"30",
+					"39",
+					"S"
 				],
 				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 4.9
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.1
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Bunte Bohnenpfanne mit Tomaten, Kartoffeln und Zwiebeln",
+				"name": "Wildschweingulasch in Rotwein-Wacholdersauce",
 				"attributes": [
-					"V",
-					"Ö",
-					""
+					"A",
+					"30",
+					"41",
+					"S"
 				],
 				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 4.9
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.1
 				},
 				"vitalInfo": null
 			}
-		},
-		"Aktions-Essen": {
-			"1": null,
-			"2": {
-				"name": "Spanisch Fricco mit Kartoffeln und Rindfleisch in Sauerrahm",
-				"attributes": [
-					"Ö",
-					"36",
-					"R"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.6
-				},
-				"vitalInfo": null
-			},
-			"3": null,
-			"4": null,
-			"5": null
 		}
 	}
 }
