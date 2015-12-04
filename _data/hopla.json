@@ -126,8 +126,11 @@
 			"3": {
 				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
 				"attributes": [
+					"30",
 					"32",
 					"36",
+					"38",
+					"39",
 					"S"
 				],
 				"price": {
