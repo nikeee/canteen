@@ -18,18 +18,16 @@
           {% for meal in mealType[1] %}
           <td>
             {% if meal[1] != null %}
-            <div>
               <div>
                 <span>{{meal[1].name}}</span>
               </div>
-              <div class="pull-right">
+              <div>
                 <small class="other-prices">
                   {{meal[1].price.visitor | number: 2}}/{{meal[1].price.employee | number: 2}}/
                 </small>
                 <strong>{{meal[1].price.student | number: 2}}</strong>
                 <small class="currency">{{lastResult.menu.currency}}</small>
               </div>
-            </div>
             {% endif %}
           </td>
           {% endfor %}
