@@ -7,33 +7,36 @@
 		}
 	},
 	"validity": {
-		"from": "2015-12-07T00:00:00.000Z",
-		"until": "2015-12-11T00:00:00.000Z"
+		"from": "2015-12-14T00:00:00.000Z",
+		"until": "2015-12-18T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Hausgemachte Polenta à la Crème auf Champignon-Sahnesauce",
+				"name": "Advents-Pfannkuchen mit Mandeln und Rosinen auf hausgemachtem Birnenragout",
 				"attributes": [
 					"V",
+					"1",
+					"3",
 					"30",
 					"35",
-					"38"
+					"37"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 3.9
+					"student": 1.7,
+					"employee": 3,
+					"visitor": 3.8
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Chili sin Carne mit Spirelli",
+				"name": "Kritharakisalat mit bunten Gemüsen an gartenfrischen Salaten und Brotsticks",
 				"attributes": [
 					"V",
-					"30",
-					"35"
+					"3",
+					"6",
+					"30"
 				],
 				"price": {
 					"student": 1.8,
@@ -43,11 +46,27 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Berner Riesenrösti an buntem Béchamelgemüse",
+				"name": "Hausgemachte Polenta à la Crème auf winterlichem Gemüseragout und Maronen-Pesto",
 				"attributes": [
-					"F",
+					"V",
 					"30",
-					"36"
+					"35",
+					"37"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Kurkuma-Fusilli mit Tomatensauce und gerösteten Nüssen",
+				"attributes": [
+					"V",
+					"30",
+					"34",
+					"37"
 				],
 				"price": {
 					"student": 1.8,
@@ -56,27 +75,11 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Asiatische Reis-Gemüsepfanne an Kokos-Currycreme-Sauce",
-				"attributes": [
-					"V",
-					"30",
-					"35",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 1.7,
-					"employee": 3,
-					"visitor": 3.8
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Ofenfrische Sesam-Blechkartoffeln an scharfer Gurken-Salsa",
+				"name": "Rote Kokoslinsen in gelber Thai-Currysauce mit Gemüsen",
 				"attributes": [
 					"V",
-					"40"
+					"39"
 				],
 				"price": {
 					"student": 1.8,
@@ -88,9 +91,14 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Geflügelstreifen in Tomaten-Oreganosauce",
+				"name": "Gebackene Fischfrikadelle mit Joghurt-Aioli",
 				"attributes": [
-					"30"
+					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.2,
@@ -100,13 +108,15 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Klassische Currywurst",
+				"name": "Weihnachtliche Bratwurst auf einer Apfeljus",
 				"attributes": [
-					"1",
+					"A",
 					"3",
 					"8",
+					"30",
+					"37",
 					"38",
-					"39",
+					"41",
 					"S"
 				],
 				"price": {
@@ -117,11 +127,9 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gebratenes Schnitzel vom Schweinebauch an Kräuterjus",
+				"name": "Gebratene Entenkeule in Lebkuchenmarinade auf Orangen-Honigjus",
 				"attributes": [
-					"30",
-					"32",
-					"S"
+					"30"
 				],
 				"price": {
 					"student": 2.3,
@@ -131,10 +139,9 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Ofenfrischer Schweinenackenbraten auf hausgemachtem Krautsalat mit Zaziki",
+				"name": "Geschwenkte Geflügelstreifen Gyros Art mit Zaziki",
 				"attributes": [
-					"36",
-					"S"
+					"36"
 				],
 				"price": {
 					"student": 2.3,
@@ -144,11 +151,13 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Spaghetti Bolognese mit Schweinehackfleisch und Parmesan",
+				"name": "Allgäuer Käse-Schinken-Spätzlepfanne",
 				"attributes": [
-					"1",
 					"2",
+					"3",
+					"8",
 					"30",
+					"32",
 					"36",
 					"S"
 				],
