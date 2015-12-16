@@ -91,7 +91,23 @@
 			}
 		},
 		"Essen 2": {
-			"1": null,
+			"1": {
+				"name": "Gebackene Fischfrikadelle mit Joghurt-Aioli",
+				"attributes": [
+					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.2,
+					"employee": 3.5,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
 			"2": {
 				"name": "Weihnachtliche Bratwurst auf einer Apfeljus",
 				"attributes": [
@@ -326,7 +342,23 @@
 				},
 				"vitalInfo": null
 			},
-			"2": null,
+			"2": {
+				"name": "Live vom Metzger tranchierter Braten vom Schweinerücken auf cremiger Portwein-Rahmsauce mit Backpflaumen und Äpfeln an Knöpfle",
+				"attributes": [
+					"A",
+					"2",
+					"30",
+					"36",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.1
+				},
+				"vitalInfo": null
+			},
 			"3": {
 				"name": "Auf der Haut gebratenes Zanderfilet an Rote-Bete-Kraut mit frischem Meerrettich",
 				"attributes": [
