@@ -187,11 +187,12 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebratenes Hähnchenbrustschnitzel an schwarzer Johannisbeerjus",
+				"name": "Hähnchenbrust im Spekulatiusmantel auf fruchtiger Brombeerjus",
 				"attributes": [
-					"3",
 					"30",
-					"32"
+					"32",
+					"35",
+					"36"
 				],
 				"price": {
 					"student": 3.4,
