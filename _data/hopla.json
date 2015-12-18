@@ -67,7 +67,8 @@
 					"V",
 					"30",
 					"34",
-					"37"
+					"37",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -130,6 +131,9 @@
 			"3": {
 				"name": "Gebratene Entenkeule in Lebkuchenmarinade auf Orangen-Honigjus",
 				"attributes": [
+					"1",
+					"3",
+					"9",
 					"30"
 				],
 				"price": {
@@ -172,27 +176,26 @@
 		},
 		"Essen 3 oder 4": {
 			"1": {
-				"name": "Gebratenes Kabeljaufilet mit Salzkartoffeln Mascarponesauce mit Basilikum Petersilie als Dekoration",
-				"attributes": [
-					"30",
-					"32",
-					"33",
-					"36"
-				],
-				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.1
-				},
-				"vitalInfo": null
-			},
-			"2": {
 				"name": "Hähnchenbrust im Spekulatiusmantel auf fruchtiger Brombeerjus",
 				"attributes": [
 					"30",
 					"32",
 					"35",
 					"36"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.5
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Gebratenes Hähnchenbrustschnitzel an schwarzer Johannisbeerjus",
+				"attributes": [
+					"3",
+					"30",
+					"32"
 				],
 				"price": {
 					"student": 3.4,
@@ -298,14 +301,17 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Lassen Sie sich überraschen",
+				"name": "Bayrische Serviettenknödel mit buntem Gemüseragout",
 				"attributes": [
-					""
+					"F",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.1
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
