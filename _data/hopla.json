@@ -122,7 +122,8 @@
 				"name": "Tortelloni all'arrabiata in einer Tomatensauce",
 				"attributes": [
 					"V",
-					"30"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.3,
@@ -152,7 +153,9 @@
 			"3": {
 				"name": "Frisch gebratenes Hähnchenbrustschnitzel auf Pfefferjus",
 				"attributes": [
-					"30"
+					"30",
+					"32",
+					"S"
 				],
 				"price": {
 					"student": 3.3,
