@@ -7,59 +7,18 @@
 		}
 	},
 	"validity": {
-		"from": "2016-01-04T00:00:00.000Z",
-		"until": "2016-01-08T00:00:00.000Z"
+		"from": "2016-01-11T00:00:00.000Z",
+		"until": "2016-01-15T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Tomatensuppe mit Nudeleinlage",
-				"attributes": [
-					"F",
-					"30",
-					"32"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Blumenkohl-Käsemedaillon an Béchamelsauce",
+				"name": "Gemüseschnitzel mit Sahnesauce",
 				"attributes": [
 					"F",
 					"30",
 					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Milchreis mit exotischer Fruchtsauce",
-				"attributes": [
-					"F",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Bunte Gemüse-Reispfanne mit Erbsen-Champignonsauce",
-				"attributes": [
-					"F",
-					"30",
 					"36",
 					"38"
 				],
@@ -70,8 +29,53 @@
 				},
 				"vitalInfo": null
 			},
+			"2": {
+				"name": "Gefüllter Eierpfannkuchen mit Vanillesauce",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Semmelknödel \"Esterhazy\" mit Gemüsestreifen",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gebackener Blumenkohl mit Sauce Hollandaise",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
 			"5": {
-				"name": "Hessische Kartoffelpfanne mit Kräutern und Pilzen",
+				"name": "Indische Curry-Gemüsesuppe",
 				"attributes": [
 					"V",
 					""
@@ -86,11 +90,9 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Cremige Hackfleischpfanne mit Käse und Erbsen",
+				"name": "Schweineschnitzel mit ungarischer Pusztasauce",
 				"attributes": [
-					"1",
-					"2",
-					"36",
+					"30",
 					"S"
 				],
 				"price": {
@@ -101,26 +103,9 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Ofenfrischer Schweinenackenbraten mit Bayrischer Bierjus",
+				"name": "Karibisches Bananenhuhn",
 				"attributes": [
-					"A",
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Asia-Putenstreifen in roter Thaicurry-Sauce",
-				"attributes": [
-					"30",
-					"35",
-					"36",
-					"38"
+					""
 				],
 				"price": {
 					"student": 2.5,
@@ -129,14 +114,11 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Fischfrikadelle mit Joghurtdip",
+			"3": {
+				"name": "Orientalische Hackfleischpfanne mit Linsen und Kichererbsen",
 				"attributes": [
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
+					"2",
+					"S"
 				],
 				"price": {
 					"student": 2.3,
@@ -145,10 +127,29 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Marokkanischer Hackfleisch-Eintopf",
+			"4": {
+				"name": "Geflügelgulasch in Curry-Maracujasauce",
 				"attributes": [
-					"S"
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Panierter Seelachs an Remouladensauce",
+				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -160,12 +161,13 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Grünkerntaler mit warmer Soja-Currysauce",
+				"name": "Gabelspaghetti mit Mangold-Karottenragout in Rahmsauce",
 				"attributes": [
 					"V",
 					"Ö",
 					"30",
-					"35"
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 2.9,
@@ -175,12 +177,12 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Indisches Zucchini-Curry",
+				"name": "Tofuragout mexikanische Art",
 				"attributes": [
 					"V",
 					"Ö",
 					"35",
-					"39"
+					"38"
 				],
 				"price": {
 					"student": 2.9,
@@ -190,7 +192,21 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gebackenes Fenchelgemüse mit Tomaten-Basilikumsauce",
+				"name": "Kartoffelgratin mit Roter Bete an Petersilien-Schmandsauce",
+				"attributes": [
+					"F",
+					"Ö",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Weißkohleintopf mit Kartoffeln",
 				"attributes": [
 					"V",
 					"Ö",
@@ -203,22 +219,8 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Mediterraner Gemüsebratling mit Tomatensauce",
-				"attributes": [
-					"V",
-					"Ö",
-					"30"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Griechische Reispfanne mit Oliven und Tofu",
+				"name": "Mediterrane Gemüsepfanne mit Tofu",
 				"attributes": [
 					"V",
 					"Ö",
