@@ -7,34 +7,20 @@
 		}
 	},
 	"validity": {
-		"from": "2016-01-11T00:00:00.000Z",
-		"until": "2016-01-15T00:00:00.000Z"
+		"from": "2016-01-18T00:00:00.000Z",
+		"until": "2016-01-22T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Gemüseschnitzel mit Sahnesauce",
+				"name": "Gefüllter Germknödel mit Vanillesauce",
 				"attributes": [
 					"F",
+					"1",
+					"2",
 					"30",
-					"32",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Gefüllter Eierpfannkuchen mit Vanillesauce",
-				"attributes": [
-					"F",
-					"30",
-					"32",
+					"35",
 					"36"
 				],
 				"price": {
@@ -44,26 +30,26 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Semmelknödel \"Esterhazy\" mit Gemüsestreifen",
+			"2": {
+				"name": "Asiatische Reis-Gemüsepfanne",
 				"attributes": [
-					"F",
-					"30",
-					"32",
+					"V",
 					"35",
-					"38"
+					"38",
+					"39"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Gebackener Blumenkohl mit Sauce Hollandaise",
+			"3": {
+				"name": "Gnocchi an cremiger Käse-Sahnesauce mit Gemüse",
 				"attributes": [
 					"F",
+					"30",
 					"32",
 					"36"
 				],
@@ -74,11 +60,26 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Indische Curry-Gemüsesuppe",
+			"4": {
+				"name": "Penne mit Tomaten-Zucchinisauce",
 				"attributes": [
 					"V",
-					""
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Marokkanische Pasta mit Nüssen, Kichererbsen und Rosinen",
+				"attributes": [
+					"V",
+					"30",
+					"37"
 				],
 				"price": {
 					"student": 1.8,
@@ -90,9 +91,10 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Schweineschnitzel mit ungarischer Pusztasauce",
+				"name": "Krakauer Würstchen auf Grünkohl",
 				"attributes": [
-					"30",
+					"2",
+					"3",
 					"S"
 				],
 				"price": {
@@ -103,22 +105,26 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Karibisches Bananenhuhn",
+				"name": "Bolognese mit Schweinehackfleisch und Parmesan",
 				"attributes": [
-					""
+					"1",
+					"2",
+					"36",
+					"38",
+					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Orientalische Hackfleischpfanne mit Linsen und Kichererbsen",
+				"name": "Putenschnitzel an fruchtiger Pfirsichsauce",
 				"attributes": [
-					"2",
-					"S"
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.3,
@@ -128,28 +134,30 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Geflügelgulasch in Curry-Maracujasauce",
+				"name": "Curry-Hähnchen Madras",
 				"attributes": [
+					"3",
+					"32",
 					"36",
 					"39"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Panierter Seelachs an Remouladensauce",
+				"name": "Gebackene Tintenfischringe an Knoblauch-Dip",
 				"attributes": [
+					"1",
 					"3",
-					"9",
 					"30",
 					"32",
-					"33",
 					"36",
-					"39"
+					"39",
+					"43"
 				],
 				"price": {
 					"student": 2.4,
@@ -161,13 +169,11 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Gabelspaghetti mit Mangold-Karottenragout in Rahmsauce",
+				"name": "Bunte Spirelli in Brokkoli-Tomatensauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
-					"35",
-					"38"
+					"30"
 				],
 				"price": {
 					"student": 2.9,
@@ -177,11 +183,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Tofuragout mexikanische Art",
+				"name": "Dinkel-Gemüsebratling mit Sellerie-Karottensauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"35",
+					"30",
 					"38"
 				],
 				"price": {
@@ -192,11 +198,12 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Kartoffelgratin mit Roter Bete an Petersilien-Schmandsauce",
+				"name": "Brokkoli-Blumenkohl-Auflauf",
 				"attributes": [
 					"F",
 					"Ö",
-					"36"
+					"32",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -206,7 +213,7 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Weißkohleintopf mit Kartoffeln",
+				"name": "Mexikanische Gemüsepfanne mit Chilisauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -220,11 +227,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Mediterrane Gemüsepfanne mit Tofu",
+				"name": "Gedünstetes Saisongemüse an Kräuter-Karottensauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"35"
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 2.9,
@@ -237,7 +245,20 @@
 		"Aktions-Essen": {
 			"1": null,
 			"2": null,
-			"3": null,
+			"3": {
+				"name": "Geschmorter Hirschbraten in Rotweinjus",
+				"attributes": [
+					"A",
+					"30",
+					"41"
+				],
+				"price": {
+					"student": 5.5,
+					"employee": 6.8,
+					"visitor": 7.7
+				},
+				"vitalInfo": null
+			},
 			"4": null,
 			"5": null
 		}
