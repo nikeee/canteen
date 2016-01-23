@@ -7,20 +7,32 @@
 		}
 	},
 	"validity": {
-		"from": "2016-01-18T00:00:00.000Z",
-		"until": "2016-01-22T00:00:00.000Z"
+		"from": "2016-01-25T00:00:00.000Z",
+		"until": "2016-01-29T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Gefüllter Germknödel mit Vanillesauce",
+				"name": "Griechischer Bohneneintopf",
 				"attributes": [
 					"F",
-					"1",
-					"2",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Spinat-Nudelauflauf mit Sauce Hollandaise",
+				"attributes": [
+					"F",
 					"30",
-					"35",
+					"32",
 					"36"
 				],
 				"price": {
@@ -30,25 +42,11 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Asiatische Reis-Gemüsepfanne",
-				"attributes": [
-					"V",
-					"35",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Gnocchi an cremiger Käse-Sahnesauce mit Gemüse",
+				"name": "Ofenfrischer Apfelstrudel auf Vanillesauce",
 				"attributes": [
 					"F",
+					"1",
 					"30",
 					"32",
 					"36"
@@ -61,11 +59,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Penne mit Tomaten-Zucchinisauce",
+				"name": "Buttermilchkartoffeln - Kartoffeln in Buttermilch gegart",
 				"attributes": [
-					"V",
-					"30",
-					"35"
+					"2",
+					"3",
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 1.9,
@@ -75,26 +74,28 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Marokkanische Pasta mit Nüssen, Kichererbsen und Rosinen",
+				"name": "Kartoffelpfanne Mexikanisch mit Chilisauce",
 				"attributes": [
 					"V",
-					"30",
-					"37"
+					""
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Krakauer Würstchen auf Grünkohl",
+				"name": "Kassler Braten mit Rotweinjus",
 				"attributes": [
+					"A",
 					"2",
 					"3",
+					"8",
+					"41",
 					"S"
 				],
 				"price": {
@@ -105,26 +106,9 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Bolognese mit Schweinehackfleisch und Parmesan",
+				"name": "Hühnerfrikassee mit buntem Gemüse",
 				"attributes": [
-					"1",
-					"2",
-					"36",
-					"38",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Putenschnitzel an fruchtiger Pfirsichsauce",
-				"attributes": [
-					"30",
-					"36"
+					"30"
 				],
 				"price": {
 					"student": 2.3,
@@ -133,31 +117,40 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Curry-Hähnchen Madras",
+			"3": {
+				"name": "Niederländischer Bäckerofen - Schweinegulasch in Bier gegart",
 				"attributes": [
-					"3",
-					"32",
-					"36",
+					"A",
+					"30",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Rotes Sri Lanka Hühnchencurry auf Reis",
+				"attributes": [
 					"39"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gebackene Tintenfischringe an Knoblauch-Dip",
+				"name": "Matjesfilet Hausfrauenart mit Äpfeln, Gurken und Zwiebeln",
 				"attributes": [
-					"1",
+					"2",
 					"3",
-					"30",
-					"32",
-					"36",
-					"39",
-					"43"
+					"9",
+					"33",
+					"36"
 				],
 				"price": {
 					"student": 2.4,
@@ -169,7 +162,7 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Bunte Spirelli in Brokkoli-Tomatensauce",
+				"name": "Kartoffelpuffer mit Apfelkompott",
 				"attributes": [
 					"V",
 					"Ö",
@@ -183,26 +176,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Dinkel-Gemüsebratling mit Sellerie-Karottensauce",
+				"name": "Polenta mit buntem Gemüse und Paprikasauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
-					"38"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Brokkoli-Blumenkohl-Auflauf",
-				"attributes": [
-					"F",
-					"Ö",
-					"32",
 					"35"
 				],
 				"price": {
@@ -212,12 +189,28 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Mexikanische Gemüsepfanne mit Chilisauce",
+			"3": {
+				"name": "Bunte Spirelli mit grüner Erbsensauce",
 				"attributes": [
 					"V",
 					"Ö",
-					""
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Kohlrabi-Karotten-Kartoffelgulasch in Petersiliensauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -227,12 +220,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gedünstetes Saisongemüse an Kräuter-Karottensauce",
+				"name": "Tofu-Curry-Ragout mit Tomatenwürfeln und Erbsen",
 				"attributes": [
 					"V",
 					"Ö",
 					"35",
-					"38"
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -246,16 +239,19 @@
 			"1": null,
 			"2": null,
 			"3": {
-				"name": "Geschmorter Hirschbraten in Rotweinjus",
+				"name": "Hessisches Weckewerk mit Schippeln und Gurke",
 				"attributes": [
-					"A",
+					"2",
+					"9",
 					"30",
-					"41"
+					"38",
+					"39",
+					"S"
 				],
 				"price": {
-					"student": 5.5,
-					"employee": 6.8,
-					"visitor": 7.7
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
 			},

@@ -7,14 +7,28 @@
 		}
 	},
 	"validity": {
-		"from": "2016-01-18T00:00:00.000Z",
-		"until": "2016-01-22T00:00:00.000Z"
+		"from": "2016-01-25T00:00:00.000Z",
+		"until": "2016-01-29T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Original hessische grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"name": "Orientalischer Orangen-Couscous an fruchtigem Pfirsich-Korianderdip",
+				"attributes": [
+					"V",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Rahmspinat mit Rührei",
 				"attributes": [
 					"F",
 					"32",
@@ -27,28 +41,13 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Orientalische Linsenpfanne mit bunten Gemüsen an cremiger Kürbissauce",
-				"attributes": [
-					"V",
-					"2",
-					"35",
-					"38",
-					"39",
-					"41"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Rosmarinkartoffeln mit fruchtigem Tomatendip",
+				"name": "Schwäbische Spätzle mit Preiselbeer-Rahmsauce",
 				"attributes": [
-					"V",
-					""
+					"F",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -58,11 +57,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
+				"name": "Marokkanische Pasta mit Nüssen, Kichererbsen und Rosinen",
 				"attributes": [
 					"V",
 					"30",
-					"38"
+					"37"
 				],
 				"price": {
 					"student": 1.9,
@@ -72,29 +71,26 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Vegane Gulaschsuppe Ungarische Art",
+				"name": "Hausgemachter Karotten-Kartoffelstampf auf Tomatenragout",
 				"attributes": [
 					"V",
 					"30",
 					"35"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Mini-Hackfleischbällchen auf Jalapeño-Tomatensauce",
+				"name": "Geschnetzeltes von der Putenoberkeule mit Pfefferrahm",
 				"attributes": [
 					"30",
-					"32",
-					"36",
-					"R",
-					"S"
+					"36"
 				],
 				"price": {
 					"student": 2.4,
@@ -104,27 +100,9 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Asia-Putenstreifen in Red-Thaicurry-Sauce",
+				"name": "Farfalle Tricolore an einer Béchamelsauce mit Hackfleisch und Kräutern",
 				"attributes": [
 					"30",
-					"35",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Semmelknödel mit Speck-Schmandstippe",
-				"attributes": [
-					"2",
-					"3",
-					"30",
-					"32",
 					"36",
 					"S"
 				],
@@ -135,11 +113,26 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Schaschliktopf",
+			"3": {
+				"name": "Hähnchenbrust mit Sauce Café de Paris",
 				"attributes": [
-					"2",
 					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
+				"attributes": [
+					"8",
+					"30",
+					"36",
 					"S"
 				],
 				"price": {
@@ -150,14 +143,13 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gefülltes hessisches Kraut auf Béchamelsauce",
+				"name": "Italienische Gabelspaghetti mit Puten-Bolognese und Parmesan",
 				"attributes": [
+					"1",
+					"2",
 					"30",
 					"32",
-					"35",
-					"36",
-					"39",
-					"S"
+					"36"
 				],
 				"price": {
 					"student": 2.4,
@@ -169,95 +161,27 @@
 		},
 		"Essen 3 oder 4": {
 			"1": {
-				"name": "Ofenfrisches Hähnchenfilet in Teriyaki-Marinade an asiatischer Sojasauce mit Honig",
-				"attributes": [
-					"1",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 3.6,
-					"employee": 4.9,
-					"visitor": 5.8
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Gebratenes Cordon bleu vom Schweinerücken an einer Whiskey-Jus",
+				"name": "Ofenfrischer bayrischer Krustenbraten auf Schwarzbierjus",
 				"attributes": [
 					"A",
 					"2",
 					"3",
+					"8",
 					"30",
-					"32",
-					"36",
 					"S"
 				],
 				"price": {
-					"student": 3.6,
-					"employee": 4.9,
-					"visitor": 5.8
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Gebratenes Hähnchenschnitzel in Sesamhülle an Spinat-Cremesauce",
-				"attributes": [
-					"30",
-					"32",
-					"36",
-					"40"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Zarter Hähnchenspieß in scharfer Currysauce",
-				"attributes": [
-					"30",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null
-			},
-			"5": null
-		},
-		"Angebot des Tages I": {
-			"1": {
-				"name": "Veganer Burger mit Kichererbsenpatty, Salaten, veganer Mayonnaise und fruchtigem Tomatendip",
-				"attributes": [
-					"V",
-					"2",
-					"9",
-					"30",
-					"37",
-					"38",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 3.7,
+					"employee": 5,
+					"visitor": 5.9
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Seehechtfilet auf Gurkengemüse und Kräuterkartoffeln, dazu Himbeer-Dessert",
+				"name": "Gebratenes Putenschnitzel auf warmem Schmand",
 				"attributes": [
-					"MV",
 					"30",
-					"33",
+					"32",
 					"36"
 				],
 				"price": {
@@ -265,46 +189,91 @@
 					"employee": 4.7,
 					"visitor": 5.6
 				},
-				"vitalInfo": {
-					"fat": 18,
-					"carbohydrate": 69,
-					"protein": 38,
-					"calories": 612
-				}
+				"vitalInfo": null
 			},
-			"3": {
-				"name": "Zartweizen-Frischkäse-Pfirsich-Gratin mit Mangomus",
+			"3": null,
+			"4": {
+				"name": "Hausgemachte Spinatlasagne in Knoblauchcreme",
+				"attributes": [
+					"V",
+					"1",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Rote Bete Cremesuppe mit frischen Kräutern, Maronen und Dipballs",
+				"attributes": [
+					"V",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			}
+		},
+		"Angebot des Tages I": {
+			"1": {
+				"name": "Gnocchi mit bunten Gemüsen",
 				"attributes": [
 					"F",
 					"MV",
-					"30",
+					"2",
 					"32",
 					"36"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
 				},
 				"vitalInfo": {
-					"fat": 27,
-					"carbohydrate": 94,
-					"protein": 28,
-					"calories": 729
+					"fat": 9,
+					"carbohydrate": 88,
+					"protein": 22,
+					"calories": 643
 				}
 			},
-			"4": {
-				"name": "Burger mit doppelt Beef, rauchigem Dip und Salaten",
+			"2": {
+				"name": "Tagliatelle mit Grünkohl-Sojasahnesauce und Walnüssen",
 				"attributes": [
-					"1",
-					"3",
-					"9",
+					"V",
+					"MV",
+					"30",
+					"35",
+					"37"
+				],
+				"price": {
+					"student": 2.2,
+					"employee": 3.5,
+					"visitor": 4.4
+				},
+				"vitalInfo": {
+					"fat": 26,
+					"carbohydrate": 101,
+					"protein": 30,
+					"calories": 741
+				}
+			},
+			"3": {
+				"name": "Lachsfilet in Pankopanade auf Tomaten-Sahnesauce mit einem Schuss Gin",
+				"attributes": [
+					"A",
 					"30",
 					"32",
+					"33",
 					"36",
-					"39",
-					"40",
-					"R"
+					"41"
 				],
 				"price": {
 					"student": 6,
@@ -313,26 +282,32 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Vollkornspaghetti mit Champignons, Ananas und Erbsen",
+			"4": {
+				"name": "Halbes Grillhähnchen mit brauner Sauce",
 				"attributes": [
-					"V",
-					"MV",
-					"3",
-					"30",
-					"35"
+					"30"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
 				},
-				"vitalInfo": {
-					"fat": 28,
-					"carbohydrate": 95,
-					"protein": 27,
-					"calories": 739
-				}
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Rindfleischgulasch mit Rotwein abgelöscht",
+				"attributes": [
+					"A",
+					"30",
+					"41",
+					"R"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
 			}
 		}
 	}
