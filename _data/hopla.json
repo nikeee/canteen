@@ -354,12 +354,13 @@
 			"4": {
 				"name": "Mensa-Spezial-Burger mit Cordon Bleu, Salat und Sauce Choron",
 				"attributes": [
+					"2",
+					"3",
 					"9",
 					"30",
 					"32",
 					"36",
-					"39",
-					"R"
+					"S"
 				],
 				"price": {
 					"student": 4.5,
@@ -369,7 +370,7 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gebratener Seehecht im Sesamkleid an Risotto mit Gemüsen",
+				"name": "Gebratener Seehecht auf einem bunten Gemüserisotto",
 				"attributes": [
 					"A",
 					"30",
