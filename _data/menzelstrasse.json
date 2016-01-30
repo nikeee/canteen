@@ -7,14 +7,69 @@
 		}
 	},
 	"validity": {
-		"from": "2016-01-25T00:00:00.000Z",
-		"until": "2016-01-29T00:00:00.000Z"
+		"from": "2016-02-01T00:00:00.000Z",
+		"until": "2016-02-05T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Orientalischer Orangen-Couscous an fruchtigem Pfirsich-Korianderdip",
+				"name": "Kartoffelpuffer mit Apfelmus",
+				"attributes": [
+					"F",
+					"3",
+					"32"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Sojageschnetzeltes \"Stroganoff\"",
+				"attributes": [
+					"V",
+					"9",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Geschwenktes Kichererbsen-Auberginen-Sambal",
+				"attributes": [
+					"V",
+					""
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Ofenfrische Brätlinge mit Spundekäse",
+				"attributes": [
+					"F",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Minestrone - Italienische Gemüsesuppe mit Reis und Nudeln",
 				"attributes": [
 					"V",
 					"30",
@@ -26,82 +81,15 @@
 					"visitor": 4
 				},
 				"vitalInfo": null
-			},
-			"2": {
-				"name": "Rahmspinat mit Rührei",
-				"attributes": [
-					"F",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Schwäbische Spätzle mit Preiselbeer-Rahmsauce",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Marokkanische Pasta mit Nüssen, Kichererbsen und Rosinen",
-				"attributes": [
-					"V",
-					"30",
-					"37"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Hausgemachter Karotten-Kartoffelstampf auf Tomatenragout",
-				"attributes": [
-					"V",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Geschnetzeltes von der Putenoberkeule mit Pfefferrahm",
+				"name": "Italienische Tagliatelle mit Kräuter-Schinken-Sahnesauce",
 				"attributes": [
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Farfalle Tricolore an einer Béchamelsauce mit Hackfleisch und Kräutern",
-				"attributes": [
+					"2",
+					"3",
+					"8",
 					"30",
 					"36",
 					"S"
@@ -113,12 +101,13 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Hähnchenbrust mit Sauce Café de Paris",
+			"2": {
+				"name": "Hühnerfrikassee mit Erbsen und Spargel",
 				"attributes": [
+					"A",
 					"30",
-					"32",
-					"36"
+					"36",
+					"41"
 				],
 				"price": {
 					"student": 2.5,
@@ -127,10 +116,9 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
+			"3": {
+				"name": "Geschnetzeltes aus der Schweinekeule in Pfirsichrahm",
 				"attributes": [
-					"8",
 					"30",
 					"36",
 					"S"
@@ -142,19 +130,32 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Italienische Gabelspaghetti mit Puten-Bolognese und Parmesan",
+			"4": {
+				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
 				"attributes": [
-					"1",
-					"2",
-					"30",
-					"32",
-					"36"
+					""
 				],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
 					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Gegrillter Fleischkäse auf einer Zwiebeljus",
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"30",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			}
