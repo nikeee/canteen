@@ -18,8 +18,11 @@
 				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
 					"F",
+					"G",
 					"3",
-					"32"
+					"G",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 1.9,

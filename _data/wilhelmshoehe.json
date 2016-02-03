@@ -212,13 +212,12 @@
 		},
 		"Angebot des Tages I": {
 			"1": {
-				"name": "Rindfleischgulasch mit Rotwein abgelöscht",
+				"name": "Ghanaisches Hähnchen in Erdnuss-Tomatensauce",
 				"attributes": [
-					"A",
+					"2",
 					"30",
-					"36",
-					"41",
-					"R"
+					"32",
+					"34"
 				],
 				"price": {
 					"student": 3.3,
