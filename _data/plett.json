@@ -7,18 +7,32 @@
 		}
 	},
 	"validity": {
-		"from": "2016-02-01T00:00:00.000Z",
-		"until": "2016-02-05T00:00:00.000Z"
+		"from": "2016-02-08T00:00:00.000Z",
+		"until": "2016-02-12T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Kartoffelpuffer mit Apfelmus",
+				"name": "Spaghetti in fruchtiger Tomatensauce",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Eieromelette an cremiger Gemüsesauce",
 				"attributes": [
 					"F",
-					"3",
-					"32"
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -27,11 +41,28 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Sojageschnetzeltes \"Stroganoff\"",
+			"3": {
+				"name": "Hausgemachter Mohnschmarrn mit Apfelgrütze",
+				"attributes": [
+					"F",
+					"A",
+					"1",
+					"3",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Italienische Penne an cremiger Steinpilzsauce",
 				"attributes": [
 					"V",
-					"9",
 					"30",
 					"35"
 				],
@@ -42,38 +73,11 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Geschwenktes Kichererbsen-Auberginen-Sambal",
-				"attributes": [
-					"V",
-					""
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Ofenfrische Brätlinge mit Spundekäse",
-				"attributes": [
-					"F",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Minestrone - Italienische Gemüsesuppe mit Reis und Nudeln",
+				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
 				"attributes": [
 					"V",
-					"30",
-					"38"
+					"30"
 				],
 				"price": {
 					"student": 1.8,
@@ -85,14 +89,11 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Italienische Tagliatelle mit Kräuter-Schinken-Sahnesauce",
+				"name": "Ofenfrische Putenfrikadelle an Geflügeljus",
 				"attributes": [
-					"2",
-					"3",
-					"8",
 					"30",
-					"36",
-					"S"
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 2.3,
@@ -102,26 +103,27 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hühnerfrikassee mit Erbsen und Spargel",
+				"name": "Gebackener Alaska-Seelachs an Remouladensauce",
 				"attributes": [
-					"A",
+					"3",
+					"9",
 					"30",
+					"32",
+					"33",
 					"36",
-					"41"
+					"39"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Geschnetzeltes aus der Schweinekeule in Pfirsichrahm",
+				"name": "Ofenfrischer Hähnchenschenkel auf Jalapeño-Tomatensauce",
 				"attributes": [
-					"30",
-					"36",
-					"S"
+					"30"
 				],
 				"price": {
 					"student": 2.4,
@@ -131,25 +133,29 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
+				"name": "Kassler-Nackenbraten auf einer Calvadosjus",
 				"attributes": [
-					""
+					"A",
+					"2",
+					"3",
+					"4",
+					"30",
+					"36",
+					"38",
+					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gegrillter Fleischkäse auf einer Zwiebeljus",
+				"name": "Kartoffel-Rührei mit Speck und Lauch",
 				"attributes": [
 					"2",
-					"3",
-					"8",
-					"30",
-					"R",
+					"32",
 					"S"
 				],
 				"price": {
@@ -161,127 +167,133 @@
 			}
 		},
 		"Essen 3 oder 4": {
-			"1": null,
-			"2": {
-				"name": "Nürnberger Rostbratwurst auf Sauerkraut und Bratenjus",
+			"1": {
+				"name": "Altbayrisches Bierfleisch",
 				"attributes": [
+					"A",
+					"2",
 					"30",
 					"S"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Gebackenes Hähnchenschnitzel im Kokoskleid auf scharfer Currysauce",
+			"2": {
+				"name": "Goldgelb gebackene Chicken-Crossies mit rauchigem Tomatendip",
 				"attributes": [
-					"30",
-					"32",
-					"36",
-					"39"
+					"1",
+					"30"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
+			"3": null,
 			"4": null,
 			"5": null
 		},
 		"Angebot des Tages I": {
 			"1": {
-				"name": "Ghanaisches Hähnchen in Erdnuss-Tomatensauce",
+				"name": "Flammkuchen mit Thunfisch, Lauch, Zwiebeln und Gouda",
 				"attributes": [
-					"2",
 					"30",
-					"32",
-					"34"
+					"33",
+					"36",
+					"38"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Ofengemüse mit Basilikumdip und Rosmarinkartoffeln, dazu Weintrauben",
+				"name": "Geschnetzeltes mit grünem Pfeffer, Brokkoli und Spätzle",
 				"attributes": [
-					"F",
 					"MV",
-					"36"
+					"30",
+					"32",
+					"36",
+					"37",
+					"S"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": {
 					"fat": 22,
-					"carbohydrate": 84,
-					"protein": 28,
-					"calories": 659
+					"carbohydrate": 88,
+					"protein": 45,
+					"calories": 747
 				}
 			},
 			"3": {
-				"name": "Gabelspaghetti mit feurigem Tomaten-Mango-Belugalinsenragout",
+				"name": "Wok-Gemüsereis mit Sprossen und gerösteten Cashewkernen",
 				"attributes": [
 					"V",
+					"A",
 					"MV",
-					"30"
+					"30",
+					"35",
+					"37",
+					"40",
+					"41"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": {
-					"fat": 24,
-					"carbohydrate": 92,
-					"protein": 31,
-					"calories": 693
+					"fat": 23,
+					"carbohydrate": 83,
+					"protein": 22,
+					"calories": 622
 				}
 			},
 			"4": {
-				"name": "Seehecht auf Balsamicolinsen und Meerrettichstampf",
+				"name": "Tagliatelle in Blattspinat-Tomaten-Frischkäsesauce",
 				"attributes": [
+					"F",
 					"MV",
-					"3",
 					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": {
-					"fat": 19,
-					"carbohydrate": 86,
-					"protein": 44,
-					"calories": 698
-				}
-			},
-			"5": {
-				"name": "Matjesfilet nach Hausfrauenart mit Schmand, Äpfeln, Gurken und Zwiebeln",
-				"attributes": [
-					"2",
-					"9",
-					"33",
 					"36"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": {
+					"fat": 21,
+					"carbohydrate": 92,
+					"protein": 31,
+					"calories": 697
+				}
+			},
+			"5": {
+				"name": "Deftig gebratene Krakauer mit Grünkohl",
+				"attributes": [
+					"2",
+					"3",
+					"30",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
 			}
