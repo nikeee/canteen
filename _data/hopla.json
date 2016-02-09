@@ -14,19 +14,7 @@
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
-			"1": {
-				"name": "Spaghetti in fruchtiger Tomatensauce",
-				"attributes": [
-					"V",
-					"30"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
 				"name": "Eieromelette an cremiger Gemüsesauce",
 				"attributes": [

@@ -213,12 +213,12 @@
 		},
 		"Angebot des Tages I": {
 			"1": {
-				"name": "Indische Ebly-Pfanne mit Gemüsen, Nüssen, Koriander und Schärfe",
+				"name": "Matjesfilet nach Hausfrauenart mit Schmand, Äpfeln, Gurken und Zwiebeln",
 				"attributes": [
-					"V",
-					"30",
-					"37",
-					"39"
+					"2",
+					"9",
+					"33",
+					"36"
 				],
 				"price": {
 					"student": 2.6,
