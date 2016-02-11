@@ -195,7 +195,28 @@
 				},
 				"vitalInfo": null
 			},
-			"3": null,
+			"3": {
+				"name": "Geschnetzeltes mit grünem Pfeffer, Brokkoli und Spätzle",
+				"attributes": [
+					"MV",
+					"30",
+					"32",
+					"36",
+					"37",
+					"S"
+				],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 88,
+					"protein": 45,
+					"calories": 747
+				}
+			},
 			"4": {
 				"name": "Texanisches, feuriges Chili con Carne mit einem Hauch Kakao",
 				"attributes": [
@@ -262,9 +283,9 @@
 					"S"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
