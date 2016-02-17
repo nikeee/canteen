@@ -92,7 +92,8 @@
 				"name": "Geschnetzeltes von der Putenoberkeule mit Champignons",
 				"attributes": [
 					"30",
-					"36"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -173,9 +174,12 @@
 			"1": {
 				"name": "Bangers Mash mit gegrillter Bratwurst auf hausgemachtem Kartoffelstampf und Röstzwiebeln",
 				"attributes": [
+					"2",
 					"3",
 					"8",
+					"30",
 					"36",
+					"39",
 					"R",
 					"S"
 				],
@@ -257,9 +261,9 @@
 					"40"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
