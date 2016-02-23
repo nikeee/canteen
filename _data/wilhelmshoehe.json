@@ -204,9 +204,9 @@
 					"R"
 				],
 				"price": {
-					"student": 7,
-					"employee": 8.3,
-					"visitor": 9.2
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
