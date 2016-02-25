@@ -117,11 +117,15 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Cordon Bleu von der Pute auf einer Gorgonzola-Sahnesauce",
+				"name": "Cordon Bleu vom Schwein auf einer Gorgonzola-Sahnesauce",
 				"attributes": [
+					"1",
 					"2",
+					"3",
+					"8",
 					"30",
-					"36"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -168,8 +172,36 @@
 			"1": null,
 			"2": null,
 			"3": null,
-			"4": null,
-			"5": null
+			"4": {
+				"name": "Bunte Spirelli mit grüner Erbsensauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Kartoffelgratin mit Kohlrabi an Petersilien-Schmandsauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			}
 		},
 		"Aktions-Essen": {
 			"1": null,
