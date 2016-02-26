@@ -199,9 +199,10 @@
 			"3": {
 				"name": "Zartweizen-Kartoffelgratin mit Roter Bete und Karotten",
 				"attributes": [
-					"V",
+					"F",
 					"MV",
 					"30",
+					"32",
 					"35"
 				],
 				"price": {
@@ -240,23 +241,21 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hähnchenbrust auf Wurzelgemüse-Kartoffelbett, dazu ein Apfel",
+				"name": "Asiatische Entenkeule in süß-scharfer Sauce geschmort",
 				"attributes": [
-					"A",
-					"MV",
-					"41"
+					"1",
+					"3",
+					"30",
+					"35",
+					"39",
+					"40"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
-				"vitalInfo": {
-					"fat": 18,
-					"carbohydrate": 82,
-					"protein": 37,
-					"calories": 696
-				}
+				"vitalInfo": null
 			},
 			"5": {
 				"name": "Überbackenes Putenschnitzel mit Tomate und Gouda auf Provenzalischer Jus",
