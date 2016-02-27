@@ -7,61 +7,18 @@
 		}
 	},
 	"validity": {
-		"from": "2016-02-22T00:00:00.000Z",
-		"until": "2016-02-26T00:00:00.000Z"
+		"from": "2016-02-29T00:00:00.000Z",
+		"until": "2016-03-04T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Indisches Aloo Gobi mit Kartoffeln und Blumenkohl",
-				"attributes": [
-					"V",
-					""
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Semmelknödel mit Champignonsauce",
+				"name": "Gemüseschnitzel mit Sahnesauce",
 				"attributes": [
 					"F",
 					"30",
 					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Omelette mit Blattspinat",
-				"attributes": [
-					"F",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Frühlingsrollen an süß-saurer Asia-Sauce",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"35",
 					"36",
 					"38"
 				],
@@ -72,12 +29,54 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Minestrone - Italienische Gemüsesuppe",
+			"2": {
+				"name": "Maultaschen auf Majoran-Schmandsauce",
+				"attributes": [
+					"F",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Kokos-Sojamilchreis mit Fruchtsauce",
 				"attributes": [
 					"V",
+					"1",
+					"35"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Spanischer Tortilla-Gemüseauflauf",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Vegane Soljanka mit Gurke, Paprika und Tofu",
+				"attributes": [
+					"V",
+					"9",
 					"30",
-					"38"
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -89,24 +88,11 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Bayrische Wirsing-Hackfleischpfanne",
+				"name": "Hausgemachte Lasagne mit Béchamelsauce",
 				"attributes": [
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Grillfrischer Krustenbraten",
-				"attributes": [
-					"2",
-					"3",
-					"8",
+					"30",
+					"32",
+					"36",
 					"S"
 				],
 				"price": {
@@ -116,15 +102,30 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Cordon Bleu vom Schwein auf einer Gorgonzola-Sahnesauce",
+			"2": {
+				"name": "Geschwenktes Hähnchenfleisch süß-sauer",
 				"attributes": [
 					"1",
-					"2",
 					"3",
-					"8",
 					"30",
+					"35",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gyrospfanne mit Zaziki",
+				"attributes": [
+					"9",
 					"36",
+					"38",
+					"39",
 					"S"
 				],
 				"price": {
@@ -135,29 +136,25 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Königsberger Klopse in Kapernsauce",
+				"name": "Gebratenes Putenschnitzel auf einer Ananas-Fruchtsauce",
 				"attributes": [
 					"30",
-					"32",
-					"36",
-					"39",
-					"S"
+					"36"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gebratene Scholle mit Remouladensauce",
+				"name": "Feines Fischragout in cremiger Currysauce",
 				"attributes": [
-					"3",
 					"30",
-					"32",
 					"33",
 					"36",
+					"38",
 					"39"
 				],
 				"price": {
@@ -169,15 +166,11 @@
 			}
 		},
 		"Bio-Essen": {
-			"1": null,
-			"2": null,
-			"3": null,
-			"4": {
-				"name": "Bunte Spirelli mit grüner Erbsensauce",
+			"1": {
+				"name": "Thailändisches Kartoffelcurry",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
 					"35",
 					"39"
 				],
@@ -188,12 +181,56 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Kartoffelgratin mit Kohlrabi an Petersilien-Schmandsauce",
+			"2": {
+				"name": "Bunte Bohnenpfanne mit Tomaten, Kartoffeln und Zwiebeln",
 				"attributes": [
 					"V",
 					"Ö",
+					""
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Brätlinge mit Kressefrischkäse",
+				"attributes": [
+					"F",
+					"Ö",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Grünkerntaler mit warmer Soja-Currysauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
 					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Kartoffelgratin mit Lauch und Karotten",
+				"attributes": [
+					"F",
+					"Ö",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -206,7 +243,20 @@
 		"Aktions-Essen": {
 			"1": null,
 			"2": null,
-			"3": null,
+			"3": {
+				"name": "Geschmorter Hirschbraten in Rotweinjus",
+				"attributes": [
+					"A",
+					"30",
+					"41"
+				],
+				"price": {
+					"student": 5.5,
+					"employee": 6.8,
+					"visitor": 7.7
+				},
+				"vitalInfo": null
+			},
 			"4": null,
 			"5": null
 		}
