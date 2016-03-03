@@ -29,10 +29,14 @@
 			"2": {
 				"name": "Kritharakisalat mit bunten Gemüsen an gartenfrischen Salaten und Brotsticks",
 				"attributes": [
-					"V",
+					"F",
+					"1",
+					"2",
 					"3",
 					"6",
-					"30"
+					"30",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -107,7 +111,9 @@
 					"2",
 					"8",
 					"30",
+					"32",
 					"36",
+					"R",
 					"S"
 				],
 				"price": {
@@ -228,8 +234,11 @@
 				"name": "Chicken Tikka Masala mit Paprikagemüse und Basmatireis",
 				"attributes": [
 					"MV",
+					"1",
+					"2",
 					"30",
 					"36",
+					"38",
 					"39"
 				],
 				"price": {
@@ -325,6 +334,8 @@
 				"attributes": [
 					"F",
 					"A",
+					"1",
+					"2",
 					"30",
 					"32",
 					"36"
