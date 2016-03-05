@@ -7,20 +7,18 @@
 		}
 	},
 	"validity": {
-		"from": "2016-02-29T00:00:00.000Z",
-		"until": "2016-03-04T00:00:00.000Z"
+		"from": "2016-03-07T00:00:00.000Z",
+		"until": "2016-03-11T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Gemüseschnitzel mit Sahnesauce",
+				"name": "Mediterrane Couscouspfanne mit getrockneten Tomaten",
 				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36",
-					"38"
+					"V",
+					"6",
+					"30"
 				],
 				"price": {
 					"student": 1.8,
@@ -30,10 +28,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Maultaschen auf Majoran-Schmandsauce",
+				"name": "Kartoffelcremesuppe mit Gemüsewürfeln",
 				"attributes": [
 					"F",
-					"36"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -43,24 +42,10 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Kokos-Sojamilchreis mit Fruchtsauce",
-				"attributes": [
-					"V",
-					"1",
-					"35"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Spanischer Tortilla-Gemüseauflauf",
+				"name": "Pasta in provenzalischer Zucchini-Paprikasauce",
 				"attributes": [
 					"F",
-					"32",
+					"30",
 					"36"
 				],
 				"price": {
@@ -70,93 +55,41 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Vegane Soljanka mit Gurke, Paprika und Tofu",
+			"4": {
+				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
-					"V",
-					"9",
-					"30",
-					"35"
+					"F",
+					"3",
+					"32"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Asiatische Reis-Krautpfanne mit Paprika und Sprossen",
+				"attributes": [
+					"V",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Hausgemachte Lasagne mit Béchamelsauce",
+				"name": "Hausgemachter Hackbraten",
 				"attributes": [
-					"30",
 					"32",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Geschwenktes Putenfleisch süß-sauer",
-				"attributes": [
-					"F",
-					"1",
-					"3",
-					"30",
-					"35",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Gyrospfanne mit Zaziki",
-				"attributes": [
-					"9",
-					"36",
-					"38",
 					"39",
 					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Gebratenes Putenschnitzel auf einer Ananas-Fruchtsauce",
-				"attributes": [
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Feines Fischragout in cremiger Currysauce",
-				"attributes": [
-					"30",
-					"33",
-					"36",
-					"38",
-					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -164,16 +97,71 @@
 					"visitor": 4.6
 				},
 				"vitalInfo": null
+			},
+			"2": {
+				"name": "Hähnchenschenkel mit Pfefferrahmsauce",
+				"attributes": [
+					"1",
+					"36"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Asiatische Schweinefleischstreifen mit buntem Gemüse",
+				"attributes": [
+					"35",
+					"38",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Ghanaisches Hähnchen mit Reis",
+				"attributes": [
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Fischfrikadelle mit Dill-Sahnesauce",
+				"attributes": [
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Thailändisches Kartoffelcurry",
+				"name": "Möhrenpfannkuchen mit Schnittlauchsauce",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"35",
-					"39"
+					"30",
+					"32"
 				],
 				"price": {
 					"student": 2.9,
@@ -183,35 +171,7 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Bunte Bohnenpfanne mit Tomaten, Kartoffeln und Zwiebeln",
-				"attributes": [
-					"V",
-					"Ö",
-					""
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Brätlinge mit Kressefrischkäse",
-				"attributes": [
-					"F",
-					"Ö",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Grünkerntaler mit warmer Soja-Currysauce",
+				"name": "Nudeln mit Soja-Bolognese",
 				"attributes": [
 					"V",
 					"Ö",
@@ -225,13 +185,43 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Kartoffelgratin mit Lauch und Karotten",
+			"3": {
+				"name": "Linsen-Bohnen-Röstling an pikanter Paprika-Chilisauce",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"32",
-					"36"
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Penne mit Petersilienpesto",
+				"attributes": [
+					"V",
+					"Ö",
+					"30"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Thailändisches Räuchertofu-Curry",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -245,16 +235,16 @@
 			"1": null,
 			"2": null,
 			"3": {
-				"name": "Geschmorter Hirschbraten in Rotweinjus",
+				"name": "Spanisch Fricco mit Kartoffeln und Rindfleisch in Sauerrahm",
 				"attributes": [
-					"A",
-					"30",
-					"41"
+					"Ö",
+					"36",
+					"R"
 				],
 				"price": {
-					"student": 5.5,
-					"employee": 6.8,
-					"visitor": 7.7
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
 				},
 				"vitalInfo": null
 			},
