@@ -15,10 +15,11 @@
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Grillfrische halbe Zucchini auf einem Tomatenragout",
+				"name": "Gefülltes Kartoffel-Cordon-bleu auf einer Tomatenragout",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 1.8,
