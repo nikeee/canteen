@@ -16,8 +16,9 @@
 			"1": {
 				"name": "Grillfrische halbe Zucchini auf einem Tomatenragout",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"30",
+					"32"
 				],
 				"price": {
 					"student": 1.8,
@@ -167,7 +168,10 @@
 			"1": {
 				"name": "Geschwenktes Kebap von der Putenbrust mit hausgemachtem Krautsalat und einem Knoblauchdip",
 				"attributes": [
-					"36"
+					"3",
+					"32",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 3.6,

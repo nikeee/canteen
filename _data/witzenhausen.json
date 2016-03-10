@@ -235,11 +235,12 @@
 			"1": null,
 			"2": null,
 			"3": {
-				"name": "Spanisch Fricco mit Kartoffeln und Rindfleisch in Sauerrahm",
+				"name": "Spanisch Fricco mit Kartoffeln und Fleisch von Rind und Schewin in Sauerrahm",
 				"attributes": [
 					"Ö",
 					"36",
-					"R"
+					"R",
+					"S"
 				],
 				"price": {
 					"student": 4.5,

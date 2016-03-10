@@ -44,8 +44,11 @@
 			"3": {
 				"name": "Boccolotti mit tomatisiertem Grünkernragout",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"1",
+					"2",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -223,6 +226,8 @@
 				"name": "Buntbarsch mit Kartoffel-Gurkensalat und Beerengrütze",
 				"attributes": [
 					"MV",
+					"1",
+					"3",
 					"30",
 					"33",
 					"36"
