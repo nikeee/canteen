@@ -7,18 +7,20 @@
 		}
 	},
 	"validity": {
-		"from": "2016-03-07T00:00:00.000Z",
-		"until": "2016-03-11T00:00:00.000Z"
+		"from": "2016-03-14T00:00:00.000Z",
+		"until": "2016-03-18T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Mediterrane Couscouspfanne mit getrockneten Tomaten",
+				"name": "Pikante Sesamnudeln mit asiatischem Pfannengemüse",
 				"attributes": [
 					"V",
-					"6",
-					"30"
+					"30",
+					"35",
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 1.8,
@@ -28,11 +30,14 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kartoffelcremesuppe mit Gemüsewürfeln",
+				"name": "Apfel-Quark-Auflauf mit Vanillesauce",
 				"attributes": [
 					"F",
-					"36",
-					"38"
+					"1",
+					"3",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -42,10 +47,23 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Pasta in provenzalischer Zucchini-Paprikasauce",
+				"name": "Arabische Reispfanne mit Gemüsen, Sultanien und Mandeln",
+				"attributes": [
+					"V",
+					"37"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Rahmspinat mit Rührei",
 				"attributes": [
 					"F",
-					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -55,40 +73,26 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Kartoffelpuffer mit Apfelmus",
+			"5": {
+				"name": "Gebackene Kartoffeltaler auf Mangold-Möhrengemüse",
 				"attributes": [
 					"F",
-					"3",
+					"30",
 					"32"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Asiatische Reis-Krautpfanne mit Paprika und Sprossen",
-				"attributes": [
-					"V",
-					"39"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Hausgemachter Hackbraten",
+				"name": "Schaschliktopf",
 				"attributes": [
-					"32",
-					"39",
+					"2",
 					"S"
 				],
 				"price": {
@@ -99,9 +103,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hähnchenschenkel mit Pfefferrahmsauce",
+				"name": "Kartoffelgratin mit Thunfisch",
 				"attributes": [
-					"1",
+					"6",
+					"33",
 					"36"
 				],
 				"price": {
@@ -112,56 +117,50 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Asiatische Schweinefleischstreifen mit buntem Gemüse",
+				"name": "Kameruner Pfeffereintopf",
 				"attributes": [
-					"35",
-					"38",
-					"S"
+					""
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Ghanaisches Hähnchen mit Reis",
+				"name": "Szegediner Gulasch",
 				"attributes": [
-					"36"
+					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Fischfrikadelle mit Dill-Sahnesauce",
+				"name": "Seelachsfilet Müllerin Art",
 				"attributes": [
 					"30",
-					"32",
-					"33",
-					"36",
-					"39"
+					"33"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Möhrenpfannkuchen mit Schnittlauchsauce",
+				"name": "Backkartoffeln mit Kräuterquark",
 				"attributes": [
 					"F",
 					"Ö",
-					"30",
-					"32"
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -171,11 +170,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Nudeln mit Soja-Bolognese",
+				"name": "Asiatische Reis-Gemüsepfanne",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
 					"35"
 				],
 				"price": {
@@ -186,12 +184,12 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Linsen-Bohnen-Röstling an pikanter Paprika-Chilisauce",
+				"name": "Südtiroler Ofenmakkaroni",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"30",
-					"35"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -201,11 +199,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Penne mit Petersilienpesto",
+				"name": "Tofuragout in Pusztasauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"30"
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -215,13 +213,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Thailändisches Räuchertofu-Curry",
+				"name": "Nudelpfanne mit Pilzen, Zwiebeln, Tomaten und Tofu",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
-					"35",
-					"39"
+					""
 				],
 				"price": {
 					"student": 2.9,
@@ -235,11 +231,11 @@
 			"1": null,
 			"2": null,
 			"3": {
-				"name": "Spanisch Fricco mit Kartoffeln und Fleisch von Rind und Schewin in Sauerrahm",
+				"name": "Hackfleischragout Gärtnerin Art mit Gemüsestreifen und Sahne",
 				"attributes": [
 					"Ö",
+					"30",
 					"36",
-					"R",
 					"S"
 				],
 				"price": {

@@ -7,17 +7,17 @@
 		}
 	},
 	"validity": {
-		"from": "2016-03-07T00:00:00.000Z",
-		"until": "2016-03-11T00:00:00.000Z"
+		"from": "2016-03-14T00:00:00.000Z",
+		"until": "2016-03-18T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Grillfrische halbe Zucchini auf einem Tomatenragout",
+				"name": "Argentinische Pfanne mit dreierlei Bohnen und Kartoffelwürfeln an einem scharfen Tomaten-Dip",
 				"attributes": [
 					"V",
-					"30"
+					""
 				],
 				"price": {
 					"student": 1.8,
@@ -27,39 +27,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hausgemachter Stampf von zweierlei Kartoffeln an Hummus",
+				"name": "Gebratene vegane Schupfnudeln in Champignon-Sahnesauce",
 				"attributes": [
 					"V",
-					"3",
-					"35",
-					"40"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Boccolotti mit tomatisiertem Grünkernragout",
-				"attributes": [
-					"V",
-					"30"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Kokos-Soja-Milchreis mit einem Witzenhäuser Kirschragout",
-				"attributes": [
-					"V",
-					"1",
-					"3",
+					"30",
 					"35"
 				],
 				"price": {
@@ -69,12 +40,14 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Lauchkuchen mit Schmand und roten Zwiebeln",
+			"3": {
+				"name": "Kartoffelpfanne mit Gewürzgurke",
 				"attributes": [
-					"F",
-					"30",
-					"36"
+					"2",
+					"9",
+					"32",
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 1.9,
@@ -82,17 +55,46 @@
 					"visitor": 4.1
 				},
 				"vitalInfo": null
+			},
+			"4": {
+				"name": "Pfannenfrische Gemüsepaella",
+				"attributes": [
+					"V",
+					""
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
+					"37"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Grünkohl mit deftig gebratener Krakauer",
+				"name": "Bami Goreng mit Geflügelstreifen",
 				"attributes": [
-					"2",
-					"3",
 					"30",
-					"39",
-					"S"
+					"32",
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -102,9 +104,12 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Mediterrane Gemüsepfanne mit Streifen von der Hähnchenbrust",
+				"name": "Paniertes Nackenschnitzel vom Schwein an Schwarzbierjus",
 				"attributes": [
-					""
+					"A",
+					"30",
+					"32",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -114,15 +119,10 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Saltimbocca vom Schweinerücken auf Marsala-Rahmsauce",
+				"name": "Tortelloni all'arrabiata in einer Tomatensauce",
 				"attributes": [
-					"A",
-					"2",
-					"3",
-					"30",
-					"36",
-					"41",
-					"S"
+					"V",
+					"30"
 				],
 				"price": {
 					"student": 2.5,
@@ -132,28 +132,28 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Sloppy Joe Burger mit Eisbergsalat und Puten-Hackfleischsauce",
+				"name": "Geschnetzeltes aus der Putenoberkeule in Bärlauchrahm",
 				"attributes": [
-					"1",
 					"30",
-					"40"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Italienische Radinudeln an Frischkäsesauce mit Putenschinken",
+				"name": "Ofenfrische Hackfleischpizza mit Paprika, Tomaten und Mais",
 				"attributes": [
-					"2",
-					"3",
-					"8",
 					"30",
 					"32",
-					"36"
+					"35",
+					"36",
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
