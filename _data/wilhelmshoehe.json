@@ -30,8 +30,9 @@
 			"2": {
 				"name": "Gebratene vegane Schupfnudeln in Champignon-Sahnesauce",
 				"attributes": [
-					"V",
+					"F",
 					"30",
+					"32",
 					"35"
 				],
 				"price": {
@@ -47,6 +48,7 @@
 					"2",
 					"9",
 					"32",
+					"36",
 					"39",
 					"S"
 				],
@@ -110,6 +112,7 @@
 					"A",
 					"30",
 					"32",
+					"36",
 					"S"
 				],
 				"price": {
