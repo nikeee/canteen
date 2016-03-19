@@ -7,17 +7,19 @@
 		}
 	},
 	"validity": {
-		"from": "2016-03-14T00:00:00.000Z",
-		"until": "2016-03-18T00:00:00.000Z"
+		"from": "2016-03-21T00:00:00.000Z",
+		"until": "2016-03-25T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Argentinische Pfanne mit dreierlei Bohnen und Kartoffelwürfeln an einem scharfen Tomaten-Dip",
+				"name": "Hessische Kartoffelsuppe mit Gemüsen",
 				"attributes": [
-					"V",
-					""
+					"F",
+					"30",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -27,11 +29,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebratene vegane Schupfnudeln in Champignon-Sahnesauce",
+				"name": "Frisch gebackene Kartoffelecken mit Hot-Salsa-Dip",
 				"attributes": [
 					"V",
-					"30",
-					"35"
+					""
 				],
 				"price": {
 					"student": 1.9,
@@ -41,13 +42,14 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Kartoffelpfanne mit Gewürzgurke",
+				"name": "Asiatische Basmatireis-Gemüsepfanne",
 				"attributes": [
-					"2",
-					"9",
-					"32",
+					"V",
+					"30",
+					"35",
+					"38",
 					"39",
-					"S"
+					"40"
 				],
 				"price": {
 					"student": 1.9,
@@ -57,10 +59,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Pfannenfrische Gemüsepaella",
+				"name": "Vegane Soljanka mit Gurke, Paprika und Tofu",
 				"attributes": [
 					"V",
-					""
+					"9",
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -70,59 +74,57 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
+				"name": "Karfreitag - Heute bleiben unsere Einrichtungen geschlossen",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36",
-					"37"
+					""
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Bami Goreng mit Geflügelstreifen",
+				"name": "Nordhessischer Bauernhackbraten mit Majoran-Jus",
 				"attributes": [
+					"8",
 					"30",
-					"32",
-					"35",
-					"39"
+					"36",
+					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Paniertes Nackenschnitzel vom Schwein an Schwarzbierjus",
+				"name": "Gegrillte Geflügelbratwurst an Red-Thaicurry-Sauce",
 				"attributes": [
-					"A",
 					"30",
-					"32",
-					"S"
+					"36",
+					"38",
+					"R"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Tortelloni all'arrabiata in einer Tomatensauce",
+				"name": "Grillfrisches Rückensteak vom Schwein an Cassis-Rahmsauce",
 				"attributes": [
-					"V",
-					"30"
+					"A",
+					"30",
+					"36",
+					"41",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -132,36 +134,20 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Geschnetzeltes aus der Putenoberkeule in Bärlauchrahm",
+				"name": "Penne mit Blattspinat und Hackfleisch",
 				"attributes": [
 					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Ofenfrische Hackfleischpizza mit Paprika, Tomaten und Mais",
-				"attributes": [
-					"30",
-					"32",
-					"35",
 					"36",
-					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
-			}
+			},
+			"5": null
 		}
 	}
 }

@@ -7,20 +7,17 @@
 		}
 	},
 	"validity": {
-		"from": "2016-03-14T00:00:00.000Z",
-		"until": "2016-03-18T00:00:00.000Z"
+		"from": "2016-03-21T00:00:00.000Z",
+		"until": "2016-03-25T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Pikante Sesamnudeln mit asiatischem Pfannengemüse",
+				"name": "Thailändischer Kürbis-Möhreneintopf mit Kokosmilch",
 				"attributes": [
 					"V",
-					"30",
-					"35",
-					"39",
-					"40"
+					"3"
 				],
 				"price": {
 					"student": 1.8,
@@ -30,13 +27,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Pfirsich-Quark-Auflauf mit Vanillesauce",
+				"name": "Pfannkuchen an Kirschsauce",
 				"attributes": [
-					"F",
-					"1",
+					"V",
 					"30",
-					"32",
-					"36"
+					"35"
 				],
 				"price": {
 					"student": 1.9,
@@ -46,10 +41,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Arabische Reispfanne mit Gemüsen, Sultanien und Mandeln",
+				"name": "Schwäbischer Zwiebelkuchen mit Lauch",
 				"attributes": [
-					"V",
-					"37"
+					"F",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -59,7 +55,7 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Rahmspinat mit Rührei",
+				"name": "Hessische grüne Sauce mit frischen Bio-Eiern",
 				"attributes": [
 					"F",
 					"32",
@@ -73,76 +69,37 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gebackene Kartoffeltaler auf Mangold-Möhrengemüse",
+				"name": "Karfreitag - Heute bleiben unsere Einrichtungen geschlossen",
 				"attributes": [
-					"F",
-					"30",
-					"32"
+					""
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Schaschliktopf",
+				"name": "Ofenfrische Hackfleischbällchen auf Westernsauce",
 				"attributes": [
-					"2",
+					"30",
+					"32",
+					"R",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kartoffelgratin mit Thunfisch",
+				"name": "Fischsuppe \"Moqueca Bahiana\"",
 				"attributes": [
-					"6",
-					"33",
-					"36"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Kameruner Pfeffereintopf",
-				"attributes": [
-					""
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Szegediner Gulasch",
-				"attributes": [
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Seelachsfilet Müllerin Art",
-				"attributes": [
-					"30",
 					"33"
 				],
 				"price": {
@@ -151,42 +108,47 @@
 					"visitor": 4.6
 				},
 				"vitalInfo": null
-			}
+			},
+			"3": {
+				"name": "Westfälischer Kutschergulasch",
+				"attributes": [
+					"A",
+					"3",
+					"9",
+					"30",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Bami Goreng mit Geflügelstreifen",
+				"attributes": [
+					"30",
+					"32",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": null
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Backkartoffeln mit Kräuterquark",
+				"name": "Kartoffelrösti mit Brokkoli-Rahmsauce",
 				"attributes": [
 					"F",
 					"Ö",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Asiatische Reis-Gemüsepfanne",
-				"attributes": [
-					"V",
-					"Ö",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Südtiroler Ofenmakkaroni",
-				"attributes": [
-					"F",
-					"Ö",
+					"30",
 					"32",
 					"36"
 				],
@@ -197,8 +159,22 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Tofuragout in Pusztasauce",
+			"2": {
+				"name": "Spaghetti mit Tomaten-Olivensauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Mediterrane Gemüsepfanne mit Tofu",
 				"attributes": [
 					"V",
 					"Ö",
@@ -211,12 +187,12 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Nudelpfanne mit Pilzen, Zwiebeln, Tomaten und Tofu",
+			"4": {
+				"name": "Kartoffelauflauf mit Lauch und Zwiebeln, dazu Béchamelsauce",
 				"attributes": [
 					"V",
 					"Ö",
-					""
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -224,26 +200,13 @@
 					"visitor": 5.1
 				},
 				"vitalInfo": null
-			}
+			},
+			"5": null
 		},
 		"Aktions-Essen": {
 			"1": null,
 			"2": null,
-			"3": {
-				"name": "Hackfleischragout Gärtnerin Art mit Gemüsestreifen und Sahne",
-				"attributes": [
-					"Ö",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
-			},
+			"3": null,
 			"4": null,
 			"5": null
 		}

@@ -7,17 +7,19 @@
 		}
 	},
 	"validity": {
-		"from": "2016-03-14T00:00:00.000Z",
-		"until": "2016-03-18T00:00:00.000Z"
+		"from": "2016-03-21T00:00:00.000Z",
+		"until": "2016-03-25T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Argentinische Pfanne mit dreierlei Bohnen und Kartoffelwürfeln an einem scharfen Tomaten-Dip",
+				"name": "Hessische Kartoffelsuppe mit Gemüsen",
 				"attributes": [
-					"V",
-					""
+					"F",
+					"30",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -27,12 +29,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebratene vegane Schupfnudeln in Champignon-Sahnesauce",
+				"name": "Frisch gebackene Kartoffelecken mit Hot-Salsa-Dip",
 				"attributes": [
-					"F",
-					"30",
-					"32",
-					"35"
+					"V",
+					""
 				],
 				"price": {
 					"student": 1.9,
@@ -42,13 +42,14 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Kartoffelpfanne mit Gewürzgurke",
+				"name": "Asiatische Basmatireis-Gemüsepfanne",
 				"attributes": [
-					"2",
-					"9",
-					"32",
+					"V",
+					"30",
+					"35",
+					"38",
 					"39",
-					"S"
+					"40"
 				],
 				"price": {
 					"student": 1.9,
@@ -58,10 +59,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Pfannenfrische Gemüsepaella",
+				"name": "Vegane Soljanka mit Gurke, Paprika und Tofu",
 				"attributes": [
 					"V",
-					""
+					"9",
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -71,60 +74,57 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
+				"name": "Karfreitag - Heute bleiben unsere Einrichtungen geschlossen",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36",
-					"37"
+					""
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Bami Goreng mit Geflügelstreifen",
+				"name": "Nordhessischer Bauernhackbraten mit Majoran-Jus",
 				"attributes": [
+					"8",
 					"30",
-					"32",
-					"35",
-					"39"
+					"36",
+					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Paniertes Nackenschnitzel vom Schwein an Schwarzbierjus",
+				"name": "Gegrillte Geflügelbratwurst an Red-Thaicurry-Sauce",
 				"attributes": [
-					"A",
 					"30",
-					"32",
-					"S"
+					"36",
+					"38",
+					"R"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Tortelloni all'arrabiata in einer Tomatensauce",
+				"name": "Grillfrisches Rückensteak vom Schwein an Cassis-Rahmsauce",
 				"attributes": [
-					"V",
+					"A",
 					"30",
-					"38"
+					"36",
+					"41",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -134,100 +134,107 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Geschnetzeltes aus der Putenoberkeule in Bärlauchrahm",
+				"name": "Penne mit Blattspinat und Hackfleisch",
 				"attributes": [
 					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Ofenfrische Hackfleischpizza mit Paprika, Tomaten und Mais",
-				"attributes": [
-					"30",
-					"32",
-					"35",
 					"36",
-					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
-			}
+			},
+			"5": null
 		},
 		"Essen 3 oder 4": {
 			"1": null,
-			"2": {
-				"name": "Argentinischer Fischtopf mit Lachs, Garnelen, Gemüsen und Kokos",
-				"attributes": [
-					"A",
-					"1",
-					"30",
-					"31",
-					"33",
-					"35",
-					"36",
-					"38",
-					"41"
-				],
-				"price": {
-					"student": 3.6,
-					"employee": 4.9,
-					"visitor": 5.8
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": {
-				"name": "Scharf angebratene Hähnchenbrust auf hausgemachtem Süßkartoffelstampf und Tomaten-Paprika-Salsa",
-				"attributes": [
-					"1",
-					"3",
-					"36"
-				],
-				"price": {
-					"student": 3.8,
-					"employee": 5.1,
-					"visitor": 6
-				},
-				"vitalInfo": null
-			},
-			"4": null,
-			"5": {
-				"name": "Vegane Mezzelune Pasta mit Spinatfüllung in Schnittlauchsauce à la Crème",
-				"attributes": [
-					"V",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null
-			}
-		},
-		"Angebot des Tages I": {
-			"1": {
-				"name": "Argentinien-Burger mit Chili-Bun, doppelt Beef und scharfer Tomaten-Chimichurri",
+				"name": "Südafikanischer Bobotie-Auflauf",
 				"attributes": [
 					"2",
 					"3",
 					"30",
 					"32",
 					"36",
-					"39",
+					"37",
 					"R"
+				],
+				"price": {
+					"student": 3.7,
+					"employee": 5,
+					"visitor": 5.9
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Original hessische grüne Sauce mit gehacktem Ei und Pellkartoffeln",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null
+			},
+			"5": null
+		},
+		"Angebot des Tages I": {
+			"1": {
+				"name": "Zartweizen mit Maronen und Kürbis, dazu eine Erbsen-Guacamole",
+				"attributes": [
+					"V",
+					"MV",
+					"30",
+					"37"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": {
+					"fat": 18,
+					"carbohydrate": 79,
+					"protein": 22,
+					"calories": 600
+				}
+			},
+			"2": {
+				"name": "Seehechtfilet auf Gemüse und Kräuterkartoffeln, dazu Joghurt",
+				"attributes": [
+					"MV",
+					"30",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": {
+					"fat": 20,
+					"carbohydrate": 73,
+					"protein": 39,
+					"calories": 651
+				}
+			},
+			"3": {
+				"name": "Feines Kabeljaufilet mit Senfsauce",
+				"attributes": [
+					"30",
+					"33",
+					"36",
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 5.5,
@@ -236,59 +243,25 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Putensteak mit Sesam-Rosenkohl und Kartoffelpüree, dazu eine Banane",
+			"4": {
+				"name": "Bohnen-Lamm-Pfanne mit Backpflaumen und Thymiankartoffeln",
 				"attributes": [
 					"MV",
-					"36",
-					"40"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": {
-					"fat": 24,
-					"carbohydrate": 84,
-					"protein": 46,
-					"calories": 740
-				}
-			},
-			"3": {
-				"name": "Kartoffel-Kürbiskernpuffer mit Tomaten-Schnittlauch-Quark und Blattsalat",
-				"attributes": [
-					"F",
-					"MV",
-					"30",
-					"32",
+					"2",
+					"3",
 					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": {
 					"fat": 21,
-					"carbohydrate": 82,
-					"protein": 38,
-					"calories": 651
+					"carbohydrate": 67,
+					"protein": 33,
+					"calories": 603
 				}
-			},
-			"4": {
-				"name": "Colita de Cuadrill - Geschmortes, argentinisches Rindfleisch auf Gemüse und Kartoffeln an dunkler Sauce",
-				"attributes": [
-					"30",
-					"39",
-					"R"
-				],
-				"price": {
-					"student": 6,
-					"employee": 7.3,
-					"visitor": 8.2
-				},
-				"vitalInfo": null
 			},
 			"5": null
 		}
