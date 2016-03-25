@@ -256,9 +256,9 @@
 					"39"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 5.5,
+					"employee": 6.8,
+					"visitor": 7.7
 				},
 				"vitalInfo": null
 			},
