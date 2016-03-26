@@ -7,74 +7,14 @@
 		}
 	},
 	"validity": {
-		"from": "2016-03-21T00:00:00.000Z",
-		"until": "2016-03-25T00:00:00.000Z"
+		"from": "2016-03-28T00:00:00.000Z",
+		"until": "2016-04-01T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Hessische Kartoffelsuppe mit Gemüsen",
-				"attributes": [
-					"F",
-					"30",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Frisch gebackene Kartoffelecken mit Hot-Salsa-Dip",
-				"attributes": [
-					"V",
-					""
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Asiatische Basmatireis-Gemüsepfanne",
-				"attributes": [
-					"V",
-					"30",
-					"35",
-					"38",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Vegane Soljanka mit Gurke, Paprika und Tofu",
-				"attributes": [
-					"V",
-					"9",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Karfreitag - Heute bleiben unsere Einrichtungen geschlossen",
+				"name": "Ostermontag - Heute bleiben unsere Einrichtungen geschlossen",
 				"attributes": [
 					""
 				],
@@ -84,47 +24,105 @@
 					"visitor": 2.2
 				},
 				"vitalInfo": null
-			}
-		},
-		"Essen 2": {
-			"1": {
-				"name": "Nordhessischer Bauernhackbraten mit Majoran-Jus",
-				"attributes": [
-					"8",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gegrillte Geflügelbratwurst an Red-Thaicurry-Sauce",
+				"name": "Ofenfrische Brätlings-Kartoffeln an einem Quarkdip",
 				"attributes": [
-					"30",
-					"36",
-					"38",
-					"R"
+					"F",
+					"36"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Grillfrisches Rückensteak vom Schwein an Cassis-Rahmsauce",
+				"name": "Farfalle Tricolore an Linsen-Bolognese mit Gemüsewürfeln",
 				"attributes": [
-					"A",
+					"V",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an fruchtigem Tomatendip",
+				"attributes": [
+					"V",
+					"30",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Süßkartoffel-Curry mit Kokos und dicken Bohnen",
+				"attributes": [
+					"V",
+					"2",
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			}
+		},
+		"Essen 2": {
+			"1": null,
+			"2": {
+				"name": "Spaghetti mit scharfer Tomaten-Specksauce",
+				"attributes": [
+					"2",
+					"3",
 					"30",
 					"36",
-					"41",
 					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
+				"attributes": [
+					"2"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gebackener Alaska-Seelachs an Cocktaildip",
+				"attributes": [
+					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -133,21 +131,21 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Penne mit Blattspinat und Hackfleisch",
+			"5": {
+				"name": "Hausgemachter Hackbraten mit Senfjus",
 				"attributes": [
 					"30",
-					"36",
+					"32",
+					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
-			},
-			"5": null
+			}
 		}
 	}
 }

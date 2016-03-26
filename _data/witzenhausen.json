@@ -7,17 +7,30 @@
 		}
 	},
 	"validity": {
-		"from": "2016-03-21T00:00:00.000Z",
-		"until": "2016-03-25T00:00:00.000Z"
+		"from": "2016-03-28T00:00:00.000Z",
+		"until": "2016-04-01T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Thailändischer Kürbis-Möhreneintopf mit Kokosmilch",
+				"name": "Ostermontag - Heute bleiben unsere Einrichtungen geschlossen",
 				"attributes": [
-					"V",
-					"3"
+					""
+				],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Buntes Béchamelgemüse",
+				"attributes": [
+					"F",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -26,26 +39,11 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Pfannkuchen an Kirschsauce",
+			"3": {
+				"name": "Nudeln mit Gemüsebolognese",
 				"attributes": [
 					"V",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Schwäbischer Zwiebelkuchen mit Lauch",
-				"attributes": [
-					"F",
-					"30",
-					"36"
+					"30"
 				],
 				"price": {
 					"student": 1.9,
@@ -55,7 +53,7 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hessische grüne Sauce mit frischen Bio-Eiern",
+				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
 				"attributes": [
 					"F",
 					"32",
@@ -69,38 +67,31 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Karfreitag - Heute bleiben unsere Einrichtungen geschlossen",
+				"name": "Bunte Gemüse-Reispfanne mit Erbsen-Champignonsauce",
 				"attributes": [
-					""
+					"F",
+					"30",
+					"36",
+					"38"
 				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
-			"1": {
-				"name": "Ofenfrische Hackfleischbällchen auf Westernsauce",
+			"1": null,
+			"2": {
+				"name": "Krosser Leberkäse auf Zwiebelsauce",
 				"attributes": [
-					"30",
-					"32",
+					"2",
+					"3",
+					"8",
 					"R",
 					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Fischsuppe \"Moqueca Bahiana\"",
-				"attributes": [
-					"33"
 				],
 				"price": {
 					"student": 2.4,
@@ -110,13 +101,9 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Westfälischer Kutschergulasch",
+				"name": "Karibisches Bananenhuhn",
 				"attributes": [
-					"A",
-					"3",
-					"9",
-					"30",
-					"S"
+					""
 				],
 				"price": {
 					"student": 2.5,
@@ -126,25 +113,56 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Bami Goreng mit Geflügelstreifen",
+				"name": "Bolognese mit Rinderhackfleisch und Parmesan",
 				"attributes": [
-					"30",
-					"32",
+					"1",
+					"2",
+					"36",
+					"38",
+					"R"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Russischer Lachseintopf",
+				"attributes": [
+					"3",
+					"33",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			}
+		},
+		"Bio-Essen": {
+			"1": null,
+			"2": {
+				"name": "Indisches Zucchini-Curry",
+				"attributes": [
+					"V",
+					"Ö",
 					"35",
 					"39"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
 				},
 				"vitalInfo": null
 			},
-			"5": null
-		},
-		"Bio-Essen": {
-			"1": {
-				"name": "Kartoffelrösti mit Brokkoli-Rahmsauce",
+			"3": {
+				"name": "Kartoffelpfannkuchen mit Knoblauchsauce",
 				"attributes": [
 					"F",
 					"Ö",
@@ -159,40 +177,12 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Spaghetti mit Tomaten-Olivensauce",
-				"attributes": [
-					"V",
-					"Ö",
-					"30"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Mediterrane Gemüsepfanne mit Tofu",
-				"attributes": [
-					"V",
-					"Ö",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
 			"4": {
-				"name": "Kartoffelauflauf mit Lauch und Zwiebeln, dazu Béchamelsauce",
+				"name": "Sabee Sabee Kumala - Australisches Kürbisgulasch",
 				"attributes": [
 					"V",
 					"Ö",
-					"35"
+					""
 				],
 				"price": {
 					"student": 2.9,
@@ -201,7 +191,20 @@
 				},
 				"vitalInfo": null
 			},
-			"5": null
+			"5": {
+				"name": "Geschwenkte hessische Pilz-Kartoffelpfanne",
+				"attributes": [
+					"V",
+					"Ö",
+					""
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			}
 		},
 		"Aktions-Essen": {
 			"1": null,
