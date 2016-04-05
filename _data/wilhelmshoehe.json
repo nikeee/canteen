@@ -236,9 +236,9 @@
 					"40"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			},
@@ -332,6 +332,7 @@
 			"1": {
 				"name": "Griechischer Burger mit Beef, Hirtenkäse, Oliven, Peperoni, hausgemachtem Krautsalat und Knoblauchdip",
 				"attributes": [
+					"2",
 					"3",
 					"6",
 					"30",
