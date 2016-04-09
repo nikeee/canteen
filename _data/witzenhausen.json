@@ -7,31 +7,33 @@
 		}
 	},
 	"validity": {
-		"from": "2016-04-04T00:00:00.000Z",
-		"until": "2016-04-08T00:00:00.000Z"
+		"from": "2016-04-11T00:00:00.000Z",
+		"until": "2016-04-15T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Graupen-Gemüseeintopf",
+				"name": "Mexikanischer Reis mit roten Bohnen, Mais und Paprika",
 				"attributes": [
 					"V",
-					"30"
+					""
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Indische Ebly-Pfanne mit Gemüsen, Nüssen, Koriander und Schärfe",
+				"name": "Ofenfrischer Apfelstrudel auf einer Vanillesauce",
 				"attributes": [
-					"V",
+					"F",
+					"1",
 					"30",
-					"37"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -41,43 +43,40 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gefüllte Germknödel mit Vanillesauce",
-				"attributes": [
-					"F",
-					"1",
-					"2",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Hausgemachter Kräuterschmarrn mit Gemüsewürfeln",
-				"attributes": [
-					"V",
-					"30",
-					"35",
-					"38"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Brokkoli-Blumenkohlauflauf",
+				"name": "Hausgemachter Bärlauchpfannkuchen an Gemüse-Sahnesauce",
 				"attributes": [
 					"F",
 					"30",
 					"32",
 					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Champignon-Risotto",
+				"attributes": [
+					"F",
+					"1",
+					"2",
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Grünkern-Ragout",
+				"attributes": [
+					"V",
+					"30"
 				],
 				"price": {
 					"student": 1.8,
@@ -89,10 +88,9 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Elsässer Hackfleischauflauf mit Sauerkraut",
+				"name": "Geschnetzeltes aus der Schweinekeule in Bärlauchrahm",
 				"attributes": [
-					"32",
-					"35",
+					"30",
 					"36",
 					"S"
 				],
@@ -104,10 +102,9 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Brühnudeln mit Hähnchenfleisch und Suppengemüse",
+				"name": "Chinese Honey-Chicken mit Asia-Gemüse auf Reis",
 				"attributes": [
-					"30",
-					"32",
+					"35",
 					"38"
 				],
 				"price": {
@@ -118,10 +115,9 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Schweineschnitzel überbacken mit frischen Tomaten und Käse",
+				"name": "Griechische Hackfleischpfanne mit Gemüse und Hirtenkäse",
 				"attributes": [
-					"30",
-					"32",
+					"6",
 					"36",
 					"S"
 				],
@@ -133,11 +129,9 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Kabak Dolmasi - Gefüllte Zucchini mit Hackfleisch",
+				"name": "Hähnchenbrust mit Bärlauchhaube",
 				"attributes": [
-					"32",
-					"36",
-					"R"
+					"30"
 				],
 				"price": {
 					"student": 2.5,
@@ -147,11 +141,10 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Fischfrikassee mit buntem Gemüse",
+				"name": "Seelachsfilet an Bärlauchsauce",
 				"attributes": [
-					"A",
 					"33",
-					"41"
+					"36"
 				],
 				"price": {
 					"student": 2.4,
@@ -163,13 +156,11 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Griechischer Tomaten-Reistaler mit Knoblauchsauce",
+				"name": "Gebackene Würfelkartoffeln mit Kräuterquark",
 				"attributes": [
 					"F",
 					"Ö",
-					"30",
-					"32",
-					"35"
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -179,11 +170,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Lauch-Kartoffelgratin mit Karottenschaumsauce",
+				"name": "Penne mit Bärlauchpesto",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"36"
+					"30"
 				],
 				"price": {
 					"student": 2.9,
@@ -193,12 +184,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Penne mit süß-saurem Kürbis-Paprikagemüse",
+				"name": "Steckrüben-Karotteneintopf mit Kartoffeln und Kräutern",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
-					"35"
+					""
 				],
 				"price": {
 					"student": 2.9,
@@ -208,11 +198,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Radieschen-Quarkdip mit Backkartoffeln",
+				"name": "Tofu-Gulasch griechischer Art",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"36"
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -222,7 +212,7 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Mediterrane Gemüsepfanne mit Tofu",
+				"name": "Nudel-Gemüseflan mit Brokkolisauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -238,7 +228,24 @@
 		},
 		"Aktions-Essen": {
 			"1": null,
-			"2": null,
+			"2": {
+				"name": "Südafikanischer Bobotie-Auflauf",
+				"attributes": [
+					"2",
+					"3",
+					"30",
+					"32",
+					"36",
+					"37",
+					"R"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
 			"3": null,
 			"4": null,
 			"5": null
