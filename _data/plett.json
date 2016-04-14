@@ -48,7 +48,7 @@
 				"name": "Indisch Aloo Gobi mit Kartoffeln und Blumenkohl",
 				"attributes": [
 					"V",
-					"39"
+					""
 				],
 				"price": {
 					"student": 1.8,
@@ -188,7 +188,6 @@
 				"name": "Paniertes Schnitzel vom Schwein mit feurigem Bacon und Zwiebeljus",
 				"attributes": [
 					"2",
-					"3",
 					"30",
 					"32",
 					"S"
