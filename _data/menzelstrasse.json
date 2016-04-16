@@ -7,30 +7,31 @@
 		}
 	},
 	"validity": {
-		"from": "2016-04-11T00:00:00.000Z",
-		"until": "2016-04-15T00:00:00.000Z"
+		"from": "2016-04-18T00:00:00.000Z",
+		"until": "2016-04-22T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Kokos-Soja-Milchreis mit einem Witzenhüsser Kirschragout",
+				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
 				"attributes": [
-					"V",
+					"F",
 					"1",
-					"3",
-					"9",
-					"35"
+					"30",
+					"32",
+					"36",
+					"37"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kartoffelauflauf provenzalisch mit Käsehaube und Sahnesauce",
+				"name": "Ofenfrische Gemüsetaler an Sour Cream",
 				"attributes": [
 					"F",
 					"30",
@@ -45,39 +46,36 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Indisch Aloo Gobi mit Kartoffeln und Blumenkohl",
+				"name": "Texanisches feuriges Chili con Carne",
+				"attributes": [
+					"30",
+					"S"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gebratenes Curry-Quinoa mit Brokkoli auf fruchtiger Tomatensauce",
 				"attributes": [
 					"V",
 					"39"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Hausgemachte Kartoffel-Karottentaler mit Walnüssen an fruchtiger Tomatensauce",
-				"attributes": [
-					"V",
-					"30",
-					"37",
-					"40"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Drelli-Pasta mit einem Pilzrahm-Ragout",
+				"name": "Gebackene Kartoffelecken mit einem Curry-Ketchup-Dip",
 				"attributes": [
 					"V",
-					"30",
-					"35"
+					""
 				],
 				"price": {
 					"student": 1.8,
@@ -89,28 +87,32 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Feine Knackwurst mit Senf auf hausgemachtem Creme-Kartoffelsalat",
+				"name": "Fischstäbchen mit Remouladensauce",
 				"attributes": [
-					"2",
 					"3",
-					"8",
 					"9",
+					"30",
 					"32",
+					"33",
 					"36",
-					"39",
-					"S"
+					"39"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Ofenfrischer Schweinenackenbraten mit hausgemachtem Krautsalat und Zaziki",
+				"name": "Gebackenes Fleischkäseschnitzel auf einer Malzjus",
 				"attributes": [
-					"36",
+					"2",
+					"3",
+					"8",
+					"30",
+					"32",
+					"R",
 					"S"
 				],
 				"price": {
@@ -121,10 +123,10 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Hähnchenbrust mit Pesto rosso mariniert auf Béchamelsauce",
+				"name": "Spaghetti mit Tomatenwürfeln und hausgemachtem Rucolapesto",
 				"attributes": [
-					"1",
-					"2",
+					"F",
+					"Ö",
 					"30",
 					"36",
 					"37"
@@ -137,31 +139,35 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Mexikanischer Feuertopf",
+				"name": "Erdnuss-Hähnchen mit Kokos verfeinert",
 				"attributes": [
 					"30",
-					"S"
+					"34",
+					"36"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Spaghetti Bolognese mit Schweinehackfleisch und Parmesan",
+				"name": "Nudelpfanne mit Salami, Schinken und Ei",
 				"attributes": [
-					"1",
 					"2",
+					"3",
+					"8",
 					"30",
+					"32",
 					"36",
+					"R",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			}
