@@ -211,27 +211,19 @@
 		},
 		"Angebot des Tages": {
 			"1": {
-				"name": "Seelachs mit Kartoffel-Senfkruste, Kerbelsauce und Karotten an Champignon-Sahnesauce",
+				"name": "Tortilla Wrap mit Chili sin Carne gefüllt an einer feurigen Chili-Tomatensauce",
 				"attributes": [
-					"MV",
+					"V",
+					"2",
 					"30",
-					"32",
-					"33",
-					"35",
-					"36",
-					"39"
+					"35"
 				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
-				"vitalInfo": {
-					"fat": 24,
-					"carbohydrate": 87,
-					"protein": 39,
-					"calories": 739
-				}
+				"vitalInfo": null
 			},
 			"2": {
 				"name": "Gemüse-Hähnchen-Pfanne mit Aprikosen und Cashewkernen, dazu Couscous",
