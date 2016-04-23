@@ -7,21 +7,18 @@
 		}
 	},
 	"validity": {
-		"from": "2016-04-18T00:00:00.000Z",
-		"until": "2016-04-22T00:00:00.000Z"
+		"from": "2016-04-25T00:00:00.000Z",
+		"until": "2016-04-29T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
+				"name": "Minestrone - Italienische Gemüsesuppe mit Pasta und Reis",
 				"attributes": [
-					"F",
-					"1",
+					"V",
 					"30",
-					"32",
-					"36",
-					"37"
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -31,12 +28,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Ofenfrische Gemüsetaler an Sour Cream",
+				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
 					"F",
-					"30",
-					"32",
-					"36"
+					"3",
+					"32"
 				],
 				"price": {
 					"student": 1.9,
@@ -46,22 +42,29 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Texanisches feuriges Chili con Carne",
+				"name": "Kritharakisalat mit bunten Gemüsen und Petersilienpesto mariniert, dazu reichen wir Brotsticks",
 				"attributes": [
+					"V",
+					"3",
+					"6",
 					"30",
-					"S"
+					"37"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gebratenes Curry-Quinoa mit Brokkoli auf fruchtiger Tomatensauce",
+				"name": "Asia-Sojastreifen in süß-scharfer Thaisauce mit Gemüsen",
 				"attributes": [
 					"V",
+					"1",
+					"30",
+					"35",
+					"38",
 					"39"
 				],
 				"price": {
@@ -72,25 +75,60 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gebackene Kartoffelecken mit einem Curry-Ketchup-Dip",
+				"name": "Süßkartoffelstampf mit hausgemachtem Hummus",
 				"attributes": [
 					"V",
-					""
+					"35",
+					"39",
+					"40"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Fischstäbchen mit Remouladensauce",
+				"name": "Currywurst mit rauchiger Ketchupsauce",
 				"attributes": [
+					"1",
 					"3",
-					"9",
+					"8",
+					"38",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Asiatische Schweinefleischstreifen mit Gemüsen und Sprossen in süß-saurer Sauce",
+				"attributes": [
+					"1",
+					"3",
+					"30",
+					"35",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Fish and Chips mit gebackenen Kartoffeln",
+				"attributes": [
+					"1",
 					"30",
 					"32",
 					"33",
@@ -98,40 +136,6 @@
 					"39"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Gebackenes Fleischkäseschnitzel auf einer Malzjus",
-				"attributes": [
-					"2",
-					"3",
-					"8",
-					"30",
-					"32",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Spaghetti mit Tomatenwürfeln und hausgemachtem Rucolapesto",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"36",
-					"37"
-				],
-				"price": {
 					"student": 2.5,
 					"employee": 3.8,
 					"visitor": 4.7
@@ -139,35 +143,32 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Erdnuss-Hähnchen mit Kokos verfeinert",
+				"name": "Geschnetzeltes aus der Putenoberkeule in Bärlauchrahm",
 				"attributes": [
 					"30",
-					"34",
+					"32",
 					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Nudelpfanne mit Salami, Schinken und Ei",
+				"name": "Cevapcici vom Schwein an scharfer Paprikasauce",
 				"attributes": [
-					"2",
-					"3",
-					"8",
 					"30",
 					"32",
-					"36",
-					"R",
+					"35",
+					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}

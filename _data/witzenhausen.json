@@ -7,17 +7,20 @@
 		}
 	},
 	"validity": {
-		"from": "2016-04-18T00:00:00.000Z",
-		"until": "2016-04-22T00:00:00.000Z"
+		"from": "2016-04-25T00:00:00.000Z",
+		"until": "2016-04-29T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Pfannenfrische Gemüsepaella",
+				"name": "Gnocchi mit bunten Gemüsestreifen in Rahmsauce",
 				"attributes": [
-					"V",
-					""
+					"F",
+					"30",
+					"32",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -27,7 +30,7 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gemüseschnitzel mit Sahnesauce",
+				"name": "Arancini-Röstling auf Rahmspinat",
 				"attributes": [
 					"F",
 					"30",
@@ -43,28 +46,25 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Kaiserschmarrn mit Kirschsauce",
+				"name": "Hausgemachte Quark-Liwanzen",
 				"attributes": [
 					"F",
-					"A",
 					"30",
 					"32",
 					"36"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Omelett mit buntem Béchamelgemüse",
+				"name": "Blechkartoffeln an Paprikasauce",
 				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
+					"V",
+					"35"
 				],
 				"price": {
 					"student": 1.9,
@@ -74,41 +74,47 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Mie Goreng - Nudelpfanne mit Tofu und Gemüse",
+				"name": "Geschwenktes Kichererbsen-Auberginen-Sambal",
 				"attributes": [
 					"V",
-					"30",
-					"35",
-					"38"
+					""
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Feurige Gulaschsuppe mit Kartoffeln",
+				"name": "Bolognese mit Schweinehackfleisch und Parmesan",
 				"attributes": [
-					"30",
+					"1",
+					"2",
+					"36",
 					"38",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Käse-Chili-Bratwurst mit scharfer Sauce",
+				"name": "Gebratene Currywurst Berliner Art",
 				"attributes": [
+					"1",
+					"2",
+					"3",
+					"4",
 					"8",
-					"36",
+					"38",
+					"39",
+					"R",
 					"S"
 				],
 				"price": {
@@ -119,11 +125,9 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Frisch gebratenes Hähnchenbrustschnitzel Toscana",
+				"name": "Geflügelstreifen in Tomaten-Oreganosauce",
 				"attributes": [
-					"30",
-					"36",
-					"38"
+					"30"
 				],
 				"price": {
 					"student": 2.5,
@@ -133,31 +137,26 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "\"Köttbullar\" Hackfleischbällchen in Rahmsauce",
+				"name": "Normannischer Eintopf mit Kassler und Äpfeln",
 				"attributes": [
-					"30",
-					"32",
+					"2",
+					"3",
+					"8",
 					"36",
-					"R",
+					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Knusperfischfilet auf Dänischer Remouladensauce",
+				"name": "Fischragout mit Erbsen in Pfirsich-Currysauce",
 				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
 					"33",
-					"36",
-					"38",
 					"39"
 				],
 				"price": {
@@ -170,11 +169,11 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Gebratene Kartoffelspalten an gedünstetem Saisongemüse",
+				"name": "Mexikanische Gemüsepfanne mit Chilisauce",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"36"
+					""
 				],
 				"price": {
 					"student": 2.9,
@@ -184,7 +183,7 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gabelspaghetti mit Mangold-Karottenragout in Rahmsauce",
+				"name": "Bunte Spirelli in Brokkoli-Tomatensauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -199,11 +198,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Ofenkartoffeln mit hausgemachtem Hummus",
+				"name": "Polenta mit Champignons",
 				"attributes": [
 					"V",
 					"Ö",
-					"40"
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -213,12 +212,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Dinkel-Gemüsebratling mit Sellerie-Karottensauce",
+				"name": "Penne mit Pilz-Zwiebelsauce",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"30",
-					"38"
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -228,11 +226,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Ägyptischer Kichererbseneintopf mit Weißkohl, Paprika,Tomate",
+				"name": "Kartoffelpuffer mit Apfelkompott",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					""
+					"30",
+					"32"
 				],
 				"price": {
 					"student": 2.9,
@@ -245,22 +244,23 @@
 		"Aktions-Essen": {
 			"1": null,
 			"2": null,
-			"3": {
-				"name": "Gegrillter Garnelenspieß Asia Style an Curcuma-Reis",
+			"3": null,
+			"4": {
+				"name": "Paniertes Schnitzel \"Hessisch\" an Schnittlauchschmand",
 				"attributes": [
-					"31",
-					"35",
-					"38",
-					"39"
+					"2",
+					"30",
+					"32",
+					"36",
+					"S"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
 				},
 				"vitalInfo": null
 			},
-			"4": null,
 			"5": null
 		}
 	}
