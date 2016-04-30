@@ -7,17 +7,40 @@
 		}
 	},
 	"validity": {
-		"from": "2016-04-25T00:00:00.000Z",
-		"until": "2016-04-29T00:00:00.000Z"
+		"from": "2016-05-02T00:00:00.000Z",
+		"until": "2016-05-06T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Minestrone - Italienische Gemüsesuppe mit Pasta und Reis",
+				"name": "Goldgelb gebackenes Möhrenschnitzel auf Passionsfrucht-Sahnesauce",
+				"attributes": [
+					"F",
+					"1",
+					"2",
+					"3",
+					"9",
+					"30",
+					"32",
+					"36",
+					"38",
+					"39",
+					"40"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Deftiger Pfannkuchen auf Kräuter-Cremesauce",
 				"attributes": [
 					"V",
 					"30",
+					"35",
 					"38"
 				],
 				"price": {
@@ -27,28 +50,11 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Kartoffelpuffer mit Apfelmus",
-				"attributes": [
-					"F",
-					"3",
-					"32"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Kritharakisalat mit bunten Gemüsen und Petersilienpesto mariniert, dazu reichen wir Brotsticks",
+				"name": "Geschmortes Ratatouille-Gemüse im Reisrand angerichtet",
 				"attributes": [
 					"V",
-					"3",
-					"6",
-					"30",
-					"37"
+					"30"
 				],
 				"price": {
 					"student": 1.8,
@@ -58,29 +64,22 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Asia-Sojastreifen in süß-scharfer Thaisauce mit Gemüsen",
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
 				"attributes": [
-					"V",
-					"1",
-					"30",
-					"35",
-					"38",
-					"39"
+					""
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Süßkartoffelstampf mit hausgemachtem Hummus",
+				"name": "Farfalle Tricolore mit tomatisiertem Grünkernragout",
 				"attributes": [
 					"V",
-					"35",
-					"39",
-					"40"
+					"30"
 				],
 				"price": {
 					"student": 1.9,
@@ -92,28 +91,24 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Currywurst mit rauchiger Ketchupsauce",
+				"name": "Spaghetti in Sauce all'amatricana",
 				"attributes": [
-					"1",
-					"3",
-					"8",
-					"38",
-					"39",
+					"2",
+					"30",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Asiatische Schweinefleischstreifen mit Gemüsen und Sprossen in süß-saurer Sauce",
+				"name": "Hausgemachtes Hacksteak an Honig-Senf-Jus",
 				"attributes": [
-					"1",
-					"3",
 					"30",
+					"32",
 					"35",
 					"39",
 					"S"
@@ -126,14 +121,12 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Fish and Chips mit gebackenen Kartoffeln",
+				"name": "Asia-Putenstreifen in Red-Thaicurry-Sauce",
 				"attributes": [
-					"1",
 					"30",
-					"32",
-					"33",
+					"35",
 					"36",
-					"39"
+					"38"
 				],
 				"price": {
 					"student": 2.5,
@@ -142,28 +135,11 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Geschnetzeltes aus der Putenoberkeule in Bärlauchrahm",
-				"attributes": [
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
+			"4": null,
 			"5": {
-				"name": "Cevapcici vom Schwein an scharfer Paprikasauce",
+				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
 				"attributes": [
-					"30",
-					"32",
-					"35",
-					"39",
-					"S"
+					""
 				],
 				"price": {
 					"student": 2.4,
