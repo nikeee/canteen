@@ -105,22 +105,7 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Hausgemachtes Hacksteak an Honig-Senf-Jus",
-				"attributes": [
-					"30",
-					"32",
-					"35",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": {
 				"name": "Asia-Putenstreifen in Red-Thaicurry-Sauce",
 				"attributes": [
@@ -154,9 +139,11 @@
 			"1": {
 				"name": "Hausgemachter Quinoa-Kartoffel-Falafel an einem Chili-Mango-Chutney",
 				"attributes": [
-					"V",
 					"3",
-					"30"
+					"30",
+					"32",
+					"R",
+					"S"
 				],
 				"price": {
 					"student": 3,

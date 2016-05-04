@@ -93,8 +93,10 @@
 			"1": {
 				"name": "Spaghetti in Sauce all'amatricana",
 				"attributes": [
+					"1",
 					"2",
 					"30",
+					"36",
 					"S"
 				],
 				"price": {
@@ -156,7 +158,8 @@
 				"attributes": [
 					"30",
 					"32",
-					"36"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 3.6,
