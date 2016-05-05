@@ -105,7 +105,22 @@
 				},
 				"vitalInfo": null
 			},
-			"2": null,
+			"2": {
+				"name": "Hausgemachtes Hacksteak an Honig-Senf-Jus",
+				"attributes": [
+					"30",
+					"32",
+					"35",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
 			"3": {
 				"name": "Asia-Putenstreifen in Red-Thaicurry-Sauce",
 				"attributes": [
