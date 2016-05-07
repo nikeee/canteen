@@ -7,90 +7,95 @@
 		}
 	},
 	"validity": {
-		"from": "2016-05-02T00:00:00.000Z",
-		"until": "2016-05-06T00:00:00.000Z"
+		"from": "2016-05-09T00:00:00.000Z",
+		"until": "2016-05-13T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Geschmortes Ratatouille-Gemüse",
+				"name": "Buntes Asiagemüse in süß-scharfer Sauce",
 				"attributes": [
 					"V",
-					"30"
+					"2",
+					"35",
+					"38",
+					"39",
+					"40"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Asiatische Nudelpfanne mit knackigem Gemüse",
+				"name": "Cremiges Graupen-Gemüse-Risotto",
 				"attributes": [
-					"F",
-					"2",
+					"V",
+					"3",
 					"30",
-					"32",
 					"35",
 					"38"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Bunter Gemüseeintopf",
-				"attributes": [
-					"V",
-					""
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [
-					""
-				],
-				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Orientalische Linsenpfanne mit bunten Gemüsen",
-				"attributes": [
-					"V",
-					"2",
-					"38",
-					"39",
-					"40",
-					"41"
 				],
 				"price": {
 					"student": 1.9,
 					"employee": 3.2,
 					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Tarte von grünem Spargel",
+				"attributes": [
+					"F",
+					"3",
+					"30",
+					"32",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Indische Curry-Gemüsesuppe",
+				"attributes": [
+					"V",
+					""
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Sojafrikassee mit Erbsen, Spargel und Champignons",
+				"attributes": [
+					"V",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Nordhessischer Bauernhackbraten",
+				"name": "Geschnetzeltes aus der Schweinekeule in Spargelrahm",
 				"attributes": [
-					"8",
+					"30",
 					"36",
 					"S"
 				],
@@ -102,24 +107,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hähnchenbrust nach Gyros Art",
+				"name": "Cordon bleu von der Pute auf einer Zitronen-Kräutersauce",
 				"attributes": [
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Geschnetzeltes aus der Schweinekeule in Pfirsichrahm",
-				"attributes": [
+					"2",
 					"30",
-					"36",
-					"S"
+					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -128,13 +120,45 @@
 				},
 				"vitalInfo": null
 			},
-			"4": null,
-			"5": {
-				"name": "Gebackener Alsaska-Seelachs an Kräuter-Sahnesauce",
+			"3": {
+				"name": "Cevapcici vom Schweinefleisch",
 				"attributes": [
 					"30",
+					"32",
+					"35",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Hähnchenfilet mit Chili an Erdnusssauce",
+				"attributes": [
+					"34",
+					"35"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Fischstäbchen mit Remouladensauce",
+				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
 					"33",
-					"36"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -146,42 +170,10 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Griechischer Reistaler",
+				"name": "Nudelgratin mit Blumenkohl und Brokkoli",
 				"attributes": [
 					"F",
 					"Ö",
-					"30",
-					"32",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Thailändisches Kartoffelcurry",
-				"attributes": [
-					"V",
-					"Ö",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Kichererbsen-Gemüseröstling mit Kräuter-Zwiebelsauce",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
 					"32"
 				],
 				"price": {
@@ -191,13 +183,54 @@
 				},
 				"vitalInfo": null
 			},
-			"4": null,
-			"5": {
-				"name": "Penne mit hausgemachtem Tomatenpesto",
+			"2": {
+				"name": "Gegrillte Ofenkartoffel mit Kohlrabi-Gemüsebett",
 				"attributes": [
 					"V",
 					"Ö",
-					"30"
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gebackenes Fenchelgemüse mit Tomaten-Basilikumsauce",
+				"attributes": [
+					"V",
+					"Ö",
+					""
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Kartoffelgratin mit Roter Bete an Petersilien-Schmandsauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Tofuragout Mexikanische Art",
+				"attributes": [
+					"V",
+					"Ö",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -210,24 +243,35 @@
 		"Aktions-Essen": {
 			"1": null,
 			"2": {
-				"name": "Rinderbraten nach Dalmatinischer Art",
+				"name": "Frischer Stangenspargel mit Schweineschnitzel",
 				"attributes": [
-					"A",
-					"3",
 					"30",
-					"38",
-					"41",
-					"R"
+					"32",
+					"S"
 				],
 				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
+					"student": 5.5,
+					"employee": 6.8,
+					"visitor": 7.7
 				},
 				"vitalInfo": null
 			},
 			"3": null,
-			"4": null,
+			"4": {
+				"name": "Frischer Spargel an Sauce Hollandaise",
+				"attributes": [
+					"F",
+					"32",
+					"35",
+					"36"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null
+			},
 			"5": null
 		}
 	}

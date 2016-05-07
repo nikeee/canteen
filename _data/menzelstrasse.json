@@ -7,126 +7,89 @@
 		}
 	},
 	"validity": {
-		"from": "2016-05-02T00:00:00.000Z",
-		"until": "2016-05-06T00:00:00.000Z"
+		"from": "2016-05-09T00:00:00.000Z",
+		"until": "2016-05-13T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Goldgelb gebackenes Möhrenschnitzel auf Passionsfrucht-Sahnesauce",
+				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Ragout",
 				"attributes": [
-					"F",
-					"1",
-					"2",
-					"3",
-					"9",
-					"30",
-					"32",
-					"36",
-					"38",
-					"39",
-					"40"
+					"V",
+					"30"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Deftiger Pfannkuchen auf Kräuter-Cremesauce",
+				"name": "Original hessische grüne Sauce mit gehacktem Ei an Salzkartoffeln",
 				"attributes": [
-					"V",
-					"30",
-					"35",
-					"38"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Geschmortes Ratatouille-Gemüse im Reisrand angerichtet",
-				"attributes": [
-					"V",
-					"30"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [
-					""
-				],
-				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Farfalle Tricolore mit tomatisiertem Grünkernragout",
-				"attributes": [
-					"V",
-					"30"
+					"F",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
 					"employee": 3.2,
 					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Ofenfrische Brätlinge mit Spundekäse",
+				"attributes": [
+					"F",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Hausgemachter Spinatpfannkuchen an einem Knoblauch-Quarkdip",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Marokkanische Pasta mit Nüssen, Kichererbsen und Rosinen",
+				"attributes": [
+					"V",
+					"30",
+					"37"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Spaghetti in Sauce all'amatricana",
-				"attributes": [
-					"2",
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Hausgemachtes Hacksteak an Honig-Senf-Jus",
+				"name": "Gebackener Alaska-Seelachs an Kräuterdip",
 				"attributes": [
 					"30",
-					"32",
-					"35",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Asia-Putenstreifen in Red-Thaicurry-Sauce",
-				"attributes": [
-					"30",
-					"35",
-					"36",
-					"38"
+					"33",
+					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -135,16 +98,62 @@
 				},
 				"vitalInfo": null
 			},
-			"4": null,
-			"5": {
-				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
+			"2": {
+				"name": "Geschnetzeltes von der Putenbrust in Pfirsichrahm",
 				"attributes": [
-					""
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gegrillte Bratwurstschnecke auf Majoranjus",
+				"attributes": [
+					"3",
+					"8",
+					"30",
+					"38",
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
 					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Hähnchenbrust in Estragon-Weißweinsahne gegart",
+				"attributes": [
+					"A",
+					"30",
+					"36",
+					"41"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
+				"attributes": [
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			}
