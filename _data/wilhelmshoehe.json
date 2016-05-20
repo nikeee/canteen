@@ -284,7 +284,21 @@
 				"vitalInfo": null
 			},
 			"3": null,
-			"4": null,
+			"4": {
+				"name": "Paniertes Schnitzel vom Schwein auf einer Spargelsauce",
+				"attributes": [
+					"30",
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null
+			},
 			"5": {
 				"name": "Im Ganzen gegrillte Forelle auf einer cremigen Orangen-Rosmarin-Sauce",
 				"attributes": [

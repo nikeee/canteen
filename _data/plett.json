@@ -61,6 +61,7 @@
 				"name": "Drelloni Pasta mit einer Pilz-Rahmsauce",
 				"attributes": [
 					"V",
+					"3",
 					"30",
 					"35"
 				],
@@ -122,6 +123,8 @@
 			"4": {
 				"name": "Balkan-Reisgericht mit Schweinefleisch",
 				"attributes": [
+					"30",
+					"32",
 					"S"
 				],
 				"price": {
@@ -246,6 +249,9 @@
 				"attributes": [
 					"F",
 					"MV",
+					"1",
+					"3",
+					"9",
 					"32",
 					"36",
 					"39"
