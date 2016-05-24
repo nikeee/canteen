@@ -247,7 +247,21 @@
 			}
 		},
 		"Angebot des Tages II": {
-			"1": null,
+			"1": {
+				"name": "Im Ganzen gegrillte Forelle auf einer cremigen Orangen-Rosmarin-Sauce",
+				"attributes": [
+					"30",
+					"33",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
 			"2": {
 				"name": "Pasta mit Spargel, Tomate und Pinienkernen, dazu einen Erdbeer-Soja-Shake",
 				"attributes": [
