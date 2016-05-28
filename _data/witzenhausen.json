@@ -7,17 +7,19 @@
 		}
 	},
 	"validity": {
-		"from": "2016-05-23T00:00:00.000Z",
-		"until": "2016-05-27T00:00:00.000Z"
+		"from": "2016-05-30T00:00:00.000Z",
+		"until": "2016-06-03T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Asia-Kokos-Suppe mit Paprika und Koriander abgeschmeckt",
+				"name": "Kartoffelpfanne mit Gewürzgurke",
 				"attributes": [
-					"V",
-					""
+					"F",
+					"9",
+					"32",
+					"39"
 				],
 				"price": {
 					"student": 1.8,
@@ -27,12 +29,13 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gefüllter Eierpfannkuchen mit Vanillesauce",
+				"name": "Eier in Senfsauce",
 				"attributes": [
 					"F",
 					"30",
 					"32",
-					"36"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 1.9,
@@ -42,13 +45,28 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Semmelknödel \"Esterhazy\" mit Gemüsestreifen",
+				"name": "Marokkanische Pasta mit Nüssen, Kichererbsen und Rosinen",
+				"attributes": [
+					"V",
+					"30",
+					"37"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gefüllter Germknödel mit Mohn-Vanillesauce",
 				"attributes": [
 					"F",
+					"1",
+					"2",
 					"30",
-					"32",
 					"35",
-					"38"
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -57,39 +75,28 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [
-					""
-				],
-				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Gemüseschnitzel mit Sahnesauce",
+				"name": "Griechischer Bohneneintopf",
 				"attributes": [
 					"F",
-					"30",
-					"32",
 					"36",
 					"38"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Schweinesteak vom Nacken an geschmorten Zwiebelscheiben",
+				"name": "Krakauer mit Rahmwirsing",
 				"attributes": [
+					"2",
+					"3",
+					"36",
 					"S"
 				],
 				"price": {
@@ -100,9 +107,24 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Karibisches Bananenhuhn",
+				"name": "Hausgemachte Frikadelle",
 				"attributes": [
-					""
+					"30",
+					"32",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Putengeschnetzeltes in Pfefferrahmsauce",
+				"attributes": [
+					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -111,12 +133,25 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Mie-Nudelpfanne mit Pute und Gemüsen",
+			"4": {
+				"name": "Balkan-Reisgericht mit Schweinefleisch",
+				"attributes": [
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Fish and Chips",
 				"attributes": [
 					"30",
-					"35",
-					"38",
+					"32",
+					"33",
+					"36",
 					"39"
 				],
 				"price": {
@@ -125,36 +160,15 @@
 					"visitor": 4.7
 				},
 				"vitalInfo": null
-			},
-			"4": null,
-			"5": {
-				"name": "Gebackene Tintenfischringe an Knoblauch-Dip",
-				"attributes": [
-					"1",
-					"3",
-					"30",
-					"32",
-					"36",
-					"39",
-					"43"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Berner Röstiauflauf mit Käsesauce",
+				"name": "Reis mit Tofu Szechuan Art",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"30",
-					"32",
-					"36"
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -164,12 +178,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Amerikanischer Kartoffeleintopf",
+				"name": "Bunte Bohnenpfanne mit Tomaten, Kartoffeln und Zwiebeln",
 				"attributes": [
 					"V",
 					"Ö",
-					"35",
-					"38"
+					""
 				],
 				"price": {
 					"student": 2.9,
@@ -179,22 +192,7 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Spaghetti mit Tomaten-Olivensauce",
-				"attributes": [
-					"V",
-					"Ö",
-					"30"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"4": null,
-			"5": {
-				"name": "Gedünstete Zucchini mit Tofu-Grünkernauflage überbacken",
+				"name": "Tomaten-Reistaler an Knoblauchsauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -207,15 +205,46 @@
 					"visitor": 5.1
 				},
 				"vitalInfo": null
+			},
+			"4": {
+				"name": "Glacierte Karotten und Kartoffelscheiben mit Kräutersauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Penne mit Petersilienpesto",
+				"attributes": [
+					"V",
+					"Ö",
+					"30"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
 			}
 		},
 		"Aktions-Essen": {
 			"1": null,
-			"2": {
-				"name": "Zartes Geschnetzelts vom Rind",
+			"2": null,
+			"3": {
+				"name": "Gebratener Seelachs mit Kürbis-Kartoffelpüree",
 				"attributes": [
+					"1",
 					"30",
-					"R"
+					"33",
+					"36"
 				],
 				"price": {
 					"student": 4,
@@ -224,7 +253,6 @@
 				},
 				"vitalInfo": null
 			},
-			"3": null,
 			"4": null,
 			"5": null
 		}
