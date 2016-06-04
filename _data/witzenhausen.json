@@ -7,19 +7,18 @@
 		}
 	},
 	"validity": {
-		"from": "2016-05-30T00:00:00.000Z",
-		"until": "2016-06-03T00:00:00.000Z"
+		"from": "2016-06-06T00:00:00.000Z",
+		"until": "2016-06-10T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Kartoffelpfanne mit Gewürzgurke",
+				"name": "Risotto mit Pilzen und Gemüsen",
 				"attributes": [
-					"F",
-					"9",
-					"32",
-					"39"
+					"V",
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -29,12 +28,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Eier in Senfsauce",
+				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse",
 				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36",
+					"V",
+					"38",
 					"39"
 				],
 				"price": {
@@ -45,27 +42,10 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Marokkanische Pasta mit Nüssen, Kichererbsen und Rosinen",
-				"attributes": [
-					"V",
-					"30",
-					"37"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Gefüllter Germknödel mit Mohn-Vanillesauce",
+				"name": "Pasta in provenzalischer Zucchini-Paprikasauce",
 				"attributes": [
 					"F",
-					"1",
-					"2",
 					"30",
-					"35",
 					"36"
 				],
 				"price": {
@@ -75,12 +55,26 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Griechischer Bohneneintopf",
+			"4": {
+				"name": "Grießbrei mit Kirschsauce",
 				"attributes": [
 					"F",
-					"36",
-					"38"
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Weißkohleintopf mit Kartoffeln",
+				"attributes": [
+					"V",
+					"Ö",
+					""
 				],
 				"price": {
 					"student": 1.9,
@@ -92,11 +86,13 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Krakauer mit Rahmwirsing",
+				"name": "Kassler Braten mit Rotweinjus",
 				"attributes": [
+					"A",
 					"2",
 					"3",
-					"36",
+					"8",
+					"41",
 					"S"
 				],
 				"price": {
@@ -107,12 +103,52 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hausgemachte Frikadelle",
+				"name": "Ghanaisches Hähnchen in Erdnuss-Tomatensauce",
 				"attributes": [
-					"30",
-					"32",
-					"39",
+					"34"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Asiatische Schweinefleischstreifen mit buntem Gemüse",
+				"attributes": [
+					"35",
+					"38",
 					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Orientalische Hackfleischpfanne mit Linsen und Kichererbsen",
+				"attributes": [
+					"2",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Matjesfilet Hausfrauen Art mit Äpfeln, Gurken und Zwiebeln",
+				"attributes": [
+					"2",
+					"3",
+					"9",
+					"33",
+					"36"
 				],
 				"price": {
 					"student": 2.4,
@@ -120,55 +156,16 @@
 					"visitor": 4.6
 				},
 				"vitalInfo": null
-			},
-			"3": {
-				"name": "Putengeschnetzeltes in Pfefferrahmsauce",
-				"attributes": [
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Balkan-Reisgericht mit Schweinefleisch",
-				"attributes": [
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Fish and Chips",
-				"attributes": [
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Reis mit Tofu Szechuan Art",
+				"name": "Möhrenpfannkuchen mit Schnittlauchsauce",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"35"
+					"30",
+					"32"
 				],
 				"price": {
 					"student": 2.9,
@@ -178,11 +175,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Bunte Bohnenpfanne mit Tomaten, Kartoffeln und Zwiebeln",
+				"name": "Polenta mit buntem Gemüse und Paprikasauce",
 				"attributes": [
 					"V",
 					"Ö",
-					""
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -192,7 +189,7 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Tomaten-Reistaler an Knoblauchsauce",
+				"name": "Linsen-Bohnen-Röstling an pikanter Tomaten-Chilisauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -207,10 +204,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Glacierte Karotten und Kartoffelscheiben mit Kräutersauce",
+				"name": "Nudeln mit Soja-Bolognese",
 				"attributes": [
 					"V",
 					"Ö",
+					"30",
 					"35"
 				],
 				"price": {
@@ -221,11 +219,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Penne mit Petersilienpesto",
+				"name": "Backkartoffeln mit Kräuterquark",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"30"
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -236,15 +234,14 @@
 			}
 		},
 		"Aktions-Essen": {
-			"1": null,
-			"2": null,
-			"3": {
-				"name": "Gebratener Seelachs mit Kürbis-Kartoffelpüree",
+			"1": {
+				"name": "Hamburger Pannfisch",
 				"attributes": [
-					"1",
+					"2",
 					"30",
 					"33",
-					"36"
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 4,
@@ -253,7 +250,51 @@
 				},
 				"vitalInfo": null
 			},
-			"4": null,
+			"2": {
+				"name": "Dialog von Edelfischen",
+				"attributes": [
+					"A",
+					"30",
+					"33",
+					"41"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Lasagne mit Blattspinat, Lachswürfeln und Shrimps",
+				"attributes": [
+					"30",
+					"31",
+					"32",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Pizza mit Thunfisch und Zwiebeln",
+				"attributes": [
+					"30",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
 			"5": null
 		}
 	}
