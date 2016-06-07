@@ -396,7 +396,6 @@
 				"name": "Pikante Sesamnudeln mit asiatischem Pfannengemüse",
 				"attributes": [
 					"V",
-					"MV",
 					"30",
 					"34",
 					"35",
@@ -408,12 +407,7 @@
 					"employee": 3.8,
 					"visitor": 4.7
 				},
-				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 72,
-					"protein": 39,
-					"calories": 621
-				}
+				"vitalInfo": null
 			}
 		},
 		"Pizza/Pasta": {
