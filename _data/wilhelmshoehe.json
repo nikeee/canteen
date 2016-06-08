@@ -114,6 +114,7 @@
 				"attributes": [
 					"2",
 					"30",
+					"38",
 					"S"
 				],
 				"price": {
@@ -291,9 +292,12 @@
 				"name": "Buntbarsch mit Kartoffel-Gurkensalat und Beerengrütze",
 				"attributes": [
 					"MV",
+					"2",
 					"30",
+					"32",
 					"33",
-					"36"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 3.4,
