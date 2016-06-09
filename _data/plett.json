@@ -212,10 +212,12 @@
 				"name": "Hirtenkäseschnitzel in Sesam-Panade auf Salat von zweierlei Spargel mit Basilikum und Erdbeermarinade",
 				"attributes": [
 					"F",
+					"1",
 					"30",
 					"32",
 					"36",
-					"40"
+					"40",
+					"41"
 				],
 				"price": {
 					"student": 3.8,
