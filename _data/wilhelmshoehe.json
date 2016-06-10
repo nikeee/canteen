@@ -125,13 +125,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gegrillter Fleischkäse auf einer Zwiebeljus",
+				"name": "Schaschliktopf",
 				"attributes": [
 					"2",
-					"3",
-					"8",
 					"30",
-					"R",
+					"38",
 					"S"
 				],
 				"price": {
