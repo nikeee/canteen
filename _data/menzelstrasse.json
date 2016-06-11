@@ -7,14 +7,58 @@
 		}
 	},
 	"validity": {
-		"from": "2016-06-06T00:00:00.000Z",
-		"until": "2016-06-10T00:00:00.000Z"
+		"from": "2016-06-13T00:00:00.000Z",
+		"until": "2016-06-17T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Italienische Penne mit veganer Steinpilz-Cremesauce",
+				"name": "Drelloni Pasta an Pesto rosso und Kräuterpesto",
+				"attributes": [
+					"V",
+					"30",
+					"37"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Mediterrane Couscouspfanne mit getrockneten Tomaten an rotem Linsendip",
+				"attributes": [
+					"V",
+					"6",
+					"30",
+					"40"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gnocchi in Rucola-Sahnesauce",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Vegane Gulaschsuppe Ungarische Art",
 				"attributes": [
 					"V",
 					"30",
@@ -27,59 +71,12 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Berner Riesenrösti mit buntem Béchamelgemüse",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Thai-Soja-Topf",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"9",
-					"30",
-					"35",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Ofenfrische Sesam-Blechkartoffeln an scharfer Gurken-Salsa",
-				"attributes": [
-					"V",
-					"40"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an Karottendip",
+				"name": "Penne mit Blattspinat und Hackfleisch",
 				"attributes": [
-					"V",
 					"30",
-					"35",
-					"38"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 1.9,
@@ -91,14 +88,9 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Frühlingsrolle mit Geflügelfleisch gefüllt an süß-saurer Sauce",
+				"name": "Ofenfrische Geflügelfrikadelle an Jus mit grünen Pfefferbeeren",
 				"attributes": [
-					"1",
-					"3",
 					"30",
-					"32",
-					"35",
-					"36",
 					"38",
 					"39"
 				],
@@ -110,40 +102,27 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Schaschliktopf",
+				"name": "Schweinesteak vom Nacken an Kräuterbutter",
 				"attributes": [
-					"2",
-					"30",
+					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gegrillter Fleischkäse auf einer Zwiebeljus",
+				"name": "Pikante Sesamnudeln mit Schweinefleisch und asiatischem Pfannengemüse",
 				"attributes": [
-					"2",
-					"3",
-					"8",
 					"30",
-					"R",
+					"34",
+					"35",
+					"39",
+					"40",
 					"S"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
-				"attributes": [
-					"2"
 				],
 				"price": {
 					"student": 2.4,
@@ -152,16 +131,27 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Grüne Bandnudeln an einer cremigen Thunfischsauce mit Tomatenwürfeln",
+			"4": {
+				"name": "Hähnchenbrust in Cidre-Rahmsauce",
 				"attributes": [
 					"A",
+					"3",
 					"30",
-					"32",
-					"33",
-					"36",
-					"38",
-					"41"
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Lauchkuchen mit Schmand und roten Zwiebeln",
+				"attributes": [
+					"F",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.4,

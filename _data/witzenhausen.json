@@ -7,18 +7,21 @@
 		}
 	},
 	"validity": {
-		"from": "2016-06-06T00:00:00.000Z",
-		"until": "2016-06-10T00:00:00.000Z"
+		"from": "2016-06-13T00:00:00.000Z",
+		"until": "2016-06-17T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Risotto mit Pilzen und Gemüsen",
+				"name": "Frühlingsrollen an süß-saurer Asia-Sauce",
 				"attributes": [
-					"V",
+					"F",
+					"30",
+					"32",
 					"35",
-					"38"
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 1.8,
@@ -28,11 +31,13 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse",
+				"name": "Maultaschen auf Majoran-Schmandsauce",
 				"attributes": [
-					"V",
-					"38",
-					"39"
+					"F",
+					"30",
+					"32",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -42,11 +47,10 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Pasta in provenzalischer Zucchini-Paprikasauce",
+				"name": "Kokos-Sojamilchreis mit Zimt und Zucker",
 				"attributes": [
-					"F",
-					"30",
-					"36"
+					"V",
+					"35"
 				],
 				"price": {
 					"student": 1.9,
@@ -56,10 +60,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Grießbrei mit Kirschsauce",
+				"name": "Spanischer Tortilla-Gemüseauflauf",
 				"attributes": [
 					"F",
-					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -70,11 +74,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Weißkohleintopf mit Kartoffeln",
+				"name": "Vegane Soljanka mit Gurke, Paprika und Tofu",
 				"attributes": [
 					"V",
-					"Ö",
-					""
+					"9",
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 1.9,
@@ -86,13 +91,11 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Kassler Braten mit Rotweinjus",
+				"name": "Hausgemachte Lasagne mit Béchamelsauce",
 				"attributes": [
-					"A",
-					"2",
-					"3",
-					"8",
-					"41",
+					"30",
+					"32",
+					"36",
 					"S"
 				],
 				"price": {
@@ -103,9 +106,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Ghanaisches Hähnchen in Erdnuss-Tomatensauce",
+				"name": "Schweinebraten in Kräuter-Senfkruste gegart",
 				"attributes": [
-					"34"
+					"30",
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -115,40 +120,40 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Asiatische Schweinefleischstreifen mit buntem Gemüse",
+				"name": "Hähnchenbrust in Estragon-Weißwein-Sahnesauce",
 				"attributes": [
-					"35",
-					"38",
-					"S"
+					"A",
+					"30",
+					"36",
+					"41"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Orientalische Hackfleischpfanne mit Linsen und Kichererbsen",
+				"name": "Szegediner Gulasch",
 				"attributes": [
-					"2",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Matjesfilet Hausfrauen Art mit Äpfeln, Gurken und Zwiebeln",
+				"name": "Feines Fischragout in cremiger Currysauce",
 				"attributes": [
-					"2",
-					"3",
-					"9",
+					"30",
 					"33",
-					"36"
+					"36",
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -160,12 +165,12 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Möhrenpfannkuchen mit Schnittlauchsauce",
+				"name": "Thailändisches Kartoffelcurry",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"30",
-					"32"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -175,7 +180,7 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Polenta mit buntem Gemüse und Paprikasauce",
+				"name": "Glacierte Karotten mit Petersiliensauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -189,12 +194,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Linsen-Bohnen-Röstling an pikanter Tomaten-Chilisauce",
+				"name": "Brätlinge mit Kressefrischkäse",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"30",
-					"35"
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -204,7 +208,7 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Nudeln mit Soja-Bolognese",
+				"name": "Grünkerntaler mit warmer Soja-Currysauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -219,10 +223,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Backkartoffeln mit Kräuterquark",
+				"name": "Kartoffelgratin mit Lauch und Karotten",
 				"attributes": [
 					"F",
 					"Ö",
+					"32",
 					"36"
 				],
 				"price": {
@@ -234,12 +239,11 @@
 			}
 		},
 		"Aktions-Essen": {
-			"1": {
-				"name": "Hamburger Pannfisch",
+			"1": null,
+			"2": null,
+			"3": {
+				"name": "Feuerspieß vom Schwein mit scharfer Paprikasauce",
 				"attributes": [
-					"2",
-					"30",
-					"33",
 					"39",
 					"S"
 				],
@@ -250,51 +254,7 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Dialog von Edelfischen",
-				"attributes": [
-					"A",
-					"30",
-					"33",
-					"41"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Lasagne mit Blattspinat, Lachswürfeln und Shrimps",
-				"attributes": [
-					"30",
-					"31",
-					"32",
-					"33",
-					"36"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Pizza mit Thunfisch und Zwiebeln",
-				"attributes": [
-					"30",
-					"33",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
+			"4": null,
 			"5": null
 		}
 	}
