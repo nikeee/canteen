@@ -18,6 +18,7 @@
 				"attributes": [
 					"V",
 					"30",
+					"35",
 					"37"
 				],
 				"price": {
@@ -185,9 +186,11 @@
 				"name": "Gebratenes Seehechtfilet auf buntem Sesam-Glasnudelsalat",
 				"attributes": [
 					"MV",
+					"2",
 					"30",
 					"33",
 					"35",
+					"38",
 					"39",
 					"40"
 				],
@@ -303,12 +306,11 @@
 				"name": "Multikorn-Burger mit Bärlauchcreme, Salaten und Quinoa-Karotten-Patty",
 				"attributes": [
 					"V",
-					"2",
 					"9",
 					"30",
+					"35",
 					"37",
-					"39",
-					"40"
+					"39"
 				],
 				"price": {
 					"student": 4.5,
