@@ -14,14 +14,13 @@
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Frühlingsrollen an süß-saurer Asia-Sauce",
+				"name": "Maultaschen auf Majoran-Schmandsauce",
 				"attributes": [
 					"F",
 					"30",
 					"32",
-					"35",
-					"38",
-					"39"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -31,13 +30,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Maultaschen auf Majoran-Schmandsauce",
+				"name": "Spanischer Tortilla-Gemüseauflauf",
 				"attributes": [
 					"F",
-					"30",
 					"32",
-					"36",
-					"38"
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -60,11 +57,14 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Spanischer Tortilla-Gemüseauflauf",
+				"name": "Frühlingsrollen an süß-saurer Asia-Sauce",
 				"attributes": [
 					"F",
+					"30",
 					"32",
-					"36"
+					"35",
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 1.8,
