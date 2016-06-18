@@ -7,32 +7,34 @@
 		}
 	},
 	"validity": {
-		"from": "2016-06-13T00:00:00.000Z",
-		"until": "2016-06-17T00:00:00.000Z"
+		"from": "2016-06-20T00:00:00.000Z",
+		"until": "2016-06-24T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Maultaschen auf Majoran-Schmandsauce",
+				"name": "Pikante Sesamnudeln mit asiatischem Pfannengemüse",
 				"attributes": [
-					"F",
+					"V",
 					"30",
-					"32",
-					"36",
-					"38"
+					"35",
+					"39",
+					"40"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Spanischer Tortilla-Gemüseauflauf",
+				"name": "Hausgemachter Mohnschmarrn mit Vanillesauce",
 				"attributes": [
 					"F",
+					"1",
+					"30",
 					"32",
 					"36"
 				],
@@ -44,10 +46,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Kokos-Sojamilchreis mit Zimt und Zucker",
+				"name": "Schwäbischer Zwiebelkuchen mit Lauch",
 				"attributes": [
-					"V",
-					"35"
+					"F",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -57,14 +60,13 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Frühlingsrollen an süß-saurer Asia-Sauce",
+				"name": "Bunter Gemüseauflauf an Rahmsauce",
 				"attributes": [
 					"F",
 					"30",
 					"32",
 					"35",
-					"38",
-					"39"
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -74,28 +76,27 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Vegane Soljanka mit Gurke, Paprika und Tofu",
+				"name": "Gebackener Blumenkohl mit Sauce Hollandaise",
 				"attributes": [
-					"V",
-					"9",
-					"30",
-					"35"
+					"F",
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Hausgemachte Lasagne mit Béchamelsauce",
+				"name": "Ofenfrische Hackfleischbällchen auf Westernsauce",
 				"attributes": [
 					"30",
 					"32",
-					"36",
+					"R",
 					"S"
 				],
 				"price": {
@@ -106,10 +107,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Schweinebraten in Kräuter-Senfkruste gegart",
+				"name": "Schweineschnitzel mit ungarischer Pusztasauce",
 				"attributes": [
 					"30",
-					"39",
+					"32",
 					"S"
 				],
 				"price": {
@@ -120,23 +121,9 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Hähnchenbrust in Estragon-Weißwein-Sahnesauce",
+				"name": "Hausgemachte Hackfleischpizza mit Paprika, Tomate und Mais",
 				"attributes": [
-					"A",
-					"30",
 					"36",
-					"41"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Szegediner Gulasch",
-				"attributes": [
 					"S"
 				],
 				"price": {
@@ -146,13 +133,28 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Feines Fischragout in cremiger Currysauce",
+			"4": {
+				"name": "Bami Goreng mit Geflügelstreifen",
 				"attributes": [
 					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Gebratene Scholle mit Remouladensauce",
+				"attributes": [
+					"3",
+					"30",
+					"32",
 					"33",
 					"36",
-					"38",
 					"39"
 				],
 				"price": {
@@ -165,12 +167,13 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Thailändisches Kartoffelcurry",
+				"name": "Kartoffelrösti mit Brokkoli-Rahmsauce",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"35",
-					"39"
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -180,7 +183,21 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Glacierte Karotten mit Petersiliensauce",
+				"name": "Arabisches Auberginenpüree mit Offenkartoffeln",
+				"attributes": [
+					"V",
+					"Ö",
+					""
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Mediterrane Gemüsepfanne mit Tofu",
 				"attributes": [
 					"V",
 					"Ö",
@@ -193,22 +210,8 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Brätlinge mit Kressefrischkäse",
-				"attributes": [
-					"F",
-					"Ö",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
 			"4": {
-				"name": "Grünkerntaler mit warmer Soja-Currysauce",
+				"name": "Karotten-Pfannkuchen mit Petersiliensauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -223,12 +226,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Kartoffelgratin mit Lauch und Karotten",
+				"name": "Ratatouille-Gemüsepfanne",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"32",
-					"36"
+					""
 				],
 				"price": {
 					"student": 2.9,
@@ -242,15 +244,15 @@
 			"1": null,
 			"2": null,
 			"3": {
-				"name": "Feuerspieß vom Schwein mit scharfer Paprikasauce",
+				"name": "Rindergeschnetzeltes \"China Art\"",
 				"attributes": [
 					"39",
-					"S"
+					"R"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
