@@ -33,7 +33,10 @@
 				"name": "Hirtenkäse-Steak auf Rahmspinat",
 				"attributes": [
 					"F",
-					"36"
+					"30",
+					"32",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -298,26 +301,7 @@
 			}
 		},
 		"Angebot des Tages II": {
-			"1": {
-				"name": "Currywurst Berliner Art mit Schärfegrad nach Wahl",
-				"attributes": [
-					"1",
-					"2",
-					"3",
-					"4",
-					"8",
-					"38",
-					"39",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
 				"name": "Seelachs mit Kürbis-Kartoffelpüree und Lauch-Maissalat",
 				"attributes": [
