@@ -119,11 +119,13 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Hähnchenbrust mit Sauce Café de Paris",
+				"name": "Hausgemachter Speck-Schmarrn mit Kräuterdip",
 				"attributes": [
+					"2",
 					"30",
 					"32",
-					"36"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -150,13 +152,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachter Speck-Schmarrn mit Kräuterdip",
+				"name": "Hähnchenbrust mit Sauce Café de Paris",
 				"attributes": [
-					"2",
 					"30",
 					"32",
-					"36",
-					"S"
+					"36"
 				],
 				"price": {
 					"student": 2.5,
