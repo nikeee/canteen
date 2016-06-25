@@ -7,20 +7,17 @@
 		}
 	},
 	"validity": {
-		"from": "2016-06-20T00:00:00.000Z",
-		"until": "2016-06-24T00:00:00.000Z"
+		"from": "2016-06-27T00:00:00.000Z",
+		"until": "2016-07-01T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Pikante Sesamnudeln mit asiatischem Pfannengemüse",
+				"name": "Graupen-Gemüseeintopf",
 				"attributes": [
 					"V",
-					"30",
-					"35",
-					"39",
-					"40"
+					"30"
 				],
 				"price": {
 					"student": 1.9,
@@ -30,7 +27,21 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hausgemachter Mohnschmarrn mit Vanillesauce",
+				"name": "Scharfe indische Ebly-Pfanne mit Gemüsen, Nüssen und Koriander",
+				"attributes": [
+					"V",
+					"30",
+					"37"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Ofenfrischer Apfelstrudel auf einer Vanillesauce",
 				"attributes": [
 					"F",
 					"1",
@@ -45,12 +56,14 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Schwäbischer Zwiebelkuchen mit Lauch",
+			"4": {
+				"name": "Thai-Soja-Topf",
 				"attributes": [
-					"F",
+					"V",
 					"30",
-					"36"
+					"35",
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 1.9,
@@ -59,26 +72,11 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Bunter Gemüseauflauf an Rahmsauce",
+			"5": {
+				"name": "Brokkoli-Blumenkohlauflauf",
 				"attributes": [
 					"F",
 					"30",
-					"32",
-					"35",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Gebackener Blumenkohl mit Sauce Hollandaise",
-				"attributes": [
-					"F",
 					"32",
 					"36"
 				],
@@ -92,37 +90,10 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Ofenfrische Hackfleischbällchen auf Westernsauce",
+				"name": "Elsässer Hackfleischauflauf mit Sauerkraut",
 				"attributes": [
-					"30",
 					"32",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Schweineschnitzel mit ungarischer Pusztasauce",
-				"attributes": [
-					"30",
-					"32",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Hausgemachte Hackfleischpizza mit Paprika, Tomate und Mais",
-				"attributes": [
+					"35",
 					"36",
 					"S"
 				],
@@ -133,11 +104,10 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Bami Goreng mit Geflügelstreifen",
+			"2": {
+				"name": "Hähnchenfilet Maurische Art",
 				"attributes": [
-					"30",
-					"35",
+					"2",
 					"39"
 				],
 				"price": {
@@ -147,15 +117,41 @@
 				},
 				"vitalInfo": null
 			},
+			"3": {
+				"name": "Hackbraten mit Bratenjus",
+				"attributes": [
+					"32",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Kabak Dolmasi - Gefüllte Zucchini mit Hackfleisch",
+				"attributes": [
+					"32",
+					"36",
+					"R"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
 			"5": {
-				"name": "Gebratene Scholle mit Remouladensauce",
+				"name": "Russischer Lachseintopf",
 				"attributes": [
 					"3",
-					"30",
-					"32",
 					"33",
 					"36",
-					"39"
+					"38"
 				],
 				"price": {
 					"student": 2.4,
@@ -167,13 +163,11 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Kartoffelrösti mit Brokkoli-Rahmsauce",
+				"name": "Asia-Reis-Gemüsepfanne",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"30",
-					"32",
-					"36"
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -183,11 +177,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Arabisches Auberginenpüree mit Ofenkartoffeln",
+				"name": "Lauch-Kartoffelgratin mit Karottenschaumsauce",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					""
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -197,10 +191,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Mediterrane Gemüsepfanne mit Tofu",
+				"name": "Griechischer Tomaten-Reistaler mit Knoblauchsauce",
 				"attributes": [
 					"V",
 					"Ö",
+					"30",
 					"35"
 				],
 				"price": {
@@ -211,12 +206,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Karotten-Pfannkuchen mit Petersiliensauce",
+				"name": "Radieschen-Quarkdip mit Backkartoffeln",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"30",
-					"35"
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -226,11 +220,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Ratatouille-Gemüsepfanne",
+				"name": "Geschwenktes Kichererbsen-Linsen-Curry",
 				"attributes": [
 					"V",
 					"Ö",
-					""
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -244,15 +238,18 @@
 			"1": null,
 			"2": null,
 			"3": {
-				"name": "Rindergeschnetzeltes \"China Art\"",
+				"name": "Rinderroulade Hausfrauen Art in Bratenjus geschmort",
 				"attributes": [
+					"2",
+					"30",
 					"39",
-					"R"
+					"R",
+					"S"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
