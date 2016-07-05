@@ -88,8 +88,10 @@
 			"1": {
 				"name": "Spaghetti in Sauce all'amatricana",
 				"attributes": [
+					"1",
 					"2",
 					"30",
+					"36",
 					"S"
 				],
 				"price": {
@@ -167,6 +169,7 @@
 				"name": "Geschwenkte Champignons aus der Riesenpfanne an einem Kräuterdip",
 				"attributes": [
 					"V",
+					"30",
 					"35",
 					"37",
 					"39"
