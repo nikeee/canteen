@@ -181,18 +181,18 @@
 			},
 			"2": null,
 			"3": {
-				"name": "Ofenfrische Mohn-Nudeln auf warmer Vanillesauce",
+				"name": "Fruchtig gefüllter Germknödel mit Kirschfüllung auf warmer Vanillesauce",
 				"attributes": [
 					"F",
 					"1",
+					"2",
 					"30",
-					"32",
 					"36"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
 				},
 				"vitalInfo": null
 			},
@@ -215,7 +215,7 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gnocchi mit cremiger Spinatfüllung in Ricotta-Schnittlauchsauce",
+				"name": "Gnocchi in Ricotta-Schnittlauchsauce",
 				"attributes": [
 					"F",
 					"30",
@@ -223,9 +223,9 @@
 					"36"
 				],
 				"price": {
-					"student": 3.7,
-					"employee": 5,
-					"visitor": 5.9
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
 			}
