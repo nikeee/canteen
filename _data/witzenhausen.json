@@ -7,18 +7,19 @@
 		}
 	},
 	"validity": {
-		"from": "2016-07-04T00:00:00.000Z",
-		"until": "2016-07-08T00:00:00.000Z"
+		"from": "2016-07-11T00:00:00.000Z",
+		"until": "2016-07-15T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Minestrone - Italienische Gemüsesuppe",
+				"name": "Sojageschnetzeltes \"Strogangoff\"",
 				"attributes": [
 					"V",
+					"9",
 					"30",
-					"38"
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -28,12 +29,15 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Iranischer Dinkel-Aprikosen-Pilaw",
+				"name": "Linsenpfanne mit Wurzelgemüse in Balsamico-Senfcreme",
 				"attributes": [
 					"V",
-					"2",
+					"1",
+					"3",
 					"30",
-					"37"
+					"35",
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 1.9,
@@ -43,26 +47,22 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Ananas-Quark-Auflauf an Vanillesauce",
+				"name": "Milchreis mit Kirschgrütze",
 				"attributes": [
 					"F",
-					"1",
-					"32",
-					"36",
-					"37"
+					"36"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Schupfnudeln an Erbsen-Champignonsauce",
+				"name": "Original hessische grüne Sauce mit gehacktem Ei",
 				"attributes": [
 					"F",
-					"30",
 					"32",
 					"36"
 				],
@@ -74,10 +74,10 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Grillfrische Zucchini mit Paprikasauce",
+				"name": "Kartoffelpfanne Mexikanisch mit Paprika- Chilisauce",
 				"attributes": [
 					"V",
-					"40"
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -89,9 +89,12 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Texanisches feuriges Chili con Carne",
+				"name": "Krosser Leberkäse auf Zwiebelsauce",
 				"attributes": [
-					"30",
+					"2",
+					"3",
+					"8",
+					"R",
 					"S"
 				],
 				"price": {
@@ -102,9 +105,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
+				"name": "Hähnchenbrust nach Gyros Art",
 				"attributes": [
-					""
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -114,38 +118,36 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Griechisches Hacksteak an Bratenjus",
+				"name": "Mediterrane Gemüsepfanne mit Streifen von der Hähnchenbrust",
 				"attributes": [
-					"6",
-					"30",
-					"32",
-					"35",
-					"36",
-					"39",
-					"S"
+					"4"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Braten vom Schweinerücken",
+				"name": "Schweinegeschnetzeltes \"Züricher Art\"",
 				"attributes": [
+					"30",
+					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Fischfrikadelle mit Dill-Sahnesauce",
+				"name": "Fischstäbchen mit Remouladensauce",
 				"attributes": [
+					"3",
+					"9",
 					"30",
 					"32",
 					"33",
@@ -162,12 +164,12 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Bunte Spirelli in Brokkoli-Tomatensauce",
+				"name": "Nudelgratin mit Blumenkohl und Erbsen",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
 					"30",
-					"35"
+					"32"
 				],
 				"price": {
 					"student": 2.9,
@@ -177,13 +179,13 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Falafel aus Kichererbsen mit Joghurt-Schnittlauch-Dip",
+				"name": "Dinkel-Gemüsebratling mit Sellerie-Karottensauce",
 				"attributes": [
 					"F",
 					"Ö",
 					"30",
-					"36",
-					"39"
+					"32",
+					"38"
 				],
 				"price": {
 					"student": 2.9,
@@ -193,7 +195,7 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Ägyptischer Kichererbseneintopf mit Weißkohl, Paprika und Tomate",
+				"name": "Gebratene Kartoffelspalten an gedünstetem Saisongemüse",
 				"attributes": [
 					"V",
 					"Ö",
@@ -207,11 +209,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Frisches Gemüsegulasch mit Tomatensauce",
+				"name": "Gedünstete Karottenstifte mit Grünkern",
 				"attributes": [
 					"V",
 					"Ö",
-					""
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -221,11 +224,13 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Kartoffelgratin mit Schnittlauchsauce",
+				"name": "Bunte Spirelli mit grüner Erbsensauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"35"
+					"30",
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -239,10 +244,10 @@
 			"1": null,
 			"2": null,
 			"3": {
-				"name": "Gebratener Wildlachs auf Zitronen-Buttersauce",
+				"name": "Schweineschnitzel an Champignon-Rahmsauce",
 				"attributes": [
-					"33",
-					"36"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 4,
