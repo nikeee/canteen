@@ -123,6 +123,7 @@
 			"3": {
 				"name": "Ofenfrischer Schweinenackenbraten an hausgemachtem Krautsalat und Zaziki",
 				"attributes": [
+					"30",
 					"36",
 					"S"
 				],
@@ -235,9 +236,13 @@
 			"2": {
 				"name": "Fish & Chips",
 				"attributes": [
+					"3",
+					"9",
 					"30",
 					"32",
-					"33"
+					"33",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 4,
