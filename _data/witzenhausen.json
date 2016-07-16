@@ -7,19 +7,17 @@
 		}
 	},
 	"validity": {
-		"from": "2016-07-11T00:00:00.000Z",
-		"until": "2016-07-15T00:00:00.000Z"
+		"from": "2016-07-18T00:00:00.000Z",
+		"until": "2016-07-22T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Sojageschnetzeltes \"Strogangoff\"",
+				"name": "Duett von Blumenkohl und Brokkoli",
 				"attributes": [
 					"V",
-					"9",
-					"30",
-					"35"
+					""
 				],
 				"price": {
 					"student": 1.8,
@@ -29,38 +27,7 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Linsenpfanne mit Wurzelgemüse in Balsamico-Senfcreme",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"30",
-					"35",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Milchreis mit Kirschgrütze",
-				"attributes": [
-					"F",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Original hessische grüne Sauce mit gehacktem Ei",
+				"name": "Rahmspinat mit Rührei",
 				"attributes": [
 					"F",
 					"32",
@@ -73,11 +40,42 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Kartoffelpfanne Mexikanisch mit Paprika- Chilisauce",
+			"3": {
+				"name": "Asiatische Reis-Gemüsepfanne",
 				"attributes": [
 					"V",
-					"35"
+					"35",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Backfrischer Armer Ritter auf Vanillesauce",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Rotes türkisches Linsensüppchen",
+				"attributes": [
+					"V",
+					"3",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -89,24 +87,12 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Krosser Leberkäse auf Zwiebelsauce",
+				"name": "Geschwenktes Hähnchenfleisch süßsauer",
 				"attributes": [
-					"2",
+					"1",
 					"3",
-					"8",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Hähnchenbrust nach Gyros Art",
-				"attributes": [
+					"30",
+					"35",
 					"38",
 					"39"
 				],
@@ -117,10 +103,14 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Mediterrane Gemüsepfanne mit Streifen von der Hähnchenbrust",
+			"2": {
+				"name": "Orientalische Hackfleisch-Bulgurpfanne",
 				"attributes": [
-					"4"
+					"30",
+					"37",
+					"38",
+					"39",
+					"R"
 				],
 				"price": {
 					"student": 2.5,
@@ -129,11 +119,28 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Schweinegeschnetzeltes \"Züricher Art\"",
+			"3": {
+				"name": "Ofenfrischer Sesam-Hähnchenschenkel",
 				"attributes": [
 					"30",
 					"36",
+					"39",
+					"40"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Westfälisches Kutschergulasch",
+				"attributes": [
+					"A",
+					"3",
+					"9",
+					"30",
 					"S"
 				],
 				"price": {
@@ -144,32 +151,29 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Fischstäbchen mit Remouladensauce",
+				"name": "Fischfrikassee mit buntem Gemüse",
 				"attributes": [
-					"3",
-					"9",
+					"A",
 					"30",
-					"32",
 					"33",
-					"36",
-					"39"
+					"41"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Nudelgratin mit Blumenkohl und Erbsen",
+				"name": "Kartoffelpfannkuchen mit Knoblauchsauce",
 				"attributes": [
 					"F",
 					"Ö",
 					"30",
-					"32"
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -179,13 +183,13 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Dinkel-Gemüsebratling mit Sellerie-Karottensauce",
+				"name": "Bunte Spirelli mit Zucchini-Currysauce",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
 					"30",
-					"32",
-					"38"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -195,11 +199,12 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gebratene Kartoffelspalten an gedünstetem Saisongemüse",
+				"name": "Grünkerntaler mit warmer Schmand-Currysauce",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					""
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -209,12 +214,13 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gedünstete Karottenstifte mit Grünkern",
+				"name": "Pekingsuppe mit Tofu",
 				"attributes": [
 					"V",
 					"Ö",
 					"30",
-					"35"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -224,13 +230,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Bunte Spirelli mit grüner Erbsensauce",
+				"name": "Gebackene Würfelkartoffeln mit Möhrengemüse",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
-					"35",
-					"39"
+					""
 				],
 				"price": {
 					"student": 2.9,
@@ -244,15 +248,16 @@
 			"1": null,
 			"2": null,
 			"3": {
-				"name": "Schweineschnitzel an Champignon-Rahmsauce",
+				"name": "Schweinekotelett an Blumenkohlgemüse",
 				"attributes": [
+					"30",
 					"36",
 					"S"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
