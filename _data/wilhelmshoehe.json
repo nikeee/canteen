@@ -14,7 +14,7 @@
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Veganer Pfannkuchen Kaiserschmarrn Style auf Vanillesauce",
+				"name": "Veganer Pfannkuchen \"Kaiserschmarrn Style\" auf Vanillesauce",
 				"attributes": [
 					"V",
 					"1",
@@ -93,7 +93,9 @@
 				"name": "Hähnchenstreifen in Green-Thaicurry-Sauce",
 				"attributes": [
 					"30",
-					"36"
+					"35",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.5,

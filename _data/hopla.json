@@ -235,25 +235,18 @@
 		},
 		"Angebot des Tages": {
 			"1": {
-				"name": "Kartoffel-Kürbiskernpuffer mit Tomaten-Schnittlauch-Quark und Blattsalat",
+				"name": "Putenröllchen mit Frischkäse und Oliven gefüllt auf Mascarponesauce",
 				"attributes": [
-					"F",
-					"MV",
 					"30",
 					"32",
 					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
-				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 82,
-					"protein": 38,
-					"calories": 651
-				}
+				"vitalInfo": null
 			},
 			"2": null,
 			"3": {
