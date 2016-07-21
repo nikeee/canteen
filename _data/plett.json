@@ -125,6 +125,8 @@
 				"name": "Texanisches feuriges Chili con Carne",
 				"attributes": [
 					"30",
+					"39",
+					"R",
 					"S"
 				],
 				"price": {
@@ -278,6 +280,7 @@
 				"attributes": [
 					"V",
 					"MV",
+					"2",
 					"37"
 				],
 				"price": {
