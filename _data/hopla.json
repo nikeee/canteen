@@ -124,7 +124,11 @@
 			"3": {
 				"name": "Texanisches feuriges Chili con Carne",
 				"attributes": [
+					"2",
+					"3",
+					"8",
 					"30",
+					"R",
 					"S"
 				],
 				"price": {
@@ -137,12 +141,14 @@
 			"4": {
 				"name": "Fischstäbchen mit Remouladensauce",
 				"attributes": [
+					"2",
 					"3",
 					"9",
 					"30",
 					"32",
 					"33",
 					"36",
+					"38",
 					"39"
 				],
 				"price": {
