@@ -7,35 +7,18 @@
 		}
 	},
 	"validity": {
-		"from": "2016-07-18T00:00:00.000Z",
-		"until": "2016-07-22T00:00:00.000Z"
+		"from": "2016-07-25T00:00:00.000Z",
+		"until": "2016-07-29T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Veganer Pfannkuchen \"Kaiserschmarrn Style\" auf Vanillesauce",
+				"name": "Minestrone - Italienische Gemüsesuppe",
 				"attributes": [
 					"V",
-					"1",
 					"30",
-					"35",
-					"37"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Ofenfrische Gemüsefrikadellen mit Sauerrahmdip",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -44,14 +27,13 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Spaghetti mit Spinatpesto und Sonnenblumenkernen",
+			"2": {
+				"name": "Kritharakisalat mit bunten Gemüsen an Petersilienpesto und leckerem Baguette",
 				"attributes": [
-					"F",
-					"1",
-					"2",
+					"V",
+					"3",
+					"6",
 					"30",
-					"36",
 					"37"
 				],
 				"price": {
@@ -61,11 +43,26 @@
 				},
 				"vitalInfo": null
 			},
+			"3": {
+				"name": "Kartoffelpuffer mit Apfelmus",
+				"attributes": [
+					"F",
+					"3",
+					"32"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
 			"4": {
-				"name": "Gebratenes Curry-Quinoa mit Karotten und Brokkoli an fruchtigem Tomaten-Dip",
+				"name": "Sojageschnetzeltes in scharfer Thaicurry-Kokos-Sauce",
 				"attributes": [
 					"V",
-					""
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 1.9,
@@ -75,10 +72,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gebackene Kartoffelecken mit rauchigem Röstzwiebel-Ketchup Dip",
+				"name": "Hausgemachter Süßkartoffelstampf auf Balsamico-Linsen",
 				"attributes": [
 					"V",
-					"1"
+					"1",
+					"3",
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -90,40 +89,43 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Hähnchenstreifen in Green-Thaicurry-Sauce",
+				"name": "Gebratene Geflügel-Currywurst mit rauchiger Ketchupsauce",
 				"attributes": [
-					"30",
-					"36"
+					"1",
+					"36",
+					"38",
+					"39",
+					"R"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebackenes Fleischkäseschnitzel auf einer Malzjus",
+				"name": "Geschnetzeltes aus der Putenoberkeule in Bärlauchrahm",
 				"attributes": [
-					"2",
-					"3",
-					"8",
 					"30",
 					"32",
-					"R",
-					"S"
+					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Texanisches feuriges Chili con Carne",
+				"name": "Asiatische Schweinefleischstreifen in süß-saurer Sauce",
 				"attributes": [
+					"1",
+					"3",
 					"30",
+					"35",
+					"39",
 					"S"
 				],
 				"price": {
@@ -134,10 +136,9 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Fischstäbchen mit Remouladensauce",
+				"name": "Gebackene Fisch-Nuggets an cremigem Dill-Senfdip",
 				"attributes": [
 					"3",
-					"9",
 					"30",
 					"32",
 					"33",
@@ -145,22 +146,19 @@
 					"39"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Nudelpfanne mit Salami, Schinken und Ei",
+				"name": "Cevapcici vom Schwein an scharfer Paprikasauce",
 				"attributes": [
-					"2",
-					"3",
-					"8",
 					"30",
 					"32",
-					"36",
-					"R",
+					"35",
+					"39",
 					"S"
 				],
 				"price": {

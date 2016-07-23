@@ -7,17 +7,33 @@
 		}
 	},
 	"validity": {
-		"from": "2016-07-18T00:00:00.000Z",
-		"until": "2016-07-22T00:00:00.000Z"
+		"from": "2016-07-25T00:00:00.000Z",
+		"until": "2016-07-29T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Duett von Blumenkohl und Brokkoli",
+				"name": "Pfannenfrische Gemüsepaella",
 				"attributes": [
 					"V",
 					""
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Gemüseschnitzel mit Sahnesauce",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -26,10 +42,12 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Rahmspinat mit Rührei",
+			"3": {
+				"name": "Kaiserschmarrn mit Kirschsauce",
 				"attributes": [
 					"F",
+					"A",
+					"30",
 					"32",
 					"36"
 				],
@@ -40,23 +58,8 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Asiatische Reis-Gemüsepfanne",
-				"attributes": [
-					"V",
-					"35",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
 			"4": {
-				"name": "Backfrischer Armer Ritter auf Vanillesauce",
+				"name": "Omelett mit buntem Béchamelgemüse",
 				"attributes": [
 					"F",
 					"30",
@@ -71,10 +74,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Rotes türkisches Linsensüppchen",
+				"name": "Mie Goreng - Nudelpfanne mit Tofu und Gemüse",
 				"attributes": [
 					"V",
-					"3",
+					"30",
+					"35",
 					"38"
 				],
 				"price": {
@@ -87,60 +91,10 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Geschwenktes Hähnchenfleisch süßsauer",
+				"name": "Feurige Gulaschsuppe mit Kartoffeln",
 				"attributes": [
-					"1",
-					"3",
 					"30",
-					"35",
 					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Orientalische Hackfleisch-Bulgurpfanne",
-				"attributes": [
-					"30",
-					"37",
-					"38",
-					"39",
-					"R"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Ofenfrischer Sesam-Hähnchenschenkel",
-				"attributes": [
-					"30",
-					"36",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Westfälisches Kutschergulasch",
-				"attributes": [
-					"A",
-					"3",
-					"9",
-					"30",
 					"S"
 				],
 				"price": {
@@ -150,13 +104,26 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Fischfrikassee mit buntem Gemüse",
+			"2": {
+				"name": "Ofenfrischer Schweinenackenbraten mit Bayrischer Bierjus",
 				"attributes": [
 					"A",
 					"30",
-					"33",
-					"41"
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Frisch gebratenes Hähnchenbrustschnitzel Toscana",
+				"attributes": [
+					"30",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.5,
@@ -164,16 +131,51 @@
 					"visitor": 4.7
 				},
 				"vitalInfo": null
+			},
+			"4": {
+				"name": "\"Köttbullar\" Hackfleischbällchen in Rahmsauce",
+				"attributes": [
+					"30",
+					"32",
+					"36",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Knusperfischfilet auf Dänischer Remouladensauce",
+				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
+					"33",
+					"36",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Kartoffelpfannkuchen mit Knoblauchsauce",
+				"name": "Gedünstetes Saisongemüse an Kräuter-Karottensauce",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"30",
-					"36"
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 2.9,
@@ -183,13 +185,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Bunte Spirelli mit Zucchini-Currysauce",
+				"name": "Ofenkartoffeln mit hausgemachtem Hummus",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
-					"35",
-					"39"
+					"40"
 				],
 				"price": {
 					"student": 2.9,
@@ -199,12 +199,12 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Grünkerntaler mit warmer Schmand-Currysauce",
+				"name": "Gabelspaghetti mit Mangold-Karottenragout in Rahmsauce",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"36",
-					"39"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -214,13 +214,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Pekingsuppe mit Tofu",
+				"name": "Nudeln mit Soja-Bolognese",
 				"attributes": [
 					"V",
 					"Ö",
 					"30",
-					"35",
-					"39"
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -230,7 +229,7 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gebackene Würfelkartoffeln mit Möhrengemüse",
+				"name": "Geschwenkte hessische Pilz-Kartoffel-Pfanne",
 				"attributes": [
 					"V",
 					"Ö",
@@ -247,20 +246,7 @@
 		"Aktions-Essen": {
 			"1": null,
 			"2": null,
-			"3": {
-				"name": "Schweinekotelett an Blumenkohlgemüse",
-				"attributes": [
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
+			"3": null,
 			"4": null,
 			"5": null
 		}
