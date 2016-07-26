@@ -28,22 +28,7 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Kritharakisalat mit bunten Gemüsen an Petersilienpesto und leckerem Baguette",
-				"attributes": [
-					"V",
-					"3",
-					"6",
-					"30",
-					"37"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": {
 				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
@@ -105,20 +90,7 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Geschnetzeltes aus der Putenoberkeule in Bärlauchrahm",
-				"attributes": [
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": {
 				"name": "Asiatische Schweinefleischstreifen in süß-saurer Sauce",
 				"attributes": [
@@ -289,12 +261,12 @@
 			"2": {
 				"name": "Überraschungsburger mit Beef und Dips",
 				"attributes": [
-					"F",
 					"3",
 					"9",
 					"32",
 					"36",
-					"39"
+					"39",
+					"R"
 				],
 				"price": {
 					"student": 4,

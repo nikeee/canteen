@@ -14,11 +14,10 @@
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Minestrone - Italienische Gemüsesuppe",
+				"name": "Chili sin Carne",
 				"attributes": [
 					"V",
-					"30",
-					"38"
+					"35"
 				],
 				"price": {
 					"student": 1.9,
@@ -92,6 +91,7 @@
 				"name": "Gebratene Geflügel-Currywurst mit rauchiger Ketchupsauce",
 				"attributes": [
 					"1",
+					"30",
 					"36",
 					"38",
 					"39",
@@ -276,7 +276,8 @@
 					"F",
 					"30",
 					"32",
-					"36"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 3.3,
@@ -288,12 +289,12 @@
 			"2": {
 				"name": "Überraschungsburger mit Beef und Dips",
 				"attributes": [
-					"F",
 					"3",
 					"9",
 					"32",
 					"36",
-					"39"
+					"39",
+					"R"
 				],
 				"price": {
 					"student": 4,
