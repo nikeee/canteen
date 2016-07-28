@@ -14,10 +14,11 @@
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Chili sin Carne",
+				"name": "Minestrone - Italienische Gemüsesuppe",
 				"attributes": [
 					"V",
-					"35"
+					"30",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
