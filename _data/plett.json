@@ -31,7 +31,10 @@
 				"name": "Röstling Spezial - Lassen Sie sich überraschen",
 				"attributes": [
 					"V",
-					""
+					"3",
+					"30",
+					"38",
+					"40"
 				],
 				"price": {
 					"student": 1.9,

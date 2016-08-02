@@ -16,8 +16,9 @@
 			"1": {
 				"name": "Schupfnudeln in cremiger Salbeisauce",
 				"attributes": [
-					"V",
+					"F",
 					"30",
+					"32",
 					"35"
 				],
 				"price": {
@@ -170,6 +171,7 @@
 					"8",
 					"30",
 					"39",
+					"40",
 					"R",
 					"S"
 				],
@@ -274,9 +276,11 @@
 		},
 		"Angebot des Tages II": {
 			"1": {
-				"name": "Backfrischer Pancake mit fruchtigem Heidelbeer-Ragout und Vanilleis",
+				"name": "Germknödel fruchtigem Heidelbeer-Ragout und Vanilleis",
 				"attributes": [
 					"F",
+					"1",
+					"2",
 					"3",
 					"9",
 					"30",
