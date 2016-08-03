@@ -29,10 +29,13 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Röstling Spezial - Lassen Sie sich überraschen",
+				"name": "Röstling Spezial - Lassen Sie sich überraschen Sauerrahmdip",
 				"attributes": [
-					"V",
-					""
+					"F",
+					"30",
+					"32",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -102,9 +105,11 @@
 					"1",
 					"2",
 					"3",
+					"8",
 					"30",
 					"32",
 					"36",
+					"R",
 					"S"
 				],
 				"price": {
