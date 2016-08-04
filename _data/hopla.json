@@ -31,8 +31,13 @@
 			"2": {
 				"name": "Röstling Spezial - Lassen Sie sich überraschen Gebackene Brokkoli-Nuggets an Sauce Hollandaise",
 				"attributes": [
-					"V",
-					""
+					"F",
+					"30",
+					"32",
+					"35",
+					"36",
+					"38",
+					"40"
 				],
 				"price": {
 					"student": 1.9,
