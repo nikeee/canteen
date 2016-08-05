@@ -59,8 +59,9 @@
 			"4": {
 				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an Kräuter-Béchamel",
 				"attributes": [
-					"V",
+					"F",
 					"30",
+					"32",
 					"35",
 					"38"
 				],
@@ -136,7 +137,9 @@
 					"30",
 					"32",
 					"35",
+					"38",
 					"39",
+					"R",
 					"S"
 				],
 				"price": {
