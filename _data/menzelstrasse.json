@@ -7,14 +7,56 @@
 		}
 	},
 	"validity": {
-		"from": "2016-08-01T00:00:00.000Z",
-		"until": "2016-08-05T00:00:00.000Z"
+		"from": "2016-08-08T00:00:00.000Z",
+		"until": "2016-08-12T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Schupfnudeln in cremiger Salbeisauce",
+				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Original hessische grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Hausgemachter Spinatpfannkuchen an einem Quarkdip",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Blanchierter Blumenkohl mit cremiger Tomatencreme-Sauce nappiert",
 				"attributes": [
 					"V",
 					"30",
@@ -27,52 +69,12 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Röstling Spezial - Lassen Sie sich überraschen",
-				"attributes": [
-					"V",
-					""
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Farfalle Tricolore an tomatisiertem Grünkernragout",
-				"attributes": [
-					"V",
-					"30"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an Kräuter-Béchamel",
+			"5": {
+				"name": "Marokkanische Pasta mit Nüssen, Kichererbsen und Rosinen",
 				"attributes": [
 					"V",
 					"30",
-					"35",
-					"38"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Geschmortes Ratatouille-Gemüse im gelben Reisrand",
-				"attributes": [
-					"V",
-					"30"
+					"37"
 				],
 				"price": {
 					"student": 1.8,
@@ -84,79 +86,79 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
-				"attributes": [
-					""
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Allgäuer Käse-Speck-Spätzlepfanne",
-				"attributes": [
-					"1",
-					"2",
-					"3",
-					"30",
-					"32",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Asia-Schweinefleischstreifen in Red-Thaicurry-Sauce",
+				"name": "Geschnetzeltes von der Putenbrust in Pfirsichrahm",
 				"attributes": [
 					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Hausgemachtes Hacksteak auf Honig-Zwiebeljus",
-				"attributes": [
-					"30",
-					"32",
-					"35",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Paprika mit orientalischer Hack-Couscous-Füllung",
-				"attributes": [
-					"30",
-					"32",
-					"35",
-					"38",
-					"39",
-					"R"
+					"36"
 				],
 				"price": {
 					"student": 2.5,
 					"employee": 3.8,
 					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
+				"attributes": [
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Hausgemachter Wurstsalat mit Bratkartoffeln",
+				"attributes": [
+					"1",
+					"2",
+					"3",
+					"8",
+					"9",
+					"36",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Hähnchenbrust mit Apfelwein-Rahmsauce",
+				"attributes": [
+					"A",
+					"3",
+					"5",
+					"30",
+					"36",
+					"41"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Gebackener Alaska-Seelachs an Kräuterdip",
+				"attributes": [
+					"30",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}
