@@ -7,31 +7,20 @@
 		}
 	},
 	"validity": {
-		"from": "2016-08-08T00:00:00.000Z",
-		"until": "2016-08-12T00:00:00.000Z"
+		"from": "2016-08-15T00:00:00.000Z",
+		"until": "2016-08-19T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
-				"attributes": [
-					"V",
-					"30"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Original hessische grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise mit Estragon",
 				"attributes": [
 					"F",
+					"30",
 					"32",
-					"36"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -40,13 +29,28 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Hausgemachter Spinatpfannkuchen an einem Quarkdip",
+			"2": {
+				"name": "Griechische Hackfleischpfanne mit Gemüse und Hirtenkäse",
 				"attributes": [
 					"F",
-					"30",
-					"32",
+					"6",
 					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Hessische Kartoffelsuppe mit Gemüsen und Petersilienpesto, dazu krosses Baguette",
+				"attributes": [
+					"V",
+					"30",
+					"35",
+					"37",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -56,7 +60,7 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Blanchierter Blumenkohl mit cremiger Tomatencreme-Sauce nappiert",
+				"name": "Drelloni mit einer Pilz-Rahmsauce",
 				"attributes": [
 					"V",
 					"30",
@@ -70,39 +74,25 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Marokkanische Pasta mit Nüssen, Kichererbsen und Rosinen",
+				"name": "Gewoktes scharfes Gemüsecurry mit Sojastreifen",
 				"attributes": [
 					"V",
 					"30",
-					"37"
+					"35",
+					"39"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Geschnetzeltes von der Putenbrust in Pfirsichrahm",
+				"name": "Balkan-Reisgericht mit Schweinefleisch",
 				"attributes": [
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
-				"attributes": [
-					"32",
-					"36",
 					"S"
 				],
 				"price": {
@@ -112,17 +102,26 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Hausgemachter Wurstsalat mit Bratkartoffeln",
+			"2": {
+				"name": "Gebratene Gnocchi in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
 				"attributes": [
-					"1",
-					"2",
-					"3",
-					"8",
-					"9",
-					"36",
-					"39",
-					"S"
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Bami Goreng mit Geflügelstreifen",
+				"attributes": [
+					"30",
+					"32",
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -132,14 +131,16 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hähnchenbrust mit Apfelwein-Rahmsauce",
+				"name": "Kassler Braten mit Calvadosjus",
 				"attributes": [
 					"A",
+					"2",
 					"3",
-					"5",
+					"4",
 					"30",
 					"36",
-					"41"
+					"38",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -149,11 +150,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gebackener Alaska-Seelachs an Kräuterdip",
+				"name": "Gegrillte, nordhessische Kartoffelbratwurst an Schmanddip",
 				"attributes": [
-					"30",
-					"33",
-					"36"
+					"2",
+					"8",
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -166,103 +168,35 @@
 		"Essen 3 oder 4": {
 			"1": null,
 			"2": {
-				"name": "Gebratenes Putenschnitzel auf einer Käsecreme",
+				"name": "Gebratenes Schweineschnitzel mit einem Spiegelei auf Rahmspinat",
 				"attributes": [
-					"1",
 					"30",
 					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.6,
-					"employee": 4.9,
-					"visitor": 5.8
-				},
-				"vitalInfo": null
-			},
-			"3": null,
-			"4": null,
-			"5": {
-				"name": "Putensteak im Backteig von rotem Linsenmehl an scharfer Kirschtomaten Salsa",
-				"attributes": [
-					"30",
-					"32"
-				],
-				"price": {
-					"student": 3.7,
-					"employee": 5,
-					"visitor": 5.9
-				},
-				"vitalInfo": null
-			}
-		},
-		"Angebot des Tages I": {
-			"1": {
-				"name": "Buntbarsch mit Kartoffel-Gurkensalat und Beerengrütze",
-				"attributes": [
-					"MV",
-					"30",
-					"33",
-					"36"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 3.4,
 					"employee": 4.7,
 					"visitor": 5.6
 				},
-				"vitalInfo": {
-					"fat": 22,
-					"carbohydrate": 75,
-					"protein": 38,
-					"calories": 654
-				}
+				"vitalInfo": null
 			},
-			"2": {
-				"name": "Kichererbsen-Bohnenpfanne mit mediterranen Gemüsen, dazu Kräuterkartoffeln",
+			"3": null,
+			"4": null,
+			"5": null
+		},
+		"Angebot des Tages I": {
+			"1": {
+				"name": "Burger mit Beef, scharfem Dip, Rotkraut- und Wildkräuter Salat",
 				"attributes": [
-					"V",
-					"MV",
-					""
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": {
-					"fat": 23,
-					"carbohydrate": 90,
-					"protein": 25,
-					"calories": 676
-				}
-			},
-			"3": {
-				"name": "Hähnchenbrust mit Kokos-Curry-Sauce, Zuckerschoten und Basmatireis",
-				"attributes": [
-					"MV",
 					"3",
+					"9",
 					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 87,
-					"protein": 45,
-					"calories": 715
-				}
-			},
-			"4": {
-				"name": "Griechischer Cheese-Burger mit Beef, Hirtenkäse, Krautsalat und Zaziki",
-				"attributes": [
-					"6",
-					"30",
+					"32",
 					"36",
 					"39",
+					"40",
 					"R"
 				],
 				"price": {
@@ -272,7 +206,82 @@
 				},
 				"vitalInfo": null
 			},
-			"5": null
+			"2": {
+				"name": "Tofusteak mit Spinat-Tomaten-Kokos-Gemüse und Kurkumareis",
+				"attributes": [
+					"V",
+					"MV",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 74,
+					"protein": 24,
+					"calories": 629
+				}
+			},
+			"3": {
+				"name": "Schweinerücken in Senfkruste mit Ananaskraut und Perlgraupen",
+				"attributes": [
+					"MV",
+					"30",
+					"38",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": {
+					"fat": 24,
+					"carbohydrate": 80,
+					"protein": 40,
+					"calories": 680
+				}
+			},
+			"4": {
+				"name": "Buntbarsch mit Kürbis, Zitronensauce und Lauchreis",
+				"attributes": [
+					"MV",
+					"30",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 96,
+					"protein": 42,
+					"calories": 748
+				}
+			},
+			"5": {
+				"name": "Gebratene ganze Scholle auf zerschmolzener Limetten-Kräuterbutter und Zitronenecke",
+				"attributes": [
+					"30",
+					"33",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
+				},
+				"vitalInfo": null
+			}
 		}
 	}
 }
