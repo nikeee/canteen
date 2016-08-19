@@ -62,9 +62,12 @@
 			"4": {
 				"name": "Drelloni mit einer Pilz-Rahmsauce",
 				"attributes": [
-					"V",
+					"F",
+					"1",
+					"2",
 					"30",
-					"35"
+					"35",
+					"36"
 				],
 				"price": {
 					"student": 1.8,
