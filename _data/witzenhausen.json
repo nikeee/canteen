@@ -7,12 +7,230 @@
 		}
 	},
 	"validity": {
-		"from": "2016-08-14T00:00:00.000Z",
-		"until": "2016-08-20T23:59:59.999Z"
+		"from": "2016-08-22T00:00:00.000Z",
+		"until": "2016-08-26T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
-		"": {
+		"Essen 1": {
+			"1": {
+				"name": "Asiatische Reis-Krautpfanne mit Paprika und Sprossen",
+				"attributes": [
+					"V",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Kartoffelcremesuppe mit Gemüsewürfeln",
+				"attributes": [
+					"F",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Grießbrei mit Kirschsauce",
+				"attributes": [
+					"F",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Griechische Nudelpfanne mit Feta, Oliven, Paprika und Tomate",
+				"attributes": [
+					"F",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Mediterrane Couscouspfanne mit getrockneten Tomaten",
+				"attributes": [
+					"V",
+					"6",
+					"30"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			}
+		},
+		"Essen 2": {
+			"1": {
+				"name": "Curry-Hähnchen Madras",
+				"attributes": [
+					"3",
+					"32",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Hausgemachter Hackbraten",
+				"attributes": [
+					"32",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Geschwenkte Gyros-Reispfanne mit Pute",
+				"attributes": [
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Schweinenackensteak mit Lauch-Cremesauce",
+				"attributes": [
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Sommerlicher Matjessalat mit Roter Bete und Zwiebeln",
+				"attributes": [
+					"2",
+					"9",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			}
+		},
+		"Bio-Essen": {
+			"1": {
+				"name": "Penne mit süßsaurem Kürbis-Paprikagemüse",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Thailändisches Curry mit Räuchertofu",
+				"attributes": [
+					"V",
+					"Ö",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Kartoffelgratin mit Roter Bete an Petersiliensauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Polenta mit Paprikagemüse",
+				"attributes": [
+					"V",
+					"Ö",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Kartoffelpuffer mit Apfelkompott",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"32"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			}
+		},
+		"Aktions-Essen": {
 			"1": null,
 			"2": null,
 			"3": null,

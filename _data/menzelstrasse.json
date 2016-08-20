@@ -7,20 +7,19 @@
 		}
 	},
 	"validity": {
-		"from": "2016-08-15T00:00:00.000Z",
-		"until": "2016-08-19T00:00:00.000Z"
+		"from": "2016-08-22T00:00:00.000Z",
+		"until": "2016-08-26T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise mit Estragon",
+				"name": "Mexikanische Kartoffelpfanne mit Chili-Mayonnaise",
 				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36",
-					"38"
+					"V",
+					"35",
+					"37",
+					"39"
 				],
 				"price": {
 					"student": 1.9,
@@ -30,11 +29,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Griechische Hackfleischpfanne mit Gemüse und Hirtenkäse",
+				"name": "Grillfrische Zucchini auf einer Tomatensauce",
 				"attributes": [
-					"F",
-					"6",
-					"36"
+					"V",
+					"30",
+					"40"
 				],
 				"price": {
 					"student": 1.8,
@@ -44,12 +43,10 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Hessische Kartoffelsuppe mit Gemüsen und Petersilienpesto, dazu krosses Baguette",
+				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
 				"attributes": [
 					"V",
 					"30",
-					"35",
-					"37",
 					"38"
 				],
 				"price": {
@@ -60,24 +57,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Drelloni mit einer Pilz-Rahmsauce",
+				"name": "Sojastreifen mit Curryketchup",
 				"attributes": [
 					"V",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Gewoktes scharfes Gemüsecurry mit Sojastreifen",
-				"attributes": [
-					"V",
-					"30",
+					"1",
 					"35",
 					"39"
 				],
@@ -87,27 +70,31 @@
 					"visitor": 4.1
 				},
 				"vitalInfo": null
+			},
+			"5": {
+				"name": "Gelbe Penne mit einem Broccoli-Pesto und Walnüssen",
+				"attributes": [
+					"V",
+					"30",
+					"37"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Balkan-Reisgericht mit Schweinefleisch",
-				"attributes": [
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Gebratene Gnocchi in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
+				"name": "Mini-Hackfleischbällchen auf Tomatensauce",
 				"attributes": [
 					"30",
 					"32",
-					"36"
+					"36",
+					"R",
+					"S"
 				],
 				"price": {
 					"student": 2.3,
@@ -116,12 +103,28 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Bami Goreng mit Geflügelstreifen",
+			"2": {
+				"name": "Braten vom Schweinerücken mit Whisky-Rahmsauce",
 				"attributes": [
+					"A",
+					"1",
 					"30",
-					"32",
-					"39"
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Sloppy Joe Burger mit Eisbergsalat und Hackfleischsauce",
+				"attributes": [
+					"1",
+					"30",
+					"40"
 				],
 				"price": {
 					"student": 2.5,
@@ -131,36 +134,31 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Kassler Braten mit Calvadosjus",
+				"name": "Semmelknödel in Speck-Schmanddip",
 				"attributes": [
-					"A",
 					"2",
 					"3",
-					"4",
 					"30",
+					"32",
 					"36",
-					"38",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gegrillte, nordhessische Kartoffelbratwurst an Schmanddip",
+				"name": "Ofenfrischer Hähnchenschenkel auf Bratenjus",
 				"attributes": [
-					"2",
-					"8",
-					"36",
-					"S"
+					"30"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			}
