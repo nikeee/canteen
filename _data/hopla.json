@@ -124,8 +124,7 @@
 				"name": "Sloppy Joe Burger mit Eisbergsalat und Hackfleischsauce",
 				"attributes": [
 					"1",
-					"30",
-					"40"
+					"30"
 				],
 				"price": {
 					"student": 2.5,
