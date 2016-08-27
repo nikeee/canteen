@@ -7,30 +7,17 @@
 		}
 	},
 	"validity": {
-		"from": "2016-08-22T00:00:00.000Z",
-		"until": "2016-08-26T00:00:00.000Z"
+		"from": "2016-08-29T00:00:00.000Z",
+		"until": "2016-09-02T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Asiatische Reis-Krautpfanne mit Paprika und Sprossen",
+				"name": "Hessische Ratatouille-Lasagne",
 				"attributes": [
 					"V",
-					"39"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Kartoffelcremesuppe mit Gemüsewürfeln",
-				"attributes": [
-					"F",
-					"36",
+					"30",
 					"38"
 				],
 				"price": {
@@ -40,40 +27,29 @@
 				},
 				"vitalInfo": null
 			},
+			"2": {
+				"name": "Apfel-Quark-Auflauf mit Vanillesauce",
+				"attributes": [
+					"F",
+					"1",
+					"3",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
 			"3": {
-				"name": "Grießbrei mit Kirschsauce",
+				"name": "Rahmspinat mit Rührei",
 				"attributes": [
 					"F",
-					"30",
+					"32",
 					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Griechische Nudelpfanne mit Feta, Oliven, Paprika und Tomate",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Mediterrane Couscouspfanne mit getrockneten Tomaten",
-				"attributes": [
-					"V",
-					"6",
-					"30"
 				],
 				"price": {
 					"student": 1.8,
@@ -81,29 +57,58 @@
 					"visitor": 4
 				},
 				"vitalInfo": null
+			},
+			"4": {
+				"name": "Cremiges Graupen-Gemüse-Risotto mit",
+				"attributes": [
+					"V",
+					"3",
+					"30",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Nudeln mit Brokkoli-Sahnesauce",
+				"attributes": [
+					"F",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Curry-Hähnchen Madras",
+				"name": "Schaschliktopf",
 				"attributes": [
-					"3",
-					"32",
-					"36",
-					"39"
+					"2",
+					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hausgemachter Hackbraten",
+				"name": "Grillfrischer Krustenbraten",
 				"attributes": [
-					"32",
-					"39",
+					"2",
+					"3",
+					"8",
 					"S"
 				],
 				"price": {
@@ -114,10 +119,9 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Geschwenkte Gyros-Reispfanne mit Pute",
+				"name": "Gebratene Hähnchenbrust auf mediterranem Blattspinat",
 				"attributes": [
-					"38",
-					"39"
+					""
 				],
 				"price": {
 					"student": 2.5,
@@ -127,42 +131,40 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Schweinenackensteak mit Lauch-Cremesauce",
+				"name": "Texanisches, feuriges Chili con Carne",
 				"attributes": [
-					"36",
+					"30",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Sommerlicher Matjessalat mit Roter Bete und Zwiebeln",
+				"name": "Kartoffelgratin mit Thunfisch",
 				"attributes": [
-					"2",
-					"9",
+					"6",
 					"33",
 					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Penne mit süßsaurem Kürbis-Paprikagemüse",
+				"name": "Backkartoffeln mit Kräuterquark",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"30",
-					"35"
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -172,12 +174,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Thailändisches Curry mit Räuchertofu",
+				"name": "Asiatische Reis-Gemüsepfanne",
 				"attributes": [
 					"V",
 					"Ö",
-					"35",
-					"39"
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -187,7 +188,7 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Kartoffelgratin mit Roter Bete an Petersiliensauce",
+				"name": "Tofuragout in Pusztasauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -201,11 +202,13 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Polenta mit Paprikagemüse",
+				"name": "Südtiroler Ofenmakkaroni",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"35"
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -215,12 +218,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Kartoffelpuffer mit Apfelkompott",
+				"name": "Ägyptischer Kichererbseneintopf mit Weißkohl, Paprika und Tomate",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"30",
-					"32"
+					"39"
 				],
 				"price": {
 					"student": 2.9,
