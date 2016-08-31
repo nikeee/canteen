@@ -59,7 +59,7 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Cremiges Graupen-Gemüse-Risotto mit",
+				"name": "Cremiges Graupen-Gemüse-Risotto",
 				"attributes": [
 					"V",
 					"3",
@@ -119,9 +119,10 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gebratene Hähnchenbrust auf mediterranem Blattspinat",
+				"name": "Texanisches, feuriges Chili con Carne",
 				"attributes": [
-					""
+					"30",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -131,10 +132,9 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Texanisches, feuriges Chili con Carne",
+				"name": "Gebratene Hähnchenbrust auf mediterranem Blattspinat",
 				"attributes": [
-					"30",
-					"S"
+					""
 				],
 				"price": {
 					"student": 2.4,
