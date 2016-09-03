@@ -7,18 +7,21 @@
 		}
 	},
 	"validity": {
-		"from": "2016-08-29T00:00:00.000Z",
-		"until": "2016-09-02T00:00:00.000Z"
+		"from": "2016-09-05T00:00:00.000Z",
+		"until": "2016-09-09T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Hessische Ratatouille-Lasagne",
+				"name": "Frühlingsrollen an süß-saurer Asia-Sauce",
 				"attributes": [
-					"V",
+					"F",
 					"30",
-					"38"
+					"32",
+					"35",
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 1.8,
@@ -28,43 +31,12 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Apfel-Quark-Auflauf mit Vanillesauce",
+				"name": "Gnocchi mit bunten Gemüsestreifen in Rahmsauce",
 				"attributes": [
 					"F",
-					"1",
-					"3",
 					"30",
 					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Rahmspinat mit Rührei",
-				"attributes": [
-					"F",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Cremiges Graupen-Gemüse-Risotto",
-				"attributes": [
-					"V",
-					"3",
-					"30",
-					"35",
+					"36",
 					"38"
 				],
 				"price": {
@@ -74,26 +46,56 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Nudeln mit Brokkoli-Sahnesauce",
+			"3": {
+				"name": "Süßer Couscous mit exotischen Früchten",
 				"attributes": [
-					"F",
-					"30",
-					"36"
+					"V",
+					"30"
 				],
 				"price": {
 					"student": 1.9,
 					"employee": 3.2,
 					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gemüse-Reispfanne mit scharfer Paprikasauce",
+				"attributes": [
+					"V",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Geschwenktes Kichererbsen-Auberginen-Sambal",
+				"attributes": [
+					"V",
+					""
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Schaschliktopf",
+				"name": "Spaghetti Bolognese mit Parmesan",
 				"attributes": [
+					"1",
 					"2",
+					"30",
+					"36",
+					"38",
 					"S"
 				],
 				"price": {
@@ -104,12 +106,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Grillfrischer Krustenbraten",
+				"name": "Putengeschnetzeltes in Karotten-Ingwersauce",
 				"attributes": [
 					"2",
-					"3",
-					"8",
-					"S"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -119,10 +120,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Texanisches, feuriges Chili con Carne",
+				"name": "Kabak Dolmasi - Gefüllte Zucchini mit Hackfleisch",
 				"attributes": [
-					"30",
-					"S"
+					"32",
+					"36",
+					"R"
 				],
 				"price": {
 					"student": 2.5,
@@ -132,9 +134,15 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gebratene Hähnchenbrust auf mediterranem Blattspinat",
+				"name": "Normannischer Eintopf mit Kassler und Äpfeln",
 				"attributes": [
-					""
+					"2",
+					"3",
+					"4",
+					"36",
+					"38",
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -144,11 +152,13 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Kartoffelgratin mit Thunfisch",
+				"name": "Feines Fischragout in Currysauce",
 				"attributes": [
-					"6",
+					"30",
 					"33",
-					"36"
+					"36",
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -160,11 +170,11 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Backkartoffeln mit Kräuterquark",
+				"name": "Mexikanische Gemüsepfanne mit Chilisauce",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"36"
+					""
 				],
 				"price": {
 					"student": 2.9,
@@ -174,7 +184,7 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Asiatische Reis-Gemüsepfanne",
+				"name": "Gegrillte Ofenkartoffel mit Kohlrabi-Gemüse",
 				"attributes": [
 					"V",
 					"Ö",
@@ -188,26 +198,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Tofuragout in Pusztasauce",
-				"attributes": [
-					"V",
-					"Ö",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Südtiroler Ofenmakkaroni",
+				"name": "Penne mit Pilz-Zwiebelsauce",
 				"attributes": [
 					"F",
 					"Ö",
 					"30",
-					"32",
 					"36"
 				],
 				"price": {
@@ -217,11 +212,27 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Ägyptischer Kichererbseneintopf mit Weißkohl, Paprika und Tomate",
+			"4": {
+				"name": "Kartoffelrösti an Lauchsauce",
 				"attributes": [
 					"V",
 					"Ö",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Bauernomelett mit Ei und buntem Gemüse",
+				"attributes": [
+					"F",
+					"Ö",
+					"32",
 					"39"
 				],
 				"price": {
