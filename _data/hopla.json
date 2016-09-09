@@ -75,6 +75,7 @@
 				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an Karottendip",
 				"attributes": [
 					"V",
+					"3",
 					"30",
 					"35",
 					"38"
@@ -129,7 +130,8 @@
 					"35",
 					"36",
 					"38",
-					"39"
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 2.3,
