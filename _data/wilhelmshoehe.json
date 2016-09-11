@@ -42,7 +42,21 @@
 				},
 				"vitalInfo": null
 			},
-			"3": null,
+			"3": {
+				"name": "Gnocchi in Rucola-Sahnesauce",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
 			"4": {
 				"name": "Lauchkuchen mit Schmand und roten Zwiebeln",
 				"attributes": [
@@ -100,7 +114,23 @@
 				},
 				"vitalInfo": null
 			},
-			"3": null,
+			"3": {
+				"name": "Sesamnudeln mit asiatischem Pfannengemüse und Schweinefleisch",
+				"attributes": [
+					"30",
+					"34",
+					"35",
+					"39",
+					"40",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
 			"4": {
 				"name": "Hähnchenbruststreifen in Cidre-Rahmsauce",
 				"attributes": [
@@ -214,7 +244,29 @@
 				},
 				"vitalInfo": null
 			},
-			"3": null,
+			"3": {
+				"name": "Bulgur-Bohnen-Salat mit Studentenfutter und Rote Bete-Meerrettich-Sojajoghurt-Dip",
+				"attributes": [
+					"V",
+					"MV",
+					"1",
+					"3",
+					"30",
+					"35",
+					"37"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 84,
+					"protein": 25,
+					"calories": 674
+				}
+			},
 			"4": {
 				"name": "Sauerkraut-Kürbisgemüse mit Schnitzelstreifen auf Spätzle",
 				"attributes": [
@@ -263,7 +315,24 @@
 		"Angebot des Tages II": {
 			"1": null,
 			"2": null,
-			"3": null,
+			"3": {
+				"name": "Klassischer Burger mit Beef, Schnittlauch-Mayonnaise und gebratenen Champignons",
+				"attributes": [
+					"3",
+					"30",
+					"32",
+					"36",
+					"39",
+					"40",
+					"R"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
 			"4": {
 				"name": "Curry von zweierlei Kartoffeln und Blumenkohl",
 				"attributes": [
