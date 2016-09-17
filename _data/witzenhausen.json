@@ -7,30 +7,20 @@
 		}
 	},
 	"validity": {
-		"from": "2016-09-12T00:00:00.000Z",
-		"until": "2016-09-16T00:00:00.000Z"
+		"from": "2016-09-19T00:00:00.000Z",
+		"until": "2016-09-23T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Tofugulasch mit Paprika und Zwiebeln",
+				"name": "Semmelknödel Esterházy mit Gemüsestreifen",
 				"attributes": [
-					"V",
-					"35"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Graupen-Gemüseeintopf",
-				"attributes": [
-					"V",
-					"30"
+					"F",
+					"30",
+					"32",
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -39,10 +29,11 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Milchreis mit exotischer Fruchtsauce",
+			"2": {
+				"name": "Gemüsepizza mit Käse überbacken",
 				"attributes": [
 					"F",
+					"30",
 					"36"
 				],
 				"price": {
@@ -52,11 +43,12 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Indisches Aloo Gobi mit Kartoffeln und Blumenkohl",
+			"3": {
+				"name": "Kokos-Sojamilchreis mit Zucker und Zimt",
 				"attributes": [
 					"V",
-					""
+					"1",
+					"35"
 				],
 				"price": {
 					"student": 1.9,
@@ -65,11 +57,26 @@
 				},
 				"vitalInfo": null
 			},
+			"4": {
+				"name": "Gebackener Blumenkohl mit Sauce Hollandaise",
+				"attributes": [
+					"F",
+					"32",
+					"35",
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
 			"5": {
-				"name": "Arabische Reispfanne mit Gemüse, Sultanien und Mandeln",
+				"name": "Indische Curry-Gemüsesuppe",
 				"attributes": [
 					"V",
-					"37"
+					""
 				],
 				"price": {
 					"student": 1.8,
@@ -81,24 +88,20 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Hackfleischpfanne mit Käse und Erbsen",
+				"name": "Karibisches Bananenhuhn",
 				"attributes": [
-					"1",
-					"2",
-					"36",
-					"S"
+					""
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Ofenfrischer Schweinenackenbraten mit Bayrischer Bierjus",
+				"name": "Schweineschnitzel mit ungarischer Pusztasauce",
 				"attributes": [
-					"A",
 					"30",
 					"S"
 				],
@@ -110,12 +113,22 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Asia-Putenstreifen in roter Thaicurry-Sauce",
+				"name": "Orientalische Hackfleischpfanne mit Linsen und Kichererbsen",
 				"attributes": [
-					"30",
-					"35",
-					"36",
-					"38"
+					"2",
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Putensteak mit Ratatouille",
+				"attributes": [
+					""
 				],
 				"price": {
 					"student": 2.5,
@@ -124,45 +137,32 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Marokkanischer Hackfleisch-Eintopf",
+			"5": {
+				"name": "Panierter Seelachs an Remouladensauce",
 				"attributes": [
-					"S"
+					"3",
+					"9",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
 					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Gebackene Tintenfischringe an Knoblauch-Dip",
-				"attributes": [
-					"1",
-					"3",
-					"30",
-					"32",
-					"36",
-					"39",
-					"43"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
 				},
 				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Grünkerntaler mit Soja-Currysauce",
+				"name": "Weißkohleintopf mit Kartoffeln",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
-					"35"
+					""
 				],
 				"price": {
 					"student": 2.9,
@@ -172,12 +172,12 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Indisches Zucchini-Curry",
+				"name": "Tofuragout mexikanische Art",
 				"attributes": [
 					"V",
 					"Ö",
 					"35",
-					"39"
+					"38"
 				],
 				"price": {
 					"student": 2.9,
@@ -187,11 +187,13 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Glacierte Karotten und Kartoffelscheiben mit Kräutersauce",
+				"name": "Berner Röstiauflauf mit Käsesauce",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"35"
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -201,7 +203,7 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Griechische Nudelpfanne mit Oliven und Tofu",
+				"name": "Penne mit Tomaten-Zucchinisauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -216,12 +218,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Nudelgratin mit Blumenkohl und Brokkoli",
+				"name": "Mediterrane Gemüsepfanne mit Tofu",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"30",
-					"32"
+					"35"
 				],
 				"price": {
 					"student": 2.9,
