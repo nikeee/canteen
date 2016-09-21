@@ -31,9 +31,12 @@
 			"2": {
 				"name": "Gnocchi in Cremesauce",
 				"attributes": [
-					"V",
+					"F",
+					"1",
+					"2",
 					"30",
 					"35",
+					"36",
 					"38"
 				],
 				"price": {
