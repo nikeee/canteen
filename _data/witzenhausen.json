@@ -7,46 +7,17 @@
 		}
 	},
 	"validity": {
-		"from": "2016-09-19T00:00:00.000Z",
-		"until": "2016-09-23T00:00:00.000Z"
+		"from": "2016-09-26T00:00:00.000Z",
+		"until": "2016-09-30T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Semmelknödel Esterházy mit Gemüsestreifen",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"35",
-					"38"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Gemüsepizza mit Käse überbacken",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Kokos-Sojamilchreis mit Zucker und Zimt",
+				"name": "Hausgemachte Spinatlasagne in Knoblauchcreme",
 				"attributes": [
 					"V",
+					"30",
 					"35"
 				],
 				"price": {
@@ -56,13 +27,12 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Gebackener Blumenkohl mit Sauce Hollandaise",
+			"2": {
+				"name": "Griechischer Bohneneintopf",
 				"attributes": [
 					"F",
-					"32",
-					"35",
-					"36"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -71,11 +41,44 @@
 				},
 				"vitalInfo": null
 			},
+			"3": {
+				"name": "Eier in Senfsauce",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Ofenfrischer Apfelstrudel auf Vanillesauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
 			"5": {
-				"name": "Indische Curry-Gemüsesuppe",
+				"name": "Chili sin Carne",
 				"attributes": [
 					"V",
-					""
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -87,21 +90,25 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Karibisches Bananenhuhn",
+				"name": "Hühnerfrikassee mit buntem Gemüse",
 				"attributes": [
-					""
+					"30"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Schweineschnitzel mit ungarischer Pusztasauce",
+				"name": "Kassler Braten mit Rotweinjus",
 				"attributes": [
-					"30",
+					"A",
+					"2",
+					"3",
+					"8",
+					"41",
 					"S"
 				],
 				"price": {
@@ -112,37 +119,35 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Orientalische Hackfleischpfanne mit Linsen und Kichererbsen",
+				"name": "Rotes Sri Lanka Hühnchencurry auf Reis",
 				"attributes": [
-					"2",
-					"S"
+					"39"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Putensteak mit Ratatouille",
+				"name": "Niederländischer Bäckerofen - Schweinegulasch in Bier gegart",
 				"attributes": [
-					""
+					"A",
+					"30",
+					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Panierter Seelachs an Remouladensauce",
+				"name": "Fish and Chips",
 				"attributes": [
-					"3",
-					"9",
 					"30",
-					"32",
 					"33",
 					"36",
 					"39"
@@ -157,11 +162,12 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Weißkohleintopf mit Kartoffeln",
+				"name": "Kartoffelpuffer mit Apfelkompott",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					""
+					"30",
+					"32"
 				],
 				"price": {
 					"student": 2.9,
@@ -171,12 +177,12 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Tofuragout mexikanische Art",
+				"name": "Penne mit buntem Gemüse und Rahmsauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"35",
-					"38"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -186,13 +192,12 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Berner Röstiauflauf mit Käsesauce",
+				"name": "Tofu-Curry-Ragout mit Tomatenwürfeln und Erbsen",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"30",
-					"32",
-					"36"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -202,11 +207,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Penne mit Tomaten-Zucchinisauce",
+				"name": "Kohlrabi-Karotten-Kartoffelgulasch in Petersiliensauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
 					"35"
 				],
 				"price": {
@@ -217,11 +221,13 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Mediterrane Gemüsepfanne mit Tofu",
+				"name": "Bunte Spirelli mit grüner Erbsensauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"35"
+					"30",
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.9,

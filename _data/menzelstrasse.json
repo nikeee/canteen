@@ -7,19 +7,21 @@
 		}
 	},
 	"validity": {
-		"from": "2016-09-19T00:00:00.000Z",
-		"until": "2016-09-23T00:00:00.000Z"
+		"from": "2016-09-26T00:00:00.000Z",
+		"until": "2016-09-30T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Omelette mit buntem Béchamelgemüse",
+				"name": "Bunter Penne-Salat mit Balsamico Creme und gartenfrischen Salaten, dazu Baguette",
 				"attributes": [
-					"F",
+					"V",
+					"1",
+					"2",
+					"6",
 					"30",
-					"32",
-					"36"
+					"41"
 				],
 				"price": {
 					"student": 1.9,
@@ -29,7 +31,7 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gnocchi in Cremesauce",
+				"name": "Hausgemachte Polenta an Champignonsauce",
 				"attributes": [
 					"V",
 					"30",
@@ -37,17 +39,19 @@
 					"38"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Hirtenkäsesteak mit Rahmspinat",
+				"name": "Kartoffelpfanne mit Gewürzgurke",
 				"attributes": [
 					"F",
-					"36"
+					"9",
+					"32",
+					"39"
 				],
 				"price": {
 					"student": 1.9,
@@ -57,23 +61,24 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Duett von Blumenkohl und Brokkoli in veganer Sauce Hollandaise",
+				"name": "Spaghetti in Tomatensauce",
 				"attributes": [
 					"V",
-					""
+					"30"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Linseneintopf mit Wurzelgemüse",
+				"name": "Karotten-Kartoffelstampf auf Rote-Bete Sauce",
 				"attributes": [
 					"V",
-					"38"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -85,9 +90,12 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Mediterrane Gemüsepfanne mit Hähnchenbruststreifen",
+				"name": "Hühnerfrikassee mit Erbsen und Spargel",
 				"attributes": [
-					""
+					"A",
+					"30",
+					"36",
+					"41"
 				],
 				"price": {
 					"student": 2.4,
@@ -97,41 +105,39 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
+				"name": "Grillfrische Käse-Chili-Bratwurst an Bratenjus",
 				"attributes": [
-					"3",
+					"8",
 					"30",
-					"32",
-					"33",
 					"36",
-					"39"
+					"S"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Wellenbandnudeln mit Chili con Carne",
+				"name": "Steak vom Schweinerücken an Portwein-Rahmsauce",
 				"attributes": [
+					"A",
 					"30",
-					"32",
-					"R"
+					"36",
+					"41",
+					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hähnchenbrust mit Sauce Café de Paris",
+				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
-					"30",
-					"32",
 					"36"
 				],
 				"price": {
@@ -142,18 +148,19 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachter Speckschmarrn an Kräuterdip",
+				"name": "Hausgemachte Hackfleischpizza mit Paprika, Tomaten und Mais",
 				"attributes": [
-					"2",
 					"30",
 					"32",
+					"35",
 					"36",
+					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}
