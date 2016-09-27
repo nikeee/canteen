@@ -91,17 +91,18 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Hühnerfrikassee mit Erbsen und Spargel",
+				"name": "Ofenfrischer Gemüsestrudel auf Kräuter-Sahnesauce",
 				"attributes": [
-					"A",
+					"F",
 					"30",
+					"32",
 					"36",
-					"41"
+					"38"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
 			},
