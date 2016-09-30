@@ -63,8 +63,11 @@
 			"4": {
 				"name": "Spaghetti in Tomatensauce",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"1",
+					"2",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -140,6 +143,7 @@
 			"4": {
 				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
+					"3",
 					"36"
 				],
 				"price": {
