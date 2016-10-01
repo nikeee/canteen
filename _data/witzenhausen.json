@@ -7,32 +7,32 @@
 		}
 	},
 	"validity": {
-		"from": "2016-09-26T00:00:00.000Z",
-		"until": "2016-09-30T00:00:00.000Z"
+		"from": "2016-10-03T00:00:00.000Z",
+		"until": "2016-10-07T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Hausgemachte Spinatlasagne in Knoblauchcreme",
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
 				"attributes": [
-					"V",
-					"30",
-					"35"
+					""
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Griechischer Bohneneintopf",
+				"name": "Bunter Gemüseauflauf an Rahmsauce",
 				"attributes": [
 					"F",
-					"36",
-					"38"
+					"30",
+					"32",
+					"35",
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -42,26 +42,9 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Eier in Senfsauce",
+				"name": "Omelett mit buntem Béchamelgemüse",
 				"attributes": [
 					"F",
-					"30",
-					"32",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Ofenfrischer Apfelstrudel auf Vanillesauce",
-				"attributes": [
-					"F",
-					"1",
 					"30",
 					"32",
 					"36"
@@ -73,12 +56,24 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Chili sin Carne",
+			"4": {
+				"name": "Nudeln mit mediterraner Tomatensauce",
 				"attributes": [
 					"V",
-					"30",
-					"35"
+					"30"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Asia-Kokos-Suppe mit Paprika und Koriander",
+				"attributes": [
+					"V",
+					"3"
 				],
 				"price": {
 					"student": 1.8,
@@ -89,39 +84,26 @@
 			}
 		},
 		"Essen 2": {
-			"1": {
-				"name": "Hühnerfrikassee mit buntem Gemüse",
-				"attributes": [
-					"30"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
-				"name": "Kassler Braten mit Rotweinjus",
+				"name": "Hähnchenbrust nach Gyros Art",
 				"attributes": [
-					"A",
-					"2",
-					"3",
-					"8",
-					"41",
-					"S"
+					"38",
+					"39"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Rotes Sri Lanka Hühnchencurry auf Reis",
+				"name": "Käse-Chili-Bratwurst mit scharfer Sauce",
 				"attributes": [
-					"39"
+					"8",
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -131,23 +113,26 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Niederländischer Bäckerofen - Schweinegulasch in Bier gegart",
+				"name": "Schweinegeschnetzeltes Züricher Art",
 				"attributes": [
-					"A",
 					"30",
+					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Fish and Chips",
+				"name": "Fischstäbchen mit Remouladensauce",
 				"attributes": [
+					"3",
+					"9",
 					"30",
+					"32",
 					"33",
 					"36",
 					"39"
@@ -161,27 +146,12 @@
 			}
 		},
 		"Bio-Essen": {
-			"1": {
-				"name": "Kartoffelpuffer mit Apfelkompott",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"32"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
-				"name": "Penne mit buntem Gemüse und Rahmsauce",
+				"name": "Kartoffelgratin mit Schnittlauchsauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
 					"35"
 				],
 				"price": {
@@ -192,12 +162,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Tofu-Curry-Ragout mit Tomatenwürfeln und Erbsen",
+				"name": "Ratatouille-Gemüsepfanne",
 				"attributes": [
 					"V",
 					"Ö",
-					"35",
-					"39"
+					""
 				],
 				"price": {
 					"student": 2.9,
@@ -207,11 +176,13 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Kohlrabi-Karotten-Kartoffelgulasch in Petersiliensauce",
+				"name": "Falafel mit Joghurt-Schnittlauch-Dip",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"35"
+					"30",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -221,13 +192,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Bunte Spirelli mit grüner Erbsensauce",
+				"name": "Nudelgratin mit Blumenkohl und Brokkoli",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
 					"30",
-					"35",
-					"39"
+					"32"
 				],
 				"price": {
 					"student": 2.9,
