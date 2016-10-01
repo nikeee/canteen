@@ -6,5 +6,7 @@ baseurl: "/canteen"
 url: "//nikeee.github.io"
 github_username: nikeee
 source_code_url: "//github.com/nikeee/canteen"
+canteens_url: "//github.com/nikeee/canteen/api/canteens.json"
+sample_canteen: "//github.com/nikeee/canteen/api/hopla.json"
 # Build settings
 markdown: kramdown
