@@ -16,9 +16,7 @@
 		"Essen 1": {
 			"1": {
 				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [
-					""
-				],
+				"attributes": [],
 				"price": {
 					"student": 0,
 					"employee": 1.3,
@@ -45,8 +43,7 @@
 			"3": {
 				"name": "Brätlings-Kartoffeln an einem scharfen Tomatendip",
 				"attributes": [
-					"V",
-					""
+					"V"
 				],
 				"price": {
 					"student": 1.9,
@@ -72,8 +69,7 @@
 			"5": {
 				"name": "Pfannenfrische Gemüsepaella",
 				"attributes": [
-					"V",
-					""
+					"V"
 				],
 				"price": {
 					"student": 1.8,
