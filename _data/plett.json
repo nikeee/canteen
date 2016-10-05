@@ -26,11 +26,11 @@
 			"2": {
 				"name": "Makkronelli an Gorgonzolasauce",
 				"attributes": [
-					"F",
 					"1",
 					"30",
 					"35",
-					"36"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 1.8,
