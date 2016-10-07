@@ -42,7 +42,11 @@
 			"3": {
 				"name": "Brätlings-Kartoffeln an einem scharfen Tomatendip",
 				"attributes": [
-					"V"
+					"F",
+					"3",
+					"32",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 1.9,
@@ -159,9 +163,11 @@
 			"3": {
 				"name": "Paniertes Schnitzel vom Schwein an Schnittlauchdip",
 				"attributes": [
+					"3",
 					"30",
 					"32",
 					"36",
+					"39",
 					"S"
 				],
 				"price": {

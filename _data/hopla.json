@@ -14,16 +14,7 @@
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
-			"1": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
 				"name": "Makkronelli an Gorgonzolasauce",
 				"attributes": [
