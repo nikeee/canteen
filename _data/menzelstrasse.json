@@ -7,30 +7,19 @@
 		}
 	},
 	"validity": {
-		"from": "2016-10-03T00:00:00.000Z",
-		"until": "2016-10-07T00:00:00.000Z"
+		"from": "2016-10-10T00:00:00.000Z",
+		"until": "2016-10-14T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Makkronelli an Gorgonzolasauce",
+				"name": "Kokos-Soja-Milchreis mit Kirschgrütze",
 				"attributes": [
-					"F",
+					"V",
 					"1",
-					"30",
-					"35",
-					"36"
+					"3",
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -39,22 +28,11 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Brätlings-Kartoffeln an einem scharfen Tomatendip",
-				"attributes": [
-					"V"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Rahmspinat mit Rührei",
+			"2": {
+				"name": "Provenzalischer Kartoffelauflauf mit Béchamelsauce",
 				"attributes": [
 					"F",
+					"30",
 					"32",
 					"36"
 				],
@@ -65,10 +43,41 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Pfannenfrische Gemüsepaella",
+			"3": {
+				"name": "Indisches Aloo Gobi mit Kartoffeln und Blumenkohl",
 				"attributes": [
-					"V"
+					"V",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Tortellini mit Soja Bolognese gefüllt in Chilisauce",
+				"attributes": [
+					"V",
+					"30",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachte Kartoffel-Karottentaler an einem Koriander-Dip",
+				"attributes": [
+					"V",
+					"30",
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 1.8,
@@ -79,14 +88,28 @@
 			}
 		},
 		"Essen 2": {
-			"1": null,
-			"2": {
-				"name": "Klassische Currywurst",
+			"1": {
+				"name": "Ofenfrischer Schweinenackenbraten mit hausgemachtem Krautsalat und griechischem Zaziki",
 				"attributes": [
-					"1",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Knackwurst mit hausgemachtem Kartoffelsalat und Senf",
+				"attributes": [
+					"2",
 					"3",
 					"8",
-					"38",
+					"9",
+					"32",
+					"36",
 					"39",
 					"S"
 				],
@@ -98,11 +121,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Bami Goreng mit Geflügelstreifen",
+				"name": "Hähnchenbrust mit Pesto rosso mariniert auf Cremesauce",
 				"attributes": [
 					"30",
-					"32",
-					"39"
+					"36",
+					"37"
 				],
 				"price": {
 					"student": 2.5,
@@ -112,10 +135,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gulasch von der Putenoberkeule mit Champignons",
+				"name": "Mexikanischer Feuertopf",
 				"attributes": [
+					"2",
 					"30",
-					"36"
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -125,16 +149,16 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Spaghetti in Sauce all'amatricana",
+				"name": "Spaghetti in Béchamelsauce mit Hackfleisch und Kräutern",
 				"attributes": [
-					"2",
 					"30",
+					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}

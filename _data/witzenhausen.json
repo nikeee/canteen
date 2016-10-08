@@ -7,29 +7,18 @@
 		}
 	},
 	"validity": {
-		"from": "2016-10-03T00:00:00.000Z",
-		"until": "2016-10-07T00:00:00.000Z"
+		"from": "2016-10-10T00:00:00.000Z",
+		"until": "2016-10-14T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Bunter Gemüseauflauf an Rahmsauce",
+				"name": "Schupfnudeln an Zwiebel-Champignonsauce",
 				"attributes": [
 					"F",
 					"30",
 					"32",
-					"35",
 					"36"
 				],
 				"price": {
@@ -39,10 +28,29 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Omelett mit buntem Béchamelgemüse",
+			"2": {
+				"name": "Kaiserschmarrn mit Kirschsauce",
 				"attributes": [
 					"F",
+					"A",
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Allgäuer Käse-Spätzlepfanne",
+				"attributes": [
+					"F",
+					"1",
+					"2",
 					"30",
 					"32",
 					"36"
@@ -55,10 +63,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Nudeln mit mediterraner Tomatensauce",
+				"name": "Kartoffeltasche mit Frischkäse, dazu Knoblauchdip",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -68,10 +76,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Asia-Kokos-Suppe mit Paprika und Koriander",
+				"name": "Asiatischer Gemüseeintopf",
 				"attributes": [
 					"V",
-					"3"
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -82,25 +91,9 @@
 			}
 		},
 		"Essen 2": {
-			"1": null,
-			"2": {
-				"name": "Hähnchenbrust nach Gyros Art",
+			"1": {
+				"name": "Balkan Reisgericht mit Schweinefleisch",
 				"attributes": [
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Käse-Chili-Bratwurst mit scharfer Sauce",
-				"attributes": [
-					"8",
-					"36",
 					"S"
 				],
 				"price": {
@@ -110,12 +103,25 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Schweinegeschnetzeltes Züricher Art",
+			"2": {
+				"name": "Gefülltes hessisches Kraut auf Béchamelsauce",
 				"attributes": [
 					"30",
 					"36",
+					"39",
 					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Hähnchenfilet Maurische Art an Curry-Honigsauce",
+				"attributes": [
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -124,16 +130,25 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Fischstäbchen mit Remouladensauce",
+			"4": {
+				"name": "Cordon bleu von der Pute auf einer Zitronen-Pfeffersauce",
 				"attributes": [
-					"3",
-					"9",
+					"2",
 					"30",
-					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Fischragout in bunter Gemüsesauce",
+				"attributes": [
 					"33",
-					"36",
-					"39"
+					"36"
 				],
 				"price": {
 					"student": 2.4,
@@ -144,9 +159,52 @@
 			}
 		},
 		"Bio-Essen": {
-			"1": null,
+			"1": {
+				"name": "Karotten-Pfannkuchen mit Petersiliensauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
 			"2": {
-				"name": "Kartoffelgratin mit Schnittlauchsauce",
+				"name": "Penne mit Tomatenpesto",
+				"attributes": [
+					"V",
+					"Ö",
+					"30"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gedünstete Zucchini mit Tofu-Grünkernauflage überbacken",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Glacierte Karotten mit Petersiliensauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -159,42 +217,13 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Ratatouille-Gemüsepfanne",
-				"attributes": [
-					"V",
-					"Ö"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Falafel mit Joghurt-Schnittlauch-Dip",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Nudelgratin mit Blumenkohl und Brokkoli",
+				"name": "Penne mit Pilz-Zwiebelsauce",
 				"attributes": [
 					"F",
 					"Ö",
 					"30",
-					"32"
+					"36"
 				],
 				"price": {
 					"student": 2.9,
