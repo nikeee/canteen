@@ -123,9 +123,14 @@
 			"3": {
 				"name": "Hähnchenbrust mit Pesto rosso mariniert auf Cremesauce",
 				"attributes": [
+					"2",
+					"8",
 					"30",
 					"36",
-					"37"
+					"37",
+					"38",
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
