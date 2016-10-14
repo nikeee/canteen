@@ -59,9 +59,11 @@
 			"4": {
 				"name": "Tortellini mit Soja Bolognese gefüllt in Chilisauce",
 				"attributes": [
-					"V",
+					"F",
 					"30",
+					"32",
 					"35",
+					"36",
 					"38"
 				],
 				"price": {
