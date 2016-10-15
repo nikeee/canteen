@@ -7,19 +7,16 @@
 		}
 	},
 	"validity": {
-		"from": "2016-10-10T00:00:00.000Z",
-		"until": "2016-10-14T00:00:00.000Z"
+		"from": "2016-10-17T00:00:00.000Z",
+		"until": "2016-10-21T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Schupfnudeln an Zwiebel-Champignonsauce",
+				"name": "Mexikanischer Reis mit roten Bohnen, Mais und Paprika",
 				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
+					"V"
 				],
 				"price": {
 					"student": 1.8,
@@ -29,31 +26,27 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kaiserschmarrn mit Kirschsauce",
+				"name": "Nudeln mit Brokkoli-Sahnesauce",
 				"attributes": [
 					"F",
-					"A",
-					"1",
 					"30",
-					"32",
 					"36"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Allgäuer Käse-Spätzlepfanne",
+				"name": "Apfelpfannkuchen auf Vanillesauce",
 				"attributes": [
-					"F",
+					"V",
 					"1",
-					"2",
+					"3",
 					"30",
-					"32",
-					"36"
+					"35"
 				],
 				"price": {
 					"student": 1.9,
@@ -63,10 +56,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Kartoffeltasche mit Frischkäse, dazu Knoblauchdip",
+				"name": "Linsen-Bolognese mit Gemüsewürfeln",
 				"attributes": [
-					"F",
-					"36"
+					"V",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -76,10 +69,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Asiatischer Gemüseeintopf",
+				"name": "Arancini-Röstling auf Rahmspinat",
 				"attributes": [
-					"V",
-					"35",
+					"F",
+					"30",
+					"32",
+					"36",
 					"38"
 				],
 				"price": {
@@ -92,8 +87,9 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Balkan Reisgericht mit Schweinefleisch",
+				"name": "Hausgemachte Hackfleischpizza mit Paprika, Tomate und Mais",
 				"attributes": [
+					"36",
 					"S"
 				],
 				"price": {
@@ -104,12 +100,9 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gefülltes hessisches Kraut auf Béchamelsauce",
+				"name": "Hähnchenbrust auf Champignongrahmsauce",
 				"attributes": [
-					"30",
-					"36",
-					"39",
-					"S"
+					"36"
 				],
 				"price": {
 					"student": 2.4,
@@ -119,10 +112,8 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Hähnchenfilet Maurische Art an Curry-Honigsauce",
-				"attributes": [
-					"39"
-				],
+				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
+				"attributes": [],
 				"price": {
 					"student": 2.5,
 					"employee": 3.8,
@@ -131,11 +122,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Cordon bleu von der Pute auf einer Zitronen-Pfeffersauce",
+				"name": "Asiatische Hackfleischpfanne",
 				"attributes": [
-					"2",
 					"30",
-					"36"
+					"35",
+					"38",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -145,10 +137,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Fischragout in bunter Gemüsesauce",
+				"name": "Seelachsfilet an Weißweinsauce",
 				"attributes": [
+					"A",
 					"33",
-					"36"
+					"36",
+					"41"
 				],
 				"price": {
 					"student": 2.4,
@@ -160,7 +154,7 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Karotten-Pfannkuchen mit Petersiliensauce",
+				"name": "Gebratene, panierte Tofuschnitte an Curry-Erbsen-Sauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -175,7 +169,52 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Penne mit Tomatenpesto",
+				"name": "Griechischer Tomaten-Reistaler mit Knoblauchsauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Amerikanischer Kartoffeleintopf",
+				"attributes": [
+					"V",
+					"Ö",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Kartoffelgratin mit Lauch und Karotten",
+				"attributes": [
+					"F",
+					"Ö",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Spaghetti mit Tomaten-Olivensauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -187,57 +226,41 @@
 					"visitor": 5.1
 				},
 				"vitalInfo": null
-			},
-			"3": {
-				"name": "Gedünstete Zucchini mit Tofu-Grünkernauflage überbacken",
-				"attributes": [
-					"V",
-					"Ö",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Glacierte Karotten mit Petersiliensauce",
-				"attributes": [
-					"V",
-					"Ö",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Penne mit Pilz-Zwiebelsauce",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
 			}
 		},
 		"Aktions-Essen": {
 			"1": null,
-			"2": null,
+			"2": {
+				"name": "Lachsfilet im Blätterteig dazu Sauce Hollandaise",
+				"attributes": [
+					"30",
+					"32",
+					"33",
+					"35",
+					"36"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null
+			},
 			"3": null,
-			"4": null,
+			"4": {
+				"name": "Rinderragout an Zwiebel-Meerrettichsauce",
+				"attributes": [
+					"Ö",
+					"3",
+					"R"
+				],
+				"price": {
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
+				},
+				"vitalInfo": null
+			},
 			"5": null
 		}
 	}
