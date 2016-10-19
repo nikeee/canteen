@@ -247,20 +247,7 @@
 				"vitalInfo": null
 			},
 			"3": null,
-			"4": {
-				"name": "Rinderragout an Zwiebel-Meerrettichsauce",
-				"attributes": [
-					"Ö",
-					"3",
-					"R"
-				],
-				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
-				},
-				"vitalInfo": null
-			},
+			"4": null,
 			"5": null
 		}
 	}

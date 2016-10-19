@@ -32,11 +32,9 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebackene Kartoffelecken an Currycreme",
+				"name": "Gebackene Kartoffelecken an Currycreme Curry-Ketchup-Dip",
 				"attributes": [
-					"V",
-					"35",
-					"39"
+					"V"
 				],
 				"price": {
 					"student": 1.8,
