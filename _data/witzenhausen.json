@@ -7,16 +7,19 @@
 		}
 	},
 	"validity": {
-		"from": "2016-10-17T00:00:00.000Z",
-		"until": "2016-10-21T00:00:00.000Z"
+		"from": "2016-10-24T00:00:00.000Z",
+		"until": "2016-10-28T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Mexikanischer Reis mit roten Bohnen, Mais und Paprika",
+				"name": "Duett von Ratatouille und Ebly",
 				"attributes": [
-					"V"
+					"V",
+					"1",
+					"3",
+					"30"
 				],
 				"price": {
 					"student": 1.8,
@@ -26,27 +29,28 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Nudeln mit Brokkoli-Sahnesauce",
+				"name": "Griesbrei mit Heidelbeeren",
 				"attributes": [
 					"F",
 					"30",
 					"36"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Apfelpfannkuchen auf Vanillesauce",
+				"name": "Allgäuer Käse-Spätzlepfanne",
 				"attributes": [
-					"V",
+					"F",
 					"1",
-					"3",
+					"2",
 					"30",
-					"35"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -56,9 +60,13 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Linsen-Bolognese mit Gemüsewürfeln",
+				"name": "Frühlingsrollen an süß-saurer Asia-Sauce",
 				"attributes": [
-					"V",
+					"F",
+					"30",
+					"32",
+					"35",
+					"36",
 					"38"
 				],
 				"price": {
@@ -69,11 +77,10 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Arancini-Röstling auf Rahmspinat",
+				"name": "hessische Kartoffelsuppe mit Gemüsen",
 				"attributes": [
 					"F",
 					"30",
-					"32",
 					"36",
 					"38"
 				],
@@ -87,9 +94,9 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Hausgemachte Hackfleischpizza mit Paprika, Tomate und Mais",
+				"name": "Bayrische Wirsing-Hackfleischpfanne",
 				"attributes": [
-					"36",
+					"39",
 					"S"
 				],
 				"price": {
@@ -100,20 +107,26 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hähnchenbrust auf Champignongrahmsauce",
+				"name": "Grillfrischer Krustenbraten",
 				"attributes": [
-					"36"
+					"2",
+					"3",
+					"8",
+					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
-				"attributes": [],
+				"name": "Chinesisches Honig-Hühnchen, dazu Chinagemüse und Reis",
+				"attributes": [
+					"35",
+					"38"
+				],
 				"price": {
 					"student": 2.5,
 					"employee": 3.8,
@@ -122,27 +135,30 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Asiatische Hackfleischpfanne",
+				"name": "Königsberger Klopse in Kapernsauce",
 				"attributes": [
 					"30",
-					"35",
-					"38",
+					"32",
+					"36",
+					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Seelachsfilet an Weißweinsauce",
+				"name": "Gebratene Scholle auf Remouladensauce",
 				"attributes": [
-					"A",
+					"3",
+					"30",
+					"32",
 					"33",
 					"36",
-					"41"
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -154,40 +170,11 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Gebratene, panierte Tofuschnitte an Curry-Erbsen-Sauce",
+				"name": "Gabelspaghetti mit Staudensellerie-Karottenragout in Rahmsauce",
 				"attributes": [
 					"V",
 					"Ö",
 					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Griechischer Tomaten-Reistaler mit Knoblauchsauce",
-				"attributes": [
-					"V",
-					"Ö",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Amerikanischer Kartoffeleintopf",
-				"attributes": [
-					"V",
-					"Ö",
 					"35",
 					"38"
 				],
@@ -198,13 +185,42 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Kartoffelgratin mit Lauch und Karotten",
+			"2": {
+				"name": "Kichererbsen-Gemüseröstling an Kräuter-Zwiebelsauce",
 				"attributes": [
 					"F",
-					"Ö",
+					"30",
 					"32",
-					"36"
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Frisches Gemüsegulasch an Tomatensauce",
+				"attributes": [
+					"V",
+					"Ö"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Bunte Spirelli mit Erbsensauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -214,11 +230,10 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Spaghetti mit Tomaten-Olivensauce",
+				"name": "Kartoffelgratin mit Roter Bete an Petersilien-Schmandsauce",
 				"attributes": [
 					"V",
-					"Ö",
-					"30"
+					"Ö"
 				],
 				"price": {
 					"student": 2.9,
@@ -229,15 +244,27 @@
 			}
 		},
 		"Aktions-Essen": {
-			"1": null,
-			"2": {
-				"name": "Lachsfilet im Blätterteig dazu Sauce Hollandaise",
+			"1": {
+				"name": "Paniertes Schnitzel Hessisch an Schnittlauchschmand",
 				"attributes": [
+					"2",
 					"30",
-					"32",
-					"33",
-					"35",
-					"36"
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Spanisch Fricco mit Kartoffeln und Rindfleisch in Sauerrahm",
+				"attributes": [
+					"Ö",
+					"36",
+					"R"
 				],
 				"price": {
 					"student": 4.5,
@@ -246,8 +273,37 @@
 				},
 				"vitalInfo": null
 			},
-			"3": null,
-			"4": null,
+			"3": {
+				"name": "Original hessische grüne Sauce mit gehacktem Ei",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Hessisches Weckewerk mit Kartoffeln und Gurke",
+				"attributes": [
+					"2",
+					"9",
+					"30",
+					"38",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
 			"5": null
 		}
 	}

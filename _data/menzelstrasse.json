@@ -7,21 +7,19 @@
 		}
 	},
 	"validity": {
-		"from": "2016-10-17T00:00:00.000Z",
-		"until": "2016-10-21T00:00:00.000Z"
+		"from": "2016-10-24T00:00:00.000Z",
+		"until": "2016-10-28T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
+				"name": "Hessische Kartoffelsuppe mit Graubrot",
 				"attributes": [
 					"F",
-					"1",
 					"30",
-					"32",
 					"36",
-					"37"
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -31,26 +29,27 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebackene Kartoffelecken an Currycreme",
+				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
-					"V",
-					"35",
-					"39"
+					"F",
+					"3",
+					"32"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Ofenfrische Gemüsefrikadellen mit Sauerrahmdip",
+				"name": "Kritharakisalat mit buntem Gemüse, und Petersilienpesto, dazu Brotkonfekt",
 				"attributes": [
-					"F",
+					"V",
+					"3",
+					"6",
 					"30",
-					"32",
-					"36"
+					"37"
 				],
 				"price": {
 					"student": 1.9,
@@ -60,12 +59,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Sojageschnetzeltes mit Curryketchup",
+				"name": "Sojageschnetzeltes in scharfer Thaicurry-Kokos-Sauce",
 				"attributes": [
 					"V",
-					"1",
-					"35",
-					"39"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 1.9,
@@ -75,11 +73,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Spaghetti in Spinatpesto",
+				"name": "Hausgemachter Süßkartoffelstampf auf Balsamico-Linsen",
 				"attributes": [
 					"V",
-					"30",
-					"37"
+					"1",
+					"3",
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -91,12 +90,15 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Hähnchenbruststreifen in Red-Thaicurry-Sauce",
+				"name": "Gegrillte Bratwurst auf Meerrettich-Rahmwirsing",
 				"attributes": [
+					"3",
+					"8",
+					"9",
 					"30",
-					"35",
 					"36",
-					"38"
+					"R",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -106,15 +108,9 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Fleischkäseschnitzel auf einer Malzjus",
+				"name": "Geschnetzeltes von der Putenbrust in fruchtiger Tomatensauce",
 				"attributes": [
-					"2",
-					"3",
-					"8",
-					"30",
-					"32",
-					"R",
-					"S"
+					"30"
 				],
 				"price": {
 					"student": 2.5,
@@ -124,29 +120,9 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Nudelpfanne mit Salami, Schinken und Ei",
-				"attributes": [
-					"2",
-					"3",
-					"8",
-					"30",
-					"32",
-					"36",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Fischstäbchen mit Remouladensauce",
+				"name": "Gebackene Fisch Nuggets an Dill-Senfdip",
 				"attributes": [
 					"3",
-					"9",
 					"30",
 					"32",
 					"33",
@@ -154,16 +130,34 @@
 					"39"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Berner Riesenrösti mit Rahm-Geschnetzeltem vom Schwein",
+				"attributes": [
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Texanisches, feuriges Chili con Carne vom Schwein",
+				"name": "Gefülltes hessisches Kraut auf Béchamelsauce",
 				"attributes": [
 					"30",
+					"32",
+					"35",
+					"36",
+					"39",
 					"S"
 				],
 				"price": {
