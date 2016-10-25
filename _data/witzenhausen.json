@@ -77,7 +77,7 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "hessische Kartoffelsuppe mit Gemüsen",
+				"name": "Hessische Kartoffelsuppe mit Gemüse",
 				"attributes": [
 					"F",
 					"30",
@@ -188,9 +188,8 @@
 			"2": {
 				"name": "Kichererbsen-Gemüseröstling an Kräuter-Zwiebelsauce",
 				"attributes": [
-					"F",
+					"V",
 					"30",
-					"32",
 					"35"
 				],
 				"price": {
