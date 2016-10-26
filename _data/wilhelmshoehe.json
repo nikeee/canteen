@@ -97,6 +97,7 @@
 					"9",
 					"30",
 					"36",
+					"38",
 					"R",
 					"S"
 				],
@@ -184,11 +185,12 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Pellkartoffeln mit hessischem Weckewerk und Gurke",
+				"name": "Pellkartoffeln mit Rahmwirsing hessischem Weckewerk und Gurke",
 				"attributes": [
 					"2",
 					"9",
 					"30",
+					"36",
 					"38",
 					"39",
 					"S"
@@ -239,7 +241,8 @@
 					"30",
 					"34",
 					"35",
-					"37"
+					"37",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
