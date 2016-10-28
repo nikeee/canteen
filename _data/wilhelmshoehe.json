@@ -140,6 +140,7 @@
 			"4": {
 				"name": "Berner Riesenrösti mit Rahm-Geschnetzeltem vom Schwein",
 				"attributes": [
+					"3",
 					"30",
 					"36",
 					"S"
@@ -206,6 +207,8 @@
 			"4": {
 				"name": "Hähnchenbrust nach Gyros Art gewürzt mit Tomaten-Chimichurri",
 				"attributes": [
+					"3",
+					"30",
 					"38",
 					"39"
 				],

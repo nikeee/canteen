@@ -61,9 +61,12 @@
 			"4": {
 				"name": "Sojageschnetzeltes in scharfer Thaicurry-Kokos-Sauce",
 				"attributes": [
-					"V",
 					"30",
-					"35"
+					"32",
+					"33",
+					"35",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 1.9,

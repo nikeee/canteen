@@ -34,7 +34,9 @@
 				"attributes": [
 					"F",
 					"3",
-					"32"
+					"30",
+					"32",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -111,7 +113,8 @@
 			"2": {
 				"name": "Geschnetzeltes von der Putenbrust in fruchtiger Tomatensauce",
 				"attributes": [
-					"30"
+					"30",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -190,6 +193,7 @@
 					"2",
 					"9",
 					"30",
+					"35",
 					"38",
 					"39",
 					"S"
