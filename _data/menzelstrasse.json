@@ -7,19 +7,18 @@
 		}
 	},
 	"validity": {
-		"from": "2016-10-24T00:00:00.000Z",
-		"until": "2016-10-28T00:00:00.000Z"
+		"from": "2016-10-31T00:00:00.000Z",
+		"until": "2016-11-04T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Hessische Kartoffelsuppe mit Graubrot",
+				"name": "Schupfnudeln auf Salbei-Cremesauce",
 				"attributes": [
-					"F",
+					"V",
 					"30",
-					"36",
-					"38"
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -29,11 +28,19 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kartoffelpuffer mit Apfelmus",
+				"name": "Goldgelb gebackenes Möhrenschnitzel auf Passionsfrucht-Sahne",
 				"attributes": [
 					"F",
+					"1",
+					"2",
 					"3",
-					"32"
+					"9",
+					"30",
+					"32",
+					"36",
+					"38",
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 1.9,
@@ -43,27 +50,25 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Kritharakisalat mit buntem Gemüse, und Petersilienpesto, dazu Brotkonfekt",
+				"name": "Farfalle Tricolore mit Grünkern-Tomatensugo",
 				"attributes": [
 					"V",
-					"3",
-					"6",
-					"30",
-					"37"
+					"30"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Sojageschnetzeltes in scharfer Thaicurry-Kokos-Sauce",
+				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an veganer Béchamel",
 				"attributes": [
 					"V",
 					"30",
-					"35"
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -73,90 +78,69 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachter Süßkartoffelstampf auf Balsamico-Linsen",
+				"name": "Geschmortes Ratatouille im gelben Reisrand",
 				"attributes": [
 					"V",
-					"1",
-					"3",
-					"35"
+					"30"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Gegrillte Bratwurst auf Meerrettich-Rahmwirsing",
-				"attributes": [
-					"3",
-					"8",
-					"9",
-					"30",
-					"36",
-					"R",
-					"S"
-				],
+				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
+				"attributes": [],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Geschnetzeltes von der Putenbrust in fruchtiger Tomatensauce",
-				"attributes": [
-					"30"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Gebackene Fisch Nuggets an Dill-Senfdip",
-				"attributes": [
-					"3",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Berner Riesenrösti mit Rahm-Geschnetzeltem vom Schwein",
+				"name": "Asia-Schweinefleischstreifen in Red-Thaicurry-Sauce",
 				"attributes": [
 					"30",
 					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Gefülltes hessisches Kraut auf Béchamelsauce",
+			"3": {
+				"name": "Allgäuer Käse-Spätzlepfanne mit Schinken",
+				"attributes": [
+					"1",
+					"2",
+					"3",
+					"8",
+					"30",
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Hausgemachtes Hacksteak auf Zwiebeljus",
 				"attributes": [
 					"30",
 					"32",
 					"35",
-					"36",
 					"39",
 					"S"
 				],
@@ -164,6 +148,23 @@
 					"student": 2.4,
 					"employee": 3.7,
 					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Paprika mit orientalischer Hack-Couscous Füllung",
+				"attributes": [
+					"3",
+					"30",
+					"32",
+					"35",
+					"38",
+					"R"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			}
