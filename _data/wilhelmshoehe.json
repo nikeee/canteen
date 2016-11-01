@@ -16,9 +16,11 @@
 			"1": {
 				"name": "Schupfnudeln auf Salbei-Cremesauce",
 				"attributes": [
-					"V",
+					"F",
 					"30",
-					"35"
+					"32",
+					"35",
+					"36"
 				],
 				"price": {
 					"student": 1.8,

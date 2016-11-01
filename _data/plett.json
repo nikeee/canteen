@@ -16,8 +16,9 @@
 			"1": {
 				"name": "Schupfnudeln auf Salbei-Cremesauce",
 				"attributes": [
-					"V",
+					"F",
 					"30",
+					"32",
 					"35"
 				],
 				"price": {
@@ -246,6 +247,7 @@
 					"MV",
 					"30",
 					"33",
+					"36",
 					"38"
 				],
 				"price": {
