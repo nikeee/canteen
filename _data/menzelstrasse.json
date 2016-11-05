@@ -7,50 +7,14 @@
 		}
 	},
 	"validity": {
-		"from": "2016-10-31T00:00:00.000Z",
-		"until": "2016-11-04T00:00:00.000Z"
+		"from": "2016-11-07T00:00:00.000Z",
+		"until": "2016-11-11T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Schupfnudeln auf Salbei-Cremesauce",
-				"attributes": [
-					"V",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Goldgelb gebackenes Möhrenschnitzel auf Passionsfrucht-Sahne",
-				"attributes": [
-					"F",
-					"1",
-					"2",
-					"3",
-					"9",
-					"30",
-					"32",
-					"36",
-					"38",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Farfalle Tricolore mit Grünkern-Tomatensugo",
+				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
 				"attributes": [
 					"V",
 					"30"
@@ -62,13 +26,40 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an veganer Béchamel",
+			"2": {
+				"name": "Original Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
 				"attributes": [
-					"V",
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Hausgemachter Spinatpfannkuchen an einem Quarkdip",
+				"attributes": [
+					"F",
 					"30",
-					"35",
-					"38"
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Ofenfrische Brätlinge mit Spundekäs'",
+				"attributes": [
+					"F",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -78,36 +69,40 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Geschmortes Ratatouille im gelben Reisrand",
+				"name": "Marokkanische Pasta mit Nüssen, Kichererbsen und Rosinen",
 				"attributes": [
 					"V",
-					"30"
+					"30",
+					"37"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
-				"attributes": [],
+				"name": "Geschnetzeltes von der Putenbrust in Pfirsichrahm",
+				"attributes": [
+					"30",
+					"36"
+				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Asia-Schweinefleischstreifen in Red-Thaicurry-Sauce",
+				"name": "Gebackener Alaska-Seelachs an Kräuterdip",
 				"attributes": [
 					"30",
-					"36",
-					"S"
+					"33",
+					"36"
 				],
 				"price": {
 					"student": 2.4,
@@ -117,15 +112,14 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Allgäuer Käse-Spätzlepfanne mit Schinken",
+				"name": "Bayrisch Kraut-Rauchfleischpfanne",
 				"attributes": [
-					"1",
 					"2",
 					"3",
-					"8",
+					"4",
 					"30",
-					"32",
 					"36",
+					"38",
 					"S"
 				],
 				"price": {
@@ -136,13 +130,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hausgemachtes Hacksteak auf Zwiebeljus",
+				"name": "Curry-Hähnchen Madras",
 				"attributes": [
+					"3",
 					"30",
-					"32",
-					"35",
-					"39",
-					"S"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -152,19 +145,16 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Paprika mit orientalischer Hack-Couscous Füllung",
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
 				"attributes": [
-					"3",
-					"30",
 					"32",
-					"35",
-					"38",
-					"R"
+					"36",
+					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}
