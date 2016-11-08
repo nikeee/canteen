@@ -16,8 +16,12 @@
 			"1": {
 				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
 				"attributes": [
-					"V",
-					"30"
+					"3",
+					"30",
+					"32",
+					"35",
+					"38",
+					"R"
 				],
 				"price": {
 					"student": 1.8,
