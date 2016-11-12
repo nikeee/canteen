@@ -7,17 +7,17 @@
 		}
 	},
 	"validity": {
-		"from": "2016-11-07T00:00:00.000Z",
-		"until": "2016-11-11T00:00:00.000Z"
+		"from": "2016-11-14T00:00:00.000Z",
+		"until": "2016-11-18T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
+				"name": "Linseneintopf mit Wurzelgemüse",
 				"attributes": [
 					"V",
-					"30"
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -27,11 +27,16 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Original Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise",
 				"attributes": [
 					"F",
+					"2",
+					"5",
+					"30",
 					"32",
-					"36"
+					"36",
+					"38",
+					"41"
 				],
 				"price": {
 					"student": 1.9,
@@ -41,12 +46,13 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Hausgemachter Spinatpfannkuchen an einem Quarkdip",
+				"name": "Hessische Kartoffelsuppe mit Gemüse und Petersilienpesto, dazu krosses Baguette",
 				"attributes": [
-					"F",
+					"V",
 					"30",
-					"32",
-					"36"
+					"35",
+					"37",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -56,24 +62,27 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Ofenfrische Brätlinge mit Spundekäs'",
+				"name": "Drelloni Nudeln mit Pilzcreme-Sauce",
 				"attributes": [
-					"F",
-					"36"
+					"V",
+					"30",
+					"35"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Marokkanische Pasta mit Nüssen, Kichererbsen und Rosinen",
+				"name": "Gemüse-Curry Madras mit Sojastreifen",
 				"attributes": [
 					"V",
+					"3",
 					"30",
-					"37"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 1.8,
@@ -85,10 +94,11 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Geschnetzeltes von der Putenbrust in Pfirsichrahm",
+				"name": "Indonesisches Bami Goreng mit Geflügelstreifen und Gemüse",
 				"attributes": [
 					"30",
-					"36"
+					"32",
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -98,10 +108,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebackener Alaska-Seelachs an Kräuterdip",
+				"name": "Gebratene Gnocchi in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
 				"attributes": [
 					"30",
-					"33",
+					"32",
 					"36"
 				],
 				"price": {
@@ -112,8 +122,21 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Bayrisch Kraut-Rauchfleischpfanne",
+				"name": "Serbische Balkan-Reisfleischpfanne",
 				"attributes": [
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Kassler Braten auf Calvadosjus",
+				"attributes": [
+					"A",
 					"2",
 					"3",
 					"4",
@@ -123,31 +146,17 @@
 					"S"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Curry-Hähnchen Madras",
-				"attributes": [
-					"3",
-					"30",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
+				"name": "Nordhessische Kartoffel-Bratwurst mit Schmanddip",
 				"attributes": [
-					"32",
+					"2",
+					"8",
 					"36",
 					"S"
 				],

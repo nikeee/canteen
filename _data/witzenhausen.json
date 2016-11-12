@@ -7,20 +7,20 @@
 		}
 	},
 	"validity": {
-		"from": "2016-11-07T00:00:00.000Z",
-		"until": "2016-11-11T00:00:00.000Z"
+		"from": "2016-11-14T00:00:00.000Z",
+		"until": "2016-11-18T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf Vanillesauce",
+				"name": "Apfel-Quark-Auflauf mit Vanillesauce",
 				"attributes": [
 					"F",
+					"1",
 					"30",
 					"32",
-					"36",
-					"37"
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -30,13 +30,13 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Bunter Gemüseauflauf an Rahmsauce",
+				"name": "Pikante Sesamnudeln mit asiatischem Pfannengemüse",
 				"attributes": [
-					"F",
+					"V",
 					"30",
-					"32",
 					"35",
-					"36"
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 1.9,
@@ -46,10 +46,10 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Nudeln mit mediterraner Tomatensauce",
+				"name": "Arabische Reispfanne mit Gemüse, Sultanien und Mandeln",
 				"attributes": [
 					"V",
-					"30"
+					"37"
 				],
 				"price": {
 					"student": 1.9,
@@ -59,25 +59,24 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Minestrone - Italienische Gemüsesuppe",
+				"name": "Rahmspinat mit Rührei",
 				"attributes": [
-					"V",
-					"30",
-					"38"
+					"F",
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Asiatische Reis-Krautpfanne mit Paprika und Sprossen",
+				"name": "Schnippelbohnen-Eintopf mit Kartoffelwürfeln",
 				"attributes": [
 					"V",
-					"3",
-					"39"
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -89,23 +88,10 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Schweineschnitzel mit ungarischer Pusztasauce",
+				"name": "Schaschliktopf",
 				"attributes": [
-					"30",
+					"2",
 					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Hähnchenbrust nach Gyros Art",
-				"attributes": [
-					"38",
-					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -114,15 +100,28 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Gegrillte Bratwurst an Zwiebelsauce",
+			"2": {
+				"name": "Kartoffelgratin mit Thunfisch",
 				"attributes": [
-					"3",
-					"8",
+					"6",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Fischfrikadelle mit Dill-Sahnesauce",
+				"attributes": [
 					"30",
+					"32",
+					"33",
 					"36",
-					"R",
-					"S"
+					"39"
 				],
 				"price": {
 					"student": 2.3,
@@ -132,29 +131,9 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Schweinegeschnetzeltes Züricher Art",
+				"name": "Szegediner Gulasch",
 				"attributes": [
-					"30",
-					"36",
 					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Fischstäbchen mit Remouladensauce",
-				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -162,14 +141,30 @@
 					"visitor": 4.6
 				},
 				"vitalInfo": null
+			},
+			"5": {
+				"name": "Asia Putenstreifen in roter Thaicurrysauce",
+				"attributes": [
+					"30",
+					"35",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Tomaten-Zucchiniragout auf Kräuterreis",
+				"name": "Ägyptischer Linseneintopf mit Porree, Tomaten und Kartoffeln",
 				"attributes": [
 					"V",
-					"Ö"
+					"Ö",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -179,11 +174,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kartoffelgratin mit Schnittlauchsauce",
+				"name": "Backkartoffeln mit Kräuterquark",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"35"
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -193,13 +188,13 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Falafel aus Kichererbsen mit Joghurt-Schnittlauch-Dip",
+				"name": "Südtiroler Ofenmakkaroni",
 				"attributes": [
 					"F",
 					"Ö",
 					"30",
-					"36",
-					"39"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -209,12 +204,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Nudelgratin mit Blumenkohl und Brokkoli",
+				"name": "Tofuragout in Pusztasauce",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"30",
-					"32"
+					"9",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -224,10 +219,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Ratatouille-Gemüsepfanne",
+				"name": "Nudelpfanne mit Pilzen, Zwiebeln, Tomaten und Tofu",
 				"attributes": [
 					"V",
-					"Ö"
+					"Ö",
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -240,28 +237,26 @@
 		"Aktions-Essen": {
 			"1": null,
 			"2": {
-				"name": "Rehragout mit Birnen und Edelpilzen in Portweinsauce",
+				"name": "Stifado Griechisches Rinderragout mit Gemüse und Zimt",
 				"attributes": [
-					"A",
-					"3",
-					"30",
-					"36",
-					"41"
+					"Ö",
+					"R"
 				],
 				"price": {
-					"student": 6,
-					"employee": 7.3,
-					"visitor": 8.2
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
 				},
 				"vitalInfo": null
 			},
 			"3": null,
 			"4": {
-				"name": "Rinderragout an Zwiebel-Meerrettichsauce",
+				"name": "Wildschweingulasch in Rotwein-Wacholder-Sauce",
 				"attributes": [
-					"Ö",
-					"3",
-					"R"
+					"A",
+					"30",
+					"41",
+					"S"
 				],
 				"price": {
 					"student": 4.5,
