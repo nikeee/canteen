@@ -13,22 +13,7 @@
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
-			"1": {
-				"name": "Apfel-Quark-Auflauf mit Vanillesauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
 				"name": "Pikante Sesamnudeln mit asiatischem Pfannengemüse",
 				"attributes": [
@@ -87,19 +72,7 @@
 			}
 		},
 		"Essen 2": {
-			"1": {
-				"name": "Schaschliktopf",
-				"attributes": [
-					"2",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
 				"name": "Kartoffelgratin mit Thunfisch",
 				"attributes": [
@@ -159,20 +132,7 @@
 			}
 		},
 		"Bio-Essen": {
-			"1": {
-				"name": "Ägyptischer Linseneintopf mit Porree, Tomaten und Kartoffeln",
-				"attributes": [
-					"V",
-					"Ö",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
 				"name": "Backkartoffeln mit Kräuterquark",
 				"attributes": [
