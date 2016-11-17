@@ -30,6 +30,7 @@
 				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise",
 				"attributes": [
 					"F",
+					"1",
 					"2",
 					"5",
 					"30",
@@ -48,11 +49,13 @@
 			"3": {
 				"name": "Hessische Kartoffelsuppe mit Gemüse und Petersilienpesto, dazu krosses Baguette",
 				"attributes": [
-					"V",
+					"F",
 					"30",
 					"35",
+					"36",
 					"37",
-					"38"
+					"38",
+					"42"
 				],
 				"price": {
 					"student": 1.9,
@@ -110,6 +113,7 @@
 			"2": {
 				"name": "Gebratene Gnocchi in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
 				"attributes": [
+					"1",
 					"30",
 					"32",
 					"36"
@@ -318,6 +322,7 @@
 				"name": "Ravioli gefüllt mit rote Bete und Ricotta in einer Brokkoli-Mandelsauce",
 				"attributes": [
 					"F",
+					"1",
 					"30",
 					"32",
 					"36",
