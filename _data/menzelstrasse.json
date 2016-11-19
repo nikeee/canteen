@@ -7,36 +7,32 @@
 		}
 	},
 	"validity": {
-		"from": "2016-11-14T00:00:00.000Z",
-		"until": "2016-11-18T00:00:00.000Z"
+		"from": "2016-11-21T00:00:00.000Z",
+		"until": "2016-11-25T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Linseneintopf mit Wurzelgemüse",
+				"name": "Mexikanische Kartoffelpfanne mit Paprika und Bohnen an Chilimayonnaise",
 				"attributes": [
 					"V",
-					"38"
+					"3",
+					"35"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise",
+				"name": "Grillfrische Zucchini auf einer Tomatensauce",
 				"attributes": [
-					"F",
-					"2",
-					"5",
+					"V",
 					"30",
-					"32",
-					"36",
-					"38",
-					"41"
+					"40"
 				],
 				"price": {
 					"student": 1.9,
@@ -46,12 +42,23 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Hessische Kartoffelsuppe mit Gemüse und Petersilienpesto, dazu krosses Baguette",
+				"name": "Gemüseeintopf",
+				"attributes": [
+					"V"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gebackene Gemüsekroketten mit veganer Béchamelsauce",
 				"attributes": [
 					"V",
 					"30",
 					"35",
-					"37",
 					"38"
 				],
 				"price": {
@@ -61,28 +68,12 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Drelloni Nudeln mit Pilzcreme-Sauce",
-				"attributes": [
-					"V",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Gemüse-Curry Madras mit Sojastreifen",
+				"name": "Gelbe Pastapfanne mit Brokkolipesto und Walnüssen",
 				"attributes": [
 					"V",
-					"3",
 					"30",
-					"35",
-					"39"
+					"37"
 				],
 				"price": {
 					"student": 1.8,
@@ -94,55 +85,28 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Indonesisches Bami Goreng mit Geflügelstreifen und Gemüse",
+				"name": "Hackfleischbällchen in Western-Tomatensauce",
 				"attributes": [
 					"30",
 					"32",
-					"39"
+					"36",
+					"R",
+					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebratene Gnocchi in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
-				"attributes": [
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Serbische Balkan-Reisfleischpfanne",
-				"attributes": [
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Kassler Braten auf Calvadosjus",
+				"name": "Braten vom Schweinerücken mit Whisky-Rahmsauce",
 				"attributes": [
 					"A",
-					"2",
-					"3",
-					"4",
+					"1",
 					"30",
 					"36",
-					"38",
 					"S"
 				],
 				"price": {
@@ -152,18 +116,46 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Nordhessische Kartoffel-Bratwurst mit Schmanddip",
+			"3": {
+				"name": "Ofenfrischer Hähnchenschenkel auf Bratenjus",
+				"attributes": [
+					"30"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Semmelknödel mit Speck-Schmanddip",
 				"attributes": [
 					"2",
-					"8",
+					"3",
+					"30",
+					"32",
 					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Sloppy Joe Burger mit Puten-Hackfleischsauce und knackigem Eisbergsalat",
+				"attributes": [
+					"1",
+					"30",
+					"40"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			}

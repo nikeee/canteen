@@ -7,36 +7,30 @@
 		}
 	},
 	"validity": {
-		"from": "2016-11-14T00:00:00.000Z",
-		"until": "2016-11-18T00:00:00.000Z"
+		"from": "2016-11-21T00:00:00.000Z",
+		"until": "2016-11-25T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Apfel-Quark-Auflauf mit Vanillesauce",
+				"name": "Nudeln mit Gemüsebolognese",
 				"attributes": [
-					"F",
-					"1",
+					"V",
 					"30",
-					"32",
-					"36"
+					"38"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Pikante Sesamnudeln mit asiatischem Pfannengemüse",
+				"name": "Herbstlicher Gemüseeintopf",
 				"attributes": [
-					"V",
-					"30",
-					"35",
-					"39",
-					"40"
+					"V"
 				],
 				"price": {
 					"student": 1.9,
@@ -46,24 +40,9 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Arabische Reispfanne mit Gemüse, Sultanien und Mandeln",
+				"name": "Indisches Aloo Gobi mit Kartoffeln und Blumenkohl",
 				"attributes": [
-					"V",
-					"37"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Rahmspinat mit Rührei",
-				"attributes": [
-					"F",
-					"32",
-					"36"
+					"V"
 				],
 				"price": {
 					"student": 1.8,
@@ -72,11 +51,26 @@
 				},
 				"vitalInfo": null
 			},
+			"4": {
+				"name": "Bunte Gemüse-Reispfanne mit Erbsen-Champignonsauce",
+				"attributes": [
+					"F",
+					"30",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
 			"5": {
-				"name": "Schnippelbohnen-Eintopf mit Kartoffelwürfeln",
+				"name": "Thailändischer Kürbis-Möhreneintopf mit Kokosmilch",
 				"attributes": [
 					"V",
-					"38"
+					"3"
 				],
 				"price": {
 					"student": 1.8,
@@ -88,25 +82,24 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Schaschliktopf",
+				"name": "Krosser Leberkäse auf Zwiebelsauce",
 				"attributes": [
 					"2",
+					"3",
+					"8",
+					"R",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kartoffelgratin mit Thunfisch",
-				"attributes": [
-					"6",
-					"33",
-					"36"
-				],
+				"name": "Karibisches Bananenhuhn",
+				"attributes": [],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
@@ -115,7 +108,37 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Fischfrikadelle mit Dill-Sahnesauce",
+				"name": "Gefülltes hessisches Kraut auf Béchamelsauce",
+				"attributes": [
+					"30",
+					"36",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Mie-Nudelpfanne mit Pute und Gemüse",
+				"attributes": [
+					"30",
+					"35",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Backfrisches Knusperfischfilet mit Kräutersauce",
 				"attributes": [
 					"30",
 					"32",
@@ -124,46 +147,20 @@
 					"39"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Szegediner Gulasch",
-				"attributes": [
-					"S"
-				],
-				"price": {
 					"student": 2.4,
 					"employee": 3.7,
 					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Asia Putenstreifen in roter Thaicurrysauce",
-				"attributes": [
-					"30",
-					"35",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
 				},
 				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Ägyptischer Linseneintopf mit Porree, Tomaten und Kartoffeln",
+				"name": "Indisches Zucchini-Curry",
 				"attributes": [
 					"V",
 					"Ö",
+					"35",
 					"39"
 				],
 				"price": {
@@ -174,10 +171,13 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Backkartoffeln mit Kräuterquark",
+				"name": "Kartoffelpfannkuchen mit Knoblauchsauce",
 				"attributes": [
 					"F",
 					"Ö",
+					"30",
+					"32",
+					"35",
 					"36"
 				],
 				"price": {
@@ -188,13 +188,12 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Südtiroler Ofenmakkaroni",
+				"name": "Nudeln mit Soja-Bolognese",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
 					"30",
-					"32",
-					"36"
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -204,12 +203,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Tofuragout in Pusztasauce",
+				"name": "Sabee Sabee Kumala - Australisches Kürbisgulasch",
 				"attributes": [
 					"V",
-					"Ö",
-					"9",
-					"35"
+					"Ö"
 				],
 				"price": {
 					"student": 2.9,
@@ -219,12 +216,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Nudelpfanne mit Pilzen, Zwiebeln, Tomaten und Tofu",
+				"name": "Bauernomelett mit Speck, Ei und buntem Gemüse",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"30",
-					"35"
+					"32",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -237,31 +234,30 @@
 		"Aktions-Essen": {
 			"1": null,
 			"2": {
-				"name": "Stifado Griechisches Rinderragout mit Gemüse und Zimt",
+				"name": "Frisch gegrillte Wildbratwurst auf Kräuter-Zwiebelfond",
 				"attributes": [
-					"Ö",
-					"R"
+					"8",
+					"30",
+					"39",
+					"S"
 				],
 				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
 			"3": null,
 			"4": {
-				"name": "Wildschweingulasch in Rotwein-Wacholder-Sauce",
+				"name": "Hirschedelgulasch Diana mit Waldpilzen und Preiselbeeren",
 				"attributes": [
-					"A",
-					"30",
-					"41",
-					"S"
+					"30"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 5.5,
+					"employee": 6.8,
+					"visitor": 7.7
 				},
 				"vitalInfo": null
 			},
