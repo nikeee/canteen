@@ -58,6 +58,7 @@
 				"name": "Gebackene Gemüsekroketten mit veganer Béchamelsauce",
 				"attributes": [
 					"V",
+					"1",
 					"30",
 					"35",
 					"38"
@@ -179,6 +180,7 @@
 			"2": {
 				"name": "Putenschnitzel auf einer Basilikum-Frischkäsesauce",
 				"attributes": [
+					"1",
 					"30",
 					"32",
 					"36"
@@ -274,6 +276,7 @@
 			"3": {
 				"name": "Seelachsfilet auf hausgemachtem Sellerie-Kartoffelstampf",
 				"attributes": [
+					"1",
 					"33",
 					"36",
 					"38"
@@ -288,7 +291,8 @@
 			"4": {
 				"name": "Süßer Quinoa auf warmem Aprikosenpüree",
 				"attributes": [
-					"V"
+					"V",
+					"1"
 				],
 				"price": {
 					"student": 3.3,
@@ -325,10 +329,12 @@
 				"name": "Frisch gebratene Wildbratwurst auf Wacholderjus und lauwarmen Apfelrotkohl",
 				"attributes": [
 					"A",
+					"2",
 					"3",
 					"8",
 					"9",
 					"30",
+					"36",
 					"39",
 					"41",
 					"S"
@@ -358,6 +364,7 @@
 			"3": {
 				"name": "Schweinefiletstreifen mit scharfer Joghurt-Currysauce und knackigem Gemüse aus dem Wok",
 				"attributes": [
+					"1",
 					"9",
 					"30",
 					"36",
@@ -394,6 +401,7 @@
 			"5": {
 				"name": "Frisch gegrilltes Rumpsteak mit grobem Pfeffer auf einer Rahmsauce",
 				"attributes": [
+					"1",
 					"30",
 					"36",
 					"R"

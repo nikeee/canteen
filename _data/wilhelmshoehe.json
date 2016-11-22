@@ -16,9 +16,13 @@
 			"1": {
 				"name": "Mexikanische Kartoffelpfanne mit Paprika und Bohnen an Chilimayonnaise",
 				"attributes": [
-					"V",
+					"F",
+					"1",
+					"2",
 					"3",
-					"35"
+					"30",
+					"32",
+					"39"
 				],
 				"price": {
 					"student": 1.9,
@@ -57,6 +61,7 @@
 				"name": "Gebackene Gemüsekroketten mit veganer Béchamelsauce",
 				"attributes": [
 					"V",
+					"1",
 					"30",
 					"35",
 					"38"
@@ -165,8 +170,11 @@
 				"name": "Gefülltes Kartoffel Cordon bleu mit Kürbiskern-Sauerrahmdip",
 				"attributes": [
 					"F",
+					"3",
 					"30",
-					"36"
+					"32",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -222,6 +230,7 @@
 					"30",
 					"33",
 					"36",
+					"39",
 					"41"
 				],
 				"price": {
@@ -239,6 +248,7 @@
 			"2": {
 				"name": "Putenschnitzel auf einer Basilikum-Frischkäsesauce",
 				"attributes": [
+					"1",
 					"30",
 					"32",
 					"36"
@@ -253,6 +263,7 @@
 			"3": {
 				"name": "Seelachsfilet auf hausgemachtem Sellerie-Kartoffelstampf",
 				"attributes": [
+					"1",
 					"33",
 					"36",
 					"38"
@@ -267,7 +278,8 @@
 			"4": {
 				"name": "Süßer Quinoa auf warmem Aprikosenpüree",
 				"attributes": [
-					"V"
+					"V",
+					"1"
 				],
 				"price": {
 					"student": 3.3,
@@ -325,6 +337,7 @@
 			"3": {
 				"name": "Schweinefiletstreifen mit scharfer Joghurt-Currysauce und knackigem Gemüse aus dem Wok",
 				"attributes": [
+					"1",
 					"9",
 					"30",
 					"36",
