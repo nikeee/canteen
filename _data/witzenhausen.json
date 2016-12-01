@@ -189,21 +189,7 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Reis-Tomatenpuffer mit Ingwer-Kräutersauce",
-				"attributes": [
-					"V",
-					"Ö",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
+			"3": null,
 			"4": {
 				"name": "Pekingsuppe mit Tofu, dazu Brötchen",
 				"attributes": [
