@@ -283,9 +283,13 @@
 			"4": {
 				"name": "Rustikaler Burger mit Beef, Feldsalat und Cranberrydip",
 				"attributes": [
+					"2",
+					"3",
 					"30",
+					"32",
 					"36",
 					"39",
+					"40",
 					"R"
 				],
 				"price": {

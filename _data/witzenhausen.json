@@ -190,22 +190,7 @@
 				"vitalInfo": null
 			},
 			"3": null,
-			"4": {
-				"name": "Pekingsuppe mit Tofu, dazu Brötchen",
-				"attributes": [
-					"V",
-					"Ö",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
+			"4": null,
 			"5": {
 				"name": "Tofu-Gulasch nach griechischer Art",
 				"attributes": [
@@ -242,20 +227,7 @@
 				"vitalInfo": null
 			},
 			"3": null,
-			"4": {
-				"name": "Elbsan - Türkisches Ragout vom Rind in Joghurtsauce",
-				"attributes": [
-					"32",
-					"36",
-					"R"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
-			},
+			"4": null,
 			"5": null
 		}
 	}
