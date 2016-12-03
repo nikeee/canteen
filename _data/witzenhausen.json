@@ -7,43 +7,16 @@
 		}
 	},
 	"validity": {
-		"from": "2016-11-28T00:00:00.000Z",
-		"until": "2016-12-02T00:00:00.000Z"
+		"from": "2016-12-05T00:00:00.000Z",
+		"until": "2016-12-09T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Mexikanischer Reis mit roten Bohnen, Mais und Paprika",
-				"attributes": [
-					"V"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Linseneintopf mit Wurzelgemüse",
-				"attributes": [
-					"V",
-					"30",
-					"38"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Ofenfrischer Apfelstrudel auf einer Vanillesauce",
+				"name": "Gebackene Zucchinipuffer mit Hirtenkäse",
 				"attributes": [
 					"F",
-					"1",
 					"30",
 					"32",
 					"36"
@@ -55,12 +28,24 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Champignonrisotto mit Salbei und Kirschtomaten",
+			"2": {
+				"name": "Chili sin Carne",
+				"attributes": [
+					"V",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Milchreis mit Kirschgrütze",
 				"attributes": [
 					"F",
-					"1",
-					"2",
 					"36"
 				],
 				"price": {
@@ -70,11 +55,29 @@
 				},
 				"vitalInfo": null
 			},
+			"4": {
+				"name": "Gebratene Gnocchi in Gorgonzolasauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"35",
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
 			"5": {
-				"name": "Sauerkrautsuppe",
+				"name": "Pfannkuchen an Champignon-Cremesauce",
 				"attributes": [
 					"V",
-					"38"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 1.9,
@@ -86,15 +89,11 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Normannischer Eintopf mit Kassler und Äpfeln",
+				"name": "Elsässer Hackfleischauflauf mit Sauerkraut",
 				"attributes": [
-					"1",
-					"2",
-					"3",
-					"4",
+					"32",
+					"35",
 					"36",
-					"38",
-					"39",
 					"S"
 				],
 				"price": {
@@ -105,10 +104,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Chinese Honey-Chicken mit Asia-Gemüse auf Reis",
+				"name": "Schweinenackensteak mit Lauch-Cremesauce",
 				"attributes": [
-					"35",
-					"38"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -118,9 +117,10 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Kameruner Pfeffereintopf",
+				"name": "Ungarische Gulaschsuppe mit Brötchen",
 				"attributes": [
-					"34"
+					"30",
+					"R"
 				],
 				"price": {
 					"student": 2.5,
@@ -130,11 +130,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Griechische Hackfleischpfanne mit Gemüse und Hirtenkäse",
+				"name": "Hähnchenbruststreifen an grüner Currysauce",
 				"attributes": [
-					"6",
-					"36",
-					"S"
+					"31",
+					"33",
+					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -144,13 +144,13 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Fischfrikassee mit buntem Gemüse",
+				"name": "Gebackene Tintenfischringe mit Knoblauchdip",
 				"attributes": [
-					"A",
 					"1",
+					"3",
 					"30",
-					"33",
-					"41"
+					"36",
+					"43"
 				],
 				"price": {
 					"student": 2.5,
@@ -162,12 +162,12 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Tricolore-Nudeln mit Brokkolisauce und Gouda gratiniert",
+				"name": "Asia-Curry-Reispfanne mit Gemüse und Tofu",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"30",
-					"36"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -177,10 +177,13 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebratene Kartoffelspalten an gedünstetem Gemüse",
+				"name": "Gedünstete Karottenstifte mit Grünkern-Käsehaube überbacken",
 				"attributes": [
-					"V",
-					"Ö"
+					"F",
+					"Ö",
+					"30",
+					"35",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -189,14 +192,42 @@
 				},
 				"vitalInfo": null
 			},
-			"3": null,
-			"4": null,
-			"5": {
-				"name": "Tofu-Gulasch nach griechischer Art",
+			"3": {
+				"name": "Polenta mit Champignons und Béchamelsauce",
 				"attributes": [
 					"V",
 					"Ö",
+					"30",
 					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Ofenkartoffeln mit hausgemachtem Hummus",
+				"attributes": [
+					"V",
+					"Ö",
+					"40"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Mediterraner Gemüsebratling, dazu Tomatensauce",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"32"
 				],
 				"price": {
 					"student": 2.9,
@@ -209,25 +240,41 @@
 		"Aktions-Essen": {
 			"1": null,
 			"2": {
-				"name": "Südafrikanischer Bobotie-Auflauf",
+				"name": "Gekochtes Rindfleisch an einer Meerrettich-Sahnesauce",
 				"attributes": [
-					"2",
+					"1",
 					"3",
+					"9",
 					"30",
-					"32",
 					"36",
-					"37",
+					"38",
 					"R"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
 				},
 				"vitalInfo": null
 			},
 			"3": null,
-			"4": null,
+			"4": {
+				"name": "Pizza mit Schinken und frischen Champignons",
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
 			"5": null
 		}
 	}

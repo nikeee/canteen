@@ -7,48 +7,20 @@
 		}
 	},
 	"validity": {
-		"from": "2016-11-28T00:00:00.000Z",
-		"until": "2016-12-02T00:00:00.000Z"
+		"from": "2016-12-05T00:00:00.000Z",
+		"until": "2016-12-09T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Pfannkuchen auf hausgemachtem Apfelkompott",
+				"name": "Drelloni Pasta mit zweierlei Pesto",
 				"attributes": [
-					"V",
-					"A",
+					"F",
 					"1",
-					"3",
+					"2",
 					"30",
-					"35"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Chili sin Carne",
-				"attributes": [
-					"V",
-					"35"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Gelbe Fusilli mit Tomatensauce und gerösteten Nüssen",
-				"attributes": [
-					"V",
-					"30",
-					"34",
+					"36",
 					"37"
 				],
 				"price": {
@@ -58,10 +30,28 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Hessische Kartoffelpfanne mit Kräutern und Pilzen an Schmanddip",
+			"2": {
+				"name": "Mediterrane Couscouspfanne mit Oliven an rotem Linsendip",
+				"attributes": [
+					"V",
+					"6",
+					"30",
+					"40"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gnocchi in Rucola-Sahnesauce",
 				"attributes": [
 					"F",
+					"1",
+					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -71,13 +61,26 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Hausgemachter Kichererbsen Taler an Ananas-Chutney",
+			"4": {
+				"name": "Vegane Gulaschsuppe Ungarische Art",
 				"attributes": [
 					"V",
-					"2",
 					"30",
-					"38"
+					"35"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgebackener Lauchkuchen mit Schmand und roten Zwiebeln",
+				"attributes": [
+					"F",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -89,33 +92,27 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Gebackener Alaska-Seelachs an Rucoladip",
+				"name": "Ofenfrische Geflügelfrikadelle an Jus mit grünen Pfefferbeeren",
 				"attributes": [
-					"3",
 					"30",
-					"32",
-					"33",
-					"36",
+					"38",
 					"39"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Saltimbocca vom Schweinerücken in Marsala-Rahmsauce",
+				"name": "Gegrillte Hähnchenbrust in Cidre-Rahmsauce",
 				"attributes": [
 					"A",
 					"1",
-					"2",
 					"3",
 					"30",
-					"36",
-					"41",
-					"S"
+					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -125,12 +122,9 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gebratene Krakauer auf Senfjus",
+				"name": "Nackensteak vom Schwein an Kräuterbutter",
 				"attributes": [
-					"2",
-					"3",
-					"30",
-					"39",
+					"36",
 					"S"
 				],
 				"price": {
@@ -141,15 +135,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Karibisches Mango-Hühnchen",
+				"name": "Pikante Sesamnudeln mit asiatischem Pfannengemüse und Putenstreifen",
 				"attributes": [
-					"1",
-					"2",
-					"3",
-					"9",
 					"30",
-					"36",
-					"39"
+					"35",
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 2.5,
@@ -159,10 +150,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Schwäbische Spätzle an Bolognese mit Putenfleisch",
+				"name": "Penne mit Blattspinat und Hackfleisch",
 				"attributes": [
+					"1",
 					"30",
-					"32"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
