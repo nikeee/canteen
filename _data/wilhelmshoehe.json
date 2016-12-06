@@ -315,21 +315,16 @@
 		},
 		"Angebot des Tages II": {
 			"1": {
-				"name": "Holzfäller Burger mit doppelt Beef, pikanten Dips und Röstzwiebeln",
+				"name": "Hähnchenbrustfilet Pfeffer-Rahmsauce",
 				"attributes": [
 					"1",
-					"3",
-					"9",
 					"30",
-					"32",
-					"36",
-					"39",
-					"R"
+					"36"
 				],
 				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null
 			},
