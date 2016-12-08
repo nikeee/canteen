@@ -258,7 +258,7 @@
 				}
 			},
 			"3": {
-				"name": "Süßkartoffelcurry mit Kichererbsen, Spinat und Basmatireis",
+				"name": "Süßkartoffelcurry mit Linsen, Spinat und Basmatireis",
 				"attributes": [
 					"V",
 					"MV",
@@ -318,10 +318,11 @@
 		},
 		"Angebot des Tages II": {
 			"1": {
-				"name": "Hähnchenbrustfilet Pfeffer-Rahmsauce",
+				"name": "Gebratenes Rotbarschfilet auf Gorgonzolasauce mit Basilikum",
 				"attributes": [
 					"1",
 					"30",
+					"33",
 					"36"
 				],
 				"price": {
