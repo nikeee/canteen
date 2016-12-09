@@ -236,7 +236,6 @@
 				"name": "Glühweingulasch mit Mandelrosenkohl und Semmelknödeln",
 				"attributes": [
 					"A",
-					"MV",
 					"1",
 					"30",
 					"32",
@@ -250,12 +249,7 @@
 					"employee": 4.6,
 					"visitor": 5.5
 				},
-				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 79,
-					"protein": 43,
-					"calories": 682
-				}
+				"vitalInfo": null
 			},
 			"3": {
 				"name": "Süßkartoffelcurry mit Linsen, Spinat und Basmatireis",
@@ -318,11 +312,10 @@
 		},
 		"Angebot des Tages II": {
 			"1": {
-				"name": "Gebratenes Rotbarschfilet auf Gorgonzolasauce mit Basilikum",
+				"name": "Hähnchenbrustfilet Pfeffer-Rahmsauce",
 				"attributes": [
 					"1",
 					"30",
-					"33",
 					"36"
 				],
 				"price": {

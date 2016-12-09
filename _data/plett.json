@@ -138,6 +138,7 @@
 			"4": {
 				"name": "Pikante Sesamnudeln mit asiatischem Pfannengemüse und Putenstreifen",
 				"attributes": [
+					"2",
 					"30",
 					"35",
 					"39",
@@ -236,7 +237,6 @@
 				"name": "Glühweingulasch mit Mandelrosenkohl und Semmelknödeln",
 				"attributes": [
 					"A",
-					"MV",
 					"30",
 					"32",
 					"37",
@@ -248,12 +248,7 @@
 					"employee": 4.6,
 					"visitor": 5.5
 				},
-				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 79,
-					"protein": 43,
-					"calories": 682
-				}
+				"vitalInfo": null
 			},
 			"3": {
 				"name": "Süßkartoffelcurry mit Kichererbsen, Spinat und Basmatireis",
