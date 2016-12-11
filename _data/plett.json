@@ -58,8 +58,35 @@
 				},
 				"vitalInfo": null
 			},
-			"4": null,
-			"5": null
+			"4": {
+				"name": "Thai Soja Topf",
+				"attributes": [
+					"V",
+					"30",
+					"35",
+					"38",
+					"39",
+					"40"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Ofenfrische Blechkartoffeln an scharfer Gurken-Salsa",
+				"attributes": [
+					"V"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			}
 		},
 		"Essen 2": {
 			"1": {
@@ -108,8 +135,39 @@
 				},
 				"vitalInfo": null
 			},
-			"4": null,
-			"5": null
+			"4": {
+				"name": "Gegrillter Fleischkäse auf einer Zwiebeljus",
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"30",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Grüne, geschwenkte Bandnudeln an einer cremigen Thunfischsauce mit Tomatenwürfeln",
+				"attributes": [
+					"30",
+					"32",
+					"33",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
+			}
 		},
 		"Essen 3 oder 4": {
 			"1": null,
@@ -145,7 +203,21 @@
 				"vitalInfo": null
 			},
 			"4": null,
-			"5": null
+			"5": {
+				"name": "Hähnchenbrust mit Chili mariniert an Karotten-Kokos-Ragout",
+				"attributes": [
+					"2",
+					"36",
+					"39",
+					"41"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			}
 		},
 		"Angebot des Tages I": {
 			"1": {
@@ -205,8 +277,43 @@
 				},
 				"vitalInfo": null
 			},
-			"4": null,
-			"5": null
+			"4": {
+				"name": "Hirtenkäseschnitzel im Saaten-Mantel auf Kirschtomatenragout",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Schweinegulasch mit Waldpilzen und Kürbisschupfnudeln",
+				"attributes": [
+					"A",
+					"MV",
+					"30",
+					"32",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 74,
+					"protein": 42,
+					"calories": 672
+				}
+			}
 		}
 	}
 }
