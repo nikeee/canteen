@@ -28,12 +28,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gefüllter Eierpfannkuchen mit Vanillesauce",
+				"name": "Kürbis-Kartoffelsuppe mit roten Linsen",
 				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
+					"V",
+					"35",
+					"40"
 				],
 				"price": {
 					"student": 1.9,
@@ -58,11 +57,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Kürbis-Kartoffelsuppe mit roten Linsen",
+				"name": "Gefüllter Eierpfannkuchen mit Vanillesauce",
 				"attributes": [
-					"V",
-					"35",
-					"40"
+					"F",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -104,9 +104,14 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
+				"name": "Spaghetti in Bolognese mit Parmesan",
 				"attributes": [
-					"2"
+					"1",
+					"2",
+					"30",
+					"36",
+					"38",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -132,14 +137,9 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Spaghetti in Bolognese mit Parmesan",
+				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
 				"attributes": [
-					"1",
-					"2",
-					"30",
-					"36",
-					"38",
-					"S"
+					"2"
 				],
 				"price": {
 					"student": 2.3,
