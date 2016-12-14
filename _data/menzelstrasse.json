@@ -31,6 +31,7 @@
 				"name": "Berner Riesenrösti mit buntem Béchamelgemüse",
 				"attributes": [
 					"F",
+					"1",
 					"30",
 					"36"
 				],
@@ -124,6 +125,7 @@
 				"name": "Hähnchenbrust aus dem Punsch-Sud auf einer Cranberrierahmsauce",
 				"attributes": [
 					"A",
+					"1",
 					"30",
 					"36",
 					"41"
@@ -155,6 +157,7 @@
 			"5": {
 				"name": "Grüne, geschwenkte Bandnudeln an einer cremigen Thunfischsauce mit Tomatenwürfeln",
 				"attributes": [
+					"1",
 					"30",
 					"32",
 					"33",

@@ -32,6 +32,7 @@
 				"name": "Berner Riesenrösti mit buntem Béchamelgemüse",
 				"attributes": [
 					"F",
+					"1",
 					"30",
 					"36"
 				],
@@ -125,6 +126,7 @@
 				"name": "Hähnchenbrust aus dem Punsch-Sud auf einer Cranberrierahmsauce",
 				"attributes": [
 					"A",
+					"1",
 					"30",
 					"36",
 					"41"
@@ -156,6 +158,7 @@
 			"5": {
 				"name": "Grüne, geschwenkte Bandnudeln an einer cremigen Thunfischsauce mit Tomatenwürfeln",
 				"attributes": [
+					"1",
 					"30",
 					"32",
 					"33",
@@ -188,6 +191,7 @@
 			"2": {
 				"name": "Gebratenes Putenschnitzel in Mandelhülle an Rahmsauce",
 				"attributes": [
+					"1",
 					"30",
 					"32",
 					"36",
@@ -219,6 +223,7 @@
 			"4": {
 				"name": "Zarter Putenbraten in Lebkuchenmarinade auf einer Brokkolisauce",
 				"attributes": [
+					"1",
 					"30",
 					"36"
 				],
@@ -232,6 +237,7 @@
 			"5": {
 				"name": "Hähnchenbrust mit Chili mariniert an Karotten-Kokos-Ragout",
 				"attributes": [
+					"1",
 					"2",
 					"36",
 					"39",
@@ -266,30 +272,11 @@
 					"calories": 697
 				}
 			},
-			"2": {
-				"name": "Süßkartoffel-Kokos-Soja-Curry mit Tomatenbulgur",
-				"attributes": [
-					"V",
-					"MV",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": {
-					"fat": 19,
-					"carbohydrate": 77,
-					"protein": 25,
-					"calories": 601
-				}
-			},
+			"2": null,
 			"3": {
 				"name": "Ofenfrisches Lachsfilet unter einer Maronen-Kartoffel-Kruste an Pastinakensauce und Rote-Bete-Confit",
 				"attributes": [
+					"1",
 					"3",
 					"30",
 					"32",
