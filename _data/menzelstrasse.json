@@ -7,18 +7,19 @@
 		}
 	},
 	"validity": {
-		"from": "2016-12-12T00:00:00.000Z",
-		"until": "2016-12-16T00:00:00.000Z"
+		"from": "2016-12-19T00:00:00.000Z",
+		"until": "2016-12-23T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Italienische Penne mit Steinpilz-Creme-Sauce",
+				"name": "Eieromelett mit buntem Béchamelgemüse",
 				"attributes": [
-					"V",
+					"F",
 					"30",
-					"35"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -28,11 +29,9 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Berner Riesenrösti mit buntem Béchamelgemüse",
+				"name": "Hirtenkäsesteak mit Rahmspinat",
 				"attributes": [
 					"F",
-					"1",
-					"30",
 					"36"
 				],
 				"price": {
@@ -43,31 +42,28 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Bulgur-Quinoa-Pfanne X-Mas-Style an scharfem Tomatendip",
+				"name": "Curry von zweierlei Kartoffeln und Blumenkohl",
 				"attributes": [
 					"V",
 					"3",
 					"30",
-					"37",
-					"38",
+					"35",
 					"39"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Thai Soja Topf",
+				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse und krossem Baguette",
 				"attributes": [
 					"V",
 					"30",
-					"35",
 					"38",
-					"39",
-					"40"
+					"39"
 				],
 				"price": {
 					"student": 1.8,
@@ -77,9 +73,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Ofenfrische Blechkartoffeln an scharfer Gurken-Salsa",
+				"name": "Gnocchipfanne mit buntem Gemüse und veganer Béchamelsauce",
 				"attributes": [
-					"V"
+					"V",
+					"30",
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -91,29 +90,8 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Frühlingsrolle mit Geflügelfleisch gefüllt an süßsaurer Sauce",
-				"attributes": [
-					"1",
-					"3",
-					"30",
-					"32",
-					"35",
-					"36",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Nasi Goreng mit Putenfleisch",
-				"attributes": [
-					"2"
-				],
+				"name": "Mediterrane Gemüsepfanne mit Streifen von der Hähnchenbrust",
+				"attributes": [],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
@@ -121,30 +99,13 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Hähnchenbrust aus dem Punsch-Sud auf einer Cranberrierahmsauce",
-				"attributes": [
-					"A",
-					"1",
-					"30",
-					"36",
-					"41"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Gegrillter Fleischkäse auf einer Zwiebeljus",
+			"2": {
+				"name": "Hausgemachter Speckpfannkuchen auf Kräuterdip",
 				"attributes": [
 					"2",
-					"3",
-					"8",
 					"30",
-					"R",
+					"32",
+					"36",
 					"S"
 				],
 				"price": {
@@ -154,15 +115,43 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Grüne, geschwenkte Bandnudeln an einer cremigen Thunfischsauce mit Tomatenwürfeln",
+			"3": {
+				"name": "Wellenbandnudeln an Chili con Carne",
 				"attributes": [
-					"1",
+					"30",
+					"32",
+					"R"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Hähnchenbrust mit Sauce Café de Paris",
+				"attributes": [
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
+				"attributes": [
+					"3",
 					"30",
 					"32",
 					"33",
 					"36",
-					"38"
+					"39"
 				],
 				"price": {
 					"student": 2.3,

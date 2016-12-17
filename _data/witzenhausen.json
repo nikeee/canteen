@@ -7,16 +7,18 @@
 		}
 	},
 	"validity": {
-		"from": "2016-12-12T00:00:00.000Z",
-		"until": "2016-12-16T00:00:00.000Z"
+		"from": "2016-12-19T00:00:00.000Z",
+		"until": "2016-12-23T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Kartoffelpfannkuchen auf Champignon-Spargelcreme",
+				"name": "Duett von Blumenkohl und Brokkoli an Béchamelsauce",
 				"attributes": [
 					"V",
+					"1",
+					"3",
 					"30",
 					"35"
 				],
@@ -28,12 +30,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kürbis-Kartoffelsuppe mit roten Linsen",
+				"name": "Omelette mit Blattspinat",
 				"attributes": [
-					"V",
-					"1",
-					"35",
-					"40"
+					"F",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -43,26 +44,26 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Mit Zwetschgen gefüllter Germknödel an Zimtsauce",
+				"name": "Asiatische Reis-Gemüsepfanne",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"36"
+					"V",
+					"3",
+					"35",
+					"38",
+					"39"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gefüllter Eierpfannkuchen mit Vanillesauce",
+				"name": "Grießbrei mit Kirschsauce",
 				"attributes": [
 					"F",
 					"30",
-					"32",
 					"36"
 				],
 				"price": {
@@ -73,12 +74,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gnocchi auf Blattspinat mit Béchamelsauce",
+				"name": "Türkische, rote Linsensuppe",
 				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
+					"V",
+					"3",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -90,44 +90,46 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Mie-Nudeln mit scharfem Hackfleisch",
+				"name": "Westfälischer Kutschergulasch",
 				"attributes": [
+					"A",
+					"3",
+					"9",
 					"30",
-					"35",
-					"38",
 					"S"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Spaghetti in Bolognese mit Parmesan",
+				"name": "Geschwenktes Hähnchenfleisch süßsauer",
 				"attributes": [
 					"1",
-					"2",
+					"3",
 					"30",
-					"36",
+					"35",
 					"38",
-					"S"
+					"39"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Glühweingulasch mit Kartoffelnklößen",
+				"name": "Orientalische Hackfleisch-Bulgurpfanne",
 				"attributes": [
-					"A",
 					"3",
 					"30",
-					"41",
+					"37",
+					"38",
+					"39",
 					"R"
 				],
 				"price": {
@@ -138,40 +140,45 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
+				"name": "Gebratenes Putenschnitzel an Zitronen-Pfeffersauce",
 				"attributes": [
-					"2"
+					"30",
+					"36",
+					"39"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Matjesfilet Hausfrauen Art mit Äpfeln, Gurken und Zwiebeln",
+				"name": "Fischragout in cremiger Currysauce",
 				"attributes": [
-					"2",
-					"3",
-					"9",
+					"30",
 					"33",
-					"36"
+					"36",
+					"38",
+					"39"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Gebackenes Fenchelgemüse mit Tomaten-Basilikumsauce",
+				"name": "Kartoffelpfannkuchen mit Knoblauchsauce",
 				"attributes": [
-					"V",
-					"Ö"
+					"F",
+					"Ö",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -181,10 +188,12 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Geschwenktes Kichererbsen-Linsen-Curry",
+				"name": "Bunte Spirellinudeln mit Zucchini-Currysauce",
 				"attributes": [
 					"V",
 					"Ö",
+					"30",
+					"35",
 					"39"
 				],
 				"price": {
@@ -195,27 +204,26 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Tricolore-Nudeln mit Mandel- Brokkolisauce",
+				"name": "Grünkerntaler mit warmer Schmand-Currysauce",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"30",
-					"35",
-					"37"
+					"36",
+					"39"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Kichererbsen-Gemüseröstling mit Kräuter-Zwiebelsauce",
+				"name": "Tofu-Gulasch nach griechischer Art",
 				"attributes": [
 					"V",
 					"Ö",
-					"30"
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -225,7 +233,7 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Pellkartoffeln mit hausgemachter Tomaten-Paprika-Salsa",
+				"name": "Gebackene Würfelkartoffeln mit Möhrengemüse",
 				"attributes": [
 					"V",
 					"Ö"
@@ -240,17 +248,32 @@
 		},
 		"Aktions-Essen": {
 			"1": null,
-			"2": null,
+			"2": {
+				"name": "Tortellini mit Ricottafüllung in einer Champignon-Rahmsauce",
+				"attributes": [
+					"F",
+					"Ö",
+					"36"
+				],
+				"price": {
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
+				},
+				"vitalInfo": null
+			},
 			"3": null,
 			"4": {
-				"name": "Ofenfrische Spare-Rips an einem Curry-Ketchup-Dip",
+				"name": "Schweinekotelett an Blumenkohlgemüse",
 				"attributes": [
+					"30",
+					"36",
 					"S"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
