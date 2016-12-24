@@ -7,276 +7,37 @@
 		}
 	},
 	"validity": {
-		"from": "2016-12-19T00:00:00.000Z",
-		"until": "2016-12-23T00:00:00.000Z"
+		"from": "2016-12-26T00:00:00.000Z",
+		"until": "2016-12-30T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
-			"1": {
-				"name": "Duett von Blumenkohl und Brokkoli an Béchamelsauce",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Omelette mit Blattspinat",
-				"attributes": [
-					"F",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Asiatische Reis-Gemüsepfanne",
-				"attributes": [
-					"V",
-					"3",
-					"35",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Grießbrei mit Kirschsauce",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Türkische, rote Linsensuppe",
-				"attributes": [
-					"V",
-					"3",
-					"38"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			}
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null
 		},
 		"Essen 2": {
-			"1": {
-				"name": "Westfälischer Kutschergulasch",
-				"attributes": [
-					"A",
-					"3",
-					"9",
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Geschwenktes Hähnchenfleisch süßsauer",
-				"attributes": [
-					"1",
-					"3",
-					"30",
-					"35",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Orientalische Hackfleisch-Bulgurpfanne",
-				"attributes": [
-					"3",
-					"30",
-					"37",
-					"38",
-					"39",
-					"R"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Gebratenes Putenschnitzel an Zitronen-Pfeffersauce",
-				"attributes": [
-					"30",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Fischragout in cremiger Currysauce",
-				"attributes": [
-					"30",
-					"33",
-					"36",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			}
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null
 		},
 		"Bio-Essen": {
-			"1": {
-				"name": "Kartoffelpfannkuchen mit Knoblauchsauce",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Bunte Spirellinudeln mit Zucchini-Currysauce",
-				"attributes": [
-					"V",
-					"Ö",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Grünkerntaler mit warmer Schmand-Currysauce",
-				"attributes": [
-					"F",
-					"Ö",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Tofu-Gulasch nach griechischer Art",
-				"attributes": [
-					"V",
-					"Ö",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Gebackene Würfelkartoffeln mit Möhrengemüse",
-				"attributes": [
-					"V",
-					"Ö"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			}
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null
 		},
 		"Aktions-Essen": {
 			"1": null,
-			"2": {
-				"name": "Tortellini mit Ricottafüllung in einer Champignon-Rahmsauce",
-				"attributes": [
-					"F",
-					"Ö",
-					"36"
-				],
-				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": null,
-			"4": {
-				"name": "Schweinekotelett an Blumenkohlgemüse",
-				"attributes": [
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
+			"4": null,
 			"5": null
 		}
 	}

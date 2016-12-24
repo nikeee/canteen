@@ -7,159 +7,24 @@
 		}
 	},
 	"validity": {
-		"from": "2016-12-19T00:00:00.000Z",
-		"until": "2016-12-23T00:00:00.000Z"
+		"from": "2016-12-26T00:00:00.000Z",
+		"until": "2016-12-30T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
-			"1": {
-				"name": "Eieromelett mit buntem Béchamelgemüse",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Hirtenkäsesteak mit Rahmspinat",
-				"attributes": [
-					"F",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Curry von zweierlei Kartoffeln und Blumenkohl",
-				"attributes": [
-					"V",
-					"3",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse und krossem Baguette",
-				"attributes": [
-					"V",
-					"30",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Gnocchipfanne mit buntem Gemüse und veganer Béchamelsauce",
-				"attributes": [
-					"V",
-					"30",
-					"35",
-					"38"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			}
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null
 		},
 		"Essen 2": {
-			"1": {
-				"name": "Mediterrane Gemüsepfanne mit Streifen von der Hähnchenbrust",
-				"attributes": [],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Hausgemachter Speckpfannkuchen auf Kräuterdip",
-				"attributes": [
-					"2",
-					"30",
-					"32",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Wellenbandnudeln an Chili con Carne",
-				"attributes": [
-					"30",
-					"32",
-					"R"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Hähnchenbrust mit Sauce Café de Paris",
-				"attributes": [
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
-				"attributes": [
-					"3",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null
-			}
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null
 		}
 	}
 }
