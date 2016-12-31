@@ -7,31 +7,238 @@
 		}
 	},
 	"validity": {
-		"from": "2016-12-26T00:00:00.000Z",
-		"until": "2016-12-30T00:00:00.000Z"
+		"from": "2017-01-02T00:00:00.000Z",
+		"until": "2017-01-06T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
-			"1": null,
-			"2": null,
-			"3": null,
-			"4": null,
-			"5": null
+			"1": {
+				"name": "Nudeln in Gemüsebolognese",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Blumenkohl-Käsemedaillon an Béchamelsauce",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse",
+				"attributes": [
+					"V",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Spinat-Nudelauflauf mit Sauce Hollandaise",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Frühlingsrollen an süß-saurer Asiasauce",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"35",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			}
 		},
 		"Essen 2": {
-			"1": null,
-			"2": null,
-			"3": null,
-			"4": null,
-			"5": null
+			"1": {
+				"name": "Kassler Braten an Rotweinjus",
+				"attributes": [
+					"A",
+					"2",
+					"3",
+					"8",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Hühnerfrikassee mit buntem Gemüse",
+				"attributes": [
+					"30"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Szegediner Gulasch",
+				"attributes": [
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Cordon bleu von der Pute auf einer Pfeffer-Rahmsauce",
+				"attributes": [
+					"1",
+					"2",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Gebackener Alsaska-Seelachs an Remouladensauce",
+				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			}
 		},
 		"Bio-Essen": {
-			"1": null,
-			"2": null,
-			"3": null,
-			"4": null,
-			"5": null
+			"1": {
+				"name": "Kartoffelpuffer mit Apfelkompott",
+				"attributes": [
+					"V",
+					"Ö",
+					"30"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Polenta mit Gemüse und Paprikasauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gekochte Bio Eier in Senfsauce",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"32",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Kohlrabi-Karotten-Kartoffelgulasch in Petersiliensauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Tofu-Curry-Ragout mit Tomatenwürfeln und Erbsen",
+				"attributes": [
+					"V",
+					"Ö",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			}
 		},
 		"Aktions-Essen": {
 			"1": null,

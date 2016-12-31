@@ -7,13 +7,22 @@
 		}
 	},
 	"validity": {
-		"from": "2016-12-26T00:00:00.000Z",
-		"until": "2016-12-30T00:00:00.000Z"
+		"from": "2017-01-02T00:00:00.000Z",
+		"until": "2017-01-06T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
-			"1": null,
+			"1": {
+				"name": "Diese Woche bleibt die Mensa geschlossen.",
+				"attributes": [],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
 			"2": null,
 			"3": null,
 			"4": null,

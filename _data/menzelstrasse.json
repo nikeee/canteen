@@ -7,24 +7,173 @@
 		}
 	},
 	"validity": {
-		"from": "2016-12-26T00:00:00.000Z",
-		"until": "2016-12-30T00:00:00.000Z"
+		"from": "2017-01-02T00:00:00.000Z",
+		"until": "2017-01-06T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
-			"1": null,
-			"2": null,
-			"3": null,
-			"4": null,
-			"5": null
+			"1": {
+				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise mit Estragon",
+				"attributes": [
+					"F",
+					"2",
+					"5",
+					"30",
+					"32",
+					"36",
+					"38",
+					"41"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Spaghetti in Karottenpesto mit Sonnenblumenkernen",
+				"attributes": [
+					"V",
+					"30",
+					"37",
+					"39"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Couscouspfanne mit knackigem Gemüse an rotem Linsendip",
+				"attributes": [
+					"V",
+					"3",
+					"30",
+					"39",
+					"40"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Hausgemachte Polenta à la Crème auf Champignon-Sahnesauce",
+				"attributes": [
+					"V",
+					"30",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachter Süßkartoffelstampf auf Balsamico-Linsen",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"35"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			}
 		},
 		"Essen 2": {
-			"1": null,
-			"2": null,
-			"3": null,
-			"4": null,
-			"5": null
+			"1": {
+				"name": "Mini-Hackfleischbällchen auf Western-Tomatensauce",
+				"attributes": [
+					"1",
+					"30",
+					"32",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Schweinenackensteak mit Kräuterbutter",
+				"attributes": [
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Hähnchenbrust mit Pesto rosso mariniert auf einer Béchamelsauce",
+				"attributes": [
+					"1",
+					"2",
+					"30",
+					"36",
+					"37"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Geflügel Currywurst",
+				"attributes": [
+					"1",
+					"36",
+					"38",
+					"39",
+					"R"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Gefülltes hessisches Kraut auf Béchamelsauce",
+				"attributes": [
+					"30",
+					"32",
+					"35",
+					"36",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			}
 		}
 	}
 }
