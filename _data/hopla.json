@@ -55,6 +55,7 @@
 				"name": "Hessische Kartoffelsuppe mit Gemüse und Kräuteröl",
 				"attributes": [
 					"V",
+					"1",
 					"30",
 					"35",
 					"38"
@@ -147,6 +148,7 @@
 				"name": "Schweinerückensteak mit Portwein-Rahmsauce",
 				"attributes": [
 					"A",
+					"1",
 					"30",
 					"36",
 					"41",
@@ -162,6 +164,7 @@
 			"5": {
 				"name": "Grüne Bandnudeln in cremiger Thunfischsauce mit Tomatenwürfeln",
 				"attributes": [
+					"1",
 					"30",
 					"32",
 					"33",
@@ -224,6 +227,7 @@
 				"name": "Ofenfrischer Gemüsestrudel auf Mandelsauce",
 				"attributes": [
 					"F",
+					"1",
 					"30",
 					"32",
 					"36",
