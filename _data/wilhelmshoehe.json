@@ -71,8 +71,12 @@
 			"4": {
 				"name": "Curry-Quinoa mit Brokkoli an fruchtigem Tomatendip",
 				"attributes": [
-					"V",
-					"3"
+					"F",
+					"1",
+					"3",
+					"30",
+					"35",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -154,6 +158,7 @@
 					"A",
 					"1",
 					"30",
+					"35",
 					"36",
 					"41",
 					"S"
@@ -220,6 +225,7 @@
 					"1",
 					"30",
 					"32",
+					"35",
 					"36",
 					"37",
 					"38"
@@ -307,7 +313,10 @@
 				"name": "Wirsingeintopf mit Rindfleisch, Karotte und Zartweizen, dazu ein Stück Baguette",
 				"attributes": [
 					"MV",
+					"1",
 					"30",
+					"35",
+					"36",
 					"R"
 				],
 				"price": {

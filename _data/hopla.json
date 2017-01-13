@@ -54,11 +54,13 @@
 			"3": {
 				"name": "Hessische Kartoffelsuppe mit Gemüse und Kräuteröl",
 				"attributes": [
-					"V",
+					"F",
 					"1",
 					"30",
 					"35",
-					"38"
+					"36",
+					"38",
+					"42"
 				],
 				"price": {
 					"student": 1.8,
@@ -134,6 +136,8 @@
 					"8",
 					"30",
 					"32",
+					"38",
+					"39",
 					"R",
 					"S"
 				],
