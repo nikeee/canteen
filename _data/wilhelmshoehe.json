@@ -97,6 +97,7 @@
 				"attributes": [
 					"A",
 					"1",
+					"3",
 					"30",
 					"36",
 					"S"
@@ -223,9 +224,8 @@
 		},
 		"Angebot des Tages I": {
 			"1": {
-				"name": "Burger mit Lammpatty, Thymianzwiebeln, Senf-Honig-Mayonnaise und Salat",
+				"name": "Lammkotelett mit Bohnen und Rösti",
 				"attributes": [
-					"3",
 					"30",
 					"32",
 					"36",
