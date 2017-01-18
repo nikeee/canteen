@@ -108,10 +108,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Geflügelgulasch in Curry-Maracujasauce",
+				"name": "Asiatische Schweinefleischstreifen mit buntem Gemüse",
 				"attributes": [
-					"36",
-					"39"
+					"35",
+					"38",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -121,11 +122,10 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Asiatische Schweinefleischstreifen mit buntem Gemüse",
+				"name": "Geflügelgulasch in Curry-Maracujasauce",
 				"attributes": [
-					"35",
-					"38",
-					"S"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.5,

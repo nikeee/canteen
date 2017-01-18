@@ -244,6 +244,7 @@
 				"attributes": [
 					"1",
 					"30",
+					"31",
 					"33",
 					"36"
 				],
@@ -257,10 +258,12 @@
 			"3": {
 				"name": "Sojageschnetzeltes mit Waldpilzen, dazu Rotkohl und Klöße",
 				"attributes": [
-					"V",
+					"F",
 					"MV",
+					"1",
 					"3",
 					"30",
+					"32",
 					"35",
 					"41"
 				],
