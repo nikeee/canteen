@@ -7,32 +7,17 @@
 		}
 	},
 	"validity": {
-		"from": "2017-01-16T00:00:00.000Z",
-		"until": "2017-01-20T00:00:00.000Z"
+		"from": "2017-01-23T00:00:00.000Z",
+		"until": "2017-01-27T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Kartoffelcremesuppe mit Gemüsewürfeln",
-				"attributes": [
-					"F",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Mediterrane Couscouspfanne mit getrockneten Tomaten",
+				"name": "Kokos-Sojamilchreis an Kirschsauce",
 				"attributes": [
 					"V",
-					"6",
-					"30"
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -41,15 +26,14 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Geschwenkte Schupfnudelpfanne mit Kürbis und Majoran",
+			"2": {
+				"name": "Boccolotti in cremiger Karottensauce",
 				"attributes": [
-					"F",
+					"V",
 					"2",
 					"30",
-					"32",
-					"36",
-					"38"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 1.9,
@@ -58,13 +42,37 @@
 				},
 				"vitalInfo": null
 			},
+			"3": {
+				"name": "Indische Curry-Gemüsesuppe",
+				"attributes": [
+					"V"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
 			"4": {
-				"name": "Apfel-Quark-Auflauf, dazu einen Zucchini-Rohkost-Salat",
+				"name": "Zucchinipfanne mit schwarzen Bohnen",
+				"attributes": [
+					"V",
+					"38",
+					"39",
+					"40"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Rahmspinat mit Rührei",
 				"attributes": [
 					"F",
-					"1",
-					"3",
-					"30",
 					"32",
 					"36"
 				],
@@ -74,91 +82,30 @@
 					"visitor": 4
 				},
 				"vitalInfo": null
-			},
-			"5": {
-				"name": "Asiatische Reis-Krautpfanne mit Paprika und Sprossen",
-				"attributes": [
-					"V",
-					"3",
-					"39"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Käse-Chili-Bratwurst an scharfer Zwiebel-Senfsauce",
+				"name": "Geschnetzeltes von der Pute in Rahmsauce",
 				"attributes": [
-					"8",
 					"30",
-					"36",
-					"39",
-					"S"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Asiatische Schweinefleischstreifen mit buntem Gemüse",
-				"attributes": [
-					"35",
-					"38",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Geflügelgulasch in Curry-Maracujasauce",
-				"attributes": [
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Wirsingpfanne mit Pasta und Schinken",
-				"attributes": [
-					"2",
-					"3",
-					"8",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Fischfrikadelle an Dill-Sahnesauce",
+				"name": "Mini-Hackfleischbällchen auf kräftiger Paprikasauce",
 				"attributes": [
 					"30",
 					"32",
-					"33",
-					"36",
-					"39"
+					"R",
+					"S"
 				],
 				"price": {
 					"student": 2.3,
@@ -166,15 +113,59 @@
 					"visitor": 4.5
 				},
 				"vitalInfo": null
+			},
+			"3": {
+				"name": "Hähnchenbrust mit Champignon-Rahmsauce",
+				"attributes": [
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Balkan-Reisgericht mit Schweinefleisch",
+				"attributes": [
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Knusperfischfilet auf dänischer Remouladensauce",
+				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
+					"33",
+					"36",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Spaghetti in Tomaten-Olivensauce",
+				"name": "Backkartoffeln mit Kräuterquark",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"30"
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -184,7 +175,7 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Rote-Bete-Kartoffelgratin an Kümmel-Zwiebelsauce",
+				"name": "Asiatische Reis-Gemüsepfanne",
 				"attributes": [
 					"V",
 					"Ö",
@@ -198,12 +189,13 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Linsen-Bohnen-Röstling an pikanter Paprika-Chilisauce",
+				"name": "Südtiroler Ofenmakkaroni",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
 					"30",
-					"35"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -213,7 +205,7 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Weißkohleintopf mit Kartoffeln",
+				"name": "Szegediner Kartoffelgulasch",
 				"attributes": [
 					"V",
 					"Ö"
@@ -226,11 +218,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Nudeln in Soja-Bolognese",
+				"name": "Tofuragout in Pusztasauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
+					"9",
 					"35"
 				],
 				"price": {
@@ -244,34 +236,31 @@
 		"Aktions-Essen": {
 			"1": null,
 			"2": {
-				"name": "Hessisches Weckewerk mit Blechkartoffeln und Gurke",
+				"name": "Seelachs in Paprikahülle auf Gemüsereis",
 				"attributes": [
-					"2",
-					"9",
 					"30",
-					"38",
-					"39",
-					"S"
+					"32",
+					"33"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
 				},
 				"vitalInfo": null
 			},
 			"3": null,
 			"4": {
-				"name": "Spanisch Fricco mit Kartoffeln und Fleisch von Rind und Schwein in Sauerrahm",
+				"name": "Elbsan - Türkisches Ragout vom Rind in Joghurtsauce",
 				"attributes": [
-					"Ö",
+					"32",
 					"36",
 					"R"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
