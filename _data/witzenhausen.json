@@ -14,10 +14,13 @@
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Kokos-Sojamilchreis an Kirschsauce",
+				"name": "Boccolotti in cremiger Karottensauce",
 				"attributes": [
 					"V",
-					"35"
+					"2",
+					"30",
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 1.8,
@@ -27,13 +30,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Boccolotti in cremiger Karottensauce",
+				"name": "Kokos-Sojamilchreis an Kirschsauce",
 				"attributes": [
 					"V",
-					"2",
-					"30",
-					"35",
-					"39"
+					"35"
 				],
 				"price": {
 					"student": 1.9,
