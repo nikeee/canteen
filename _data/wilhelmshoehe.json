@@ -17,6 +17,7 @@
 				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an Pfefferdip",
 				"attributes": [
 					"V",
+					"1",
 					"3",
 					"30",
 					"35",
@@ -92,8 +93,12 @@
 				"name": "Berner Riesenrösti an Geschnetzeltem nach Züricher Art",
 				"attributes": [
 					"1",
+					"4",
 					"30",
+					"32",
+					"35",
 					"36",
+					"38",
 					"S"
 				],
 				"price": {
@@ -203,6 +208,7 @@
 				"attributes": [
 					"V",
 					"MV",
+					"1",
 					"30",
 					"35",
 					"38"
