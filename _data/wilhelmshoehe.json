@@ -48,6 +48,7 @@
 				"name": "Italienische Gabelspaghetti in fruchtiger Tomatensauce",
 				"attributes": [
 					"V",
+					"1",
 					"30"
 				],
 				"price": {
@@ -111,6 +112,7 @@
 			"2": {
 				"name": "Mie-Nudelpfanne mit Pute und Gemüse",
 				"attributes": [
+					"3",
 					"30",
 					"35",
 					"38",
@@ -126,9 +128,11 @@
 			"3": {
 				"name": "Nordhessische Kartoffelbratwurst an Schmanddip",
 				"attributes": [
+					"1",
 					"2",
 					"8",
 					"36",
+					"R",
 					"S"
 				],
 				"price": {
@@ -174,6 +178,7 @@
 					"1",
 					"30",
 					"32",
+					"35",
 					"36",
 					"S"
 				],
@@ -230,6 +235,7 @@
 				"attributes": [
 					"F",
 					"1",
+					"35",
 					"36",
 					"39"
 				],
@@ -245,6 +251,8 @@
 				"attributes": [
 					"A",
 					"MV",
+					"1",
+					"6",
 					"30",
 					"41",
 					"R"
@@ -325,6 +333,7 @@
 				"name": "Gebratene Gnocchi in Tomatensugo, Rucola und Parmesan",
 				"attributes": [
 					"F",
+					"1",
 					"2",
 					"32",
 					"36"
