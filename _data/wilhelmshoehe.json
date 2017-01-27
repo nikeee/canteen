@@ -145,8 +145,11 @@
 			"4": {
 				"name": "Geschnetzeltes von der Putenbrust in Pfirsichrahm",
 				"attributes": [
+					"3",
 					"30",
-					"36"
+					"32",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -196,6 +199,7 @@
 					"F",
 					"1",
 					"30",
+					"32",
 					"36"
 				],
 				"price": {
