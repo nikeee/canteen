@@ -7,19 +7,32 @@
 		}
 	},
 	"validity": {
-		"from": "2017-01-23T00:00:00.000Z",
-		"until": "2017-01-27T00:00:00.000Z"
+		"from": "2017-01-30T00:00:00.000Z",
+		"until": "2017-02-03T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Boccolotti in cremiger Karottensauce",
+				"name": "Graupen-Gemüseeintopf",
 				"attributes": [
 					"V",
-					"2",
+					"30"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Scharfe indische Ebly-Pfanne mit Gemüse, Nüssen und Koriander",
+				"attributes": [
+					"V",
+					"3",
 					"30",
-					"35",
+					"37",
 					"39"
 				],
 				"price": {
@@ -29,23 +42,13 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Kokos-Sojamilchreis an Kirschsauce",
-				"attributes": [
-					"V",
-					"35"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Indische Curry-Gemüsesuppe",
+				"name": "Brokkoli-Blumenkohlauflauf",
 				"attributes": [
-					"V"
+					"F",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -55,10 +58,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Zucchinipfanne mit schwarzen Bohnen",
+				"name": "Thai-Soja-Topf",
 				"attributes": [
 					"V",
-					"38",
+					"30",
+					"35",
 					"39",
 					"40"
 				],
@@ -70,57 +74,45 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Rahmspinat mit Rührei",
+				"name": "Ofenfrischer Apfelstrudel auf Vanillesauce",
 				"attributes": [
 					"F",
 					"1",
+					"30",
 					"32",
 					"36"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Geschnetzeltes von der Pute in Rahmsauce",
+				"name": "Elsässer Hackfleischauflauf mit Sauerkraut",
 				"attributes": [
-					"30",
 					"32",
-					"36"
+					"35",
+					"36",
+					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Mini-Hackfleischbällchen auf kräftiger Paprikasauce",
-				"attributes": [
-					"30",
-					"32",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Hähnchenbrust mit Champignon-Rahmsauce",
+				"name": "Tortellini mit Rindfleischfüllung in Kräuter-Sahnesauce",
 				"attributes": [
 					"1",
 					"30",
-					"36"
+					"36",
+					"R"
 				],
 				"price": {
 					"student": 2.5,
@@ -129,10 +121,22 @@
 				},
 				"vitalInfo": null
 			},
+			"3": {
+				"name": "Mediterrane Gemüsepfanne mit Streifen von der Hähnchenbrust",
+				"attributes": [],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
 			"4": {
-				"name": "Balkan-Reisgericht mit Schweinefleisch",
+				"name": "Kabak Dolmasi - Gefüllte Zucchini mit Hackfleisch",
 				"attributes": [
-					"S"
+					"32",
+					"36",
+					"R"
 				],
 				"price": {
 					"student": 2.5,
@@ -142,16 +146,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Knusperfischfilet auf dänischer Remouladensauce",
+				"name": "Russischer Lachseintopf",
 				"attributes": [
 					"3",
-					"9",
-					"30",
-					"32",
 					"33",
 					"36",
-					"38",
-					"39"
+					"38"
 				],
 				"price": {
 					"student": 2.4,
@@ -163,7 +163,7 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Backkartoffeln mit Kräuterquark",
+				"name": "Lauch-Kartoffelgratin mit Karottenschaumsauce",
 				"attributes": [
 					"F",
 					"Ö",
@@ -177,37 +177,7 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Asiatische Reis-Gemüsepfanne",
-				"attributes": [
-					"V",
-					"Ö",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Südtiroler Ofenmakkaroni",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Szegediner Kartoffelgulasch",
+				"name": "Frisches Gemüsegulasch in Tomatensauce",
 				"attributes": [
 					"V",
 					"Ö"
@@ -219,13 +189,41 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Tofuragout in Pusztasauce",
+			"3": {
+				"name": "Griechischer Tomaten-Reistaler an Knoblauchsauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"9",
+					"30",
 					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Backkartoffeln mit Radieschen-Quarkdip",
+				"attributes": [
+					"F",
+					"Ö",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Geschwenktes Kichererbsen-Linsen-Curry",
+				"attributes": [
+					"V",
+					"Ö",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -238,26 +236,29 @@
 		"Aktions-Essen": {
 			"1": null,
 			"2": {
-				"name": "Seelachs in Paprikahülle auf Gemüsereis",
+				"name": "Grillfrischer Krustenbraten an Krautsalat und Zaziki",
 				"attributes": [
-					"30",
-					"32",
-					"33"
+					"2",
+					"3",
+					"8",
+					"36",
+					"S"
 				],
 				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
 			"3": null,
 			"4": {
-				"name": "Elbsan - Türkisches Ragout vom Rind in Joghurtsauce",
+				"name": "Ungarischer Schweinefleischgulasch",
 				"attributes": [
-					"32",
-					"36",
-					"R"
+					"A",
+					"30",
+					"41",
+					"S"
 				],
 				"price": {
 					"student": 4,
