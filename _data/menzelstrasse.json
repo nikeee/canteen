@@ -7,23 +7,19 @@
 		}
 	},
 	"validity": {
-		"from": "2017-01-30T00:00:00.000Z",
-		"until": "2017-02-03T00:00:00.000Z"
+		"from": "2017-02-06T00:00:00.000Z",
+		"until": "2017-02-10T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Goldgelb gebackenes Möhrenschnitzel auf Passionsfruchtsahne",
+				"name": "Asiatische Sojastreifen in scharfer Sojasauce mit Gemüse",
 				"attributes": [
-					"F",
+					"V",
 					"1",
-					"2",
-					"3",
-					"9",
 					"30",
-					"32",
-					"36",
+					"35",
 					"38",
 					"39",
 					"40"
@@ -36,9 +32,12 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Indisches Aloo Gobi mit Kartoffeln und Blumenkohl",
+				"name": "Italienische Penne in einer Pilz-Rahmsauce",
 				"attributes": [
-					"V"
+					"V",
+					"1",
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -48,24 +47,13 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Geschmorte Ratatouille-Pfanne im gelben Reisrand",
+				"name": "Eieromelette an einer Béchamelsauce mit buntem Gemüse",
 				"attributes": [
-					"V",
-					"30"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Frisch gebackene Kartoffelecken mit Currydip",
-				"attributes": [
-					"V",
-					"3",
-					"35"
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -74,12 +62,28 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Hausgemachter Lauch-Zwiebelkuchen",
+			"4": {
+				"name": "Hausgemachter Kartoffel-Pfannkuchen auf Kräuter-Sahnesauce",
 				"attributes": [
 					"F",
+					"1",
 					"30",
+					"32",
 					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Grillfrische Zucchini auf einer Tomatensauce",
+				"attributes": [
+					"V",
+					"30",
+					"40"
 				],
 				"price": {
 					"student": 1.9,
@@ -91,30 +95,15 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Nudelpfanne mit Salami, Schinken und Ei",
+				"name": "Knackwurst mit hausgemachtem Kartoffelsalat und Senf",
 				"attributes": [
 					"2",
 					"3",
 					"8",
-					"30",
+					"9",
 					"32",
 					"36",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Ofenfrischer Spießbraten mit Zaziki",
-				"attributes": [
-					"2",
-					"3",
-					"36",
+					"39",
 					"S"
 				],
 				"price": {
@@ -124,12 +113,42 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Hähnchenbrust mit Cidre-Rahmsauce",
+			"2": {
+				"name": "Gebackener Alaska-Seelachs an Joghurt-Aioli",
 				"attributes": [
-					"A",
-					"1",
 					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Mie-Nudelpfanne mit Hähnchenstreifen und Gemüse",
+				"attributes": [
+					"30",
+					"35",
+					"39",
+					"40"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Hühnerfrikassee mit Erbsen und Spargel",
+				"attributes": [
+					"1",
 					"30",
 					"36"
 				],
@@ -140,30 +159,19 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Penne mit Blattspinat und Hackfleisch",
+			"5": {
+				"name": "Hausgemachter Speckschmarrn auf Kräuterdip",
 				"attributes": [
-					"1",
+					"2",
 					"30",
+					"32",
 					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Balkan-Reisgericht mit Schweinefleisch",
-				"attributes": [
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			}

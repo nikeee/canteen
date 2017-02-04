@@ -7,17 +7,17 @@
 		}
 	},
 	"validity": {
-		"from": "2017-01-30T00:00:00.000Z",
-		"until": "2017-02-03T00:00:00.000Z"
+		"from": "2017-02-06T00:00:00.000Z",
+		"until": "2017-02-10T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Graupen-Gemüseeintopf",
+				"name": "Kartoffeleintopf mit Schnittlauch",
 				"attributes": [
 					"V",
-					"30"
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -27,13 +27,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Scharfe indische Ebly-Pfanne mit Gemüse, Nüssen und Koriander",
+				"name": "Kartoffelpfanne Mexikanisch mit Paprika-Chilisauce",
 				"attributes": [
 					"V",
-					"3",
-					"30",
-					"37",
-					"39"
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -43,10 +40,27 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Brokkoli-Blumenkohlauflauf",
+				"name": "Linsenpfanne mit Wurzelgemüse in Balsamico-Senfcreme",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"30",
+					"35",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Original hessische grüne Sauce mit gehacktem Ei",
 				"attributes": [
 					"F",
-					"30",
 					"32",
 					"36"
 				],
@@ -57,27 +71,11 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Thai-Soja-Topf",
-				"attributes": [
-					"V",
-					"30",
-					"35",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Ofenfrischer Apfelstrudel auf Vanillesauce",
+				"name": "Kaiserschmarrn mit Kirschsauce",
 				"attributes": [
 					"F",
-					"1",
+					"A",
 					"30",
 					"32",
 					"36"
@@ -92,11 +90,12 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Elsässer Hackfleischauflauf mit Sauerkraut",
+				"name": "Krosser Leberkäse auf Zwiebelsauce",
 				"attributes": [
-					"32",
-					"35",
-					"36",
+					"2",
+					"3",
+					"8",
+					"R",
 					"S"
 				],
 				"price": {
@@ -107,12 +106,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Tortellini mit Rindfleischfüllung in Kräuter-Sahnesauce",
+				"name": "Hähnchenbrust nach Gyros Art",
 				"attributes": [
-					"1",
-					"30",
-					"36",
-					"R"
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -122,21 +119,25 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Mediterrane Gemüsepfanne mit Streifen von der Hähnchenbrust",
-				"attributes": [],
+				"name": "Pikante Hackfleischpfanne mit Chinakohl und Paprika",
+				"attributes": [
+					"38",
+					"S"
+				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Kabak Dolmasi - Gefüllte Zucchini mit Hackfleisch",
+				"name": "Schweinegeschnetzeltes Züricher Art",
 				"attributes": [
-					"32",
+					"1",
+					"30",
 					"36",
-					"R"
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -146,12 +147,15 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Russischer Lachseintopf",
+				"name": "Fischstäbchen mit Remouladensauce",
 				"attributes": [
 					"3",
+					"9",
+					"30",
+					"32",
 					"33",
 					"36",
-					"38"
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -163,10 +167,12 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Lauch-Kartoffelgratin mit Karottenschaumsauce",
+				"name": "Berner Röstiauflauf mit Käsesauce",
 				"attributes": [
 					"F",
 					"Ö",
+					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -177,10 +183,12 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Frisches Gemüsegulasch in Tomatensauce",
+				"name": "Dinkel-Gemüsebratling mit Sellerie-Karottensauce",
 				"attributes": [
 					"V",
-					"Ö"
+					"Ö",
+					"30",
+					"38"
 				],
 				"price": {
 					"student": 2.9,
@@ -190,7 +198,23 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Griechischer Tomaten-Reistaler an Knoblauchsauce",
+				"name": "Kartoffelrösti mit mediterranem Gemüse überbacken",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Griechische Reispfanne mit Oliven und Tofu",
 				"attributes": [
 					"V",
 					"Ö",
@@ -204,25 +228,12 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Backkartoffeln mit Radieschen-Quarkdip",
-				"attributes": [
-					"F",
-					"Ö",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Grünkern-Ragout",
+				"name": "Geschwenktes Kichererbsen-Linsen-Curry",
 				"attributes": [
 					"V",
-					"30"
+					"Ö",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -235,11 +246,8 @@
 		"Aktions-Essen": {
 			"1": null,
 			"2": {
-				"name": "Grillfrischer Krustenbraten an Krautsalat und Zaziki",
+				"name": "Schweineschnitzel an Champignon-Rahmsauce",
 				"attributes": [
-					"2",
-					"3",
-					"8",
 					"36",
 					"S"
 				],
@@ -252,12 +260,12 @@
 			},
 			"3": null,
 			"4": {
-				"name": "Ungarischer Schweinefleischgulasch",
+				"name": "Südafrikanisches Rindfleisch mit Cranberries und Äpfeln",
 				"attributes": [
-					"A",
+					"3",
 					"30",
-					"41",
-					"S"
+					"36",
+					"R"
 				],
 				"price": {
 					"student": 4,
