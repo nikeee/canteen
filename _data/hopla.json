@@ -178,7 +178,21 @@
 			}
 		},
 		"Essen 3 oder 4": {
-			"1": null,
+			"1": {
+				"name": "Filet vom Landschwein in Pfefferhülle auf Rahmsauce",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
 			"2": {
 				"name": "Gebratenes Putenschnitzel auf einer schwarzen Johannisbeerjus",
 				"attributes": [
@@ -238,21 +252,7 @@
 			}
 		},
 		"Angebot des Tages": {
-			"1": {
-				"name": "Filet vom Landschwein in Pfefferhülle auf Rahmsauce",
-				"attributes": [
-					"1",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
 				"name": "Kartoffelpfanne mit Wirsing, Pilzen, Walnüssen und Gorgonzolasauce, dazu Brombeerquark",
 				"attributes": [
