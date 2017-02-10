@@ -63,13 +63,14 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hausgemachter Kartoffel-Pfannkuchen auf Kräuter-Sahnesauce",
+				"name": "Kartoffelspalten mit Dip scharfem BBQ-Dip",
 				"attributes": [
 					"F",
-					"1",
+					"2",
 					"30",
 					"32",
-					"36"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 1.8,
@@ -336,22 +337,7 @@
 			},
 			"2": null,
 			"3": null,
-			"4": {
-				"name": "Lasagne mit Soja-Bolognese",
-				"attributes": [
-					"V",
-					"1",
-					"30",
-					"35",
-					"38"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
+			"4": null,
 			"5": null
 		}
 	}
