@@ -7,17 +7,16 @@
 		}
 	},
 	"validity": {
-		"from": "2017-02-06T00:00:00.000Z",
-		"until": "2017-02-10T00:00:00.000Z"
+		"from": "2017-02-13T00:00:00.000Z",
+		"until": "2017-02-17T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Kartoffeleintopf mit Schnittlauch",
+				"name": "Mexikanischer Reis mit roten Bohnen, Mais und Paprika",
 				"attributes": [
-					"V",
-					"38"
+					"V"
 				],
 				"price": {
 					"student": 1.9,
@@ -27,10 +26,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kartoffelpfanne Mexikanisch mit Paprika-Chilisauce",
+				"name": "Asiatischer Gemüseeintopf",
 				"attributes": [
 					"V",
-					"35"
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -40,28 +40,13 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Linsenpfanne mit Wurzelgemüse in Balsamico-Senfcreme",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"30",
-					"35",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Original hessische grüne Sauce mit gehacktem Ei",
+				"name": "Gefüllter Germknödel mit Vanillesauce",
 				"attributes": [
 					"F",
-					"32",
+					"1",
+					"2",
+					"30",
+					"35",
 					"36"
 				],
 				"price": {
@@ -71,14 +56,22 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Kaiserschmarrn mit Kirschsauce",
+			"4": {
+				"name": "Pfannenfrische Gemüsepaella",
 				"attributes": [
-					"F",
-					"A",
-					"30",
-					"32",
-					"36"
+					"V"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Indisches Aloo Gobi mit Kartoffeln und Blumenkohl",
+				"attributes": [
+					"V"
 				],
 				"price": {
 					"student": 1.9,
@@ -90,13 +83,27 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Krosser Leberkäse auf Zwiebelsauce",
+				"name": "Spaghetti Bolognese mit Schweinehackfleisch und Parmesan",
 				"attributes": [
+					"1",
 					"2",
-					"3",
-					"8",
-					"R",
+					"30",
+					"36",
+					"38",
 					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Chinese Honey-Chicken mit Asia-Gemüse auf Reis",
+				"attributes": [
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 2.4,
@@ -105,38 +112,28 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Hähnchenbrust nach Gyros Art",
-				"attributes": [
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Pikante Hackfleischpfanne mit Chinakohl und Paprika",
+				"name": "Griechische Hackfleischpfanne mit Gemüse und Hirtenkäse",
 				"attributes": [
-					"38",
+					"6",
+					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Schweinegeschnetzeltes Züricher Art",
+				"name": "Normannischer Eintopf mit Kassler und Äpfeln",
 				"attributes": [
-					"1",
-					"30",
+					"2",
+					"3",
+					"8",
 					"36",
+					"39",
 					"S"
 				],
 				"price": {
@@ -147,33 +144,28 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Fischstäbchen mit Remouladensauce",
+				"name": "Seelachsfilet an Weißweinsauce",
 				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
+					"A",
 					"33",
 					"36",
-					"39"
+					"41"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Berner Röstiauflauf mit Käsesauce",
+				"name": "Polenta mit Champignons",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"30",
-					"32",
-					"36"
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -183,12 +175,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Dinkel-Gemüsebratling mit Sellerie-Karottensauce",
+				"name": "Mediterrane Gemüsepfanne mit Tofu",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
-					"38"
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -198,23 +189,7 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Kartoffelrösti mit mediterranem Gemüse überbacken",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Griechische Nudelpfanne mit Oliven und Tofu",
+				"name": "Bunte Spirelli in Brokkoli-Tomatensauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -228,12 +203,27 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Geschwenktes Kichererbsen-Linsen-Curry",
+			"4": {
+				"name": "Tofu-Gulasch griechische Art",
 				"attributes": [
 					"V",
 					"Ö",
-					"39"
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Nudel-Gemüseflan mit Brokkolisauce",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -245,35 +235,9 @@
 		},
 		"Aktions-Essen": {
 			"1": null,
-			"2": {
-				"name": "Schweineschnitzel an Champignon-Rahmsauce",
-				"attributes": [
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": null,
-			"4": {
-				"name": "Südafrikanisches Rindfleisch mit Cranberries und Äpfeln",
-				"attributes": [
-					"3",
-					"30",
-					"36",
-					"R"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
+			"4": null,
 			"5": null
 		}
 	}
