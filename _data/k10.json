@@ -7,47 +7,16 @@
 		}
 	},
 	"validity": {
-		"from": "2017-02-06T00:00:00.000Z",
-		"until": "2017-02-11T00:00:00.000Z"
+		"from": "2017-02-13T00:00:00.000Z",
+		"until": "2017-02-18T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Zartes Hähnchenbrustfilet in Limettenmarinade mit Caipirinha-Rahmsauce",
+				"name": "Goldgelb gebackene Chicken-Crossis mit Tomatensauce",
 				"attributes": [
-					"A",
-					"2",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Schweinegeschnetzeltes nach Züricher Art",
-				"attributes": [
-					"1",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Putenschnitzel in Pankopanade auf feuriger Jalapeñosauce",
-				"attributes": [
-					"30",
-					"32"
+					"30"
 				],
 				"price": {
 					"student": 3.4,
@@ -56,62 +25,25 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Griechisches Hacksteak mit Hirtenkäse an Kräuterjus",
+			"2": {
+				"name": "Schweineschnitzel in Taccopanade an Thymianjus",
 				"attributes": [
 					"30",
 					"32",
-					"35",
-					"36",
-					"39",
 					"S"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Gekochtes Rindfleisch aus dem Wurzelsud an Meerrettichsauce",
+			"3": {
+				"name": "Gebratenes Hähnchenschnitzel in Sesamhülle an Pflaumensauce",
 				"attributes": [
-					"1",
-					"3",
-					"9",
 					"30",
-					"36",
-					"38",
-					"R"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
-			}
-		},
-		"Angebot 2": {
-			"1": {
-				"name": "Penne mit hausgemachtem Kürbispesto",
-				"attributes": [
-					"V",
-					"30",
-					"37"
-				],
-				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Börek mit Spinat und Hirtenkäse gefüllt an Knoblauchdip",
-				"attributes": [
-					"F",
-					"30",
+					"32",
 					"36",
 					"40"
 				],
@@ -122,43 +54,16 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Tortellini Tricolore mit Käsefüllung in Rucola-Sahnesauce mit Käse überbacken",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
 			"4": {
-				"name": "Asiatische Basmatireis-Gemüsepfanne",
+				"name": "Rindfleisch mit Sesam, Shiitake und Zwiebeln",
 				"attributes": [
-					"V",
-					"35",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Lauchkuchen mit Schmand und roten Zwiebeln",
-				"attributes": [
-					"F",
+					"2",
+					"3",
 					"30",
-					"36"
+					"35",
+					"39",
+					"40",
+					"R"
 				],
 				"price": {
 					"student": 3.4,
@@ -166,34 +71,67 @@
 					"visitor": 5.6
 				},
 				"vitalInfo": null
-			}
-		},
-		"Angebot 3 solange der Vorrat reicht": {
-			"1": {
-				"name": "Gebackene Brokkolinuggets an Tomatensauce",
+			},
+			"5": {
+				"name": "Hausgemachte Lasagne Bolognese",
 				"attributes": [
-					"F",
 					"30",
 					"32",
-					"35",
 					"36",
-					"38"
+					"38",
+					"S"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			}
+		},
+		"Angebot 2": {
+			"1": {
+				"name": "Geschöpfte Wellenbandnudeln in Brokkoli-Walnusssauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
+					"37"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Bratheringfilets mit frischen Zwiebeln und Essiggurke an Pfeffer-Schmanddip",
+				"name": "Maultaschen in Gemüsebouillon",
 				"attributes": [
-					"9",
+					"F",
 					"30",
-					"33",
+					"32",
 					"36",
-					"39"
+					"38"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Italienische Kartoffelgnocchi in Gorgonzolasauce mit Käse überbacken",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"35",
+					"36"
 				],
 				"price": {
 					"student": 3,
@@ -202,13 +140,16 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Tranchen vom Schweinefilet an einer Champignon Hollandaise",
+			"4": {
+				"name": "Gebackenes Kürbisschnitzel an cremiger Karotten-Ingwersauce",
 				"attributes": [
+					"F",
+					"1",
+					"2",
 					"30",
 					"32",
 					"36",
-					"S"
+					"39"
 				],
 				"price": {
 					"student": 4,
@@ -217,13 +158,39 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Kross gebackene Entenbrust in fruchtig scharfer Honig-Sesamsauce",
+			"5": {
+				"name": "Schupfnudelauflauf in feiner Spinatcreme mit Käse überbacken",
 				"attributes": [
+					"F",
+					"1",
 					"30",
-					"35",
-					"39",
-					"40"
+					"32",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			}
+		},
+		"Angebot 3 solange der Vorrat reicht": {
+			"1": null,
+			"2": {
+				"name": "Saltimbocca vom Zanderfilet an feiner Riesling-Sahnesauce",
+				"attributes": [
+					"A",
+					"1",
+					"2",
+					"3",
+					"30",
+					"33",
+					"36",
+					"38",
+					"41",
+					"S"
 				],
 				"price": {
 					"student": 4.5,
@@ -232,10 +199,12 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Gebackene Fisch Nuggets an Cocktaildip",
+			"3": null,
+			"4": {
+				"name": "Fish and Chips mit Remouladensauce",
 				"attributes": [
 					"3",
+					"9",
 					"30",
 					"32",
 					"33",
@@ -243,12 +212,13 @@
 					"39"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null
-			}
+			},
+			"5": null
 		}
 	}
 }
