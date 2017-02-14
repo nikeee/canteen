@@ -92,6 +92,7 @@
 				"name": "Ofenfrische Geflügelfrikadelle an Jus mit grünen Pfefferbeeren",
 				"attributes": [
 					"30",
+					"32",
 					"38",
 					"39"
 				],
@@ -220,9 +221,12 @@
 			"1": {
 				"name": "Zartweizen mit Maronen und Kürbis, dazu Erbsenguacamole",
 				"attributes": [
-					"V",
+					"F",
 					"MV",
+					"1",
+					"3",
 					"30",
+					"36",
 					"37"
 				],
 				"price": {
