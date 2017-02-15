@@ -31,8 +31,11 @@
 			"2": {
 				"name": "Farfalle Tricolore an Grünkernragout",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"1",
+					"2",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -104,11 +107,19 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Bami Goreng mit Geflügelstreifen",
+				"name": "Bami Goreng mit Geflügelstreifen Pizza mit Salami, Schinken und frischen Champignons",
 				"attributes": [
+					"2",
+					"3",
+					"8",
 					"30",
 					"32",
-					"39"
+					"35",
+					"36",
+					"38",
+					"39",
+					"R",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
