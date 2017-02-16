@@ -47,7 +47,8 @@
 			"3": {
 				"name": "Pfannenfrische Gemüsepaella",
 				"attributes": [
-					"V"
+					"V",
+					"3"
 				],
 				"price": {
 					"student": 1.8,
@@ -134,7 +135,8 @@
 					"1",
 					"30",
 					"32",
-					"36"
+					"36",
+					"R"
 				],
 				"price": {
 					"student": 2.4,
@@ -202,8 +204,10 @@
 				"name": "Gebackene Zucchinipuffer mit scharfem Tomatendip",
 				"attributes": [
 					"F",
+					"3",
 					"30",
-					"32"
+					"32",
+					"38"
 				],
 				"price": {
 					"student": 2.9,
