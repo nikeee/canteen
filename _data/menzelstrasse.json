@@ -7,19 +7,21 @@
 		}
 	},
 	"validity": {
-		"from": "2017-02-13T00:00:00.000Z",
-		"until": "2017-02-17T00:00:00.000Z"
+		"from": "2017-02-20T00:00:00.000Z",
+		"until": "2017-02-24T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Kartoffelpfanne mit Gewürzgurke",
+				"name": "Tortellini mit Soja Bolognese gefüllt in Cremesauce mit Pesto Rosso",
 				"attributes": [
-					"F",
-					"9",
-					"32",
-					"39"
+					"V",
+					"1",
+					"30",
+					"35",
+					"37",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -29,22 +31,40 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Farfalle Tricolore an Grünkernragout",
+				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
 				"attributes": [
 					"V",
-					"30"
+					"30",
+					"38"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Pfannenfrische Gemüsepaella",
+				"name": "Original hessische grüne Sauce mit gehacktem Ei und Salzkartoffeln",
 				"attributes": [
-					"V"
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Kokos-Soja-Milchreis mit Kirschgrütze",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -53,60 +73,47 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Curry von zweierlei Kartoffeln und Blumenkohl",
+			"5": {
+				"name": "Kichererbsen Taler an Ananas-Chutney",
 				"attributes": [
 					"V",
-					"3",
+					"2",
 					"30",
-					"35",
-					"39"
+					"38"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36",
-					"37"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Ofenfrische Geflügelfrikadelle an Jus mit grünen Pfefferbeeren",
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
 				"attributes": [
+					"8",
 					"30",
-					"38",
-					"39"
+					"36",
+					"S"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Bami Goreng mit Geflügelstreifen",
+				"name": "Karibisches Mango-Hühnchen",
 				"attributes": [
+					"1",
+					"2",
+					"3",
+					"9",
 					"30",
-					"32",
+					"36",
 					"39"
 				],
 				"price": {
@@ -117,50 +124,44 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gebratene Gnocchi in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
+				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
 				"attributes": [
-					"1",
+					"3",
 					"30",
 					"32",
-					"36"
+					"33",
+					"36",
+					"39"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gegrillter Fleischkäse nach Jäger Art",
+				"name": "Radinudeln mit Chili con Carne",
 				"attributes": [
-					"A",
-					"2",
-					"3",
-					"8",
 					"30",
-					"41",
-					"R",
-					"S"
+					"32",
+					"R"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Frühlingsrolle mit Geflügelfleisch gefüllt an süßsaurer Sauce",
+				"name": "Hausgemachtes Hacksteak an Zwiebeljus",
 				"attributes": [
-					"1",
-					"3",
 					"30",
 					"32",
 					"35",
-					"36",
-					"38",
-					"39"
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 2.4,

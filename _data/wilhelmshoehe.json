@@ -7,19 +7,21 @@
 		}
 	},
 	"validity": {
-		"from": "2017-02-13T00:00:00.000Z",
-		"until": "2017-02-17T00:00:00.000Z"
+		"from": "2017-02-20T00:00:00.000Z",
+		"until": "2017-02-24T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Kartoffelpfanne mit Gewürzgurke",
+				"name": "Tortellini mit Soja Bolognese gefüllt in Cremesauce mit Pesto Rosso",
 				"attributes": [
-					"F",
-					"9",
-					"32",
-					"39"
+					"V",
+					"1",
+					"30",
+					"35",
+					"37",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -29,26 +31,40 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Farfalle Tricolore an Grünkernragout",
+				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
 				"attributes": [
-					"F",
-					"1",
-					"2",
+					"V",
 					"30",
-					"36"
+					"38"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Pfannenfrische Gemüsepaella",
+				"name": "Original hessische grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Kokos-Soja-Milchreis mit Kirschgrütze",
 				"attributes": [
 					"V",
-					"3"
+					"1",
+					"3",
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -57,69 +73,29 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Curry von zweierlei Kartoffeln und Blumenkohl",
+			"5": {
+				"name": "Kichererbsen Taler an Ananas-Chutney",
 				"attributes": [
 					"V",
-					"3",
+					"2",
 					"30",
-					"35",
-					"39"
+					"38"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36",
-					"37"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Ofenfrische Geflügelfrikadelle an Jus mit grünen Pfefferbeeren",
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
 				"attributes": [
-					"30",
-					"32",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Bami Goreng mit Geflügelstreifen Pizza mit Salami, Schinken und frischen Champignons",
-				"attributes": [
-					"2",
-					"3",
 					"8",
 					"30",
-					"32",
-					"35",
 					"36",
-					"38",
-					"39",
-					"R",
 					"S"
 				],
 				"price": {
@@ -129,52 +105,63 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Gebratene Gnocchi in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
+			"2": {
+				"name": "Karibisches Mango-Hühnchen",
 				"attributes": [
 					"1",
+					"2",
+					"3",
+					"9",
 					"30",
-					"32",
 					"36",
-					"R"
+					"39"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
+				"attributes": [
+					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gegrillter Fleischkäse nach Jäger Art",
+				"name": "Radinudeln mit Chili con Carne",
 				"attributes": [
-					"A",
-					"2",
-					"3",
-					"8",
 					"30",
-					"41",
-					"R",
-					"S"
+					"32",
+					"R"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Frühlingsrolle mit Geflügelfleisch gefüllt an süßsaurer Sauce",
+				"name": "Hausgemachtes Hacksteak an Zwiebeljus",
 				"attributes": [
-					"1",
-					"3",
 					"30",
 					"32",
 					"35",
-					"36",
-					"38",
-					"39"
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -185,43 +172,60 @@
 			}
 		},
 		"Essen 3 oder 4": {
-			"1": null,
-			"2": {
-				"name": "Frischkäseschnitte mit Schnittlauch an Kräuterdip",
+			"1": {
+				"name": "Scharfe Chicken Wings an rauchigem Cola-Barbecuedip",
 				"attributes": [
-					"F",
-					"30",
-					"36"
+					"1",
+					"39"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Hausgemachter Kartoffelgratin mit Schinkenstreifen und Erbsen",
+				"attributes": [
+					"1",
+					"2",
+					"3",
+					"8",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gebackene Zucchinipuffer mit scharfem Tomatendip",
+				"name": "Ofenfrische Riesenhaxe auf Bratenjus und Sauerkraut",
 				"attributes": [
-					"F",
+					"1",
+					"2",
 					"3",
 					"30",
-					"32",
-					"38"
+					"S"
 				],
 				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
+					"student": 3.8,
+					"employee": 5.1,
+					"visitor": 6
 				},
 				"vitalInfo": null
 			},
-			"4": null,
-			"5": {
-				"name": "Paniertes Schweineschnitzel an Letschosauce",
+			"4": {
+				"name": "Paniertes Schnitzel vom Schwein auf Rahmspinatsauce mit Gorgonzola",
 				"attributes": [
+					"1",
 					"30",
 					"32",
+					"36",
 					"S"
 				],
 				"price": {
@@ -230,130 +234,92 @@
 					"visitor": 5.4
 				},
 				"vitalInfo": null
-			}
+			},
+			"5": null
 		},
 		"Angebot des Tages I": {
 			"1": {
-				"name": "Zartweizen mit Maronen und Kürbis, dazu Erbsenguacamole",
-				"attributes": [
-					"F",
-					"MV",
-					"1",
-					"3",
-					"30",
-					"36",
-					"37"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": {
-					"fat": 18,
-					"carbohydrate": 79,
-					"protein": 22,
-					"calories": 600
-				}
-			},
-			"2": {
-				"name": "Halbes Grillhähnchen mit Paprikajus",
-				"attributes": [
-					"30"
-				],
-				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Gegrillte Rinderleber Berliner Art auf Bratenjus und hausgemachtem Kartoffelstampf",
-				"attributes": [
-					"1",
-					"30",
-					"36",
-					"R"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Rinderroulade nach Hausfrauen Art in Bratenjus geschmort",
-				"attributes": [
-					"A",
-					"9",
-					"30",
-					"38",
-					"39",
-					"41",
-					"R"
-				],
-				"price": {
-					"student": 6,
-					"employee": 7.3,
-					"visitor": 8.2
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Seehechtfilet auf Schwarzwurzel-Möhren-Ragout mit Pasta",
-				"attributes": [
-					"A",
-					"MV",
-					"30",
-					"32",
-					"33",
-					"36",
-					"41"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": {
-					"fat": 25,
-					"carbohydrate": 94,
-					"protein": 45,
-					"calories": 744
-				}
-			}
-		},
-		"Angebot des Tages II": {
-			"1": {
-				"name": "Pizza mit Salami, Schinken und frischen Champignons",
+				"name": "Bayrische Fladenbrottasche mit Fleischkäse, Kraut und Senfcreme",
 				"attributes": [
 					"2",
 					"3",
 					"8",
 					"30",
 					"36",
+					"39",
+					"40",
 					"R",
 					"S"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null
 			},
-			"2": null,
-			"3": null,
-			"4": {
-				"name": "Hähnchenstreifen in Honig-Senfsauce mit Kartoffeln und Salat",
+			"2": {
+				"name": "Picatta von der Aubergine auf Rosmarin-Tomatenreis mit griechischem Zaziki",
+				"attributes": [
+					"F",
+					"A",
+					"30",
+					"32",
+					"36",
+					"41"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Hähnchengyros mit Weißkraut-Paprikasalat und Vollkornreis",
 				"attributes": [
 					"MV",
-					"3",
-					"36",
-					"37",
-					"39"
+					"36"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": {
+					"fat": 23,
+					"carbohydrate": 86,
+					"protein": 45,
+					"calories": 736
+				}
+			},
+			"4": {
+				"name": "Spaghetti-Pfanne mit Ratatouille-Gemüse und Hirtenkäse",
+				"attributes": [
+					"F",
+					"MV",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": {
+					"fat": 25,
+					"carbohydrate": 96,
+					"protein": 27,
+					"calories": 714
+				}
+			},
+			"5": {
+				"name": "Gebratenes Wildlachsfilet mit Barbecuegemüse und Wildreismischung",
+				"attributes": [
+					"MV",
+					"9",
+					"30",
+					"33"
 				],
 				"price": {
 					"student": 3.4,
@@ -361,13 +327,30 @@
 					"visitor": 5.6
 				},
 				"vitalInfo": {
-					"fat": 23,
-					"carbohydrate": 77,
+					"fat": 18,
+					"carbohydrate": 93,
 					"protein": 37,
-					"calories": 674
+					"calories": 717
 				}
-			},
-			"5": null
+			}
+		},
+		"Angebot des Tages II": {
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": {
+				"name": "Gegrilltes Steak von der Putenbrust mit rotem Linsendip",
+				"attributes": [
+					"40"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			}
 		}
 	}
 }
