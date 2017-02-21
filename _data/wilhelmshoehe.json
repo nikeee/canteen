@@ -16,10 +16,12 @@
 			"1": {
 				"name": "Tortellini mit Soja Bolognese gefüllt in Cremesauce mit Pesto Rosso",
 				"attributes": [
-					"V",
+					"F",
 					"1",
+					"2",
 					"30",
 					"35",
+					"36",
 					"37",
 					"38"
 				],
@@ -95,7 +97,9 @@
 				"attributes": [
 					"8",
 					"30",
+					"32",
 					"36",
+					"R",
 					"S"
 				],
 				"price": {
