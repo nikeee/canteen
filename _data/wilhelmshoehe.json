@@ -35,9 +35,13 @@
 			"2": {
 				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
 				"attributes": [
-					"V",
+					"F",
+					"2",
 					"30",
-					"38"
+					"32",
+					"36",
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 1.9,
@@ -270,6 +274,7 @@
 					"30",
 					"32",
 					"36",
+					"38",
 					"41"
 				],
 				"price": {
