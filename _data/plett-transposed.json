@@ -1,4 +1,5 @@
 {
+	"currency": "€",
 	"info": {
 		"name": "Mensa Heinrich-Plett-Straße",
 		"location": {
@@ -10,10 +11,9 @@
 		"from": "2017-02-20T00:00:00.000Z",
 		"until": "2017-02-24T00:00:00.000Z"
 	},
-	"currency": "€",
-	"meals": {
-		"Essen 1": {
-			"1": {
+	"days": [
+		[
+			{
 				"name": "Tortellini mit Soja Bolognese gefüllt in Cremesauce mit Pesto Rosso",
 				"attributes": [
 					"V",
@@ -28,69 +28,10 @@
 					"employee": 3.2,
 					"visitor": 4.1
 				},
-				"vitalInfo": null
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
 			},
-			"2": {
-				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
-				"attributes": [
-					"V",
-					"30",
-					"38"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Original hessische grüne Sauce mit gehacktem Ei und Salzkartoffeln",
-				"attributes": [
-					"F",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Kokos-Soja-Milchreis mit Kirschgrütze",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"35"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Kichererbsen Taler an Ananas-Chutney",
-				"attributes": [
-					"V",
-					"2",
-					"30",
-					"38"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			}
-		},
-		"Essen 2": {
-			"1": {
+			{
 				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
 				"attributes": [
 					"8",
@@ -103,98 +44,10 @@
 					"employee": 3.8,
 					"visitor": 4.7
 				},
-				"vitalInfo": null
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
 			},
-			"2": {
-				"name": "Karibisches Mango-Hühnchen",
-				"attributes": [
-					"1",
-					"2",
-					"3",
-					"9",
-					"30",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
-				"attributes": [
-					"3",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Radinudeln mit Chili con Carne",
-				"attributes": [
-					"30",
-					"32",
-					"R"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Hausgemachtes Hacksteak an Zwiebeljus",
-				"attributes": [
-					"30",
-					"32",
-					"35",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			}
-		},
-		"Essen 3 oder 4": {
-			"1": null,
-			"2": null,
-			"3": null,
-			"4": {
-				"name": "Paniertes Schnitzel vom Schwein auf Rahmspinatsauce mit Gorgonzola",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": null
-			},
-			"5": null
-		},
-		"Angebot des Tages I": {
-			"1": {
+			{
 				"name": "Bayrische Fladenbrottasche mit Fleischkäse, Kraut und Senfcreme",
 				"attributes": [
 					"2",
@@ -212,9 +65,46 @@
 					"employee": 4.6,
 					"visitor": 5.5
 				},
-				"vitalInfo": null
+				"vitalInfo": null,
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
+				"attributes": [
+					"V",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
 			},
-			"2": {
+			{
+				"name": "Karibisches Mango-Hühnchen",
+				"attributes": [
+					"1",
+					"2",
+					"3",
+					"9",
+					"30",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
 				"name": "Bacon-Cheeseburger mit Beef, krossem Speck, Cheester, zweierlei Dips und Salat",
 				"attributes": [
 					"1",
@@ -234,9 +124,45 @@
 					"employee": 5.8,
 					"visitor": 6.7
 				},
-				"vitalInfo": null
+				"vitalInfo": null,
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Original hessische grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
 			},
-			"3": {
+			{
+				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
+				"attributes": [
+					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
 				"name": "Hähnchengyros mit Weißkraut-Paprikasalat und Vollkornreis",
 				"attributes": [
 					"MV",
@@ -252,9 +178,60 @@
 					"carbohydrate": 86,
 					"protein": 45,
 					"calories": 736
-				}
+				},
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Kokos-Soja-Milchreis mit Kirschgrütze",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"35"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
 			},
-			"4": {
+			{
+				"name": "Radinudeln mit Chili con Carne",
+				"attributes": [
+					"30",
+					"32",
+					"R"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Paniertes Schnitzel vom Schwein auf Rahmspinatsauce mit Gorgonzola",
+				"attributes": [
+					"1",
+					"30",
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 3 oder 4"
+			},
+			{
 				"name": "Spaghetti-Pfanne mit Ratatouille-Gemüse und Hirtenkäse",
 				"attributes": [
 					"F",
@@ -272,9 +249,45 @@
 					"carbohydrate": 96,
 					"protein": 27,
 					"calories": 714
-				}
+				},
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Kichererbsen Taler an Ananas-Chutney",
+				"attributes": [
+					"V",
+					"2",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
 			},
-			"5": {
+			{
+				"name": "Hausgemachtes Hacksteak an Zwiebeljus",
+				"attributes": [
+					"30",
+					"32",
+					"35",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
 				"name": "Gebratenes Wildlachsfilet mit Barbecuegemüse und Wildreismischung",
 				"attributes": [
 					"MV",
@@ -292,8 +305,9 @@
 					"carbohydrate": 93,
 					"protein": 37,
 					"calories": 717
-				}
+				},
+				"categoryName": "Angebot des Tages I"
 			}
-		}
-	}
+		]
+	]
 }

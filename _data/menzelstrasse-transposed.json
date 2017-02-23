@@ -1,4 +1,5 @@
 {
+	"currency": "€",
 	"info": {
 		"name": "Mensa Menzelstraße",
 		"location": {
@@ -10,10 +11,9 @@
 		"from": "2017-02-20T00:00:00.000Z",
 		"until": "2017-02-24T00:00:00.000Z"
 	},
-	"currency": "€",
-	"meals": {
-		"Essen 1": {
-			"1": {
+	"days": [
+		[
+			{
 				"name": "Tortellini mit Soja Bolognese gefüllt in Cremesauce mit Pesto Rosso",
 				"attributes": [
 					"V",
@@ -28,69 +28,10 @@
 					"employee": 3.2,
 					"visitor": 4.1
 				},
-				"vitalInfo": null
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
 			},
-			"2": {
-				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
-				"attributes": [
-					"V",
-					"30",
-					"38"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Original hessische grüne Sauce mit gehacktem Ei und Salzkartoffeln",
-				"attributes": [
-					"F",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Kokos-Soja-Milchreis mit Kirschgrütze",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"35"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Kichererbsen Taler an Ananas-Chutney",
-				"attributes": [
-					"V",
-					"2",
-					"30",
-					"38"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			}
-		},
-		"Essen 2": {
-			"1": {
+			{
 				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
 				"attributes": [
 					"8",
@@ -103,9 +44,27 @@
 					"employee": 3.8,
 					"visitor": 4.7
 				},
-				"vitalInfo": null
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
+				"attributes": [
+					"V",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
 			},
-			"2": {
+			{
 				"name": "Karibisches Mango-Hühnchen",
 				"attributes": [
 					"1",
@@ -121,9 +80,27 @@
 					"employee": 3.8,
 					"visitor": 4.7
 				},
-				"vitalInfo": null
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Original hessische grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
 			},
-			"3": {
+			{
 				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
 				"attributes": [
 					"3",
@@ -138,9 +115,28 @@
 					"employee": 3.6,
 					"visitor": 4.5
 				},
-				"vitalInfo": null
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Kokos-Soja-Milchreis mit Kirschgrütze",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"35"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
 			},
-			"4": {
+			{
 				"name": "Radinudeln mit Chili con Carne",
 				"attributes": [
 					"30",
@@ -152,9 +148,28 @@
 					"employee": 3.8,
 					"visitor": 4.7
 				},
-				"vitalInfo": null
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Kichererbsen Taler an Ananas-Chutney",
+				"attributes": [
+					"V",
+					"2",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
 			},
-			"5": {
+			{
 				"name": "Hausgemachtes Hacksteak an Zwiebeljus",
 				"attributes": [
 					"30",
@@ -168,8 +183,9 @@
 					"employee": 3.7,
 					"visitor": 4.6
 				},
-				"vitalInfo": null
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
 			}
-		}
-	}
+		]
+	]
 }

@@ -1,4 +1,5 @@
 {
+	"currency": "€",
 	"info": {
 		"name": "Bistro K10",
 		"location": {
@@ -10,10 +11,9 @@
 		"from": "2017-02-20T00:00:00.000Z",
 		"until": "2017-02-25T00:00:00.000Z"
 	},
-	"currency": "€",
-	"meals": {
-		"Angebot 1": {
-			"1": {
+	"days": [
+		[
+			{
 				"name": "Gebratene Hähnchenbrust in Parmesan-Ei-Hülle an fruchtiger Tomatensauce",
 				"attributes": [
 					"1",
@@ -27,9 +27,28 @@
 					"employee": 5.3,
 					"visitor": 6.2
 				},
-				"vitalInfo": null
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
 			},
-			"2": {
+			{
+				"name": "Kartoffelpuffer mit Apfelmus oder Schmanddip",
+				"attributes": [
+					"F",
+					"3",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
 				"name": "Geschnetzeltes von der Schweinekeule mit Champignons und Lauch in Rahmsauce",
 				"attributes": [
 					"30",
@@ -41,9 +60,47 @@
 					"employee": 4.3,
 					"visitor": 5.2
 				},
-				"vitalInfo": null
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
 			},
-			"3": {
+			{
+				"name": "Hirtenkäseschnitzel paniert mit Sesam auf Rahmspinat",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
+					"40"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Gebratenes Filet vom Lachs auf Zitronenpfeffersauce",
+				"attributes": [
+					"1",
+					"30",
+					"33",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 5.5,
+					"employee": 6.8,
+					"visitor": 7.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
+			}
+		],
+		[
+			{
 				"name": "Gebackenes Putenschnitzel im Kokoskleid auf scharfer Ananassauce",
 				"attributes": [
 					"1",
@@ -57,9 +114,27 @@
 					"employee": 4.8,
 					"visitor": 5.7
 				},
-				"vitalInfo": null
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
 			},
-			"4": {
+			{
+				"name": "Farfalle Tricolore in mediterraner Tomaten-Gemüsesauce mit Käse überbacken",
+				"attributes": [
+					"F",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
 				"name": "Gebackenes Putenschnitzel im Kokoskleid auf scharfer Ananassauce",
 				"attributes": [
 					"1",
@@ -73,9 +148,29 @@
 					"employee": 4.8,
 					"visitor": 5.7
 				},
-				"vitalInfo": null
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
 			},
-			"5": {
+			{
+				"name": "Pizza mit hausgemachtem Antipasti Gemüse",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
 				"name": "Burger mit Beef, Tomate-Mozzarella, Rucola und Dip",
 				"attributes": [
 					"1",
@@ -91,73 +186,10 @@
 					"employee": 5.3,
 					"visitor": 6.2
 				},
-				"vitalInfo": null
-			}
-		},
-		"Angebot 2": {
-			"1": {
-				"name": "Kartoffelpuffer mit Apfelmus oder Schmanddip",
-				"attributes": [
-					"F",
-					"3",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
 			},
-			"2": {
-				"name": "Hirtenkäseschnitzel paniert mit Sesam auf Rahmspinat",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36",
-					"40"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Farfalle Tricolore in mediterraner Tomaten-Gemüsesauce mit Käse überbacken",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Pizza mit hausgemachtem Antipasti Gemüse",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
+			{
 				"name": "Original hessische grüne Sauce mit gehacktem Ei und Salzkartoffeln",
 				"attributes": [
 					"F",
@@ -169,30 +201,10 @@
 					"employee": 4.3,
 					"visitor": 5.2
 				},
-				"vitalInfo": null
-			}
-		},
-		"Angebot 3 solange der Vorrat reicht": {
-			"1": null,
-			"2": {
-				"name": "Gebratenes Filet vom Lachs auf Zitronenpfeffersauce",
-				"attributes": [
-					"1",
-					"30",
-					"33",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 5.5,
-					"employee": 6.8,
-					"visitor": 7.7
-				},
-				"vitalInfo": null
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
 			},
-			"3": null,
-			"4": null,
-			"5": {
+			{
 				"name": "Gebackener Butt an cremigem Senf-Dilldip",
 				"attributes": [
 					"3",
@@ -207,8 +219,9 @@
 					"employee": 4.7,
 					"visitor": 5.6
 				},
-				"vitalInfo": null
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
 			}
-		}
-	}
+		]
+	]
 }
