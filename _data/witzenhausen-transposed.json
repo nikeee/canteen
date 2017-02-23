@@ -1,0 +1,246 @@
+{
+	"info": {
+		"name": "Mensa Witzenhausen",
+		"location": {
+			"lat": 51.343777,
+			"long": 9.859827
+		}
+	},
+	"validity": {
+		"from": "2017-02-20T00:00:00.000Z",
+		"until": "2017-02-24T00:00:00.000Z"
+	},
+	"currency": "€",
+	"meals": {
+		"Essen 1": {
+			"1": {
+				"name": "Gemüse-Reispfanne mit scharfer Paprikasauce",
+				"attributes": [
+					"V",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Süßer Couscous mit exotischen Früchten und warmer Vanillesauce",
+				"attributes": [
+					"F",
+					"1",
+					"3",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gebackener Blumenkohl mit Sauce Hollandaise",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Mie Goreng - Nudelpfanne mit Tofu und Gemüse",
+				"attributes": [
+					"V",
+					"30",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Omelett mit buntem Béchamelgemüse",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			}
+		},
+		"Essen 2": {
+			"1": {
+				"name": "Feurige Gulaschsuppe mit Kartoffeln",
+				"attributes": [
+					"30",
+					"38",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
+				"attributes": [],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Frisch gebratenes Hähnchenbrustschnitzel Toscana auf Tomaten-Basilikumsauce",
+				"attributes": [
+					"30",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Köttbullar - Hackfleischbällchen in Rahmsauce",
+				"attributes": [
+					"30",
+					"32",
+					"36",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Fischragout in Gemüsesauce",
+				"attributes": [
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			}
+		},
+		"Bio-Essen": {
+			"1": {
+				"name": "Tricolore-Nudeln mit Brokkolisauce und Gouda gratiniert",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Thailändisches Räuchertofucurry",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"35",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Ofenkartoffeln mit hausgemachtem Hummus",
+				"attributes": [
+					"V",
+					"Ö",
+					"40"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gebratene Kartoffelspalten an gedünstetem Saisongemüse",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Ägyptischer Kichererbseneintopf mit Weißkohl, Paprika und Tomate",
+				"attributes": [
+					"V",
+					"Ö",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			}
+		},
+		"Aktions-Essen": {
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null
+		}
+	}
+}
