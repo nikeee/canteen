@@ -60,18 +60,15 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gebackenes Putenschnitzel im Kokoskleid auf scharfer Ananassauce",
+				"name": "Geschwenkte Schweinefleischstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
-					"1",
-					"30",
-					"32",
 					"36",
-					"39"
+					"S"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
 			},

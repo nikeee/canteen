@@ -257,6 +257,7 @@
 			{
 				"name": "Radinudeln mit Chili con Carne",
 				"attributes": [
+					"1",
 					"30",
 					"32",
 					"R"
@@ -291,6 +292,7 @@
 				"attributes": [
 					"F",
 					"MV",
+					"1",
 					"30",
 					"36"
 				],

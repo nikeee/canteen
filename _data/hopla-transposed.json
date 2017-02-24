@@ -49,20 +49,6 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Scharfe Chicken Wings an rauchigem Cola-Barbecuedip",
-				"attributes": [
-					"1",
-					"39"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 3 oder 4"
-			},
-			{
 				"name": "Backfrischer Malaga-Pfannkuchen an Schokoladensauce",
 				"attributes": [
 					"F",
@@ -336,9 +322,15 @@
 				"categoryName": "Essen 3 oder 4"
 			},
 			{
-				"name": "Lassen Sie sich überraschen mit einem leckeren Fischgericht",
+				"name": "Lassen Sie sich überraschen mit einem leckeren Fischgericht Gebackenes Schollenfilet an Bratkartoffeln hausgemachter Kräuterbutter",
 				"attributes": [
-					"33"
+					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 0,
