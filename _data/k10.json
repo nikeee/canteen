@@ -7,20 +7,19 @@
 		}
 	},
 	"validity": {
-		"from": "2017-02-20T00:00:00.000Z",
-		"until": "2017-02-25T00:00:00.000Z"
+		"from": "2017-02-27T00:00:00.000Z",
+		"until": "2017-03-04T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Gebratene Hähnchenbrust in Parmesan-Ei-Hülle an fruchtiger Tomatensauce",
+				"name": "Börek mit Rinderhackfleisch gefüllt, dazu Zaziki",
 				"attributes": [
-					"1",
-					"2",
 					"30",
-					"32",
-					"36"
+					"36",
+					"40",
+					"R"
 				],
 				"price": {
 					"student": 4,
@@ -30,11 +29,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Geschnetzeltes von der Schweinekeule mit Champignons und Lauch in Rahmsauce",
+				"name": "Ofenfrischer Hähnchenschenkel mit kräftiger Paprikasauce",
 				"attributes": [
 					"30",
-					"36",
-					"S"
+					"39"
 				],
 				"price": {
 					"student": 3,
@@ -44,13 +42,26 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gebackenes Putenschnitzel im Kokoskleid auf scharfer Ananassauce",
+				"name": "Schnitzel vom Schweinerücken in Kräuterpanade an Pfeffer-Rahmsauce",
 				"attributes": [
 					"1",
 					"30",
 					"32",
 					"36",
-					"39"
+					"S"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Putenbruststeak mit Tomate und Mozarella gefüllt an fruchtiger Basilikum-Tomatensauce",
+				"attributes": [
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 3.5,
@@ -59,28 +70,11 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Geschwenkte Schweinefleischstreifen Gyros Art mit griechischem Zaziki",
-				"attributes": [
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Burger mit Beef, Tomate-Mozzarella, Rucola und Dip",
+				"name": "Chili con Carne mit Rinderhack und einem Klecks Sauerrahmdip",
 				"attributes": [
-					"1",
-					"2",
 					"30",
 					"36",
-					"39",
-					"40",
 					"R"
 				],
 				"price": {
@@ -93,78 +87,74 @@
 		},
 		"Angebot 2": {
 			"1": {
-				"name": "Kartoffelpuffer mit Apfelmus oder Schmanddip",
+				"name": "Geschwenkte Champignons aus der Riesenpfanne mit Kräuterdip",
 				"attributes": [
 					"F",
-					"3",
-					"32",
 					"36"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hirtenkäseschnitzel paniert mit Sesam auf Rahmspinat",
+				"name": "Grillfrische halbe Aubergine auf Tomaten-Chimichurri",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36",
+					"V",
 					"40"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Farfalle Tricolore in mediterraner Tomaten-Gemüsesauce mit Käse überbacken",
+				"name": "Radinudeln in Basilikumpesto geschwenkt",
 				"attributes": [
 					"F",
+					"1",
+					"2",
 					"30",
-					"36"
+					"32",
+					"36",
+					"37"
 				],
 				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Pizza mit hausgemachtem Antipasti Gemüse",
+				"name": "Flammkuchen mit Salbei, Champignons und Gouda",
 				"attributes": [
-					"V",
-					"1",
-					"3",
+					"F",
 					"30",
-					"35"
+					"36",
+					"38"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Original hessische grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"name": "Chili sin Carne",
 				"attributes": [
-					"F",
-					"32",
-					"36"
+					"V",
+					"35"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null
 			}
@@ -172,40 +162,39 @@
 		"Angebot 3 solange der Vorrat reicht": {
 			"1": null,
 			"2": {
-				"name": "Gebratenes Filet vom Lachs auf Zitronenpfeffersauce",
+				"name": "Gebratenes Rotbarschfilet an Fenchel-Karottenbett",
 				"attributes": [
 					"1",
 					"30",
-					"33",
-					"36",
-					"38"
+					"33"
 				],
 				"price": {
-					"student": 5.5,
-					"employee": 6.8,
-					"visitor": 7.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
 			"3": null,
-			"4": null,
-			"5": {
-				"name": "Gebackener Butt an cremigem Senf-Dilldip",
+			"4": {
+				"name": "Gebackene Tintenfischringe an Cocktaildip",
 				"attributes": [
+					"1",
 					"3",
 					"30",
 					"32",
-					"33",
 					"36",
-					"39"
+					"39",
+					"43"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null
-			}
+			},
+			"5": null
 		}
 	}
 }
