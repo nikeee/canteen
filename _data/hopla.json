@@ -328,7 +328,24 @@
 				},
 				"vitalInfo": null
 			},
-			"3": null,
+			"3": {
+				"name": "Roter Fischburger mit Gurkenstreifen, Remouladensauce und gebratenem Rotbarschfilet",
+				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null
+			},
 			"4": null,
 			"5": {
 				"name": "Seelachs in Kräutereihülle auf Senfsauce und Karottengemüse, dazu Kräuterkartoffeln",
