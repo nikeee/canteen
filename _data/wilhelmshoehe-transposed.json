@@ -168,25 +168,6 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gebratene Krakauer auf Senfjus",
-				"attributes": [
-					"2",
-					"3",
-					"30",
-					"36",
-					"38",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
 				"name": "Halber Blumenkohl mit Béchamelsauce und Kräutern",
 				"attributes": [
 					"F",
@@ -230,6 +211,7 @@
 				"attributes": [
 					"F",
 					"1",
+					"2",
 					"36"
 				],
 				"price": {
@@ -263,6 +245,7 @@
 					"2",
 					"9",
 					"30",
+					"36",
 					"38",
 					"39",
 					"S"

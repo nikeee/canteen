@@ -186,10 +186,11 @@
 			{
 				"name": "Halber Blumenkohl mit cremiger Kräurtersauce",
 				"attributes": [
-					"V",
+					"F",
 					"1",
 					"30",
-					"35"
+					"35",
+					"36"
 				],
 				"price": {
 					"student": 3.1,
@@ -245,7 +246,10 @@
 				"attributes": [
 					"F",
 					"1",
-					"36"
+					"30",
+					"32",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.9,

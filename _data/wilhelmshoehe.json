@@ -60,6 +60,7 @@
 				"attributes": [
 					"F",
 					"1",
+					"2",
 					"36"
 				],
 				"price": {
@@ -119,24 +120,7 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Gebratene Krakauer auf Senfjus",
-				"attributes": [
-					"2",
-					"3",
-					"30",
-					"36",
-					"38",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
+			"3": null,
 			"4": {
 				"name": "Grünes Thaicurry mit Hühnchen, Kokos und Karotte",
 				"attributes": [
@@ -227,6 +211,7 @@
 					"2",
 					"9",
 					"30",
+					"36",
 					"38",
 					"39",
 					"S"
