@@ -8,16 +8,51 @@
 		}
 	},
 	"validity": {
-		"from": "2017-02-27T00:00:00.000Z",
-		"until": "2017-03-03T00:00:00.000Z"
+		"from": "2017-03-06T00:00:00.000Z",
+		"until": "2017-03-10T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Linseneintopf mit Wurzelgemüse",
+				"name": "Tortellini mit Spinat-Ricotta-Füllung in Gorgonzolasauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Asia-Schweinefleischstreifen in Red-Thaicurry-Sauce",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Indisches Aloo Matar mit Kartoffeln und Erbsen",
 				"attributes": [
 					"V",
-					"38"
+					"39"
 				],
 				"price": {
 					"student": 1.8,
@@ -28,116 +63,9 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Kassler-Nackenbraten auf Calvadosjus",
+				"name": "Mediterrane Couscouspfanne mit getrockneten Tomaten",
 				"attributes": [
-					"A",
-					"2",
-					"3",
-					"4",
-					"30",
-					"36",
-					"38",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
-				"attributes": [
-					"V",
 					"30"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gulasch von der Putenoberkeule mit Pfefferrahm",
-				"attributes": [
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Hausgemachtes Kartoffelgratin mit Pilzen",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gebratene Krakauer auf Senfjus",
-				"attributes": [
-					"2",
-					"3",
-					"30",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Ofenfrisches Hirtenkäsesteak auf Rahmspinat",
-				"attributes": [
-					"F",
-					"1",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Grünes Thaicurry mit Hühnchen, Kokos und Karotte",
-				"attributes": [
-					"1",
-					"2",
-					"30",
-					"36",
-					"38"
 				],
 				"price": {
 					"student": 2.5,
@@ -150,12 +78,14 @@
 		],
 		[
 			{
-				"name": "Veganes Soja-Currygulasch mit Ketchupsauce",
+				"name": "Pfannkuchen auf hausgemachter Birnengrütze",
 				"attributes": [
 					"V",
+					"A",
 					"1",
-					"35",
-					"39"
+					"3",
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -166,13 +96,77 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Drei Semmelknödel in Speck-Schmandstippe",
+				"name": "Süd Tiroler Bauerngröstel",
 				"attributes": [
 					"2",
 					"3",
+					"8",
 					"30",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Bunter, marinierter Penne-Salat mit Balsamicocreme und krossem Baguette",
+				"attributes": [
+					"V",
+					"1",
+					"2",
+					"6",
+					"30",
+					"41"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Ofenkartoffel mit Kräuterquark und geschwenkten Hähnchenbruststreifen",
+				"attributes": [
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Provenzalischer Kartoffelauflauf mit Kräutersauce",
+				"attributes": [
+					"F",
 					"32",
-					"36",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Texanisches, feuriges Chili con Carne",
+				"attributes": [
+					"30",
 					"S"
 				],
 				"price": {

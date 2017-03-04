@@ -8,31 +8,34 @@
 		}
 	},
 	"validity": {
-		"from": "2017-02-27T00:00:00.000Z",
-		"until": "2017-03-03T00:00:00.000Z"
+		"from": "2017-03-06T00:00:00.000Z",
+		"until": "2017-03-10T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Semmelknödel mit Champignonsauce",
+				"name": "Risotto mit Pilzen und Gemüse",
 				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
+					"V",
+					"35",
+					"38"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Bayrische Wirsing-Hackfleischpfanne",
+				"name": "Kassler Braten mit Rotweinjus",
 				"attributes": [
-					"39",
+					"A",
+					"2",
+					"3",
+					"8",
+					"41",
 					"S"
 				],
 				"price": {
@@ -44,13 +47,11 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Pekingsuppe mit Tofu",
+				"name": "Polenta mit buntem Gemüse und Paprikasauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
-					"35",
-					"39"
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -63,22 +64,25 @@
 		],
 		[
 			{
-				"name": "Hausgemachte Lasagne mit geschmortem Ratatouille",
+				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse",
 				"attributes": [
 					"V",
-					"30"
+					"38",
+					"39"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Karibisches Bananenhuhn",
-				"attributes": [],
+				"name": "Ghanaisches Hähnchen in Erdnuss-Tomatensauce",
+				"attributes": [
+					"34"
+				],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
@@ -88,11 +92,12 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Penne mit Petersilienpesto",
+				"name": "Möhrenpfannkuchen an Schnittlauchsauce",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"30"
+					"30",
+					"32"
 				],
 				"price": {
 					"student": 2.9,
@@ -105,29 +110,26 @@
 		],
 		[
 			{
-				"name": "Hausgemachte Quark-Liwanzen mit warmer Vanillesauce",
+				"name": "Pasta in provenzalischer Zucchini-Paprikasauce",
 				"attributes": [
 					"F",
-					"1",
 					"30",
-					"32",
 					"36"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gebratenes Puteschnitzel auf Curry-Ananassauce",
+				"name": "Asiatische Schweinefleischstreifen mit buntem Gemüse",
 				"attributes": [
-					"1",
-					"30",
-					"36",
-					"39"
+					"35",
+					"38",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -138,7 +140,7 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Karotten-Pfannkuchen mit Petersiliensauce",
+				"name": "Linsen-Bohnen-Röstling an pikanter Tomaten-Chilisauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -156,14 +158,11 @@
 		],
 		[
 			{
-				"name": "Frühlingsrollen an süß-saurer Asiasauce",
+				"name": "Grießbrei mit Kirschsauce",
 				"attributes": [
 					"F",
 					"30",
-					"32",
-					"35",
-					"36",
-					"38"
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -174,30 +173,26 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Königsberger Klopse in Kapernsauce",
+				"name": "Orientalische Hackfleischpfanne mit Linsen und Kichererbsen",
 				"attributes": [
-					"30",
-					"32",
-					"36",
-					"39",
+					"2",
 					"S"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Bunte Spirelli mit grüner Erbsensauce",
+				"name": "Nudeln in Soja-Bolognese",
 				"attributes": [
 					"V",
 					"Ö",
 					"30",
-					"35",
-					"39"
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -210,44 +205,43 @@
 		],
 		[
 			{
-				"name": "Minestrone - Italienische Gemüsesuppe",
+				"name": "Spanischer Tortilla-Gemüseauflauf",
 				"attributes": [
-					"V",
-					"30",
-					"38"
+					"F",
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gebratene Scholle mit Remouladensauce",
+				"name": "Matjesfilet Hausfrauen Art mit Äpfeln, Gurken und Zwiebeln",
 				"attributes": [
+					"2",
 					"3",
-					"30",
-					"32",
+					"9",
 					"33",
-					"36",
-					"39"
+					"36"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Kartoffelgratin mit Roter Bete an Petersilien-Schmandsauce",
+				"name": "Reis-Gemüsetopf mit Grünkern",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"36"
+					"30"
 				],
 				"price": {
 					"student": 2.9,
