@@ -7,45 +7,16 @@
 		}
 	},
 	"validity": {
-		"from": "2017-02-27T00:00:00.000Z",
-		"until": "2017-03-04T00:00:00.000Z"
+		"from": "2017-03-06T00:00:00.000Z",
+		"until": "2017-03-11T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Börek mit Rinderhackfleisch gefüllt, dazu Zaziki",
+				"name": "Hähnchenbrust mit Zitrone und Thymian auf Sauce Hollandaise",
 				"attributes": [
-					"30",
-					"36",
-					"40",
-					"R"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Ofenfrischer Hähnchenschenkel mit kräftiger Paprikasauce",
-				"attributes": [
-					"30",
-					"39"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
-			},
-			"3": null,
-			"4": {
-				"name": "Putenbruststeak mit Tomate und Mozarella gefüllt an fruchtiger Basilikum-Tomatensauce",
-				"attributes": [
-					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -55,27 +26,92 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Chili con Carne mit Rinderhack und einem Klecks Sauerrahmdip",
+			"2": {
+				"name": "Braumeister Gulasch",
+				"attributes": [
+					"A",
+					"30",
+					"S"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gebratenes Putenschnitzel mit Parmesanpanade auf Tomatensauce",
+				"attributes": [
+					"1",
+					"2",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gegrillte Rinderleber Berliner Art an kräftiger Bratenjus",
 				"attributes": [
 					"30",
-					"36",
 					"R"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Frühlingsrolle mit Geflügelfleisch gefüllt an asiatischer Chilisauce",
+				"attributes": [
+					"3",
+					"30",
+					"32",
+					"35",
+					"36",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Angebot 2": {
 			"1": {
-				"name": "Geschwenkte Champignons aus der Riesenpfanne mit Kräuterdip",
+				"name": "Eieromlette mit Rahmspinat",
 				"attributes": [
 					"F",
+					"1",
+					"32",
 					"36"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Mie-Nudelpfanne mit Red-Thai-Curry-Kokossauce",
+				"attributes": [
+					"F",
+					"30",
+					"35",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 3.1,
@@ -84,11 +120,14 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Grillfrische halbe Aubergine auf Tomaten-Chimichurri",
+			"3": {
+				"name": "Italienische Kartoffelgnocchi mit feiner Käsecreme überbacken",
 				"attributes": [
-					"V",
-					"40"
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -97,14 +136,16 @@
 				},
 				"vitalInfo": null
 			},
-			"3": null,
 			"4": {
-				"name": "Flammkuchen mit Salbei, Champignons und Gouda",
+				"name": "Mini-Fladenbrot mit Tomate und Mozzarella gebacken an gartenfrischen Salaten dazu Kräuterpesto",
 				"attributes": [
 					"F",
+					"1",
+					"2",
 					"30",
+					"35",
 					"36",
-					"38"
+					"37"
 				],
 				"price": {
 					"student": 4,
@@ -114,15 +155,16 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Chili sin Carne",
+				"name": "Paprika gefüllt mit Tomaten-Couscous an Tomatensahnesauce",
 				"attributes": [
-					"V",
-					"35"
+					"F",
+					"30",
+					"36"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
 			}
@@ -130,35 +172,33 @@
 		"Angebot 3 solange der Vorrat reicht": {
 			"1": null,
 			"2": {
-				"name": "Gebratenes Rotbarschfilet an Fenchel-Karottenbett",
+				"name": "Geräuchertes Lachsfilet mit Kartoffelpuffern und Salatnest",
 				"attributes": [
-					"1",
-					"30",
+					"32",
 					"33"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
 				},
 				"vitalInfo": null
 			},
 			"3": null,
 			"4": {
-				"name": "Gebackene Tintenfischringe an Cocktaildip",
+				"name": "Gewokte Pasta mit Meeresfrüchten, Garnelen und Kräutern im Zitronensud",
 				"attributes": [
-					"1",
-					"3",
 					"30",
+					"31",
 					"32",
-					"36",
-					"39",
+					"33",
+					"38",
 					"43"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
