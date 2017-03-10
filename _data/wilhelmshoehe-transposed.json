@@ -260,6 +260,7 @@
 			{
 				"name": "Ofenkartoffel mit Kräuterquark und geschwenkten Hähnchenbruststreifen",
 				"attributes": [
+					"1",
 					"36"
 				],
 				"price": {
@@ -276,6 +277,7 @@
 					"1",
 					"2",
 					"3",
+					"8",
 					"30",
 					"32",
 					"36",
@@ -293,6 +295,7 @@
 				"name": "Seehechtfilet auf Tomaten-Zucchini-Gemüse und Kräuterkartoffeln, dazu Joghurt mit Himbeeren",
 				"attributes": [
 					"MV",
+					"1",
 					"30",
 					"33",
 					"36"
