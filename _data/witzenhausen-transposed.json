@@ -8,17 +8,18 @@
 		}
 	},
 	"validity": {
-		"from": "2017-03-06T00:00:00.000Z",
-		"until": "2017-03-10T00:00:00.000Z"
+		"from": "2017-03-13T00:00:00.000Z",
+		"until": "2017-03-17T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Risotto mit Pilzen und Gemüse",
+				"name": "Kartoffelpfanne mit Gewürzgurke",
 				"attributes": [
-					"V",
-					"35",
-					"38"
+					"F",
+					"9",
+					"32",
+					"39"
 				],
 				"price": {
 					"student": 1.9,
@@ -29,106 +30,11 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Kassler Braten mit Rotweinjus",
+				"name": "Krakauer mit Grünkohl",
 				"attributes": [
-					"A",
 					"2",
 					"3",
-					"8",
-					"41",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Polenta mit buntem Gemüse und Paprikasauce",
-				"attributes": [
-					"V",
-					"Ö",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse",
-				"attributes": [
-					"V",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Ghanaisches Hähnchen in Erdnuss-Tomatensauce",
-				"attributes": [
-					"34"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Möhrenpfannkuchen an Schnittlauchsauce",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"32"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Pasta in provenzalischer Zucchini-Paprikasauce",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Asiatische Schweinefleischstreifen mit buntem Gemüse",
-				"attributes": [
-					"35",
-					"38",
+					"36",
 					"S"
 				],
 				"price": {
@@ -140,11 +46,10 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Linsen-Bohnen-Röstling an pikanter Tomaten-Chilisauce",
+				"name": "Reis mit Tofu Szechuan Art",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
 					"35"
 				],
 				"price": {
@@ -158,24 +63,27 @@
 		],
 		[
 			{
-				"name": "Grießbrei mit Kirschsauce",
+				"name": "Marokkanische Pasta mit Nüssen, Kichererbsen und Rosinen",
 				"attributes": [
-					"F",
+					"V",
 					"30",
-					"36"
+					"37"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Orientalische Hackfleischpfanne mit Linsen und Kichererbsen",
+				"name": "Hausgemachte Frikadelle an Rahmsauce",
 				"attributes": [
-					"2",
+					"30",
+					"32",
+					"36",
+					"39",
 					"S"
 				],
 				"price": {
@@ -187,12 +95,10 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Nudeln in Soja-Bolognese",
+				"name": "Bunte Bohnenpfanne mit Tomaten, Kartoffeln und Zwiebeln",
 				"attributes": [
 					"V",
-					"Ö",
-					"30",
-					"35"
+					"Ö"
 				],
 				"price": {
 					"student": 2.9,
@@ -205,11 +111,11 @@
 		],
 		[
 			{
-				"name": "Spanischer Tortilla-Gemüseauflauf",
+				"name": "Griechischer Bohneneintopf",
 				"attributes": [
 					"F",
-					"32",
-					"36"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -220,28 +126,118 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Matjesfilet Hausfrauen Art mit Äpfeln, Gurken und Zwiebeln",
+				"name": "Putengeschnetzeltes in Pfefferrahmsauce",
 				"attributes": [
-					"2",
-					"3",
-					"9",
-					"33",
 					"36"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Reis-Gemüsetopf mit Grünkern",
+				"name": "Pellkartoffeln mit hausgemachter Tomaten-Paprika-Salsa",
 				"attributes": [
 					"V",
-					"Ö",
-					"30"
+					"Ö"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Gefüllter Eierpfannkuchen mit Vanillesauce",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hähnchenfilet mit Chili, dazu Erdnusssauce",
+				"attributes": [
+					"34",
+					"35"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Geschwenkte, hessische Pilz-Kartoffel-Pfanne",
+				"attributes": [
+					"V",
+					"Ö"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Eier in Senfsauce",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Fish and Chips",
+				"attributes": [
+					"30",
+					"32",
+					"33",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Weißkohleintopf mit Kartoffeln",
+				"attributes": [
+					"V",
+					"Ö"
 				],
 				"price": {
 					"student": 2.9,
