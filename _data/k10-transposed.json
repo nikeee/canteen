@@ -8,16 +8,105 @@
 		}
 	},
 	"validity": {
-		"from": "2017-03-06T00:00:00.000Z",
-		"until": "2017-03-11T00:00:00.000Z"
+		"from": "2017-03-13T00:00:00.000Z",
+		"until": "2017-03-18T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Hähnchenbrust mit Zitrone und Thymian auf Sauce Hollandaise",
+				"name": "Grillfrische Bratwurst mit Curry-Ketchupsauce",
 				"attributes": [
-					"32",
+					"3",
+					"8",
+					"38",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Kartoffeltaschen mit Frischkäse gefüllt auf fruchtiger Basilikum-Tomatensauce",
+				"attributes": [
+					"F",
+					"30",
 					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Geschnetzeltes von der Putenbrust in Steinpilz-Rahmsauce",
+				"attributes": [
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Geschöpfte Wellenbandnudeln mit cremiger Karotten-Ingwersauce und Balsamico Creme",
+				"attributes": [
+					"F",
+					"1",
+					"2",
+					"30",
+					"32",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Ofenfrisches Pizzarad mit Thunfisch und frischen Zwiebeln",
+				"attributes": [
+					"30",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
+			}
+		],
+		[
+			{
+				"name": "Gebratenes Hähnchenbrustschnitzel in der Sesamhülle auf asiatischer Chilisauce",
+				"attributes": [
+					"3",
+					"30",
+					"32",
+					"35",
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 3.5,
@@ -28,17 +117,17 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Eieromlette mit Rahmspinat",
+				"name": "Hausgemachte Lasagne mit geschmortem Ratatouille in Tomatensauce mit Käse überbacken",
 				"attributes": [
 					"F",
-					"1",
+					"30",
 					"32",
 					"36"
 				],
 				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -46,10 +135,10 @@
 		],
 		[
 			{
-				"name": "Braumeister Gulasch",
+				"name": "Grillfrisches Schweinerückensteak auf Pfefferrahmsauce",
 				"attributes": [
-					"A",
 					"30",
+					"36",
 					"S"
 				],
 				"price": {
@@ -61,32 +150,32 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Mie-Nudelpfanne mit Red-Thai-Curry-Kokossauce",
+				"name": "Orientalische Orangen-Couscous-Pfanne",
 				"attributes": [
-					"F",
+					"V",
+					"3",
 					"30",
-					"35",
-					"36",
 					"38"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Geräuchertes Lachsfilet mit Kartoffelpuffern und Salatnest",
+				"name": "Gebackener Alaska Seelachs an Kräuterdip",
 				"attributes": [
-					"32",
-					"33"
+					"30",
+					"33",
+					"36"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 3 solange der Vorrat reicht"
@@ -94,117 +183,32 @@
 		],
 		[
 			{
-				"name": "Gebratenes Putenschnitzel mit Parmesanpanade auf Tomatensauce",
+				"name": "Hamburger mit Rindfleisch zum selber füllen",
 				"attributes": [
-					"1",
-					"2",
+					"3",
+					"9",
 					"30",
 					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Italienische Kartoffelgnocchi mit feiner Käsecreme überbacken",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Gegrillte Rinderleber Berliner Art an kräftiger Bratenjus",
-				"attributes": [
-					"30",
+					"36",
+					"39",
+					"40",
 					"R"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Mini-Fladenbrot mit Tomate und Mozzarella gebacken an gartenfrischen Salaten dazu Kräuterpesto",
-				"attributes": [
-					"F",
-					"1",
-					"2",
-					"30",
-					"35",
-					"36",
-					"37"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Gewokte Pasta mit Meeresfrüchten, Garnelen und Kräutern im Zitronensud",
-				"attributes": [
-					"30",
-					"31",
-					"32",
-					"33",
-					"38",
-					"43"
-				],
-				"price": {
 					"student": 3.5,
 					"employee": 4.8,
 					"visitor": 5.7
 				},
 				"vitalInfo": null,
-				"categoryName": "Angebot 3 solange der Vorrat reicht"
-			}
-		],
-		[
-			{
-				"name": "Frühlingsrolle mit Geflügelfleisch gefüllt an asiatischer Chilisauce",
-				"attributes": [
-					"3",
-					"30",
-					"32",
-					"35",
-					"36",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Paprika gefüllt mit Tomaten-Couscous an Tomatensahnesauce",
+				"name": "Hausgemachter Burrito Mexiko mit Bohnen, Mais und Paprika gefüllt an Guacamole-Sauerrahmdip",
 				"attributes": [
 					"F",
+					"1",
+					"2",
+					"3",
 					"30",
 					"36"
 				],
