@@ -34,7 +34,9 @@
 					"F",
 					"30",
 					"32",
-					"36"
+					"35",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -108,8 +110,10 @@
 			"2": {
 				"name": "Gulasch von der Putenoberkeule mit Champignons",
 				"attributes": [
+					"3",
 					"30",
-					"36"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -168,6 +172,7 @@
 					"4",
 					"36",
 					"38",
+					"39",
 					"S"
 				],
 				"price": {
