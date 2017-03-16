@@ -124,7 +124,9 @@
 			},
 			"3": {
 				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
-				"attributes": [],
+				"attributes": [
+					"39"
+				],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
@@ -318,13 +320,17 @@
 			"3": {
 				"name": "Entenbrust asiatisch gewürzt an buntem Gemüse in süßscharfer Sauce",
 				"attributes": [
+					"A",
+					"1",
 					"2",
+					"3",
 					"30",
 					"34",
 					"35",
 					"38",
 					"39",
-					"40"
+					"40",
+					"41"
 				],
 				"price": {
 					"student": 5.5,

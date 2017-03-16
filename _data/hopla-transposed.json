@@ -94,7 +94,8 @@
 					"F",
 					"30",
 					"32",
-					"36"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -185,6 +186,25 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Kassler-Nackenbraten in Sauerkraut gegart",
+				"attributes": [
+					"1",
+					"2",
+					"3",
+					"4",
+					"36",
+					"38",
+					"S"
+				],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 3 oder 4"
 			},
 			{
 				"name": "Großer, bunter Salatteller Nizza mit Zwiebeln, Thunfisch, Ei, Oliven und Kapern in Balsamico Vinaigrette, dazu Baguette",
