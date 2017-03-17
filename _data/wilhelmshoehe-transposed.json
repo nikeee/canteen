@@ -241,6 +241,7 @@
 				"attributes": [
 					"V",
 					"1",
+					"3",
 					"30",
 					"35"
 				],
@@ -323,13 +324,9 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Cevapcici vom Schwein an kräftiger Paprikasauce",
+				"name": "Ofenfrischer Hähnchenschenkel auf Bratenjus",
 				"attributes": [
-					"30",
-					"32",
-					"35",
-					"39",
-					"S"
+					"30"
 				],
 				"price": {
 					"student": 2.4,
@@ -340,18 +337,43 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Putensteak mit Birnen-Ziegenkäse Haube auf Honigjus",
+				"name": "Gebratenes Spinat Cordon bleu vom Schweinerücken auf Käsesauce",
 				"attributes": [
-					"3",
+					"1",
 					"30",
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 3 oder 4"
+			},
+			{
+				"name": "Kartoffel-Blumenkohl-Auflauf mit Curry, dazu Rucolasalat und eine Banane",
+				"attributes": [
+					"F",
+					"MV",
+					"1",
+					"3",
+					"32",
 					"36"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
-				"vitalInfo": null,
+				"vitalInfo": {
+					"fat": 23,
+					"carbohydrate": 72,
+					"protein": 28,
+					"calories": 610
+				},
 				"categoryName": "Angebot des Tages I"
 			},
 			{
