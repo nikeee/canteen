@@ -7,17 +7,31 @@
 		}
 	},
 	"validity": {
-		"from": "2017-03-13T00:00:00.000Z",
-		"until": "2017-03-17T00:00:00.000Z"
+		"from": "2017-03-20T00:00:00.000Z",
+		"until": "2017-03-24T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Rahmspinat mit Rührei",
+				"name": "Chili sin Carne",
+				"attributes": [
+					"V",
+					"35"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Gebratene Gnocchi in Béchamelsauce mit Rucola",
 				"attributes": [
 					"F",
 					"1",
+					"30",
 					"32",
 					"36"
 				],
@@ -28,31 +42,13 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Ofenfrische Gemüsefrikadellen mit Sauerrahmdip",
+			"3": {
+				"name": "Hausgemachter Spinatpfannkuchen auf Knoblauchquark",
 				"attributes": [
 					"F",
 					"30",
 					"32",
-					"35",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Berner Riesenrösti in Cremensauce mit Gemüse",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"30",
-					"35"
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -62,12 +58,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Italienische Penne in Steinpilzsauce",
+				"name": "Sesam-Blechkartoffeln an scharfer Gurken-Tomaten-Salsa",
 				"attributes": [
 					"V",
-					"1",
-					"30",
-					"35"
+					"40"
 				],
 				"price": {
 					"student": 1.8,
@@ -77,27 +71,28 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Mexikanische Kartoffelpfanne mit veganer Chilimayonnaise",
+				"name": "Schupfnudelpfanne mit Sauerkraut",
 				"attributes": [
 					"V",
-					"3",
-					"35"
+					"1",
+					"30"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Curry-Hähnchen Madras",
+				"name": "Gebackene Kibbelinge an cremigem Dill-Senf-Dip",
 				"attributes": [
-					"1",
 					"3",
 					"30",
+					"32",
+					"33",
 					"36",
 					"39"
 				],
@@ -109,10 +104,14 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gulasch von der Putenoberkeule mit Champignons",
+				"name": "Klassische Currywurst",
 				"attributes": [
-					"30",
-					"36"
+					"1",
+					"3",
+					"8",
+					"38",
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -122,8 +121,14 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
-				"attributes": [],
+				"name": "Hähnchenbrust mit Estragon-Sahnesauce",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"36",
+					"41"
+				],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
@@ -132,9 +137,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Ofenfrischer Hähnchenschenkel auf Bratenjus",
+				"name": "Geschwenkte Schweinefleischstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
-					"30"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -144,127 +150,71 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Cevapcici vom Schwein an kräftiger Paprikasauce",
+				"name": "Hausgemachte Hackfleischpizza mit Paprika, Tomaten und Mais",
 				"attributes": [
 					"30",
 					"32",
 					"35",
+					"36",
 					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 3 oder 4": {
-			"1": null,
-			"2": {
-				"name": "Kassler-Nackenbraten in Sauerkraut gegart",
+			"1": {
+				"name": "Ofenfrisches Lammhacksteak auf hausgemachtem Auberginenpüree mit Thymian",
 				"attributes": [
-					"1",
-					"2",
-					"3",
-					"4",
-					"36",
+					"30",
+					"32",
 					"38",
-					"S"
+					"39",
+					"40"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Gebratenes Hähnchenschnitzel in Sesamhülle auf Rahmsauce mit Austernpilzen",
+				"attributes": [
+					"1",
+					"30",
+					"32",
+					"36",
+					"40"
+				],
+				"price": {
+					"student": 3.6,
+					"employee": 4.9,
+					"visitor": 5.8
 				},
 				"vitalInfo": null
 			},
 			"3": null,
-			"4": {
-				"name": "Gebratenes Spinat Cordon bleu vom Schweinerücken auf Käsesauce",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null
-			},
+			"4": null,
 			"5": null
 		},
 		"Angebot des Tages I": {
 			"1": {
-				"name": "Burger mit Beef, Crispy Chicken, Salat und Dips",
+				"name": "Gemüse-Hähnchen-Pfanne mit Aprikosen und Cashewkernen, dazu Couscous",
 				"attributes": [
-					"3",
-					"9",
+					"MV",
+					"2",
 					"30",
-					"32",
-					"36",
+					"37",
+					"38",
 					"39",
-					"40",
-					"R"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Aubergine im Haferflockenmantel an Tomatensauce und Bulgur",
-				"attributes": [
-					"V",
-					"MV",
-					"30"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": {
-					"fat": 19,
-					"carbohydrate": 82,
-					"protein": 22,
-					"calories": 600
-				}
-			},
-			"3": {
-				"name": "Großer, bunter Salatteller Nizza mit Zwiebeln, Thunfisch, Ei, Oliven und Kapern in Balsamico Vinaigrette, dazu Baguette",
-				"attributes": [
-					"1",
-					"3",
-					"6",
-					"30",
-					"32",
-					"33",
-					"39"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Kartoffel-Blumenkohl-Auflauf mit Curry, dazu Rucolasalat und eine Banane",
-				"attributes": [
-					"F",
-					"MV",
-					"1",
-					"3",
-					"32",
-					"36"
+					"40"
 				],
 				"price": {
 					"student": 3.2,
@@ -272,23 +222,73 @@
 					"visitor": 5.4
 				},
 				"vitalInfo": {
-					"fat": 23,
-					"carbohydrate": 72,
+					"fat": 20,
+					"carbohydrate": 86,
+					"protein": 45,
+					"calories": 715
+				}
+			},
+			"2": null,
+			"3": {
+				"name": "Bohnen-Bulgur-Ragout mit Champignons, Paprika und Walnüssen, dazu Paprika-Radieschen-Dip",
+				"attributes": [
+					"V",
+					"MV",
+					"3",
+					"30",
+					"34",
+					"35",
+					"37"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": {
+					"fat": 20,
+					"carbohydrate": 75,
 					"protein": 28,
-					"calories": 610
+					"calories": 601
+				}
+			},
+			"4": {
+				"name": "Seehecht auf Balsamicolinsen und Meerrettichstampf",
+				"attributes": [
+					"MV",
+					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": {
+					"fat": 19,
+					"carbohydrate": 86,
+					"protein": 44,
+					"calories": 698
 				}
 			},
 			"5": {
-				"name": "Putensteak mit Birnen-Ziegenkäse Haube auf Honigjus",
+				"name": "Rindfleischgulasch in Madeirarahm mit schwarzen Oliven und getrockneten Tomaten",
 				"attributes": [
-					"3",
+					"A",
+					"6",
 					"30",
-					"36"
+					"36",
+					"41",
+					"R"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			}

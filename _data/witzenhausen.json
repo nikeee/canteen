@@ -7,19 +7,17 @@
 		}
 	},
 	"validity": {
-		"from": "2017-03-13T00:00:00.000Z",
-		"until": "2017-03-17T00:00:00.000Z"
+		"from": "2017-03-20T00:00:00.000Z",
+		"until": "2017-03-24T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Kartoffelpfanne mit Gewürzgurke",
+				"name": "Tofugulasch mit Paprika und Zwiebeln",
 				"attributes": [
-					"F",
-					"9",
-					"32",
-					"39"
+					"V",
+					"35"
 				],
 				"price": {
 					"student": 1.9,
@@ -29,10 +27,49 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Marokkanische Pasta mit Nüssen, Kichererbsen und Rosinen",
+				"name": "Graupen-Gemüseeintopf",
 				"attributes": [
 					"V",
-					"30",
+					"30"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Milchreis mit exotischer Fruchtsauce",
+				"attributes": [
+					"F",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Omelette mit Blattspinat",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Arabische Reispfanne mit Gemüse, Sultaninen und Mandeln",
+				"attributes": [
+					"V",
 					"37"
 				],
 				"price": {
@@ -41,76 +78,15 @@
 					"visitor": 4
 				},
 				"vitalInfo": null
-			},
-			"3": {
-				"name": "Griechischer Bohneneintopf",
-				"attributes": [
-					"F",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Gefüllter Eierpfannkuchen mit Vanillesauce",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Eier in Senfsauce",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Krakauer mit Grünkohl",
+				"name": "Hackfleischpfanne mit Käse und Erbsen",
 				"attributes": [
+					"1",
 					"2",
-					"3",
 					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Hausgemachte Frikadelle an Rahmsauce",
-				"attributes": [
-					"30",
-					"32",
-					"36",
-					"39",
 					"S"
 				],
 				"price": {
@@ -120,10 +96,25 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Putengeschnetzeltes in Pfefferrahmsauce",
+			"2": {
+				"name": "Marokkanischer Hackfleisch-Eintopf",
 				"attributes": [
-					"36"
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Asia-Putenstreifen in roter Thaicurrysauce",
+				"attributes": [
+					"30",
+					"35",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.4,
@@ -133,10 +124,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hähnchenfilet mit Chili, dazu Erdnusssauce",
+				"name": "Ofenfrischer Schweinenackenbraten an Bayrischer Bierjus",
 				"attributes": [
-					"34",
-					"35"
+					"A",
+					"30",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -146,12 +138,15 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Fish and Chips",
+				"name": "Gebackene Tintenfischringe an Knoblauchdip",
 				"attributes": [
+					"1",
+					"3",
 					"30",
 					"32",
-					"33",
-					"39"
+					"36",
+					"39",
+					"43"
 				],
 				"price": {
 					"student": 2.5,
@@ -163,7 +158,37 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Reis mit Tofu Szechuan Art",
+				"name": "Indisches Zucchini-Curry",
+				"attributes": [
+					"V",
+					"Ö",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Grünkerntaler auf Soja-Currysauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Glacierte Karotten und Kartoffelscheiben mit Kräutersauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -176,37 +201,13 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Bunte Bohnenpfanne mit Tomaten, Kartoffeln und Zwiebeln",
-				"attributes": [
-					"V",
-					"Ö"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Pellkartoffeln mit hausgemachter Tomaten-Paprika-Salsa",
-				"attributes": [
-					"V",
-					"Ö"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
 			"4": {
-				"name": "Geschwenkte, hessische Pilz-Kartoffel-Pfanne",
+				"name": "Griechische Nudelpfanne mit Oliven und Tofu",
 				"attributes": [
 					"V",
-					"Ö"
+					"Ö",
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -216,10 +217,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Weißkohleintopf mit Kartoffeln",
+				"name": "Nudelgratin mit Blumenkohl und Brokkoli",
 				"attributes": [
-					"V",
-					"Ö"
+					"F",
+					"Ö",
+					"30",
+					"32"
 				],
 				"price": {
 					"student": 2.9,
