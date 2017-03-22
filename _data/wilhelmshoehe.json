@@ -33,6 +33,7 @@
 					"1",
 					"30",
 					"32",
+					"35",
 					"36"
 				],
 				"price": {
@@ -187,22 +188,7 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Gebratenes Hähnchenschnitzel in Sesamhülle auf Rahmsauce mit Austernpilzen",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36",
-					"40"
-				],
-				"price": {
-					"student": 3.6,
-					"employee": 4.9,
-					"visitor": 5.8
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": null,
 			"4": {
 				"name": "Putensteak im Backteig von rotem Linsenmehl an fruchtig-scharfer Currysauce",

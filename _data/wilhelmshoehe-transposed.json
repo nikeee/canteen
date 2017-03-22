@@ -98,6 +98,7 @@
 					"1",
 					"30",
 					"32",
+					"35",
 					"36"
 				],
 				"price": {
@@ -125,23 +126,6 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Gebratenes Hähnchenschnitzel in Sesamhülle auf Rahmsauce mit Austernpilzen",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36",
-					"40"
-				],
-				"price": {
-					"student": 3.6,
-					"employee": 4.9,
-					"visitor": 5.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 3 oder 4"
 			},
 			{
 				"name": "Überbackenes Oliven-Baguette mit Tomaten, Pizzaschmelz und Pesto Rosso an gartenfrischen Salaten mit Balsamico-Vinaigrette",
