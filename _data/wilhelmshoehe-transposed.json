@@ -152,6 +152,7 @@
 				"name": "Hausgemachter Spinatpfannkuchen auf Knoblauchquark",
 				"attributes": [
 					"F",
+					"3",
 					"30",
 					"32",
 					"36"
@@ -165,12 +166,14 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hähnchenbrust mit Estragon-Sahnesauce",
+				"name": "Hähnchenbrust mit Gebratenes Hähnchenschnitzel in Sesamhülle an Estragon-Sahnesauce",
 				"attributes": [
 					"A",
 					"1",
 					"30",
+					"32",
 					"36",
+					"40",
 					"41"
 				],
 				"price": {
