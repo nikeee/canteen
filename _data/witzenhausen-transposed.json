@@ -8,159 +8,18 @@
 		}
 	},
 	"validity": {
-		"from": "2017-03-20T00:00:00.000Z",
-		"until": "2017-03-24T00:00:00.000Z"
+		"from": "2017-03-27T00:00:00.000Z",
+		"until": "2017-03-31T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Tofugulasch mit Paprika und Zwiebeln",
+				"name": "Indisch Aloo Matar mit Kartoffeln und Erbsen",
 				"attributes": [
 					"V",
-					"35"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hackfleischpfanne mit Käse und Erbsen",
-				"attributes": [
-					"1",
-					"2",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Indisches Zucchini-Curry",
-				"attributes": [
-					"V",
-					"Ö",
-					"35",
 					"39"
 				],
 				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Graupen-Gemüseeintopf",
-				"attributes": [
-					"V",
-					"30"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Marokkanischer Hackfleisch-Eintopf",
-				"attributes": [
-					"S"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Grünkerntaler auf Soja-Currysauce",
-				"attributes": [
-					"V",
-					"Ö",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Milchreis mit exotischer Fruchtsauce",
-				"attributes": [
-					"F",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Asia-Putenstreifen in roter Thaicurrysauce",
-				"attributes": [
-					"30",
-					"35",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Glacierte Karotten und Kartoffelscheiben mit Kräutersauce",
-				"attributes": [
-					"V",
-					"Ö",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Omelette mit Blattspinat",
-				"attributes": [
-					"F",
-					"32",
-					"36"
-				],
-				"price": {
 					"student": 1.8,
 					"employee": 3.1,
 					"visitor": 4
@@ -169,62 +28,17 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Ofenfrischer Schweinenackenbraten an Bayrischer Bierjus",
-				"attributes": [
-					"A",
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Griechische Nudelpfanne mit Oliven und Tofu",
-				"attributes": [
-					"V",
-					"Ö",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Arabische Reispfanne mit Gemüse, Sultaninen und Mandeln",
-				"attributes": [
-					"V",
-					"37"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gebackene Tintenfischringe an Knoblauchdip",
+				"name": "Gebratene Currywurst Berliner Art",
 				"attributes": [
 					"1",
+					"2",
 					"3",
-					"30",
-					"32",
-					"36",
+					"4",
+					"8",
+					"38",
 					"39",
-					"43"
+					"R",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -235,12 +49,209 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Nudelgratin mit Blumenkohl und Brokkoli",
+				"name": "Nudelpfanne mit Pilzen, Zwiebeln, Tomaten und Tofu",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Kartoffeltasche mit Frischkäse, dazu Knoblauchdip",
+				"attributes": [
+					"F",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gefülltes hessisches Kraut auf Béchamelsauce",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Sabee Sabee Kumala - Australisches Kürbisgulasch",
+				"attributes": [
+					"V",
+					"Ö"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Arancini-Röstling auf Rahmspinat",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Curry-Hähnchen Madras",
+				"attributes": [
+					"1",
+					"3",
+					"32",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Steckrüben-Karotteneintopf mit Kartoffeln und Kräutern",
+				"attributes": [
+					"V",
+					"Ö"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Sojageschnetzeltes Strogangoff",
+				"attributes": [
+					"V",
+					"9",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Asia Schweinestreifen in roter Thaicurrysauce",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Kartoffelpuffer mit Apfelkompott",
 				"attributes": [
 					"F",
 					"Ö",
 					"30",
 					"32"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Milchreis mit Kirschgrütze",
+				"attributes": [
+					"F",
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Feines Fischragout in cremiger Currysauce",
+				"attributes": [
+					"1",
+					"30",
+					"33",
+					"36",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Gedünstetes Saisongemüse an Kräuter-Karottensauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 2.9,
