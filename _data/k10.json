@@ -7,37 +7,46 @@
 		}
 	},
 	"validity": {
-		"from": "2017-03-20T00:00:00.000Z",
-		"until": "2017-03-25T00:00:00.000Z"
+		"from": "2017-03-27T00:00:00.000Z",
+		"until": "2017-04-01T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Deftige Krakauer mit Grünkohl",
+				"name": "Zartes Hähnchenbrustfilet mit Kräutercrumble überbacken an Bratenjus",
 				"attributes": [
-					"2",
-					"3",
-					"8",
-					"38",
-					"39",
-					"S"
+					"30",
+					"32",
+					"35"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kalbsgulasch in feiner Sherryrahmsauce",
+				"name": "Ungarisches Schweinefleischgulasch in tomatisierter Rotweinsauce",
 				"attributes": [
 					"A",
 					"30",
-					"36",
 					"41",
-					"R"
+					"S"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Goldgelb gebackenes Putenschnitzel an scharfer Gurken-Tomaten-Salsa",
+				"attributes": [
+					"30",
+					"32"
 				],
 				"price": {
 					"student": 4,
@@ -46,11 +55,11 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Goldgelb gebackenes Schweineschnitzel an Kräuterjus",
+			"4": {
+				"name": "Steak vom Schweinerücken mit Lauch und Sauce Hollandaise",
 				"attributes": [
-					"30",
 					"32",
+					"36",
 					"S"
 				],
 				"price": {
@@ -60,68 +69,29 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Ghanaisches Hähnchen in Erdnuss-Tomatensauce",
+			"5": {
+				"name": "Hühnerfrikassee mit Erbsen und Spargel",
 				"attributes": [
-					"2",
+					"A",
+					"1",
 					"30",
-					"32",
-					"34"
+					"36",
+					"41"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Spanische Paella mit buntem Gemüse und Geflügelstreifen",
-				"attributes": [],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null
 			}
 		},
 		"Angebot 2": {
 			"1": {
-				"name": "Lahmacun mit Salat und Kräuterdip gefüllt",
+				"name": "Gebackener marinierter Hirtenkäse auf Paprika-Zwiebel-Confit",
 				"attributes": [
 					"F",
-					"30",
 					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Hausgemachter Spinatpfannkuchen an fruchtigem Tomatendip",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Gebratene Tofuschnitte mit geschmortem Ratatouille",
-				"attributes": [
-					"V",
-					"30",
-					"35"
 				],
 				"price": {
 					"student": 3.1,
@@ -130,68 +100,48 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Gebackener Blumenkohl mit Sauce Hollandaise",
+			"2": {
+				"name": "Italienische Tagliatelle mit würzigem Bärlauchpesto, Tomatenwürfeln und Basamicoessig",
 				"attributes": [
 					"F",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Mozzarella im Schinkenmantel an gartenfrischen Salaten mit Balsamico-Vinaigrette getoppt",
-				"attributes": [
 					"1",
 					"2",
-					"3",
-					"36",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			}
-		},
-		"Angebot 3 solange der Vorrat reicht": {
-			"1": null,
-			"2": {
-				"name": "Ofenfrischer Flammkuchen mit Lachsstreifen, Lauch und Käse",
-				"attributes": [
-					"1",
 					"30",
-					"33",
-					"36"
+					"36",
+					"37"
 				],
 				"price": {
-					"student": 5.5,
-					"employee": 6.8,
-					"visitor": 7.7
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
 				},
 				"vitalInfo": null
 			},
-			"3": null,
-			"4": {
-				"name": "Seelachsfilet im Maisgrieß-Weinteig an feiner Dillsahnesauce",
+			"3": {
+				"name": "Hausgemachte Polentaschnitte gebraten an schwenktem Retrogemüse",
 				"attributes": [
-					"A",
+					"F",
+					"1",
+					"2",
+					"30",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Feine Spinatlasagne in milder Knoblauchcreme mit Käse überbacken",
+				"attributes": [
+					"F",
 					"1",
 					"30",
 					"32",
-					"33",
-					"36",
-					"38",
-					"41"
+					"36"
 				],
 				"price": {
 					"student": 3.5,
@@ -200,7 +150,70 @@
 				},
 				"vitalInfo": null
 			},
-			"5": null
+			"5": {
+				"name": "Hausgemachte Kichererbsentaler an Apfel-Korianderdip",
+				"attributes": [
+					"V",
+					"3"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			}
+		},
+		"Angebot 3 solange der Vorrat reicht": {
+			"1": {
+				"name": "Ofenrischer Flammkuchen mit Frühlingslauch, roten Zwiebeln und Kirschtomaten",
+				"attributes": [
+					"F",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Gedämpftes Schollenfilet natur auf Karotten-Fenchelbett an milder Ingwersauce",
+				"attributes": [
+					"1",
+					"2",
+					"30",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
+			"3": null,
+			"4": null,
+			"5": {
+				"name": "Kabeljaufilet in Joghurt-Zitrus-Marinade an fruchtig scharfer Honig-Sesam-Sauce",
+				"attributes": [
+					"30",
+					"33",
+					"35",
+					"36",
+					"39",
+					"40"
+				],
+				"price": {
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
+				},
+				"vitalInfo": null
+			}
 		}
 	}
 }
