@@ -86,7 +86,8 @@
 			"1": {
 				"name": "Tomatisiertes Schmorgemüse mit gebratenen Hähnchenstreifen",
 				"attributes": [
-					"30"
+					"30",
+					"38"
 				],
 				"price": {
 					"student": 2.5,
