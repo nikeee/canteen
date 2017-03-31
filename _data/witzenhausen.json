@@ -56,12 +56,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Sojageschnetzeltes Strogangoff",
+				"name": "Lasagne mit Soja-Bolognese",
 				"attributes": [
 					"V",
-					"9",
 					"30",
-					"35"
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 1.8,

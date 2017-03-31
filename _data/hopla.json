@@ -167,7 +167,8 @@
 				"name": "Gebratenes Putenschnitzel mit Spiegelei und gebratenen Zwiebeln",
 				"attributes": [
 					"30",
-					"32"
+					"32",
+					"S"
 				],
 				"price": {
 					"student": 3.6,
