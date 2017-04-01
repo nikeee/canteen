@@ -8,81 +8,18 @@
 		}
 	},
 	"validity": {
-		"from": "2017-03-27T00:00:00.000Z",
-		"until": "2017-03-31T00:00:00.000Z"
+		"from": "2017-04-03T00:00:00.000Z",
+		"until": "2017-04-07T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse",
-				"attributes": [
-					"V",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Tomatisiertes Schmorgemüse mit gebratenen Hähnchenstreifen",
-				"attributes": [
-					"30"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Kartoffelpuffer mit Apfelmus",
+				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise",
 				"attributes": [
 					"F",
-					"3",
-					"32"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Saltimbocca vom Schweinerücken an Salbeijus",
-				"attributes": [
-					"A",
-					"2",
-					"3",
 					"30",
-					"41",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Grüne Tortellini in fruchtiger Tomatensauce",
-				"attributes": [
-					"V",
-					"30",
+					"32",
+					"36",
 					"38"
 				],
 				"price": {
@@ -94,9 +31,77 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Geschnetzeltes nach Züricher Art",
+				"name": "Mini-Hackfleischbällchen auf Western-Tomatensauce",
 				"attributes": [
 					"1",
+					"30",
+					"32",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Spaghetti in Karotten-Pesto mit Sonnenblumenkernen",
+				"attributes": [
+					"V",
+					"30",
+					"37"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hähnchenbrust mit Pesto Rosso mariniert auf Béchamelsauce",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"37"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Couscous Pfanne mit knackigem Gemüse an rotem Linsendip",
+				"attributes": [
+					"V",
+					"3",
+					"30",
+					"39",
+					"40"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Schweinesteak vom Nacken an Kräuterbutter",
+				"attributes": [
 					"30",
 					"36",
 					"S"
@@ -112,31 +117,35 @@
 		],
 		[
 			{
-				"name": "Ofenfrische Brätlinge mit Spundekäs",
+				"name": "Hausgemachte Polenta à la Crème auf Champignon-Sahnesauce",
 				"attributes": [
-					"F",
-					"36"
+					"V",
+					"1",
+					"30",
+					"35",
+					"38"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Spaghetti mit Puten-Bolognese und Parmesan",
+				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
 				"attributes": [
 					"1",
-					"2",
-					"30",
-					"36"
+					"36",
+					"38",
+					"39",
+					"R"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
@@ -144,32 +153,36 @@
 		],
 		[
 			{
-				"name": "Geschwenkte Quinoa-Kürbispfanne",
+				"name": "Hausgemachter Süßkartoffelstampf auf scharfen Erbsen",
 				"attributes": [
 					"V",
-					"3"
+					"1",
+					"3",
+					"35"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Asiatische Putenfleischstreifen in schwarzer Pflaumen-Soja-Sauce",
+				"name": "Gefülltes hessisches Kraut auf Béchamelsauce",
 				"attributes": [
 					"1",
-					"3",
 					"30",
+					"32",
 					"35",
-					"39"
+					"36",
+					"39",
+					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
