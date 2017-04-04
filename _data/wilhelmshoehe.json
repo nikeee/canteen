@@ -214,7 +214,26 @@
 					"calories": 692
 				}
 			},
-			"2": null,
+			"2": {
+				"name": "Zartweizen-Kartoffelgratin mit Roter Bete und Karotten",
+				"attributes": [
+					"V",
+					"MV",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": {
+					"fat": 26,
+					"carbohydrate": 90,
+					"protein": 24,
+					"calories": 692
+				}
+			},
 			"3": {
 				"name": "Putengeschnetzeltes Thailändische Art mit Reis",
 				"attributes": [
