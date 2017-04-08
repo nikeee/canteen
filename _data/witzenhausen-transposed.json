@@ -8,128 +8,39 @@
 		}
 	},
 	"validity": {
-		"from": "2017-04-03T00:00:00.000Z",
-		"until": "2017-04-07T00:00:00.000Z"
+		"from": "2017-04-10T00:00:00.000Z",
+		"until": "2017-04-14T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise",
+				"name": "Hessische Kartoffelsuppe mit Gemüse und Petersilienpesto",
 				"attributes": [
 					"F",
+					"1",
+					"2",
 					"30",
-					"32",
 					"36",
+					"37",
 					"38"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Mini-Hackfleischbällchen auf Tomatensauce- Western",
+				"name": "Allgäuer Käse-Schinken-Spätzlepfanne",
 				"attributes": [
+					"1",
+					"2",
+					"3",
+					"8",
 					"30",
 					"32",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Pekingsuppe mit Karotte, Tofu und Paprika",
-				"attributes": [
-					"V",
-					"Ö",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Spaghetti in Karotten-Pesto mit Sonnenblumenkernen",
-				"attributes": [
-					"V",
-					"30",
-					"37"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hähnchenbrust mit Pesto Rosso mariniert",
-				"attributes": [
-					"37"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Backkartoffeln mit Kräuterquark",
-				"attributes": [
-					"F",
-					"Ö",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Couscouspfanne mit knackigem Gemüse an rotem Linsendip",
-				"attributes": [
-					"V",
-					"3",
-					"30",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Schweinesteak vom Nacken an Kräuterbutter",
-				"attributes": [
 					"36",
 					"S"
 				],
@@ -142,7 +53,7 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Kartoffelrösti mit roten Zwiebelstreifen und Schnittlauchsauce",
+				"name": "Nudelauflauf mit Blumenkohl und Brokkoli an Kräuter- Sojasauce",
 				"attributes": [
 					"V",
 					"Ö",
@@ -160,13 +71,13 @@
 		],
 		[
 			{
-				"name": "Hausgemachte Polenta à la Crème auf Champignon-Sahnesauce",
+				"name": "Kritharakisalat mit buntem Gemüse und Bärlauchpesto",
 				"attributes": [
 					"V",
-					"1",
+					"3",
+					"6",
 					"30",
-					"35",
-					"38"
+					"37"
 				],
 				"price": {
 					"student": 1.9,
@@ -177,27 +88,26 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
+				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
-					"1",
-					"36",
-					"38",
-					"39",
-					"R"
+					"36"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Ratatouille-Gemüsepfanne",
+				"name": "Kartoffelrösti mit Brokkoli-Rahmsauce",
 				"attributes": [
-					"V",
-					"Ö"
+					"F",
+					"Ö",
+					"30",
+					"32",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -210,12 +120,11 @@
 		],
 		[
 			{
-				"name": "Hausgemachter Süßkartoffelstampf mit scharfen Erbsen",
+				"name": "Gebratenes Curry-Quinoa mit Mandeln, Karotten und Brokkoli an fruchtigem Tomatendip",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"36"
+					"V",
+					"3",
+					"37"
 				],
 				"price": {
 					"student": 1.9,
@@ -226,27 +135,26 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Fischfrikadelle mit Dill-Sahnesauce",
+				"name": "Paniertes Schweineschnitzel auf Malzjus",
 				"attributes": [
 					"30",
-					"32",
-					"33",
-					"36",
-					"39"
+					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Mexikanische Gemüsepfanne mit Chilisauce",
+				"name": "Griechische Reispfanne mit Oliven und Tofu",
 				"attributes": [
 					"V",
-					"Ö"
+					"Ö",
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -255,6 +163,74 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Maracuja-Mango-Grütze Backfrischer Pfannkuchen",
+				"attributes": [
+					"V",
+					"1",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hackfleischrolle Athen mit Knoblauch-Olivensauce",
+				"attributes": [
+					"G",
+					"1",
+					"6",
+					"G",
+					"30",
+					"32",
+					"35",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Gekochte Bio Eier mit grüner Sauce",
+				"attributes": [
+					"F",
+					"Ö",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
 			}
 		]
 	]

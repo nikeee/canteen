@@ -7,50 +7,67 @@
 		}
 	},
 	"validity": {
-		"from": "2017-04-03T00:00:00.000Z",
-		"until": "2017-04-07T00:00:00.000Z"
+		"from": "2017-04-10T00:00:00.000Z",
+		"until": "2017-04-14T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise",
+				"name": "Hessische Kartoffelsuppe mit Gemüse und Petersilienpesto",
 				"attributes": [
 					"F",
+					"1",
+					"2",
 					"30",
-					"32",
 					"36",
+					"37",
 					"38"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Spaghetti in Karotten-Pesto mit Sonnenblumenkernen",
+				"name": "Kritharakisalat mit buntem Gemüse und Bärlauchpesto",
 				"attributes": [
 					"V",
+					"3",
+					"6",
 					"30",
 					"37"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Couscouspfanne mit knackigem Gemüse an rotem Linsendip",
+				"name": "Gebratenes Curry-Quinoa mit Mandeln, Karotten und Brokkoli an fruchtigem Tomatendip",
 				"attributes": [
 					"V",
 					"3",
+					"37"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Maracuja-Mango-Grütze Backfrischer Pfannkuchen",
+				"attributes": [
+					"V",
+					"1",
 					"30",
-					"39",
-					"40"
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -59,58 +76,41 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Hausgemachte Polenta à la Crème auf Champignon-Sahnesauce",
-				"attributes": [
-					"V",
-					"1",
-					"30",
-					"35",
-					"38"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Hausgemachter Süßkartoffelstampf mit scharfen Erbsen",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"36"
-				],
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Mini-Hackfleischbällchen auf Tomatensauce- Western",
+				"name": "Allgäuer Käse-Schinken-Spätzlepfanne",
 				"attributes": [
+					"1",
+					"2",
+					"3",
+					"8",
 					"30",
 					"32",
-					"R",
+					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hähnchenbrust mit Pesto Rosso mariniert",
+				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
-					"37"
+					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -120,60 +120,48 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Schweinesteak vom Nacken an Kräuterbutter",
+				"name": "Paniertes Schweineschnitzel auf Malzjus",
 				"attributes": [
-					"36",
+					"30",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
+				"name": "Hackfleischrolle Athen mit Knoblauch-Olivensauce",
 				"attributes": [
+					"G",
 					"1",
+					"6",
+					"G",
+					"30",
+					"32",
+					"35",
 					"36",
-					"38",
-					"39",
-					"R"
+					"S"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Fischfrikadelle mit Dill-Sahnesauce",
-				"attributes": [
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			}
+			"5": null
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Pekingsuppe mit Karotte, Tofu und Paprika",
+				"name": "Nudelauflauf mit Blumenkohl und Brokkoli an Kräuter- Sojasauce",
 				"attributes": [
 					"V",
 					"Ö",
 					"30",
-					"35",
-					"39"
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -183,11 +171,13 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Backkartoffeln mit Kräuterquark",
+				"name": "Kartoffelrösti mit Brokkoli-Rahmsauce",
 				"attributes": [
 					"F",
 					"Ö",
-					"36"
+					"30",
+					"32",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -197,7 +187,7 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Kartoffelrösti mit roten Zwiebelstreifen und Schnittlauchsauce",
+				"name": "Griechische Reispfanne mit Oliven und Tofu",
 				"attributes": [
 					"V",
 					"Ö",
@@ -212,10 +202,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Ratatouille-Gemüsepfanne",
+				"name": "Gekochte Bio Eier mit grüner Sauce",
 				"attributes": [
-					"V",
-					"Ö"
+					"F",
+					"Ö",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -224,19 +216,7 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Mexikanische Gemüsepfanne mit Chilisauce",
-				"attributes": [
-					"V",
-					"Ö"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			}
+			"5": null
 		},
 		"Aktions-Essen": {
 			"1": null,
