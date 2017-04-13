@@ -167,12 +167,11 @@
 		],
 		[
 			{
-				"name": "Maracuja-Mango-Grütze Backfrischer Pfannkuchen",
+				"name": "Vegane Kartoffelpuffer mit Apfelmus",
 				"attributes": [
 					"V",
-					"1",
-					"30",
-					"35"
+					"3",
+					"30"
 				],
 				"price": {
 					"student": 1.8,
@@ -204,10 +203,11 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Gekochte Bio Eier mit grüner Sauce",
+				"name": "Gekochte Bio Eier mit grüner Sauce und Petersilienkartoffeln",
 				"attributes": [
 					"F",
 					"Ö",
+					"1",
 					"32",
 					"36"
 				],

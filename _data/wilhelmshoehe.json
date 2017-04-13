@@ -52,7 +52,11 @@
 				"name": "Gebratenes Curry-Quinoa mit Karotten und Brokkoli auf fruchtigem Tomatendip",
 				"attributes": [
 					"V",
-					"3"
+					"1",
+					"2",
+					"3",
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 1.9,
@@ -128,8 +132,12 @@
 			"3": {
 				"name": "Schnitzel vom Scheinerücken auf Malzjus",
 				"attributes": [
+					"1",
+					"4",
 					"30",
 					"32",
+					"38",
+					"39",
 					"S"
 				],
 				"price": {
@@ -227,7 +235,9 @@
 					"1",
 					"30",
 					"36",
-					"37"
+					"37",
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 3,
