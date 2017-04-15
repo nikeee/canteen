@@ -7,36 +7,30 @@
 		}
 	},
 	"validity": {
-		"from": "2017-04-10T00:00:00.000Z",
-		"until": "2017-04-14T00:00:00.000Z"
+		"from": "2017-04-17T00:00:00.000Z",
+		"until": "2017-04-21T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Hessische Kartoffelsuppe mit Gemüse und Kräuteröl",
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Tortellini mit Soja Bolognese gefüllt in Cremesauce mit Rucola",
 				"attributes": [
 					"V",
 					"1",
 					"30",
 					"35",
 					"38"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Kritharakisalat mit buntem Gemüse und Petersilienpesto, dazu Bauernbrot",
-				"attributes": [
-					"V",
-					"3",
-					"6",
-					"30",
-					"37"
 				],
 				"price": {
 					"student": 1.9,
@@ -46,29 +40,29 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gebratenes Curry-Quinoa mit Karotten und Brokkoli auf fruchtigem Tomatendip",
+				"name": "Semmelknödel in Spinatcreme",
 				"attributes": [
-					"V",
-					"3"
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Backfrischer Nutella-Pfannkuchen an Mangosauce",
+				"name": "Pfannkuchen an Erdbeermark und warmer Vanillesauce",
 				"attributes": [
 					"F",
 					"1",
-					"3",
 					"30",
-					"32",
 					"35",
-					"36",
-					"37"
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -78,28 +72,25 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
+				"name": "Hausgemachte Kartoffel-Karottentaler mit Walnüssen an Koriander-Tomatensauce",
+				"attributes": [
+					"V",
+					"30"
+				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
-			"1": {
-				"name": "Käse-Schinken-Spätzlepfanne",
+			"1": null,
+			"2": {
+				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
 				"attributes": [
-					"1",
-					"2",
-					"3",
-					"8",
-					"30",
-					"32",
-					"36",
-					"S"
+					"2"
 				],
 				"price": {
 					"student": 2.4,
@@ -108,9 +99,30 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
+			"3": {
+				"name": "Fischstäbchen mit Remouladensauce",
 				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Hähnchenbrust mit Sauce Café de Paris",
+				"attributes": [
+					"1",
+					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -120,30 +132,12 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Schnitzel vom Scheinerücken auf Malzjus",
+			"5": {
+				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
 				"attributes": [
-					"30",
-					"32",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Hackfleischrolle Athen mit Knoblauch-Olivensauce",
-				"attributes": [
-					"G",
 					"1",
-					"6",
-					"G",
+					"2",
 					"30",
-					"32",
-					"35",
 					"36",
 					"S"
 				],
@@ -153,8 +147,7 @@
 					"visitor": 4.7
 				},
 				"vitalInfo": null
-			},
-			"5": null
+			}
 		}
 	}
 }
