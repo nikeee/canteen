@@ -8,84 +8,64 @@
 		}
 	},
 	"validity": {
-		"from": "2017-04-10T00:00:00.000Z",
-		"until": "2017-04-15T00:00:00.000Z"
+		"from": "2017-04-17T00:00:00.000Z",
+		"until": "2017-04-22T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Zartes Hähnchenbrustfilet in Limettenmarinade mit Caipirinha-Rahmsauce",
-				"attributes": [
-					"A",
-					"2",
-					"30",
-					"36"
-				],
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Börek mit Spinat und Hirtenkäse gefüllt an Knoblauchdip",
-				"attributes": [
-					"F",
-					"30",
-					"36",
-					"40"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
 			}
 		],
 		[
 			{
-				"name": "Schweinegeschnetzeltes nach Züricher Art",
+				"name": "Gegrilltes Steak von der Putenbrust mit asiatischer Chilisauce",
 				"attributes": [
-					"1",
+					"3",
 					"30",
-					"36",
-					"S"
+					"35",
+					"38",
+					"39"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Gebackene Brokkolinuggets an Tomatensauce",
+				"name": "Couscouspfanne mit knackigem Gemüse an Apfel-Minzsalsa",
 				"attributes": [
-					"F",
+					"V",
+					"3",
 					"30",
-					"32",
-					"35",
-					"36",
-					"38"
+					"39"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Bratheringfilets mit frischen Zwiebeln und Essiggurke an Pfeffer-Schmanddip",
+				"name": "Gebackener Alaska-Seelachs an Remouladensauce",
 				"attributes": [
+					"3",
 					"9",
 					"30",
+					"32",
 					"33",
 					"36",
 					"39"
@@ -101,48 +81,10 @@
 		],
 		[
 			{
-				"name": "Paniertes Schweineschnitzel vom Rücken an Speck-Schmandstippe",
+				"name": "Hähnchenschnitzel im Cornflakesmantel auf fruchtiger Basilikum-Tomatensauce",
 				"attributes": [
-					"2",
-					"3",
 					"30",
-					"32",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Tortellini Tricolore mit Käsefüllung in Rucola-Sahnesauce mit Käse überbacken",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Gebratenes Hähnchen Cordon bleu mit Rahmsauce",
-				"attributes": [
-					"2",
-					"30",
-					"36"
+					"32"
 				],
 				"price": {
 					"student": 3.5,
@@ -153,29 +95,32 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Asiatische Basmatireis-Gemüsepfanne",
+				"name": "Hausgemachte Spinatlasagne in Knoblauchcreme",
 				"attributes": [
-					"V",
-					"35",
-					"38",
-					"39"
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Auf der Haut gebratenes Zanderfilet an Béchamelsauce",
+				"name": "Auf der Haut gebratenes Schollenfilet an feiner Riesling-Sahnesauce",
 				"attributes": [
+					"A",
 					"1",
 					"30",
 					"33",
 					"36",
-					"38"
+					"38",
+					"41"
 				],
 				"price": {
 					"student": 5.5,
@@ -188,15 +133,106 @@
 		],
 		[
 			{
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
+				"name": "Geschwenkte Rindfleischstreifen in Erdnuss-Zwiebelsauce",
+				"attributes": [
+					"1",
+					"30",
+					"32",
+					"34",
+					"36",
+					"R"
+				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Gebackenes Gemüseschnitzel an Kräuter-Sahnesauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"35",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Ofenfrisches Pizzarad mit Thunfisch und frischen Zwiebeln",
+				"attributes": [
+					"30",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
+			}
+		],
+		[
+			{
+				"name": "Ofenfrischer Spießbraten auf Sauerkraut an Bratenjus",
+				"attributes": [
+					"1",
+					"2",
+					"3",
+					"30",
+					"S"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Schwäbische Spätzle mit Röstzwiebeln und Käsesauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Flammkuchen mit Chili, Mango und roten Zwiebeln",
+				"attributes": [
+					"F",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
 			}
 		]
 	]
