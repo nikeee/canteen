@@ -129,9 +129,13 @@
 			{
 				"name": "Paniertes Schweineschnitzel mit Röstzwiebeln an Sauerrahmdip",
 				"attributes": [
+					"2",
+					"3",
+					"8",
 					"30",
 					"32",
 					"36",
+					"R",
 					"S"
 				],
 				"price": {

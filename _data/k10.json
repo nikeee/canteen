@@ -26,6 +26,7 @@
 			"2": {
 				"name": "Gegrilltes Steak von der Putenbrust mit asiatischer Chilisauce",
 				"attributes": [
+					"2",
 					"3",
 					"30",
 					"35",
@@ -89,7 +90,7 @@
 		"Angebot 2": {
 			"1": null,
 			"2": {
-				"name": "Couscouspfanne mit knackigem Gemüse an Apfel-Minzsalsa",
+				"name": "Bulgurpfanne mit knackigem Gemüse an Apfel-Minzsalsa",
 				"attributes": [
 					"V",
 					"3",
