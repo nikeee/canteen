@@ -7,30 +7,34 @@
 		}
 	},
 	"validity": {
-		"from": "2017-04-17T00:00:00.000Z",
-		"until": "2017-04-21T00:00:00.000Z"
+		"from": "2017-04-24T00:00:00.000Z",
+		"until": "2017-04-28T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
+				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an Pfeffer-Sauerrahmdip",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36",
+					"38"
+				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Tortellini mit Soja Bolognese gefüllt in Cremesauce mit Rucola",
+				"name": "Rosmarinkartoffeln mit Tomatencreme",
 				"attributes": [
 					"V",
-					"1",
-					"30",
-					"35",
-					"38"
+					"3",
+					"35"
 				],
 				"price": {
 					"student": 1.9,
@@ -40,13 +44,10 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Semmelknödel in Spinatcreme",
+				"name": "Italienische Gabelspaghetti mit Tomatensauce",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
+					"V",
+					"30"
 				],
 				"price": {
 					"student": 1.8,
@@ -56,26 +57,13 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Pfannkuchen an Erdbeermark und warmer Vanillesauce",
+				"name": "Gemüsecurry in scharfer Sauce mit Kokos",
 				"attributes": [
-					"F",
+					"V",
 					"1",
 					"30",
 					"35",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Hausgemachte Kartoffel-Karottentaler mit Walnüssen an Koriander-Tomatensauce",
-				"attributes": [
-					"V",
-					"30"
+					"39"
 				],
 				"price": {
 					"student": 1.9,
@@ -83,14 +71,31 @@
 					"visitor": 4.1
 				},
 				"vitalInfo": null
+			},
+			"5": {
+				"name": "Minestrone - Italienische Gemüsesuppe mit krossem Baguette",
+				"attributes": [
+					"V",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
-			"1": null,
-			"2": {
-				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
+			"1": {
+				"name": "Gegrillte, nordhessische Kartoffelbratwurst auf Majoranjus",
 				"attributes": [
-					"2"
+					"2",
+					"8",
+					"30",
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -99,15 +104,39 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Fischstäbchen mit Remouladensauce",
+			"2": {
+				"name": "Berner Riesenrösti mit Geschnetzeltem nach Züricher Art",
 				"attributes": [
-					"3",
-					"9",
+					"1",
 					"30",
-					"32",
-					"33",
 					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Geschnetzeltes von der Putenbrust in Pfirsichrahm",
+				"attributes": [
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Mie-Nudelpfanne mit Pute und Gemüse",
+				"attributes": [
+					"30",
+					"35",
 					"39"
 				],
 				"price": {
@@ -117,33 +146,17 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Hähnchenbrust mit Sauce Café de Paris",
-				"attributes": [
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
 				"attributes": [
-					"1",
-					"2",
-					"30",
+					"32",
 					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}

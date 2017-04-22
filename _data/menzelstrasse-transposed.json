@@ -8,45 +8,36 @@
 		}
 	},
 	"validity": {
-		"from": "2017-04-17T00:00:00.000Z",
-		"until": "2017-04-21T00:00:00.000Z"
+		"from": "2017-04-24T00:00:00.000Z",
+		"until": "2017-04-28T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			}
-		],
-		[
-			{
-				"name": "Tortellini mit Soja Bolognese gefüllt in Cremesauce mit Rucola",
+				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an Pfeffer-Sauerrahmdip",
 				"attributes": [
-					"V",
-					"1",
+					"F",
 					"30",
-					"35",
+					"32",
+					"36",
 					"38"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
+				"name": "Gegrillte, nordhessische Kartoffelbratwurst auf Majoranjus",
 				"attributes": [
-					"2"
+					"2",
+					"8",
+					"30",
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -59,13 +50,43 @@
 		],
 		[
 			{
-				"name": "Semmelknödel in Spinatcreme",
+				"name": "Rosmarinkartoffeln mit Tomatencreme",
 				"attributes": [
-					"F",
+					"V",
+					"3",
+					"35"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Berner Riesenrösti mit Geschnetzeltem nach Züricher Art",
+				"attributes": [
 					"1",
 					"30",
-					"32",
-					"36"
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Italienische Gabelspaghetti mit Tomatensauce",
+				"attributes": [
+					"V",
+					"30"
 				],
 				"price": {
 					"student": 1.8,
@@ -76,14 +97,43 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Fischstäbchen mit Remouladensauce",
+				"name": "Geschnetzeltes von der Putenbrust in Pfirsichrahm",
 				"attributes": [
-					"3",
-					"9",
 					"30",
-					"32",
-					"33",
-					"36",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Gemüsecurry in scharfer Sauce mit Kokos",
+				"attributes": [
+					"V",
+					"1",
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Mie-Nudelpfanne mit Pute und Gemüse",
+				"attributes": [
+					"30",
+					"35",
 					"39"
 				],
 				"price": {
@@ -97,13 +147,11 @@
 		],
 		[
 			{
-				"name": "Pfannkuchen an Erdbeermark und warmer Vanillesauce",
+				"name": "Minestrone - Italienische Gemüsesuppe mit krossem Baguette",
 				"attributes": [
-					"F",
-					"1",
+					"V",
 					"30",
-					"35",
-					"36"
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -114,49 +162,16 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hähnchenbrust mit Sauce Café de Paris",
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
 				"attributes": [
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Hausgemachte Kartoffel-Karottentaler mit Walnüssen an Koriander-Tomatensauce",
-				"attributes": [
-					"V",
-					"30"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
-				"attributes": [
-					"1",
-					"2",
-					"30",
+					"32",
 					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"

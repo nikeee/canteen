@@ -8,31 +8,81 @@
 		}
 	},
 	"validity": {
-		"from": "2017-04-17T00:00:00.000Z",
-		"until": "2017-04-21T00:00:00.000Z"
+		"from": "2017-04-24T00:00:00.000Z",
+		"until": "2017-04-28T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
+				"name": "Rosmarinkartoffeln mit Tomatencreme",
+				"attributes": [
+					"V",
+					"3",
+					"35"
+				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gegrillte, nordhessische Kartoffelbratwurst auf Majoranjus",
+				"attributes": [
+					"2",
+					"8",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Champignons à la crème",
+				"attributes": [
+					"F",
+					"Ö",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Berner Riesenrösti mit Schweinegeschnetzeltem nach Züricher Art",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
 			}
 		],
 		[
 			{
-				"name": "Tortellini mit Soja Bolognese gefüllt in Cremesauce mit Rucola",
+				"name": "Minestrone - Italienische Gemüsesuppe mit Baguette",
 				"attributes": [
 					"V",
-					"1",
 					"30",
-					"35",
 					"38"
 				],
 				"price": {
@@ -44,81 +94,11 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Nasi Goreng mit buntem Gemüse und Putenstreifen",
+				"name": "Bami Goreng mit Geflügelstreifen",
 				"attributes": [
-					"2"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Rührei mit Blattspinat",
-				"attributes": [
-					"F",
-					"Ö",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Pizza mit Salami, Schinken und frischen Champignons",
-				"attributes": [
-					"2",
-					"3",
-					"8",
-					"30",
-					"36",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 5.5,
-					"employee": 6.8,
-					"visitor": 7.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Semmelknödel in Spinatcreme",
-				"attributes": [
-					"F",
-					"1",
 					"30",
 					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
-				"attributes": [
-					"1",
-					"2",
-					"30",
-					"36",
-					"38",
-					"S"
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -129,10 +109,12 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Polenta mit buntem Gemüse und Paprikasauce",
+				"name": "Kartoffelgratin mit Sahne und Käse überbacken",
 				"attributes": [
-					"V",
-					"Ö"
+					"F",
+					"Ö",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -143,8 +125,139 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Klassischer Burger mit Beef, zweierlei Dips und hausgemachtem Rotkrautsalat",
+				"name": "Gegrilltes Schweinekotelett mit Madeira-Rahmsauce",
 				"attributes": [
+					"A",
+					"1",
+					"30",
+					"36",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Gemüsecurry in scharfer Sauce mit Kokos",
+				"attributes": [
+					"V",
+					"1",
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hähnchenbrust mit Tandoori Marinade in Béchamelsauce",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Gedünstete Zucchini mit Tofu-Grünkernauflage überbacken",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Cannelloni mit Rind und Aubergine gefüllt in einer Tomaten-Basilikumsauce mit Käse überbacken",
+				"attributes": [
+					"30",
+					"35",
+					"36",
+					"R"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Italienische Spaghetti in Tomatensauce",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Geschnetzeltes von der Putenbrust in Pfirsichrahm",
+				"attributes": [
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Shakshuka - Poschierte Eier in Tomatensauce",
+				"attributes": [
+					"F",
+					"Ö",
+					"32"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Cheeseburger mit Beef, Käse, zweierlei Dips und Salat",
+				"attributes": [
+					"1",
 					"3",
 					"9",
 					"30",
@@ -165,12 +278,13 @@
 		],
 		[
 			{
-				"name": "Kokos-Pfannkuchen an warmer Vanillesauce",
+				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an Pfeffer-Sauerrahmdip",
 				"attributes": [
-					"V",
-					"1",
+					"F",
 					"30",
-					"35"
+					"35",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -181,12 +295,11 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hähnchenbrust mit Sauce Café de Paris",
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
 				"attributes": [
-					"1",
-					"30",
 					"32",
-					"36"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -197,78 +310,14 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Kartoffel-Auflauf mit Paprika und Bohnen",
-				"attributes": [
-					"F",
-					"Ö",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Gegrillte Medaillons vom Schweinefilet auf Thymianjus",
-				"attributes": [
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Hausgemachte Kartoffel-Karottentaler mit Walnüssen an Tomatensauce",
+				"name": "Asia-Reis-Gemüsepfanne",
 				"attributes": [
 					"V",
-					"30"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Fischstäbchen mit Remouladensauce",
-				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
-					"33",
-					"36",
+					"Ö",
+					"35",
 					"39"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Spaghetti mit scharfem Knoblauch- Blattspinat",
-				"attributes": [
-					"V",
-					"Ö",
-					"30"
-				],
-				"price": {
 					"student": 2.9,
 					"employee": 4.2,
 					"visitor": 5.1
@@ -277,11 +326,12 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Putensteak mit Hirtenkäse-Tomatenhaube an Chilisahne",
+				"name": "Sommerlicher Matjessalat mit Gurken, Tomaten und Zwiebeln",
 				"attributes": [
 					"1",
-					"30",
-					"36"
+					"2",
+					"3",
+					"33"
 				],
 				"price": {
 					"student": 4,
