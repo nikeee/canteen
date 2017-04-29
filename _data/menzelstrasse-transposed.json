@@ -8,19 +8,17 @@
 		}
 	},
 	"validity": {
-		"from": "2017-04-24T00:00:00.000Z",
-		"until": "2017-04-28T00:00:00.000Z"
+		"from": "2017-05-01T00:00:00.000Z",
+		"until": "2017-05-05T00:00:00.000Z"
 	},
 	"days": [
+		[],
 		[
 			{
-				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an Pfeffer-Sauerrahmdip",
+				"name": "Indisch Aloo Gobi mit Kartoffeln und Blumenkohl",
 				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36",
-					"38"
+					"V",
+					"39"
 				],
 				"price": {
 					"student": 1.8,
@@ -31,44 +29,10 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gegrillte, nordhessische Kartoffelbratwurst auf Majoranjus",
+				"name": "Ofenfrischer Spießbraten an griechischem Zaziki",
 				"attributes": [
 					"2",
-					"8",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Rosmarinkartoffeln mit Tomatencreme",
-				"attributes": [
-					"V",
 					"3",
-					"35"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Berner Riesenrösti mit Geschnetzeltem nach Züricher Art",
-				"attributes": [
-					"1",
-					"30",
 					"36",
 					"S"
 				],
@@ -83,7 +47,7 @@
 		],
 		[
 			{
-				"name": "Italienische Gabelspaghetti mit Tomatensauce",
+				"name": "Geschmortes Ratatouille im gelben Reisrand",
 				"attributes": [
 					"V",
 					"30"
@@ -97,8 +61,11 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Geschnetzeltes von der Putenbrust in Pfirsichrahm",
+				"name": "Hähnchenbrust mit Cidre-Rahmsauce",
 				"attributes": [
+					"A",
+					"1",
+					"3",
 					"30",
 					"36"
 				],
@@ -113,13 +80,12 @@
 		],
 		[
 			{
-				"name": "Gemüsecurry in scharfer Sauce mit Kokos",
+				"name": "Frisch gebackene Kartoffelecken mit cremigem Dip",
 				"attributes": [
 					"V",
-					"1",
+					"3",
 					"30",
-					"35",
-					"39"
+					"35"
 				],
 				"price": {
 					"student": 1.9,
@@ -130,11 +96,12 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Mie-Nudelpfanne mit Pute und Gemüse",
+				"name": "Penne mit Blattspinat und Hackfleisch",
 				"attributes": [
+					"1",
 					"30",
-					"35",
-					"39"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -147,25 +114,31 @@
 		],
 		[
 			{
-				"name": "Minestrone - Italienische Gemüsesuppe mit krossem Baguette",
+				"name": "Goldgelb gebackenes Möhrenschnitzel auf Passionsfruchtsahne",
 				"attributes": [
-					"V",
+					"F",
+					"1",
+					"2",
+					"3",
+					"9",
 					"30",
-					"38"
+					"32",
+					"36",
+					"38",
+					"39",
+					"40"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
+				"name": "Balkan-Reisgericht mit Schweinefleisch",
 				"attributes": [
-					"32",
-					"36",
 					"S"
 				],
 				"price": {

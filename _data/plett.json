@@ -7,20 +7,27 @@
 		}
 	},
 	"validity": {
-		"from": "2017-04-24T00:00:00.000Z",
-		"until": "2017-04-28T00:00:00.000Z"
+		"from": "2017-05-01T00:00:00.000Z",
+		"until": "2017-05-05T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an Pfeffer-Sauerrahmdip",
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Indisch Aloo Gobi mit Kartoffeln und Blumenkohl",
 				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36",
-					"38"
+					"V",
+					"39"
 				],
 				"price": {
 					"student": 1.8,
@@ -29,22 +36,8 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Rosmarinkartoffeln mit Tomatencreme",
-				"attributes": [
-					"V",
-					"3",
-					"35"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Italienische Gabelspaghetti mit Tomatensauce",
+				"name": "Geschmortes Ratatouille im gelben Reisrand",
 				"attributes": [
 					"V",
 					"30"
@@ -57,13 +50,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gemüsecurry in scharfer Sauce mit Kokos",
+				"name": "Frisch gebackene Kartoffelecken mit cremigem Dip",
 				"attributes": [
 					"V",
-					"1",
+					"3",
 					"30",
-					"35",
-					"39"
+					"35"
 				],
 				"price": {
 					"student": 1.9,
@@ -73,46 +65,35 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Minestrone - Italienische Gemüsesuppe mit krossem Baguette",
+				"name": "Goldgelb gebackenes Möhrenschnitzel auf Passionsfruchtsahne",
 				"attributes": [
-					"V",
+					"F",
+					"1",
+					"2",
+					"3",
+					"9",
 					"30",
-					"38"
+					"32",
+					"36",
+					"38",
+					"39",
+					"40"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
-			"1": {
-				"name": "Gegrillte, nordhessische Kartoffelbratwurst auf Majoranjus",
+			"1": null,
+			"2": {
+				"name": "Ofenfrischer Spießbraten an griechischem Zaziki",
 				"attributes": [
 					"2",
 					"3",
-					"4",
-					"8",
-					"30",
-					"36",
-					"38",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Berner Riesenrösti mit Geschnetzeltem nach Züricher Art",
-				"attributes": [
-					"1",
-					"30",
 					"36",
 					"S"
 				],
@@ -124,8 +105,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Geschnetzeltes von der Putenbrust in Pfirsichrahm",
+				"name": "Hähnchenbrust mit Cidre-Rahmsauce",
 				"attributes": [
+					"A",
+					"1",
+					"3",
 					"30",
 					"36"
 				],
@@ -137,11 +121,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Mie-Nudelpfanne mit Pute und Gemüse",
+				"name": "Penne mit Blattspinat und Hackfleisch",
 				"attributes": [
+					"1",
 					"30",
-					"35",
-					"39"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -151,10 +136,8 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
+				"name": "Balkan-Reisgericht mit Schweinefleisch",
 				"attributes": [
-					"32",
-					"36",
 					"S"
 				],
 				"price": {
@@ -166,123 +149,106 @@
 			}
 		},
 		"Essen 3 oder 4": {
-			"1": {
-				"name": "Cannelloni mit Rindfleisch und Aubergine gefüllt in Tomaten-Basilikumsauce mit Käse überbacken",
-				"attributes": [
-					"30",
-					"35",
-					"36",
-					"R"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"2": null,
-			"3": {
-				"name": "Gebackene Falafelbällchen mit Creme von roten Linsen und Fladenbrotecke",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36",
-					"38",
-					"40"
-				],
-				"price": {
-					"student": 3.8,
-					"employee": 5.1,
-					"visitor": 6
-				},
-				"vitalInfo": null
-			},
-			"4": null,
-			"5": null
-		},
-		"Angebot des Tages I": {
-			"1": {
-				"name": "Süßkartoffelcurry mit Kichererbsen, Spinat und Basmatireis",
-				"attributes": [
-					"V",
-					"MV",
-					"3",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": {
-					"fat": 17,
-					"carbohydrate": 87,
-					"protein": 25,
-					"calories": 657
-				}
-			},
+			"1": null,
 			"2": {
-				"name": "Gebratenes Rotbarschfilet auf Karotten-Brokkolipüree",
+				"name": "Fischroulade mit Gemüse gefüllt an Tomaten-Sahnesauce",
 				"attributes": [
-					"1",
+					"A",
 					"30",
 					"33",
-					"36"
+					"36",
+					"38",
+					"41"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 3.6,
+					"employee": 4.9,
+					"visitor": 5.8
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Kritharaki mit Tomaten und Zwiebelgyros, dazu Weißkrautsalat",
-				"attributes": [
-					"MV",
-					"30",
-					"32",
-					"S"
-				],
-				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": {
-					"fat": 22,
-					"carbohydrate": 89,
-					"protein": 44,
-					"calories": 725
-				}
-			},
+			"3": null,
 			"4": {
-				"name": "Griechisches Moussaka mit Aubergine und Kartoffelwürfeln",
+				"name": "Gebratenes Putenschnitzel auf einer Spargelsauce",
 				"attributes": [
-					"F",
 					"1",
 					"30",
 					"32",
 					"36"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Buntbarsch mit Tomaten-Champignonkruste und Estragonsauce",
+				"name": "Hähnchenbrust auf Burzelkraut in Rahm",
+				"attributes": [
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null
+			}
+		},
+		"Angebot des Tages I": {
+			"1": null,
+			"2": {
+				"name": "Spaghetti mit Kürbis-Soja-Bolognese",
+				"attributes": [
+					"V",
+					"MV",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.2,
+					"employee": 3.5,
+					"visitor": 4.4
+				},
+				"vitalInfo": {
+					"fat": 21,
+					"carbohydrate": 98,
+					"protein": 39,
+					"calories": 749
+				}
+			},
+			"3": {
+				"name": "Schweinesteak mit Peperonisauce, Bandnudeln und buntem Salat",
 				"attributes": [
 					"MV",
-					"2",
 					"30",
-					"33",
-					"36"
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
+				},
+				"vitalInfo": {
+					"fat": 23,
+					"carbohydrate": 87,
+					"protein": 46,
+					"calories": 736
+				}
+			},
+			"4": {
+				"name": "Süßkartoffel-Puffer mit Mango-Senfdip",
+				"attributes": [
+					"F",
+					"MV",
+					"32",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 3.4,
@@ -291,10 +257,25 @@
 				},
 				"vitalInfo": {
 					"fat": 26,
-					"carbohydrate": 84,
-					"protein": 46,
-					"calories": 749
+					"carbohydrate": 91,
+					"protein": 27,
+					"calories": 727
 				}
+			},
+			"5": {
+				"name": "Gebackenes Schollenfilet an hausgemachtem Kartoffelsalat",
+				"attributes": [
+					"9",
+					"30",
+					"33",
+					"39"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
 			}
 		}
 	}
