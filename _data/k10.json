@@ -13,7 +13,16 @@
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
-			"1": null,
+			"1": {
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
 			"2": {
 				"name": "Geschnetzeltes vom Schwein in Sauce Café de Paris",
 				"attributes": [
@@ -56,21 +65,21 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Kassler-Nackensteak auf Rahmwirsing",
+				"name": "Kassler-Nackensteak auf hausgemachtem Kartoffelsalat",
 				"attributes": [
-					"1",
 					"2",
 					"3",
 					"4",
-					"30",
+					"9",
 					"36",
 					"38",
+					"39",
 					"S"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null
 			}
@@ -78,12 +87,13 @@
 		"Angebot 2": {
 			"1": null,
 			"2": {
-				"name": "Italienische Kartoffelgnocchi mit Steinpilzrahmsauce mit Käse überbacken",
+				"name": "Italienische Kartoffelgnocchi in Steinpilzrahmsauce mit Käse überbacken",
 				"attributes": [
 					"F",
 					"30",
 					"32",
-					"36"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.9,
@@ -120,7 +130,7 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Kartoffelpuffer mit Apfelmus",
+				"name": "Goldgelb gebackene Kartoffelpuffer mit Apfelmus",
 				"attributes": [
 					"F",
 					"3",
@@ -137,7 +147,7 @@
 		"Angebot 3 solange der Vorrat reicht": {
 			"1": null,
 			"2": {
-				"name": "Gebackener Alaska Seelachs an leichten Kräuterdip",
+				"name": "Gebackener Alaska Seelachs an leichtem Kräuterdip",
 				"attributes": [
 					"30",
 					"33",
@@ -166,7 +176,7 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Großer, bunter Salatteller mit mit hauchdünnen Rindfleischscheiben an Thunfischcreme",
+				"name": "Großer, bunter Salatteller mit hauchdünnen Rindfleischscheiben an Thunfischcreme",
 				"attributes": [
 					"3",
 					"32",

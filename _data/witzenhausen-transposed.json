@@ -72,16 +72,15 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Rindergeschnetzeltes nach Mediterraner Art",
+				"name": "Ofenfrischer Spießbraten an griechischem Zaziki und hausgemachtem Krautsalat",
 				"attributes": [
-					"30",
 					"36",
-					"R"
+					"S"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Aktions-Essen"
@@ -140,15 +139,16 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Ofenfrischer Spießbraten an griechischem Zaziki und hausgemachtem Krautsalat",
+				"name": "Rindergeschnetzeltes nach Mediterraner Art",
 				"attributes": [
+					"30",
 					"36",
-					"S"
+					"R"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Aktions-Essen"

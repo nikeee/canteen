@@ -218,6 +218,19 @@
 		"Aktions-Essen": {
 			"1": null,
 			"2": {
+				"name": "Ofenfrischer Spießbraten an griechischem Zaziki und hausgemachtem Krautsalat",
+				"attributes": [
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
+			"3": {
 				"name": "Rindergeschnetzeltes nach Mediterraner Art",
 				"attributes": [
 					"30",
@@ -228,19 +241,6 @@
 					"student": 3.5,
 					"employee": 4.8,
 					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Ofenfrischer Spießbraten an griechischem Zaziki und hausgemachtem Krautsalat",
-				"attributes": [
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},

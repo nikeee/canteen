@@ -29,7 +29,11 @@
 			{
 				"name": "Indisch Aloo Gobi mit Kartoffeln und Blumenkohl",
 				"attributes": [
-					"V",
+					"F",
+					"30",
+					"32",
+					"36",
+					"38",
 					"39"
 				],
 				"price": {
@@ -80,11 +84,13 @@
 			{
 				"name": "Rustikaler Burger mit Beef, Bärlauch-Mayonnaise und Wildkräutersalat",
 				"attributes": [
+					"2",
 					"3",
 					"9",
 					"30",
 					"32",
 					"36",
+					"38",
 					"39",
 					"R"
 				],
