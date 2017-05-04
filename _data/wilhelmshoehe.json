@@ -44,7 +44,8 @@
 				"name": "Geschmortes Ratatouille im gelben Reisrand",
 				"attributes": [
 					"V",
-					"30"
+					"30",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -294,7 +295,8 @@
 					"F",
 					"1",
 					"30",
-					"36"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 4,
