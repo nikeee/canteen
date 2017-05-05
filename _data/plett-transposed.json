@@ -155,10 +155,11 @@
 			{
 				"name": "Frisch gebackene Kartoffelecken mit cremigem Dip",
 				"attributes": [
-					"V",
+					"F",
 					"3",
 					"30",
-					"35"
+					"35",
+					"36"
 				],
 				"price": {
 					"student": 1.9,

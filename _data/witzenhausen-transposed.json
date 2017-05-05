@@ -274,17 +274,19 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Bratheringfilets mit frischen Zwiebeln, Essiggurke und Bratkartoffeln",
+				"name": "Gebratene Scholle mit Remouladensauce",
 				"attributes": [
-					"9",
+					"3",
 					"30",
+					"32",
 					"33",
+					"36",
 					"39"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null,
 				"categoryName": "Aktions-Essen"
