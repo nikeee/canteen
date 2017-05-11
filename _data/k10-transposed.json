@@ -131,19 +131,18 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Schupfnudelauflauf in feiner Spinatcreme mit Käse überbacken",
+				"name": "Asiatische Gemüsepfanne mit Vollkornreis",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36",
-					"38"
+					"V",
+					"3",
+					"35",
+					"38",
+					"39"
 				],
 				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
