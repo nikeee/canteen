@@ -8,34 +8,38 @@
 		}
 	},
 	"validity": {
-		"from": "2017-05-08T00:00:00.000Z",
-		"until": "2017-05-12T00:00:00.000Z"
+		"from": "2017-05-15T00:00:00.000Z",
+		"until": "2017-05-19T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Penne in Pilz-Rahmsauce",
+				"name": "Kartoffelpfanne mit Gewürzgurke",
 				"attributes": [
-					"V",
-					"30",
-					"35"
+					"F",
+					"9",
+					"32",
+					"39"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Belgischer Speckpfannkuchen auf Kräuterdip",
+				"name": "Frühlingsrolle mit Geflügelfleisch gefüllt an süßsaurer Sauce",
 				"attributes": [
-					"2",
+					"1",
+					"3",
 					"30",
 					"32",
+					"35",
 					"36",
-					"S"
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -46,11 +50,11 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Huevos Mexicanos- Rührei mexikanisch mit Tomaten, Zwiebeln und Chili",
+				"name": "Spaghetti mit Tomatensauce Napoli",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"32"
+					"30"
 				],
 				"price": {
 					"student": 2.9,
@@ -61,7 +65,198 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Kroatischer Rinderbraten Dalmatinische Art",
+				"name": "Schweinekoteletts al'berdouille aus der Walonnie",
+				"attributes": [
+					"A",
+					"9",
+					"30",
+					"36",
+					"39",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Farfalle Tricolore in tomatisiertem Grünkernragout",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Asia Schweinestreifen in Red-Thaicurry-Sauce",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Türkischer Hummus aus Kichererbsen mit Ofenkartoffeln",
+				"attributes": [
+					"V",
+					"Ö",
+					"40"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Hähnchenbrust in Zwiebel-Sahne gegart",
+				"attributes": [
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Pfannenfrische Gemüsepaella",
+				"attributes": [
+					"V"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gebratene Gnocchi in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
+				"attributes": [
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Gekochte Eier in Curry-Gemüsesauce",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"32",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Feuerspieß vom Schwein",
+				"attributes": [
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Curry-Ragout von zweierlei Kartoffeln",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Mediterrane Gemüsepfanne mit Streifen von der Hähnchenbrust",
+				"attributes": [
+					"4"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Chili sin carne mit Tofu",
+				"attributes": [
+					"V",
+					"Ö",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Ofenfrischer Rinderschmorbraten in Rotweinjus",
 				"attributes": [
 					"A",
 					"30",
@@ -70,9 +265,9 @@
 					"R"
 				],
 				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
+					"student": 6,
+					"employee": 7.3,
+					"visitor": 8.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Aktions-Essen"
@@ -80,78 +275,16 @@
 		],
 		[
 			{
-				"name": "Thai Sojastreifen mit buntem Gemüse in scharfer Currysauce",
-				"attributes": [
-					"V",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Geschnetzeltes aus der Schweinekeule in Bärlauchrahm",
-				"attributes": [
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Gedünstete Karottenstifte mit Grünkern-Käsehaube überbacken",
+				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
 				"attributes": [
 					"F",
-					"Ö",
+					"1",
 					"30",
-					"35",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Fesenjan - Hähnchenkeule in Walnuss-Granatapfelsauce",
-				"attributes": [
+					"32",
+					"36",
 					"37"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Omelette an Béchamelsauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
 					"student": 1.9,
 					"employee": 3.2,
 					"visitor": 4.1
@@ -160,162 +293,30 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Mie-Nudelpfanne mit Pute und Gemüse",
-				"attributes": [
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Gebratene, panierte Tofuschnitte mit Curry-Erbsensauce",
-				"attributes": [
-					"V",
-					"Ö",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Ofenfrische Spare-Rips an Barbecuedip",
-				"attributes": [
-					"S"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Kartoffelpfannkuchen auf cremiger Kürbissauce",
-				"attributes": [
-					"V",
-					"1",
-					"30",
-					"35",
-					"39",
-					"41"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hühnerfrikassee mit Erbsen und Spargel",
-				"attributes": [
-					"A",
-					"1",
-					"30",
-					"32",
-					"36",
-					"41"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Nudeln mit Soja-Bolognese",
-				"attributes": [
-					"V",
-					"Ö",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Schnitzel mit Steinpilz-Rahmsauce",
-				"attributes": [
-					"1",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Grillfrische Zucchini auf Tomatensauce",
-				"attributes": [
-					"V",
-					"30",
-					"40"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Feine Knackwurst auf hausgemachtem Kartoffelsalat",
+				"name": "Gegrillter Fleischkäse auf Bratenjus",
 				"attributes": [
 					"2",
 					"3",
 					"8",
-					"9",
-					"32",
-					"36",
-					"39",
+					"30",
+					"R",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Ofenkartoffeln mit Kräuterquark",
+				"name": "Kartoffelrösti mit Blumenkohl-Rahmsauce",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"36"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -326,17 +327,15 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Bratheringfilets mit frischen Zwiebeln, Essiggurke und Bratkartoffeln",
+				"name": "Karibischer Fischtopf mit Kokosmilch und Süßkartoffeln",
 				"attributes": [
-					"9",
-					"30",
-					"33",
-					"39"
+					"31",
+					"33"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Aktions-Essen"
