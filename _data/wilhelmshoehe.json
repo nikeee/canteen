@@ -18,6 +18,7 @@
 				"attributes": [
 					"F",
 					"9",
+					"30",
 					"32",
 					"39"
 				],
@@ -91,6 +92,7 @@
 			"1": {
 				"name": "Ofenfrische Geflügelfrikadelle an Jus mit grünen Pfefferbeeren",
 				"attributes": [
+					"9",
 					"30",
 					"38",
 					"39"
@@ -240,10 +242,14 @@
 			"1": {
 				"name": "Mariniertes Tofusteak auf buntem Sesam-Glasnudelsalat",
 				"attributes": [
-					"V",
+					"F",
 					"MV",
+					"2",
 					"30",
+					"32",
 					"35",
+					"36",
+					"38",
 					"39",
 					"40"
 				],
