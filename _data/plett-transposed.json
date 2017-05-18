@@ -89,6 +89,7 @@
 				"name": "Farfalle Tricolore an tomatisiertem Grünkernragout",
 				"attributes": [
 					"V",
+					"1",
 					"30"
 				],
 				"price": {
@@ -102,6 +103,7 @@
 			{
 				"name": "Bami Goreng mit Geflügelstreifen",
 				"attributes": [
+					"2",
 					"30",
 					"32",
 					"39"

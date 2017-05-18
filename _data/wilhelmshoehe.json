@@ -33,7 +33,8 @@
 				"name": "Farfalle Tricolore an tomatisiertem Grünkernragout",
 				"attributes": [
 					"V",
-					"30"
+					"30",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -341,6 +342,7 @@
 			"2": {
 				"name": "Fischburger mit schwarzem Sesam Bun, Salaten und Sauerampferdip",
 				"attributes": [
+					"3",
 					"9",
 					"30",
 					"33",
