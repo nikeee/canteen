@@ -298,14 +298,13 @@
 		],
 		[
 			{
-				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
+				"name": "Curry von zweierlei Kartoffeln und Blumenkohl",
 				"attributes": [
-					"F",
-					"1",
+					"V",
+					"3",
 					"30",
-					"32",
-					"36",
-					"37"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 1.9,
@@ -316,16 +315,14 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Frühlingsrolle mit Geflügelfleisch gefüllt an süßsaurer Sauce",
+				"name": "Gegrillter Fleischkäse auf Bratenjus",
 				"attributes": [
-					"1",
+					"2",
 					"3",
+					"8",
 					"30",
-					"32",
-					"35",
-					"36",
-					"38",
-					"39"
+					"R",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -336,13 +333,13 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Paniertes Schnitzel vom Schwein auf Brokkolisauce",
+				"name": "Fruchtig gefüllter Germknödel auf Mohn-Vanillesauce",
 				"attributes": [
+					"F",
 					"1",
+					"2",
 					"30",
-					"32",
-					"36",
-					"S"
+					"36"
 				],
 				"price": {
 					"student": 3,
@@ -353,13 +350,12 @@
 				"categoryName": "Essen 3 oder 4"
 			},
 			{
-				"name": "Buntbarsch mit Tomaten-Champignonkruste und Estragonsauce",
+				"name": "Hähnchenpfanne mit Mandelromanesco und Kurkumareis",
 				"attributes": [
 					"MV",
-					"2",
+					"6",
 					"30",
-					"33",
-					"36"
+					"37"
 				],
 				"price": {
 					"student": 3.4,
@@ -367,10 +363,10 @@
 					"visitor": 5.6
 				},
 				"vitalInfo": {
-					"fat": 26,
-					"carbohydrate": 84,
-					"protein": 46,
-					"calories": 749
+					"fat": 22,
+					"carbohydrate": 80,
+					"protein": 38,
+					"calories": 665
 				},
 				"categoryName": "Angebot des Tages I"
 			}
