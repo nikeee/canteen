@@ -8,95 +8,19 @@
 		}
 	},
 	"validity": {
-		"from": "2017-05-15T00:00:00.000Z",
-		"until": "2017-05-19T00:00:00.000Z"
+		"from": "2017-05-22T00:00:00.000Z",
+		"until": "2017-05-26T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Kartoffelpfanne mit Gewürzgurke",
+				"name": "Tortellini mit Spinat und Ricotta gefüllt in Béchamelsauce",
 				"attributes": [
 					"F",
-					"9",
-					"30",
-					"32",
-					"39"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Ofenfrische Geflügelfrikadelle an Jus mit grünen Pfefferbeeren",
-				"attributes": [
-					"9",
-					"30",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Hähnchenbrust mit Tomate und Mozzarella überbacken auf Balsamicojus",
-				"attributes": [
 					"1",
-					"3",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 3 oder 4"
-			},
-			{
-				"name": "Mariniertes Tofusteak auf buntem Sesam-Glasnudelsalat",
-				"attributes": [
-					"F",
-					"MV",
-					"2",
 					"30",
 					"32",
-					"35",
-					"36",
-					"38",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": {
-					"fat": 22,
-					"carbohydrate": 78,
-					"protein": 21,
-					"calories": 618
-				},
-				"categoryName": "Angebot des Tages I"
-			}
-		],
-		[
-			{
-				"name": "Farfalle Tricolore an tomatisiertem Grünkernragout",
-				"attributes": [
-					"V",
-					"30",
-					"38"
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -107,44 +31,51 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Bami Goreng mit Geflügelstreifen",
+				"name": "Grillfrische Käse-Chili-Bratwurst an Bratenjus mit Ajvar",
 				"attributes": [
+					"8",
 					"30",
-					"32",
-					"39"
+					"36",
+					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Gegrilltes Steak von der Putenbrust mit Spargelcremesauce",
+				"name": "Auf der Haut gebratenes Zanderfilet an Riesling-Sahnesauce mit Bärlauch",
 				"attributes": [
+					"A",
 					"1",
 					"30",
-					"36"
+					"33",
+					"36",
+					"38",
+					"41"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 5.5,
+					"employee": 6.8,
+					"visitor": 7.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot des Tages I"
 			},
 			{
-				"name": "Fischburger mit schwarzem Sesam Bun, Salaten und Sauerampferdip",
+				"name": "Lassen Sie sich überraschen - mit einem leckeren Mensa Spezial Burger",
 				"attributes": [
 					"3",
 					"9",
 					"30",
-					"33",
+					"32",
 					"36",
-					"40"
+					"39",
+					"40",
+					"R"
 				],
 				"price": {
 					"student": 4,
@@ -157,79 +88,11 @@
 		],
 		[
 			{
-				"name": "Pfannenfrische Gemüsepaella",
-				"attributes": [
-					"V"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gebratene Gnocchi in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Pulled Pork vom Schweinenacken an Chili-Bierdip und hausgemachtem Süßkartoffelstampf",
-				"attributes": [
-					"A",
-					"1",
-					"3",
-					"30",
-					"36",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 3 oder 4"
-			},
-			{
-				"name": "Zucchinischnitzel mit Panko-Panierung auf Zitronen-Buttermilch-Quarkdip",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot des Tages I"
-			}
-		],
-		[
-			{
-				"name": "Curry von zweierlei Kartoffeln und Blumenkohl",
+				"name": "Hausgemachter Kichererbsentaler an Ananas-Chutney",
 				"attributes": [
 					"V",
-					"3",
 					"30",
-					"35",
-					"39"
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -240,71 +103,71 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gegrillter Fleischkäse auf Bratenjus",
+				"name": "Karibisches Mango-Hühnchen",
 				"attributes": [
-					"2",
+					"1",
 					"3",
-					"8",
+					"9",
 					"30",
-					"R",
-					"S"
+					"36",
+					"39"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Fruchtig gefüllter Germknödel auf Mohn-Vanillesauce",
+				"name": "Feuriger Gemüseeintopf mit Putenstreifen und Vollkornreis",
 				"attributes": [
-					"F",
-					"1",
-					"2",
+					"MV",
 					"30",
-					"36"
+					"35",
+					"36",
+					"37"
 				],
 				"price": {
 					"student": 2.9,
 					"employee": 4.2,
 					"visitor": 5.1
 				},
-				"vitalInfo": null,
-				"categoryName": "Essen 3 oder 4"
-			},
-			{
-				"name": "Hähnchenpfanne mit Mandelromanesco und Kurkumareis",
-				"attributes": [
-					"MV",
-					"6",
-					"30",
-					"37"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
 				"vitalInfo": {
 					"fat": 22,
-					"carbohydrate": 80,
+					"carbohydrate": 84,
 					"protein": 38,
-					"calories": 665
+					"calories": 683
 				},
 				"categoryName": "Angebot des Tages I"
+			},
+			{
+				"name": "Tranchiertes Schweinefilet im groben Senfkleid auf Rotweinjus",
+				"attributes": [
+					"A",
+					"3",
+					"30",
+					"39",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot des Tages II"
 			}
 		],
 		[
 			{
-				"name": "Curry von zweierlei Kartoffeln und Blumenkohl",
+				"name": "Original hessische grüne Sauce mit gehacktem Ei und Salzkartoffeln",
 				"attributes": [
-					"V",
-					"3",
-					"30",
-					"35",
-					"39"
+					"F",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -315,31 +178,33 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gegrillter Fleischkäse auf Bratenjus",
+				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
 				"attributes": [
-					"2",
 					"3",
-					"8",
 					"30",
-					"R",
-					"S"
+					"32",
+					"33",
+					"36",
+					"39"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Fruchtig gefüllter Germknödel auf Mohn-Vanillesauce",
+				"name": "Paniertes Schnitzel vom Schwein auf Apfelweinjus",
 				"attributes": [
-					"F",
-					"1",
-					"2",
+					"A",
+					"3",
+					"5",
 					"30",
-					"36"
+					"32",
+					"41",
+					"S"
 				],
 				"price": {
 					"student": 3,
@@ -350,12 +215,81 @@
 				"categoryName": "Essen 3 oder 4"
 			},
 			{
-				"name": "Hähnchenpfanne mit Mandelromanesco und Kurkumareis",
+				"name": "Linsen-Graupenragout mit Kartoffelpüree und Salat",
 				"attributes": [
+					"V",
 					"MV",
-					"6",
 					"30",
-					"37"
+					"35"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 81,
+					"protein": 26,
+					"calories": 650
+				},
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			}
+		],
+		[
+			{
+				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
+				"attributes": [
+					"V",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Italienische Radinudeln mit Chili con Carne",
+				"attributes": [
+					"30",
+					"32",
+					"R"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Gedünsteter Buntbarsch in Weißweinsud auf Gemüse mit Ebly",
+				"attributes": [
+					"A",
+					"MV",
+					"30",
+					"33",
+					"36",
+					"38",
+					"41"
 				],
 				"price": {
 					"student": 3.4,
@@ -363,10 +297,10 @@
 					"visitor": 5.6
 				},
 				"vitalInfo": {
-					"fat": 22,
-					"carbohydrate": 80,
-					"protein": 38,
-					"calories": 665
+					"fat": 25,
+					"carbohydrate": 83,
+					"protein": 45,
+					"calories": 735
 				},
 				"categoryName": "Angebot des Tages I"
 			}

@@ -134,10 +134,10 @@
 			{
 				"name": "Tortellini mit Ricotta-Spinat-Füllung in Bärlauch-Béchamelsauce mit Käse überbacken",
 				"attributes": [
-					"F",
 					"1",
 					"30",
 					"32",
+					"33",
 					"36"
 				],
 				"price": {
@@ -226,6 +226,7 @@
 				"attributes": [
 					"30",
 					"32",
+					"38",
 					"R",
 					"S"
 				],
@@ -258,6 +259,7 @@
 				"name": "Matjesfilet nach Hausfrauenart mit Äpfeln, Gurken und Zwiebeln",
 				"attributes": [
 					"2",
+					"3",
 					"9",
 					"33",
 					"36"
