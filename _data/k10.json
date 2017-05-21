@@ -7,16 +7,15 @@
 		}
 	},
 	"validity": {
-		"from": "2017-05-15T00:00:00.000Z",
-		"until": "2017-05-20T00:00:00.000Z"
+		"from": "2017-05-22T00:00:00.000Z",
+		"until": "2017-05-27T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Zartes Hähnchenbrustfilet in Limettenmarinade auf asiatischer Karotten-Ingwersauce",
+				"name": "Mariniertes Asia-Hähnchenbrustfilet auf Red-Thaicurry-Sauce",
 				"attributes": [
-					"2",
 					"30",
 					"36",
 					"39"
@@ -29,57 +28,27 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kräuter-Putenbraten mit Rahmsauce",
+				"name": "Kalbsrahmgulasch mit Sherry",
 				"attributes": [
+					"A",
 					"30",
-					"36"
+					"36",
+					"41",
+					"R"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Goldgelb gebackenes Schweineschnitzel mit Steinpilzrahmsauce",
+				"name": "Putenschnitzel im Cornflakesmantel mit hausgemachtem Gurkenrelish",
 				"attributes": [
 					"30",
 					"32",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Hausgemachtes Rinderhacksteak auf ungarischer Jalapeño-Paprikasauce",
-				"attributes": [
-					"30",
-					"32",
-					"35",
-					"39",
-					"R"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Grillteller mit Geflügel- und Schweinefleisch an scharfem Barbecuedip",
-				"attributes": [
-					"30",
-					"32",
-					"38",
-					"R",
-					"S"
+					"39"
 				],
 				"price": {
 					"student": 4,
@@ -87,77 +56,82 @@
 					"visitor": 6.2
 				},
 				"vitalInfo": null
-			}
-		},
-		"Angebot 2": {
-			"1": {
-				"name": "Spirelli mit tomatisierter Gorgonzolasauce und Käse überbacken",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Großer, bunter Salatteller mit Mozzarellasticks und Baguette",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Tortellini mit Ricotta-Spinat-Füllung in Bärlauch-Béchamelsauce mit Käse überbacken",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"33",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hausgemachte Semmelknödel an Champignons à la Crème",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 1.7,
+					"employee": 3,
+					"visitor": 3.9
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Couscouspfanne mit knackigem Gemüse und Ajvardip",
+				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
+				"attributes": [],
+				"price": {
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			}
+		},
+		"Angebot 2": {
+			"1": {
+				"name": "Lahmacun mit Salaten und leichtem Knoblauchdip",
 				"attributes": [
 					"F",
-					"3",
 					"30",
-					"36",
+					"36"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Hausgemachte Spinatlasagne in Knoblauchcreme",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Ofenfrische Pizza mit Tomaten, Spargel, Kressedip und Käse",
+				"attributes": [
+					"F",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 6,
+					"employee": 7.3,
+					"visitor": 8.2
+				},
+				"vitalInfo": null
+			},
+			"4": null,
+			"5": {
+				"name": "Gebackene Mini Frühlingsröllchen auf asiatischem Chilidip",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"35",
+					"38",
 					"39"
 				],
 				"price": {
@@ -170,7 +144,20 @@
 		},
 		"Angebot 3 solange der Vorrat reicht": {
 			"1": {
-				"name": "Backfrischer Himbeer-Pfannkuchen an Vanillesauce",
+				"name": "Ofenkartoffel mit Kräuterquark",
+				"attributes": [
+					"F",
+					"36"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Backfrischer Brokkoli-Pfannkuchen an Chili-Quarkdip",
 				"attributes": [
 					"F",
 					"1",
@@ -185,71 +172,41 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Frischer Stangenspargel mit Sauce Hollandaise",
+			"3": {
+				"name": "Großer, bunter Salatteller an Cocktaildressing mit gebackenen Tintenfischringen",
 				"attributes": [
-					"F",
-					"A",
 					"1",
+					"3",
 					"30",
 					"32",
 					"35",
 					"36",
-					"41"
+					"39",
+					"43"
 				],
 				"price": {
-					"student": 6.5,
-					"employee": 7.8,
-					"visitor": 8.7
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Komposition von Edelfischen in leichter Dillsauce",
-				"attributes": [
-					"A",
-					"1",
-					"30",
-					"31",
-					"33",
-					"36",
-					"41"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Flammkuchen mit Speck, roten Zwiebeln, Käse und Schmand",
-				"attributes": [
-					"2",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
-			},
+			"4": null,
 			"5": {
-				"name": "Matjesfilet nach Hausfrauenart mit Äpfeln, Gurken und Zwiebeln",
+				"name": "Seelachsfilet in Knusperpanade auf Remouladensauce",
 				"attributes": [
-					"2",
 					"3",
 					"9",
+					"30",
+					"32",
 					"33",
-					"36"
+					"36",
+					"39"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
 				},
 				"vitalInfo": null
 			}
