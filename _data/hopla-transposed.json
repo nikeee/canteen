@@ -34,9 +34,11 @@
 			{
 				"name": "Grillfrische Käse-Chili-Bratwurst an Bratenjus mit Ajvar",
 				"attributes": [
+					"3",
 					"8",
 					"30",
 					"36",
+					"38",
 					"S"
 				],
 				"price": {
@@ -69,6 +71,8 @@
 			{
 				"name": "Lassen Sie sich überraschen - mit einem leckeren Mensa Spezial Burger",
 				"attributes": [
+					"1",
+					"2",
 					"3",
 					"9",
 					"30",
@@ -76,7 +80,8 @@
 					"36",
 					"39",
 					"40",
-					"R"
+					"R",
+					"S"
 				],
 				"price": {
 					"student": 4,
