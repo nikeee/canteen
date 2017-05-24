@@ -34,11 +34,14 @@
 			{
 				"name": "Grillfrische Käse-Chili-Bratwurst an Bratenjus mit Ajvar",
 				"attributes": [
+					"G",
 					"3",
 					"8",
+					"G",
 					"30",
 					"36",
 					"38",
+					"R",
 					"S"
 				],
 				"price": {
@@ -164,7 +167,8 @@
 					"30",
 					"35",
 					"36",
-					"37"
+					"37",
+					"42"
 				],
 				"price": {
 					"student": 2.9,
