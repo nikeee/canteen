@@ -45,16 +45,16 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Original hessische grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"name": "Original hessische grüne Sauce mit gehacktem Ei cremiger Joghurt und Salzkartoffeln",
 				"attributes": [
 					"F",
 					"32",
 					"36"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null
 			},

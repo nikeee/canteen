@@ -60,18 +60,16 @@
 		],
 		[
 			{
-				"name": "Kalbsrahmgulasch mit Sherry",
+				"name": "Mariniertes Asia-Hähnchenbrustfilet auf Red-Thaicurry-Sauce",
 				"attributes": [
-					"A",
 					"30",
 					"36",
-					"41",
-					"R"
+					"39"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
