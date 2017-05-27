@@ -9,19 +9,20 @@
 		}
 	},
 	"validity": {
-		"from": "2017-05-22T00:00:00.000Z",
-		"until": "2017-05-26T00:00:00.000Z"
+		"from": "2017-05-29T00:00:00.000Z",
+		"until": "2017-06-02T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Tortellini mit Spinat und Ricotta gefüllt in Béchamelsauce",
+				"name": "Orientalische Linsenpfanne mit buntem Gemüse",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
+					"V",
+					"2",
+					"38",
+					"39",
+					"40",
+					"41"
 				],
 				"price": {
 					"student": 1.8,
@@ -32,16 +33,15 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Grillfrische Käse-Chili-Bratwurst an Bratenjus mit Ajvar",
+				"name": "Kassler-Nackenbraten auf Calvadosjus",
 				"attributes": [
-					"G",
+					"A",
+					"2",
 					"3",
-					"8",
-					"G",
+					"4",
 					"30",
 					"36",
 					"38",
-					"R",
 					"S"
 				],
 				"price": {
@@ -53,28 +53,302 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Auf der Haut gebratenes Zanderfilet an Riesling-Sahnesauce mit Bärlauch",
+				"name": "Frisch gebratenes Hähnchenbrustschnitzel Toscana auf Mascarponesauce",
 				"attributes": [
-					"A",
+					"1",
+					"30",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 3 oder 4"
+			},
+			{
+				"name": "Gegrilltes Seelachsfilet auf flüssiger Zitronenbutter mit Seealgentopping",
+				"attributes": [
 					"1",
 					"30",
 					"33",
+					"35",
 					"36",
-					"38",
-					"41"
+					"40"
 				],
 				"price": {
-					"student": 5.5,
-					"employee": 6.8,
-					"visitor": 7.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null,
+				"categoryName": "Wok/Grill"
+			},
+			{
+				"name": "Johannisbeer-Quark-Auflauf, dazu Zucchini-Rohkost-Salat",
+				"attributes": [
+					"F",
+					"MV",
+					"1",
+					"30",
+					"32",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": {
+					"fat": 21,
+					"carbohydrate": 90,
+					"protein": 41,
+					"calories": 722
+				},
+				"categoryName": "Pizza/Pasta"
+			}
+		],
+		[
+			{
+				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gulasch von der Putenoberkeule mit Pfefferrahm",
+				"attributes": [
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Paniertes Schnitzel vom Schwein auf Käsecreme und Röstzwiebeln",
+				"attributes": [
+					"1",
+					"30",
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 3 oder 4"
+			},
+			{
+				"name": "Gemüsepfanne mit Rinderhackfleisch, Zartweizen und Tomaten-Chili-Dip, dazu bunter Weißkrautsalat",
+				"attributes": [
+					"MV",
+					"30",
+					"R"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": {
+					"fat": 21,
+					"carbohydrate": 74,
+					"protein": 40,
+					"calories": 657
+				},
 				"categoryName": "Angebot des Tages"
 			},
 			{
-				"name": "Lassen Sie sich überraschen - mit einem leckeren Mensa Spezial Burger",
+				"name": "Lauwarme Quiche mit Mangold, Pinienkernen und Kirschtomaten an gartenfrischen Salaten mit Senfdressing",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Pizza/Pasta"
+			}
+		],
+		[
+			{
+				"name": "Hausgemachter Kartoffelgratin mit Pilzen",
+				"attributes": [
+					"V",
+					"1",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gebratene Krakauer auf Senfjus",
+				"attributes": [
+					"2",
+					"3",
+					"30",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Putensteak Milanese auf Spaghetti und fruchtiger Tomatensauce",
+				"attributes": [
+					"30",
+					"32"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 3 oder 4"
+			},
+			{
+				"name": "Gebackene Tintenfischringe an Sauce Tartare",
 				"attributes": [
 					"1",
+					"3",
+					"9",
+					"30",
+					"32",
+					"36",
+					"39",
+					"43"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Wok/Grill"
+			},
+			{
+				"name": "Backfrische Pizza mit Tomaten, Rinderhack und Mais",
+				"attributes": [
+					"30",
+					"36",
+					"R"
+				],
+				"price": {
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Pizza/Pasta"
+			}
+		],
+		[
+			{
+				"name": "Hirtenkäsesteak auf Rahmspinat",
+				"attributes": [
+					"F",
+					"1",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Grünes Thaicurry mit Hühnchen",
+				"attributes": [
+					"1",
+					"30",
+					"35",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Lassen Sie sich überraschen",
+				"attributes": [
+					"V"
+				],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 3 oder 4"
+			},
+			{
+				"name": "Soja-Steak mit rotem Zwiebelgemüse und Süßkartoffelpüree",
+				"attributes": [
+					"V",
+					"MV",
+					"3",
+					"35"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": {
+					"fat": 18,
+					"carbohydrate": 70,
+					"protein": 26,
+					"calories": 601
+				},
+				"categoryName": "Angebot des Tages"
+			},
+			{
+				"name": "Scharfer Jalapeño Bacon Burger mit Beef und Eisbergsalat",
+				"attributes": [
 					"2",
 					"3",
 					"9",
@@ -87,37 +361,23 @@
 					"S"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Wok/Grill"
-			},
-			{
-				"name": "Flammkuchen mit Chili sin Carne",
-				"attributes": [
-					"V",
-					"1",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Pizza/Pasta"
 			}
 		],
 		[
 			{
-				"name": "Hausgemachter Kichererbsentaler an Ananas-Chutney",
+				"name": "Veganes Currywurst-Gulasch mit Ketchupsauce",
 				"attributes": [
 					"V",
+					"1",
 					"30",
-					"38"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 1.9,
@@ -128,105 +388,14 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Karibisches Mango-Hühnchen",
+				"name": "Semmelknödel mit Speck-Schmandstippe",
 				"attributes": [
-					"1",
-					"3",
-					"9",
-					"30",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Gebackenes Emmentalerschnitzel mit fruchtigem Honig-Tomatendip",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.7,
-					"employee": 5,
-					"visitor": 5.9
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 3 oder 4"
-			},
-			{
-				"name": "Feuriger Gemüseeintopf mit Putenstreifen und Vollkornreis",
-				"attributes": [
-					"MV",
-					"30",
-					"35",
-					"36",
-					"37",
-					"42"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": {
-					"fat": 22,
-					"carbohydrate": 84,
-					"protein": 38,
-					"calories": 683
-				},
-				"categoryName": "Angebot des Tages"
-			},
-			{
-				"name": "Tranchiertes Schweinefilet im groben Senfkleid auf Rotweinjus",
-				"attributes": [
-					"A",
+					"2",
 					"3",
 					"30",
-					"39",
-					"41",
+					"32",
+					"36",
 					"S"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Wok/Grill"
-			}
-		],
-		[
-			{
-				"name": "Original hessische grüne Sauce mit gehacktem Ei cremiger Joghurt und Salzkartoffeln",
-				"attributes": [
-					"F",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
-				"attributes": [
-					"3",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
 				],
 				"price": {
 					"student": 2.3,
@@ -237,15 +406,48 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Paniertes Schnitzel vom Schwein auf Apfelweinjus",
+				"name": "Gegrilltes Putensteak Hawaii auf fruchtiger Currysauce",
 				"attributes": [
-					"A",
+					"1",
+					"30",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 3.6,
+					"employee": 4.9,
+					"visitor": 5.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 3 oder 4"
+			},
+			{
+				"name": "Hausgebeizter Lachs mit Kartoffelpuffern und Salat dazu Sauerrahm-Limettendip",
+				"attributes": [
+					"2",
+					"32",
+					"33",
+					"36",
+					"39",
+					"41"
+				],
+				"price": {
+					"student": 6,
+					"employee": 7.3,
+					"visitor": 8.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot des Tages"
+			},
+			{
+				"name": "Hausgemachte Quark-Liwanzen mit fruchtigem Heidelbeer-Ragout und Vanilleeis",
+				"attributes": [
+					"F",
+					"1",
 					"3",
-					"5",
 					"30",
 					"32",
-					"41",
-					"S"
+					"36"
 				],
 				"price": {
 					"student": 3,
@@ -253,130 +455,7 @@
 					"visitor": 5.2
 				},
 				"vitalInfo": null,
-				"categoryName": "Essen 3 oder 4"
-			},
-			{
-				"name": "Linsen-Graupenragout mit Kartoffelpüree und Salat",
-				"attributes": [
-					"V",
-					"MV",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": {
-					"fat": 22,
-					"carbohydrate": 81,
-					"protein": 26,
-					"calories": 650
-				},
-				"categoryName": "Angebot des Tages"
-			},
-			{
-				"name": "Hähnchenbrust mit Chili mariniert auf cremiger Karotten-Ingwersauce",
-				"attributes": [
-					"1",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
 				"categoryName": "Wok/Grill"
-			}
-		],
-		[
-			{
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			}
-		],
-		[
-			{
-				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
-				"attributes": [
-					"V",
-					"30",
-					"38"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Italienische Radinudeln mit Chili con Carne",
-				"attributes": [
-					"30",
-					"32",
-					"R"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Gebratenes Hähnchenschnitzel in Sesamhülle an Currysauce",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 3 oder 4"
-			},
-			{
-				"name": "Gedünsteter Buntbarsch in Weißweinsud auf Gemüse mit Ebly",
-				"attributes": [
-					"A",
-					"MV",
-					"30",
-					"33",
-					"36",
-					"38",
-					"41"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": {
-					"fat": 25,
-					"carbohydrate": 83,
-					"protein": 45,
-					"calories": 735
-				},
-				"categoryName": "Angebot des Tages"
 			}
 		]
 	]
