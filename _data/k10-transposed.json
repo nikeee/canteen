@@ -8,18 +8,14 @@
 		}
 	},
 	"validity": {
-		"from": "2017-05-22T00:00:00.000Z",
-		"until": "2017-05-27T00:00:00.000Z"
+		"from": "2017-05-29T00:00:00.000Z",
+		"until": "2017-06-03T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Mariniertes Asia-Hähnchenbrustfilet auf Red-Thaicurry-Sauce",
-				"attributes": [
-					"30",
-					"36",
-					"39"
-				],
+				"name": "Gegrilltes Steak von der Putenbrust mit Oliven-Tomaten-Chimichurri",
+				"attributes": [],
 				"price": {
 					"student": 3.5,
 					"employee": 4.8,
@@ -29,53 +25,7 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Lahmacun mit Salaten und leichtem Knoblauchdip",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Ofenkartoffel mit Kräuterquark",
-				"attributes": [
-					"F",
-					"36"
-				],
-				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3 solange der Vorrat reicht"
-			}
-		],
-		[
-			{
-				"name": "Mariniertes Asia-Hähnchenbrustfilet auf Red-Thaicurry-Sauce",
-				"attributes": [
-					"30",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Hausgemachte Spinatlasagne in Knoblauchcreme",
+				"name": "Gebratene Gnocchi mit Tomatensalat und Béchamelsauce mit Rucola",
 				"attributes": [
 					"F",
 					"1",
@@ -84,53 +34,20 @@
 					"36"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Backfrischer Brokkoli-Pfannkuchen an Chili-Quarkdip",
+				"name": "Edles Wildschweinragout in Wacholder-Rotweinsauce",
 				"attributes": [
-					"F",
-					"1",
+					"A",
 					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3 solange der Vorrat reicht"
-			}
-		],
-		[
-			{
-				"name": "Putenschnitzel im Cornflakesmantel mit hausgemachtem Gurkenrelish",
-				"attributes": [
-					"30",
-					"32",
-					"39"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Ofenfrische Pizza mit Tomaten, Spargel, Kressedip und Käse",
-				"attributes": [
-					"F",
-					"30",
-					"36"
+					"41",
+					"S"
 				],
 				"price": {
 					"student": 6,
@@ -138,19 +55,17 @@
 					"visitor": 8.2
 				},
 				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
+			}
+		],
+		[
 			{
-				"name": "Großer, bunter Salatteller an Cocktaildressing mit gebackenen Tintenfischringen",
+				"name": "Zartes Geschnetzeltes vom Rind in mediterraner Sauce",
 				"attributes": [
-					"1",
-					"3",
+					"4",
 					"30",
-					"32",
-					"35",
 					"36",
-					"39",
-					"43"
+					"R"
 				],
 				"price": {
 					"student": 3.5,
@@ -158,43 +73,65 @@
 					"visitor": 5.7
 				},
 				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Schwäbische Spätzle mit Röstzwiebeln und Käsesauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Tranchen von der gebratenen Entenbrust auf Aprikosenjus",
+				"attributes": [
+					"30"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null,
 				"categoryName": "Angebot 3 solange der Vorrat reicht"
 			}
 		],
 		[
 			{
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
+				"name": "Gebratenes Hähnchenschnitzel in der Sesamhülle auf schwarzer, asiatischer Zwiebelsauce",
+				"attributes": [
+					"1",
+					"30",
+					"32",
+					"35",
+					"39",
+					"40"
+				],
 				"price": {
-					"student": 1.7,
-					"employee": 3,
-					"visitor": 3.9
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			}
-		],
-		[
-			{
-				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
-				"attributes": [],
-				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Gebackene Mini Frühlingsröllchen auf asiatischem Chilidip",
+				"name": "Buntes Sommergemüse in Sauce Hollandaise mit Röstitaler",
 				"attributes": [
 					"F",
 					"30",
 					"32",
-					"35",
-					"38",
-					"39"
+					"36"
 				],
 				"price": {
 					"student": 2.8,
@@ -205,20 +142,117 @@
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Seelachsfilet in Knusperpanade auf Remouladensauce",
+				"name": "Gebackenes Ciabatta mit Tomaten und Mozarella an buntem Salatbukett mit Balsamicodresssing",
 				"attributes": [
-					"3",
-					"9",
+					"F",
 					"30",
-					"32",
-					"33",
-					"36",
-					"39"
+					"36"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
+			}
+		],
+		[
+			{
+				"name": "Ofenfrischer Sauerbraten vom Schweinerücken auf Bratenjus",
+				"attributes": [
+					"A",
+					"3",
+					"30",
+					"37",
+					"38",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Paprikaschote mit Reis und Gemüse gefüllt auf pikanter Tomatensauce",
+				"attributes": [
+					"V",
+					"30"
 				],
 				"price": {
 					"student": 2.8,
 					"employee": 4.1,
 					"visitor": 5
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Im Ganzen gegrillte Forelle auf zerlassener Kräuterbutter",
+				"attributes": [
+					"1",
+					"30",
+					"33",
+					"35",
+					"36"
+				],
+				"price": {
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
+			}
+		],
+		[
+			{
+				"name": "Burrito Mexiko mit Hackfleisch gefüllt an Pfeffer-Schmanddip",
+				"attributes": [
+					"2",
+					"30",
+					"36",
+					"R"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Gebackener marinierter Hirtenkäse auf geschmortem Ratatouille-Gemüse",
+				"attributes": [
+					"F",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Flammkuchen mit Salbei, Champignons und Gouda",
+				"attributes": [
+					"F",
+					"30",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 3 solange der Vorrat reicht"
