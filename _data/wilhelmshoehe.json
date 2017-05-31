@@ -32,10 +32,15 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
+				"name": "Orientalische Linsenpfanne mit buntem Gemüse",
 				"attributes": [
 					"V",
-					"30"
+					"2",
+					"30",
+					"38",
+					"39",
+					"40",
+					"41"
 				],
 				"price": {
 					"student": 1.9,
