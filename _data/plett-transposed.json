@@ -182,7 +182,9 @@
 				"attributes": [
 					"2",
 					"3",
+					"8",
 					"30",
+					"36",
 					"39",
 					"S"
 				],
@@ -197,8 +199,11 @@
 			{
 				"name": "Putensteak Milanese auf Spaghetti und fruchtiger Tomatensauce",
 				"attributes": [
+					"1",
+					"2",
 					"30",
-					"32"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 3.3,
