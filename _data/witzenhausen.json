@@ -7,17 +7,27 @@
 		}
 	},
 	"validity": {
-		"from": "2017-05-29T00:00:00.000Z",
-		"until": "2017-06-02T00:00:00.000Z"
+		"from": "2017-06-05T00:00:00.000Z",
+		"until": "2017-06-09T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Linseneintopf mit Wurzelgemüse",
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Indisch Aloo Matar mit Kartoffeln und Erbsen",
 				"attributes": [
 					"V",
-					"38"
+					"39"
 				],
 				"price": {
 					"student": 1.8,
@@ -26,23 +36,29 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
+			"3": {
+				"name": "Käsetortellini in Gorgonzolasauce",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Hessische Kartoffelpfanne mit Kräutern und Pilzen an Schmanddip",
+			"4": {
+				"name": "Backfrischer Pfannkuchen an Birnenragout",
 				"attributes": [
 					"F",
+					"1",
+					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -52,30 +68,15 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Hirtenkäse mit Pesto-Tomaten",
-				"attributes": [
-					"F",
-					"1",
-					"2",
-					"6",
-					"36",
-					"37"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Veganer-Tofugulasch Cuurywurst Style",
+				"name": "Bunter, marinierter Penne-Salat mit Balsamicocreme und Baguette",
 				"attributes": [
 					"V",
 					"1",
-					"35",
-					"39"
+					"2",
+					"6",
+					"30",
+					"41"
 				],
 				"price": {
 					"student": 1.9,
@@ -86,77 +87,12 @@
 			}
 		},
 		"Essen 2": {
-			"1": {
-				"name": "Kassler-Nackenbraten auf Calvadosjus",
-				"attributes": [
-					"A",
-					"2",
-					"3",
-					"4",
-					"30",
-					"36",
-					"38",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
-				"name": "Gulasch von der Putenoberkeule mit Bärlauchrahm",
-				"attributes": [
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Krakauer auf Senfjus",
-				"attributes": [
-					"2",
-					"3",
-					"30",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Asia-Hähchnchenstreifen im grünem Curry und Kokos",
+				"name": "Asia-Schweinefleischstreifen in Red-Thaicurrysauce",
 				"attributes": [
 					"1",
 					"30",
-					"35",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Semmelknödel an Speck-Schmandstippe",
-				"attributes": [
-					"2",
-					"3",
-					"30",
-					"32",
 					"36",
 					"S"
 				],
@@ -166,32 +102,61 @@
 					"visitor": 4.5
 				},
 				"vitalInfo": null
-			}
-		},
-		"Bio-Essen": {
-			"1": {
-				"name": "Garten-Gemüseauflauf mit Käse",
+			},
+			"3": {
+				"name": "Texanisches Chili con Carne",
 				"attributes": [
-					"F",
-					"Ö",
 					"30",
-					"32",
-					"36"
+					"S"
 				],
 				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Grüne Sauce mit 3 1/2 Eiern",
+			"4": {
+				"name": "Süd Tiroler Bauerngröstel",
 				"attributes": [
-					"F",
-					"Ö",
-					"32",
+					"2",
+					"3",
+					"8",
+					"30",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Seelachsfilet in Knusperpanade auf Schnittlauchdip",
+				"attributes": [
+					"30",
+					"33",
 					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			}
+		},
+		"Bio-Essen": {
+			"1": null,
+			"2": {
+				"name": "Kartoffelrösti mit Champignons an Lauchsauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -201,20 +166,7 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Kokosmilch-Zitronenreis mit Spinat",
-				"attributes": [
-					"V",
-					"Ö"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Spaghetti aglio olio e peperoncino",
+				"name": "Penne mit Petersilienpesto",
 				"attributes": [
 					"V",
 					"Ö",
@@ -227,13 +179,29 @@
 				},
 				"vitalInfo": null
 			},
+			"4": {
+				"name": "Marokkanische Pasta mit Walnüssen, Kichererbsen und Rosinen",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"37"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
 			"5": {
-				"name": "Kartoffelpuffer mit Apfelkompott",
+				"name": "Tortilla Española",
 				"attributes": [
 					"F",
 					"Ö",
 					"30",
-					"32"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -244,26 +212,14 @@
 			}
 		},
 		"Aktions-Essen": {
-			"1": {
-				"name": "Pangasiusfilet an roter Thai-Currysauce",
-				"attributes": [
-					"33"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
-				"name": "Hamburger Pannfisch",
+				"name": "Frisch gebratenes Hähnchenbrustschnitzel auf Pfeffer-Rahmsauce",
 				"attributes": [
-					"2",
+					"1",
 					"30",
-					"33",
-					"39",
-					"S"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 3.5,
@@ -273,16 +229,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Ragout von Meeresfrüchten mit Spaghetti",
+				"name": "Gekochtes Rindfleisch mit Schmandsauce",
 				"attributes": [
-					"A",
-					"1",
-					"30",
-					"31",
-					"33",
 					"36",
-					"41",
-					"43"
+					"38",
+					"R"
 				],
 				"price": {
 					"student": 4,
@@ -292,12 +243,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Russischer Lachseintopf",
+				"name": "Geschmortes Curryhuhn mit Zitronengras und Sojasauce",
 				"attributes": [
-					"3",
-					"33",
-					"36",
-					"38"
+					"1",
+					"30",
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 3.5,
@@ -307,12 +258,10 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gebackene Tintenfischringe an fruchtigem Korianderdip",
+				"name": "Feurige Ungarische Gulaschsuppe mit Kartoffeln",
 				"attributes": [
-					"1",
-					"3",
 					"30",
-					"43"
+					"R"
 				],
 				"price": {
 					"student": 3.5,

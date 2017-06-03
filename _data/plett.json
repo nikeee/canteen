@@ -7,21 +7,27 @@
 		}
 	},
 	"validity": {
-		"from": "2017-05-29T00:00:00.000Z",
-		"until": "2017-06-02T00:00:00.000Z"
+		"from": "2017-06-05T00:00:00.000Z",
+		"until": "2017-06-09T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Orientalische Linsenpfanne mit buntem Gemüse",
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Indisch Aloo Matar mit Kartoffeln und Erbsen",
 				"attributes": [
 					"V",
-					"2",
-					"38",
-					"39",
-					"40",
-					"41"
+					"39"
 				],
 				"price": {
 					"student": 1.8,
@@ -30,40 +36,30 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
-				"attributes": [
-					"V",
-					"30"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Hausgemachter Kartoffelgratin mit Pilzen",
+				"name": "Pfannkuchen auf hausgemachter Apfelgrütze",
 				"attributes": [
 					"V",
 					"1",
+					"3",
 					"30",
 					"35"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hirtenkäsesteak auf Rahmspinat",
+				"name": "Bunter, marinierter Penne-Salat mit Balsamicocreme und Baguette",
 				"attributes": [
-					"F",
+					"V",
 					"1",
-					"36"
+					"2",
+					"30",
+					"41"
 				],
 				"price": {
 					"student": 1.9,
@@ -73,13 +69,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Veganes Currywurst-Gulasch mit Ketchupsauce",
+				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
 				"attributes": [
-					"V",
-					"1",
-					"30",
-					"35",
-					"39"
+					"F",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -90,47 +84,30 @@
 			}
 		},
 		"Essen 2": {
-			"1": {
-				"name": "Kassler-Nackenbraten auf Calvadosjus",
-				"attributes": [
-					"A",
-					"2",
-					"3",
-					"4",
-					"30",
-					"36",
-					"38",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
-				"name": "Gulasch von der Putenoberkeule mit Pfefferrahm",
+				"name": "Seelachsfilet in Knusperpanade auf Schnittlauchmayonnaise",
 				"attributes": [
+					"3",
 					"30",
+					"33",
 					"36"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gebratene Krakauer auf Senfjus",
+				"name": "Süd Tiroler Bauerngröstel",
 				"attributes": [
 					"2",
 					"3",
 					"8",
 					"30",
-					"36",
-					"39",
+					"R",
 					"S"
 				],
 				"price": {
@@ -141,13 +118,9 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Grünes Thaicurry mit Hühnchen",
+				"name": "Ofenkartoffel mit Kräuterquark und geschwenkten Hähnchenbruststreifen",
 				"attributes": [
-					"1",
-					"30",
-					"35",
-					"36",
-					"38"
+					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -157,14 +130,9 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Semmelknödel mit Speck-Schmandstippe",
+				"name": "Texanisches, feuriges Chili con Carne von der Puten-Oberkeule",
 				"attributes": [
-					"2",
-					"3",
-					"30",
-					"32",
-					"36",
-					"S"
+					"30"
 				],
 				"price": {
 					"student": 2.3,
@@ -175,62 +143,57 @@
 			}
 		},
 		"Essen 3 oder 4": {
-			"1": {
-				"name": "Frisch gebratenes Hähnchenbrustschnitzel Toscana auf Mascarponesauce",
-				"attributes": [
-					"1",
-					"30",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
-				"name": "Paniertes Schnitzel vom Schwein auf Käsecreme und Röstzwiebeln",
+				"name": "Enchilada mit scharfem Hühnchen, Paprika, Linsen und Mango",
 				"attributes": [
-					"1",
 					"2",
-					"30",
-					"32",
-					"36",
-					"S"
+					"30"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Putensteak Milanese auf Spaghetti und fruchtiger Tomatensauce",
-				"attributes": [
-					"1",
-					"2",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null
-			},
-			"4": null,
-			"5": {
-				"name": "Gegrilltes Putensteak Hawaii auf fruchtiger Currysauce",
+				"name": "Tandoori Hähnchenbrust auf Masala-Currysauce",
 				"attributes": [
 					"1",
 					"30",
 					"36",
 					"39"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gebackene Gemüse-Nuggets an Chilimayonnaise",
+				"attributes": [
+					"F",
+					"3",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Ofenfrische Riesenhaxe auf bayrischem Krautsalat und einem Klecks Senf",
+				"attributes": [
+					"2",
+					"3",
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 3.6,
@@ -241,75 +204,13 @@
 			}
 		},
 		"Angebot des Tages I": {
-			"1": {
-				"name": "Johannisbeer-Quark-Auflauf, dazu Zucchini-Rohkost-Salat",
-				"attributes": [
-					"F",
-					"MV",
-					"1",
-					"30",
-					"32",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 90,
-					"protein": 41,
-					"calories": 722
-				}
-			},
+			"1": null,
 			"2": {
-				"name": "Gemüsepfanne mit Rinderhackfleisch, Zartweizen und Tomaten-Chili-Dip, dazu bunter Weißkrautsalat",
+				"name": "Schweinemedaillons mit Tomaten-Mais-Nudelpfanne",
 				"attributes": [
 					"MV",
 					"30",
-					"R"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 74,
-					"protein": 40,
-					"calories": 657
-				}
-			},
-			"3": {
-				"name": "Gebackene Tintenfischringe an Sauce Tartare",
-				"attributes": [
-					"1",
-					"3",
-					"9",
-					"30",
-					"32",
-					"36",
-					"39",
-					"43"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Soja-Steak mit rotem Zwiebelgemüse und Süßkartoffelpüree",
-				"attributes": [
-					"V",
-					"MV",
-					"3",
-					"30",
-					"35"
+					"S"
 				],
 				"price": {
 					"student": 3.4,
@@ -317,28 +218,75 @@
 					"visitor": 5.6
 				},
 				"vitalInfo": {
-					"fat": 18,
-					"carbohydrate": 70,
-					"protein": 26,
-					"calories": 601
+					"fat": 25,
+					"carbohydrate": 87,
+					"protein": 39,
+					"calories": 717
+				}
+			},
+			"3": {
+				"name": "Klassischer Burger mit 200 Gramm Angus Beef, zweierlei Dips und Salat",
+				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
+					"36",
+					"39",
+					"40",
+					"R"
+				],
+				"price": {
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gebratenes Wildlachsfilet mit Gurken-Sesamsalat, Wasabidip und einer Gemüse-Reispfanne",
+				"attributes": [
+					"MV",
+					"1",
+					"2",
+					"9A",
+					"30",
+					"33",
+					"35",
+					"36",
+					"40"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": {
+					"fat": 25,
+					"carbohydrate": 89,
+					"protein": 38,
+					"calories": 740
 				}
 			},
 			"5": {
-				"name": "Hausgebeizter Lachs mit Kartoffelpuffern und Salat dazu Sauerrahm-Limettendip",
+				"name": "Tagliatelle mit Rucola-Nusspesto, Grilltomate und Gurkensalat",
 				"attributes": [
-					"2",
-					"32",
-					"33",
-					"36",
-					"39",
-					"41"
+					"V",
+					"MV",
+					"30",
+					"37"
 				],
 				"price": {
-					"student": 6,
-					"employee": 7.3,
-					"visitor": 8.2
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
-				"vitalInfo": null
+				"vitalInfo": {
+					"fat": 27,
+					"carbohydrate": 92,
+					"protein": 29,
+					"calories": 719
+				}
 			}
 		}
 	}
