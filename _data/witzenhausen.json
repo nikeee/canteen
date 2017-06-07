@@ -24,9 +24,12 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Indisch Aloo Matar mit Kartoffeln und Erbsen",
+				"name": "Indische Ebly-Pfanne mit Gemüse, Nüssen, Koriander und Schärfe",
 				"attributes": [
 					"V",
+					"3",
+					"30",
+					"37",
 					"39"
 				],
 				"price": {
@@ -151,12 +154,11 @@
 		"Bio-Essen": {
 			"1": null,
 			"2": {
-				"name": "Kartoffelrösti mit Champignons an Lauchsauce",
+				"name": "Penne mit Petersilienpesto",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
-					"35"
+					"30"
 				],
 				"price": {
 					"student": 2.9,
@@ -166,11 +168,12 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Penne mit Petersilienpesto",
+				"name": "Kartoffelrösti mit Champignons an Lauchsauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"30"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -229,7 +232,7 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gekochtes Rindfleisch mit Grüne Sauce",
+				"name": "Gekochtes Rindfleisch mit Grüner Sauce",
 				"attributes": [
 					"36",
 					"38",
