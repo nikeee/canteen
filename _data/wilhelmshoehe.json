@@ -121,7 +121,10 @@
 			"4": {
 				"name": "Ofenkartoffel mit Kräuterquark und geschwenkten Hähnchenbruststreifen",
 				"attributes": [
-					"36"
+					"30",
+					"36",
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -223,7 +226,6 @@
 				"attributes": [
 					"MV",
 					"1",
-					"2",
 					"9A",
 					"30",
 					"33",
