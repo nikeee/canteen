@@ -7,59 +7,19 @@
 		}
 	},
 	"validity": {
-		"from": "2017-06-05T00:00:00.000Z",
-		"until": "2017-06-09T00:00:00.000Z"
+		"from": "2017-06-12T00:00:00.000Z",
+		"until": "2017-06-16T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Indisch Aloo Matar mit Kartoffeln und Erbsen",
+				"name": "Berner Riesenrösti an Béchamelsauce mit buntem Gemüse",
 				"attributes": [
-					"V",
-					"39"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Pfannkuchen auf hausgemachter Apfelgrütze",
-				"attributes": [
-					"V",
+					"F",
 					"1",
-					"3",
 					"30",
-					"35"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Bunter, marinierter Penne-Salat mit Balsamicocreme und Baguette",
-				"attributes": [
-					"V",
-					"1",
-					"2",
-					"30",
-					"41"
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -68,12 +28,52 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
+			"2": {
+				"name": "Rahmspinat mit Rührei",
 				"attributes": [
 					"F",
+					"1",
 					"32",
 					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gebackener Kohlrabi-Kräuter-Röstling mit fruchtiger Tomatensauce",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Mexikanische Kartoffelpfanne mit veganer Chili-Mayonnaise",
+				"attributes": [
+					"V",
+					"3",
+					"35"
 				],
 				"price": {
 					"student": 1.9,
@@ -84,32 +84,14 @@
 			}
 		},
 		"Essen 2": {
-			"1": null,
-			"2": {
-				"name": "Seelachsfilet in Knusperpanade auf Schnittlauchmayonnaise",
+			"1": {
+				"name": "Curry-Hähnchen Madras",
 				"attributes": [
+					"1",
 					"3",
 					"30",
-					"33",
-					"36"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Süd Tiroler Bauerngröstel",
-				"attributes": [
-					"2",
-					"3",
-					"8",
-					"30",
-					"32",
-					"R",
-					"S"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -118,44 +100,86 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Ofenkartoffel mit Kräuterquark und geschwenkten Hähnchenbruststreifen",
+			"2": {
+				"name": "Gulasch von der Putenoberkeule mit Champignons",
 				"attributes": [
 					"30",
-					"36",
-					"38",
-					"39"
+					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
+			"3": {
+				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
+				"attributes": [],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"4": null,
 			"5": {
-				"name": "Texanisches, feuriges Chili con Carne von der Puten-Oberkeule",
+				"name": "Cevapcici vom Schwein an kräftiger Paprikasauce",
 				"attributes": [
-					"30"
+					"30",
+					"32",
+					"35",
+					"39",
+					"S"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 3 oder 4": {
-			"1": null,
-			"2": null,
+			"1": {
+				"name": "Grillfrisches Rückensteak vom Schwein an Hot-Salsadip",
+				"attributes": [
+					"3",
+					"S"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Paniertes Schnitzel vom Schwein auf Zigeunersauce",
+				"attributes": [
+					"30",
+					"32",
+					"S"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null
+			},
 			"3": {
-				"name": "Tandoori Hähnchenbrust auf Masala-Currysauce",
+				"name": "Hausgemachter Wurstsalat mit Bratkartoffeln",
 				"attributes": [
 					"1",
-					"30",
+					"2",
+					"3",
+					"8",
+					"9",
 					"36",
-					"39"
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 3.1,
@@ -165,93 +189,78 @@
 				"vitalInfo": null
 			},
 			"4": null,
-			"5": {
-				"name": "Ofenfrische Riesenhaxe auf bayrischem Krautsalat und einem Klecks Senf",
-				"attributes": [
-					"2",
-					"3",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 3.6,
-					"employee": 4.9,
-					"visitor": 5.8
-				},
-				"vitalInfo": null
-			}
+			"5": null
 		},
 		"Angebot des Tages I": {
-			"1": null,
-			"2": {
-				"name": "Schweinemedaillons mit Tomaten-Mais-Sauce und Nudeln",
+			"1": {
+				"name": "Gnocchiauflauf mit Blattspinat und Seelachs",
 				"attributes": [
+					"A",
 					"MV",
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": {
-					"fat": 25,
-					"carbohydrate": 87,
-					"protein": 39,
-					"calories": 717
-				}
-			},
-			"3": {
-				"name": "Klassischer Burger mit 200 Gramm Angus Beef, zweierlei Dips und Salat",
-				"attributes": [
-					"3",
-					"9",
 					"30",
 					"32",
-					"36",
-					"39",
-					"40",
-					"R"
-				],
-				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Gebratenes Wildlachsfilet mit Gurken-Sesamsalat, Wasabidip und einer Gemüse-Reispfanne",
-				"attributes": [
-					"MV",
-					"1",
-					"9A",
-					"30",
 					"33",
-					"35",
 					"36",
-					"40"
+					"41"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": {
-					"fat": 25,
-					"carbohydrate": 89,
-					"protein": 38,
-					"calories": 740
+					"fat": 23,
+					"carbohydrate": 92,
+					"protein": 37,
+					"calories": 724
 				}
 			},
-			"5": {
-				"name": "Tagliatelle mit Rucola-Nusspesto, Grilltomate und Gurkensalat",
+			"2": {
+				"name": "Bulgur-Bohnen-Salat mit Studentenfutter und Rote-Bete-Meerrettich-Sojajoghurt-Dip",
 				"attributes": [
 					"V",
 					"MV",
+					"1",
+					"3",
 					"30",
+					"35",
 					"37"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 84,
+					"protein": 25,
+					"calories": 674
+				}
+			},
+			"3": {
+				"name": "Hausgemachte Lasagne al forno",
+				"attributes": [
+					"30",
+					"36",
+					"R"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
+			"4": null,
+			"5": {
+				"name": "Tropischer Salat mit Hähnchenstreifen und Himbeerdressing",
+				"attributes": [
+					"MV",
+					"3",
+					"30",
+					"35",
+					"40"
 				],
 				"price": {
 					"student": 3,
@@ -259,44 +268,34 @@
 					"visitor": 5.2
 				},
 				"vitalInfo": {
-					"fat": 27,
-					"carbohydrate": 92,
-					"protein": 29,
-					"calories": 719
+					"fat": 18,
+					"carbohydrate": 75,
+					"protein": 33,
+					"calories": 625
 				}
 			}
 		},
 		"Angebot des Tages II": {
 			"1": null,
-			"2": {
-				"name": "Gnocchi mit Tomatensauce und Broccoli",
-				"attributes": [
-					"V",
-					"30"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": null,
-			"4": {
-				"name": "Gegrillte Meißner Mohn-Bratwurst auf Bratenjus",
+			"4": null,
+			"5": {
+				"name": "Riesen Tortellini mit Spargel-Füllung in Kerbelsauce",
 				"attributes": [
-					"8",
+					"F",
+					"1",
 					"30",
-					"S"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
-			},
-			"5": null
+			}
 		}
 	}
 }

@@ -8,10 +8,208 @@
 		}
 	},
 	"validity": {
-		"from": "2017-06-05T00:00:00.000Z",
-		"until": "2017-06-09T00:00:00.000Z"
+		"from": "2017-06-12T00:00:00.000Z",
+		"until": "2017-06-16T00:00:00.000Z"
 	},
 	"days": [
+		[
+			{
+				"name": "Rahmspinat mit Rührei",
+				"attributes": [
+					"F",
+					"1",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Curry-Hähnchen Madras",
+				"attributes": [
+					"1",
+					"3",
+					"30",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Spaghetti alla Puttanesca",
+				"attributes": [
+					"Ö",
+					"30",
+					"33"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Griechischer Veggi-Burger mit Käseschnitzel, dazu Süßkartoffelpommes",
+				"attributes": [
+					"F",
+					"6",
+					"30",
+					"36",
+					"38",
+					"40"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Berner Riesenrösti mit buntem Béchamelgemüse",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gulasch von der Putenoberkeule mit Champignons",
+				"attributes": [
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Rotes Thai-Blumenkohlcurry mit Paprika und Zwiebeln",
+				"attributes": [
+					"V",
+					"Ö",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Feuerspieß vom Schwein mit Currysauce",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Gebackener Kohlrabi-Kräuter-Röstling mit Tomatensauce",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
+				"attributes": [],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Tofusteak mit Curry-Ketchupsauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"9",
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Bangers and Mash - Bratwürstchen mit geschmortem Zwiebeln auf Kartoffelpüree",
+				"attributes": [
+					"1",
+					"3",
+					"8",
+					"30",
+					"36",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
 		[
 			{
 				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
@@ -27,140 +225,9 @@
 		],
 		[
 			{
-				"name": "Indische Ebly-Pfanne mit Gemüse, Nüssen, Koriander und Schärfe",
+				"name": "Mexikanische Kartoffelpfanne",
 				"attributes": [
-					"V",
-					"3",
-					"30",
-					"37",
-					"39"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Asia-Schweinefleischstreifen in Red-Thaicurrysauce",
-				"attributes": [
-					"1",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Penne mit Petersilienpesto",
-				"attributes": [
-					"V",
-					"Ö",
-					"30"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Frisch gebratenes Hähnchenbrustschnitzel auf Pfeffer-Rahmsauce",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Käsetortellini in Gorgonzolasauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Texanisches Chili con Carne",
-				"attributes": [
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Kartoffelrösti mit Champignons an Lauchsauce",
-				"attributes": [
-					"V",
-					"Ö",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Gekochtes Rindfleisch mit Grüner Sauce",
-				"attributes": [
-					"36",
-					"38",
-					"R"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Indisch Aloo Matar mit Kartoffeln und Erbsen",
-				"attributes": [
-					"V",
-					"39"
+					"V"
 				],
 				"price": {
 					"student": 1.9,
@@ -171,13 +238,11 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Süd Tiroler Bauerngröstel",
+				"name": "Cevapcici vom Schweinefleisch an kräftiger Paprikasauce",
 				"attributes": [
-					"2",
-					"3",
-					"8",
 					"30",
-					"R",
+					"32",
+					"39",
 					"S"
 				],
 				"price": {
@@ -189,79 +254,11 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Marokkanische Pasta mit Walnüssen, Kichererbsen und Rosinen",
-				"attributes": [
-					"V",
-					"Ö",
-					"30",
-					"37"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Geschmortes Curryhuhn mit Zitronengras und Sojasauce",
-				"attributes": [
-					"1",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Bunter, marinierter Penne-Salat mit Balsamicocreme und Baguette",
-				"attributes": [
-					"V",
-					"1",
-					"2",
-					"6",
-					"30",
-					"41"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Seelachsfilet in Knusperpanade auf Schnittlauchdip",
-				"attributes": [
-					"30",
-					"33",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Tortilla Española",
+				"name": "Spaghetti mit Spinat-Feta-Schmandsauce",
 				"attributes": [
 					"F",
 					"Ö",
 					"30",
-					"32",
 					"36"
 				],
 				"price": {
@@ -273,10 +270,10 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Feurige Ungarische Gulaschsuppe mit Kartoffeln",
+				"name": "Cotriade - Bretonische Fischeintopf mit Cidre",
 				"attributes": [
-					"30",
-					"R"
+					"A",
+					"33"
 				],
 				"price": {
 					"student": 3.5,
