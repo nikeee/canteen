@@ -7,54 +7,25 @@
 		}
 	},
 	"validity": {
-		"from": "2017-06-05T00:00:00.000Z",
-		"until": "2017-06-10T00:00:00.000Z"
+		"from": "2017-06-12T00:00:00.000Z",
+		"until": "2017-06-17T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 1.7,
-					"employee": 3,
-					"visitor": 3.9
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Putengeschnetzeltes in Pfirsichrahmsauce",
+				"name": "Minibratwurst und Minihackbällchen an Currysauce",
 				"attributes": [
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Frisch gebratenes Hähnchenbrustschnitzel an Sauce Hollandaise mit Spargelstücken",
-				"attributes": [
+					"1",
+					"3",
+					"8",
 					"30",
 					"32",
-					"36"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Chili con Carne mit Rinderhack",
-				"attributes": [
-					"30",
-					"R"
+					"36",
+					"38",
+					"39",
+					"R",
+					"S"
 				],
 				"price": {
 					"student": 3.5,
@@ -63,31 +34,72 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Geschwenkte Schweinefleischstreifen Gyros Art an Zaziki",
+			"2": {
+				"name": "Mediterrane Pesto-Hähnchenbrust an mildem Paprika-Relish",
 				"attributes": [
+					"1",
+					"2",
 					"36",
-					"38",
+					"37"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Paniertes Schweineschnitzel mit Steinpilzrahmsauce",
+				"attributes": [
+					"30",
+					"32",
+					"36",
 					"S"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Burger mit Beef, Ananas, Salaten und Currydip",
+				"attributes": [
+					"A",
+					"3",
+					"30",
+					"32",
+					"36",
+					"39",
+					"R"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			}
 		},
 		"Angebot 2": {
-			"1": null,
-			"2": {
-				"name": "Backfrischer Apfel-Pfannkuchen an Vanillesauce",
+			"1": {
+				"name": "Geschöpfte bunte Farfalle-Nudeln in Béchamelsauce mit getrockneten Tomaten und Rucola",
 				"attributes": [
 					"F",
 					"1",
-					"3",
 					"30",
-					"32",
 					"36"
 				],
 				"price": {
@@ -97,29 +109,13 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Original Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+			"2": {
+				"name": "Tortellini mit Ricotta-Spinat-Füllung in Tomatensauce mit Käse überbacken",
 				"attributes": [
 					"F",
+					"30",
 					"32",
 					"36"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Räuchertofu auf Asia-Reisgemüse",
-				"attributes": [
-					"V",
-					"3",
-					"30",
-					"35",
-					"39",
-					"40"
 				],
 				"price": {
 					"student": 3.5,
@@ -128,8 +124,8 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Goldgelb gebackenes Zucchinischnitzel an Kräuterdip",
+			"3": {
+				"name": "Hausgemachte Lasagne mit geschmortem Ratatouille",
 				"attributes": [
 					"F",
 					"30",
@@ -137,40 +133,40 @@
 					"36"
 				],
 				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null
+			},
+			"4": null,
+			"5": {
+				"name": "Burger mit Gemüseschnitzel, zweierlei Dips und Salat",
+				"attributes": [
+					"F",
+					"3",
+					"9",
+					"30",
+					"32",
+					"35",
+					"36",
+					"38",
+					"39",
+					"40"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null
 			}
 		},
 		"Angebot 3 solange der Vorrat reicht": {
-			"1": null,
-			"2": {
-				"name": "Großer, bunter Salatteller mit Frühlingsröllchen und Hot-Salsa-Dip",
+			"1": {
+				"name": "Großer, bunter Salatteller mit Kräuter-Senf-Dressing, geschwenkten Putenbruststreifen und saftiger Melone",
 				"attributes": [
-					"F",
-					"2",
-					"30",
-					"32",
-					"35",
-					"38",
 					"39"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Italienische Tagliatelle mit Brokkoli-Lachscremesauce",
-				"attributes": [
-					"1",
-					"30",
-					"33",
-					"36"
 				],
 				"price": {
 					"student": 3.2,
@@ -179,22 +175,8 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Pizza mit Blattspinat und Hirtenkäse überbacken",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Griechisches Moussaka mit Ei gestockt",
+			"2": {
+				"name": "Backfrischer Brokkoli-Pfannkuchen an cremigem Ajvardip",
 				"attributes": [
 					"F",
 					"1",
@@ -203,12 +185,33 @@
 					"36"
 				],
 				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null
-			}
+			},
+			"3": {
+				"name": "Fischragout mit Shrimps und Lachs in Rieslingsauce",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"31",
+					"33",
+					"36",
+					"38",
+					"41"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null
+			},
+			"4": null,
+			"5": null
 		}
 	}
 }
