@@ -88,8 +88,10 @@
 				"name": "Curry-Hähnchen Madras",
 				"attributes": [
 					"1",
+					"2",
 					"3",
 					"30",
+					"35",
 					"36",
 					"39"
 				],
@@ -145,7 +147,11 @@
 			"1": {
 				"name": "Grillfrisches Rückensteak vom Schwein an Hot-Salsadip",
 				"attributes": [
+					"1",
+					"2",
 					"3",
+					"30",
+					"35",
 					"S"
 				],
 				"price": {
@@ -156,7 +162,7 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Paniertes Schnitzel vom Schwein auf Zigeunersauce",
+				"name": "Paniertes Schnitzel vom Schwein auf Pusztasauce",
 				"attributes": [
 					"30",
 					"32",
