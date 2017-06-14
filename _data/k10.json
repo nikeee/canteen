@@ -34,21 +34,7 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Mediterrane Pesto-Hähnchenbrust an mildem Paprika-Relish",
-				"attributes": [
-					"1",
-					"2",
-					"36",
-					"37"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": {
 				"name": "Paniertes Schweineschnitzel mit Steinpilzrahmsauce",
 				"attributes": [

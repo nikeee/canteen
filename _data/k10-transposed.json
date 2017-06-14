@@ -67,22 +67,6 @@
 		],
 		[
 			{
-				"name": "Mediterrane Pesto-Hähnchenbrust an mildem Paprika-Relish",
-				"attributes": [
-					"1",
-					"2",
-					"36",
-					"37"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
 				"name": "Tortellini mit Ricotta-Spinat-Füllung in Tomatensauce mit Käse überbacken",
 				"attributes": [
 					"F",
