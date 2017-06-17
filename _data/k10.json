@@ -35,7 +35,21 @@
 				"vitalInfo": null
 			},
 			"2": null,
-			"3": null,
+			"3": {
+				"name": "Paniertes Schweineschnitzel mit Steinpilzrahmsauce",
+				"attributes": [
+					"30",
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null
+			},
 			"4": {
 				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
 				"attributes": [],
@@ -55,6 +69,7 @@
 					"32",
 					"36",
 					"39",
+					"40",
 					"R"
 				],
 				"price": {
