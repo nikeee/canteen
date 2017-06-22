@@ -170,6 +170,7 @@
 					"1",
 					"30",
 					"36",
+					"38",
 					"41"
 				],
 				"price": {
@@ -183,6 +184,7 @@
 			{
 				"name": "Paniertes Schnitzel vom Schwein auf cremiger Peperonisauce",
 				"attributes": [
+					"1",
 					"30",
 					"32",
 					"36",
@@ -200,6 +202,7 @@
 				"name": "Seehechtfilet auf Gurkengemüse und Kräuterkartoffeln, dazu Dessert",
 				"attributes": [
 					"MV",
+					"1",
 					"30",
 					"33",
 					"36"
