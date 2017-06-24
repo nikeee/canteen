@@ -8,118 +8,16 @@
 		}
 	},
 	"validity": {
-		"from": "2017-06-19T00:00:00.000Z",
-		"until": "2017-06-23T00:00:00.000Z"
+		"from": "2017-06-26T00:00:00.000Z",
+		"until": "2017-06-30T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Chili sin Carne",
+				"name": "Quinoa-Kürbispfanne",
 				"attributes": [
 					"V",
-					"35"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Geschwenkte Penne mit Shrimps, Erbsen und Strauchtomaten",
-				"attributes": [
-					"30",
-					"31"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Hausgemachter Spinatpfannkuchen auf Knoblauchquark",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Klassische Currywurst",
-				"attributes": [
-					"1",
-					"3",
-					"8",
-					"38",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Gebratene Gnocchi in Béchamelsauce mit Rucola",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hähnchenbrust mit Estragon-Sahnesauce",
-				"attributes": [
-					"A",
-					"1",
-					"30",
-					"36",
-					"41"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Sesam-Blechkartoffeln an scharfer Gurken-Tomaten-Salsa",
-				"attributes": [
-					"V",
-					"40"
+					"3"
 				],
 				"price": {
 					"student": 1.8,
@@ -130,9 +28,13 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Geschwenkte Schweinefleischstreifen Gyros Art mit griechischem Zaziki",
+				"name": "Schweinerücken mit Schinken und Marsalajus",
 				"attributes": [
-					"36",
+					"A",
+					"2",
+					"3",
+					"30",
+					"41",
 					"S"
 				],
 				"price": {
@@ -146,13 +48,75 @@
 		],
 		[
 			{
-				"name": "Schupfnudelpfanne mit Sauerkraut",
+				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
-					"V",
-					"1",
+					"F",
+					"3",
+					"32"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Mediterranes Tomatengemüse mit Hähnchenstreifen",
+				"attributes": [
 					"30"
 				],
 				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Grüne Tortellini in scharfer Tomatensauce",
+				"attributes": [
+					"V",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Geschnetzeltes nach Züricher Art",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Ofenfrische Brätlinge mit Spundekäse",
+				"attributes": [
+					"F",
+					"36"
+				],
+				"price": {
 					"student": 1.8,
 					"employee": 3.1,
 					"visitor": 4
@@ -161,18 +125,50 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hausgemachte Hackfleischpizza mit Paprika, Tomaten und Mais",
+				"name": "Spaghetti in Bolognese mit Putenfleisch und Parmesan",
 				"attributes": [
+					"1",
+					"2",
 					"30",
-					"32",
-					"36",
-					"39",
-					"S"
+					"36"
 				],
 				"price": {
 					"student": 2.5,
 					"employee": 3.8,
 					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Italienische Penne in cremiger Steinpilz-Rahmsauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Curry-Bratreis mit Rinderhack",
+				"attributes": [
+					"3",
+					"39",
+					"R"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"

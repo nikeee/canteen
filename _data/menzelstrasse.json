@@ -7,32 +7,31 @@
 		}
 	},
 	"validity": {
-		"from": "2017-06-19T00:00:00.000Z",
-		"until": "2017-06-23T00:00:00.000Z"
+		"from": "2017-06-26T00:00:00.000Z",
+		"until": "2017-06-30T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Chili sin Carne",
+				"name": "Quinoa-Kürbispfanne",
 				"attributes": [
 					"V",
-					"35"
+					"3"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hausgemachter Spinatpfannkuchen auf Knoblauchquark",
+				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
 					"F",
-					"30",
-					"32",
-					"36"
+					"3",
+					"32"
 				],
 				"price": {
 					"student": 1.9,
@@ -42,13 +41,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gebratene Gnocchi in Béchamelsauce mit Rucola",
+				"name": "Grüne Tortellini in scharfer Tomatensauce",
 				"attributes": [
-					"F",
-					"1",
+					"V",
 					"30",
-					"32",
-					"36"
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -58,10 +55,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Sesam-Blechkartoffeln an scharfer Gurken-Tomaten-Salsa",
+				"name": "Ofenfrische Brätlinge mit Spundekäse",
 				"attributes": [
-					"V",
-					"40"
+					"F",
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -71,26 +68,31 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Schupfnudelpfanne mit Sauerkraut",
+				"name": "Italienische Penne in cremiger Steinpilz-Rahmsauce",
 				"attributes": [
-					"V",
+					"F",
 					"1",
-					"30"
+					"30",
+					"36"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Geschwenkte Penne mit Shrimps, Erbsen und Strauchtomaten",
+				"name": "Schweinerücken mit Schinken und Marsalajus",
 				"attributes": [
+					"A",
+					"2",
+					"3",
 					"30",
-					"31"
+					"41",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -100,14 +102,9 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Klassische Currywurst",
+				"name": "Mediterranes Tomatengemüse mit Hähnchenstreifen",
 				"attributes": [
-					"1",
-					"3",
-					"8",
-					"38",
-					"39",
-					"S"
+					"30"
 				],
 				"price": {
 					"student": 2.4,
@@ -117,13 +114,12 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Hähnchenbrust mit Estragon-Sahnesauce",
+				"name": "Geschnetzeltes nach Züricher Art",
 				"attributes": [
-					"A",
 					"1",
 					"30",
 					"36",
-					"41"
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -133,10 +129,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Geschwenkte Schweinefleischstreifen Gyros Art mit griechischem Zaziki",
+				"name": "Spaghetti in Bolognese mit Putenfleisch und Parmesan",
 				"attributes": [
-					"36",
-					"S"
+					"1",
+					"2",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -146,18 +144,16 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachte Hackfleischpizza mit Paprika, Tomaten und Mais",
+				"name": "Curry-Bratreis mit Rinderhack",
 				"attributes": [
-					"30",
-					"32",
-					"36",
+					"3",
 					"39",
-					"S"
+					"R"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}

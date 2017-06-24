@@ -7,32 +7,31 @@
 		}
 	},
 	"validity": {
-		"from": "2017-06-19T00:00:00.000Z",
-		"until": "2017-06-23T00:00:00.000Z"
+		"from": "2017-06-26T00:00:00.000Z",
+		"until": "2017-06-30T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Chili sin Carne",
+				"name": "Quinoa-Kürbispfanne",
 				"attributes": [
 					"V",
-					"35"
+					"3"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hausgemachter Spinatpfannkuchen auf Knoblauchquark",
+				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
 					"F",
-					"30",
-					"32",
-					"36"
+					"3",
+					"32"
 				],
 				"price": {
 					"student": 1.9,
@@ -42,13 +41,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gebratene Gnocchi in Béchamelsauce mit Rucola",
+				"name": "Grüne Tortellini in scharfer Tomatensauce",
 				"attributes": [
-					"F",
-					"1",
+					"V",
 					"30",
-					"32",
-					"36"
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -58,10 +55,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Sesam-Blechkartoffeln an scharfer Gurken-Tomaten-Salsa",
+				"name": "Ofenfrische Brätlinge mit Spundekäse",
 				"attributes": [
-					"V",
-					"40"
+					"F",
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -71,26 +68,31 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Schupfnudelpfanne mit Sauerkraut",
+				"name": "Italienische Penne in cremiger Steinpilz-Rahmsauce",
 				"attributes": [
-					"V",
+					"F",
 					"1",
-					"30"
+					"30",
+					"36"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Geschwenkte Penne mit Shrimps, Erbsen und Strauchtomaten",
+				"name": "Schweinerücken mit Schinken und Marsalajus",
 				"attributes": [
+					"A",
+					"2",
+					"3",
 					"30",
-					"31"
+					"41",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -100,16 +102,9 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Klassische Currywurst",
+				"name": "Mediterranes Tomatengemüse mit Hähnchenstreifen",
 				"attributes": [
-					"1",
-					"3",
-					"8",
-					"36",
-					"38",
-					"39",
-					"R",
-					"S"
+					"30"
 				],
 				"price": {
 					"student": 2.4,
@@ -119,13 +114,12 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Hähnchenbrust mit Estragon-Sahnesauce",
+				"name": "Geschnetzeltes nach Züricher Art",
 				"attributes": [
-					"A",
 					"1",
 					"30",
 					"36",
-					"41"
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -135,12 +129,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Geschwenkte Schweinefleischstreifen Gyros Art mit griechischem Zaziki",
+				"name": "Spaghetti in Bolognese mit Putenfleisch und Parmesan",
 				"attributes": [
-					"36",
-					"38",
-					"39",
-					"S"
+					"1",
+					"2",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -150,44 +144,83 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachte Hackfleischpizza mit Paprika, Tomaten und Mais",
+				"name": "Curry-Bratreis mit Rinderhack",
 				"attributes": [
-					"30",
-					"32",
-					"36",
+					"3",
 					"39",
-					"S"
+					"R"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 3 oder 4": {
 			"1": {
-				"name": "Geschnetzeltes aus der Schweinekeule in Spargelrahm",
+				"name": "Großer, bunter Salatteller mit Himbeer-Balsamico-Vinaigrette und gebackenen Bärlauchnocken",
 				"attributes": [
+					"F",
+					"1",
+					"3",
 					"30",
-					"36"
+					"36",
+					"39"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
 				},
 				"vitalInfo": null
 			},
 			"2": null,
-			"3": {
-				"name": "Paniertes Schnitzel vom Schwein auf cremiger Peperonisauce",
+			"3": null,
+			"4": {
+				"name": "Gebackene Karotten-Kürbiskern-Röstis an Quark-Paprikadip",
 				"attributes": [
+					"F",
 					"30",
 					"32",
 					"36",
-					"S"
+					"38"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hähnchenbrust mit Whisky-Rahmsauce",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null
+			}
+		},
+		"Angebot des Tages I": {
+			"1": {
+				"name": "Hessischer Schmandpfannkuchen auf Kirschgütze mit Schlagsahne",
+				"attributes": [
+					"F",
+					"A",
+					"1",
+					"3",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 3,
@@ -196,68 +229,77 @@
 				},
 				"vitalInfo": null
 			},
-			"4": null,
-			"5": {
-				"name": "Bratheringfilets mit frischen Zwiebeln, Essiggurke und Bratkartoffeln",
-				"attributes": [
-					"9",
-					"30",
-					"33",
-					"39"
-				],
-				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
-				},
-				"vitalInfo": null
-			}
-		},
-		"Angebot des Tages I": {
-			"1": {
-				"name": "Burger mit doppelt Beef, Dips und Rucola-Radicchio-Salat",
-				"attributes": [
-					"2",
-					"3",
-					"9",
-					"30",
-					"32",
-					"36",
-					"38",
-					"39",
-					"40",
-					"R"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
-			},
 			"2": {
-				"name": "Großer, bunter Salatteller mit Erdbeer-Balsamico-Vinaigrette, Variation von Antipasti-Gemüse und krossem Baguette",
+				"name": "Gemüsepaella mit Vollkornreis und Walnüssen",
 				"attributes": [
 					"V",
+					"A",
+					"MV",
+					"30",
+					"35",
+					"37",
+					"39",
+					"40",
+					"41"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 78,
+					"protein": 21,
+					"calories": 601
+				}
+			},
+			"3": {
+				"name": "Spätzlepfanne mit Tofu, dazu Rucola-Radieschensalat",
+				"attributes": [
+					"F",
+					"MV",
 					"1",
 					"3",
 					"30",
+					"32",
+					"35",
 					"39"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 84,
+					"protein": 28,
+					"calories": 638
+				}
+			},
+			"4": {
+				"name": "Grillfrische, kleine Steaks vom Schweinerücken an mediterraner Butter",
+				"attributes": [
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Seehechtfilet auf Gurkengemüse und Kräuterkartoffeln, dazu Dessert",
+			"5": {
+				"name": "Seelachs mit Kartoffel-Senfkruste, Kerbelsauce und Karotten",
 				"attributes": [
 					"MV",
 					"30",
+					"32",
 					"33",
-					"36"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 3.4,
@@ -265,45 +307,11 @@
 					"visitor": 5.6
 				},
 				"vitalInfo": {
-					"fat": 18,
-					"carbohydrate": 69,
-					"protein": 38,
-					"calories": 612
+					"fat": 24,
+					"carbohydrate": 87,
+					"protein": 39,
+					"calories": 739
 				}
-			},
-			"4": {
-				"name": "Großer, bunter Salatteller mit Balsamico-Vinaigrette, Steinchampignons mit Kräutern, Croûtons und griechischem Bauernbrot",
-				"attributes": [
-					"F",
-					"1",
-					"3",
-					"9",
-					"30",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Tortellini mit Büffelmozzarella gefüllt in fruchtiger Tomatensauce mit frischem Basilikum und Parmesan",
-				"attributes": [
-					"F",
-					"2",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
 			}
 		}
 	}

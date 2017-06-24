@@ -7,33 +7,31 @@
 		}
 	},
 	"validity": {
-		"from": "2017-06-19T00:00:00.000Z",
-		"until": "2017-06-23T00:00:00.000Z"
+		"from": "2017-06-26T00:00:00.000Z",
+		"until": "2017-06-30T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Chili sin Carne",
+				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
-					"V",
-					"35"
+					"F",
+					"3",
+					"32"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebratene Gnocchi in Béchamelsauce",
+				"name": "Vegane Gnocchi in Tomatensauce",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
+					"V",
+					"30"
 				],
 				"price": {
 					"student": 1.9,
@@ -43,11 +41,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Hausgemachter Spinatpfannkuchen auf Chili-Quarkdip",
+				"name": "Italienische Penne in Steinpilz-Rahmsauce",
 				"attributes": [
 					"F",
+					"1",
 					"30",
-					"32",
 					"36"
 				],
 				"price": {
@@ -58,10 +56,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Ofenfrische Sesam-Blechkartoffeln an scharfen Gurkensalsa",
+				"name": "Ofenfrische Brätlinge mit Spundekäse",
 				"attributes": [
-					"V",
-					"40"
+					"F",
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -71,30 +69,24 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Schupfnudelpfanne mit Sauerkraut",
+				"name": "Gazpacho - kalte spanische Gemüsesuppe",
 				"attributes": [
 					"V",
-					"1",
 					"30"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Klassische Currywurst",
+				"name": "Geschmortes Ratatouille-Gemüse mit Hähnchen",
 				"attributes": [
-					"1",
-					"3",
-					"8",
-					"38",
-					"39",
-					"S"
+					"30"
 				],
 				"price": {
 					"student": 2.4,
@@ -104,12 +96,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hausgemachte Hackfleischpizza mit Paprika, Tomaten und Mais",
+				"name": "Geschnetzeltes nach Züricher Art",
 				"attributes": [
+					"1",
 					"30",
-					"32",
 					"36",
-					"39",
 					"S"
 				],
 				"price": {
@@ -120,22 +111,10 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Hähnchenbrust mit Estragon-Sahnesauce",
+				"name": "Saltimbocca vom Schweinerücken",
 				"attributes": [
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Geschwenkte Schweinefleischstreifen Gyros Art",
-				"attributes": [
+					"2",
+					"3",
 					"S"
 				],
 				"price": {
@@ -145,29 +124,46 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Geschwenkte Penne mit Shrimps, Erbsen und Strauchtomaten",
+			"4": {
+				"name": "Spaghetti in Puten-Bolognese mit Parmesan",
 				"attributes": [
+					"1",
+					"2",
 					"30",
-					"31"
+					"36"
 				],
 				"price": {
 					"student": 2.5,
 					"employee": 3.8,
 					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Kartoffelpfanne mit Gewürzgurke",
+				"attributes": [
+					"2",
+					"9",
+					"32",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Polenta-Käseschnitte an Tomatensauce",
+				"name": "Pasta mit Linsen-Zitronensauce",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
 					"30",
-					"32",
-					"36"
+					"38"
 				],
 				"price": {
 					"student": 2.9,
@@ -177,34 +173,7 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Ofenrisotto mit Erbsen, Zucchini und Zitrone",
-				"attributes": [
-					"V",
-					"Ö"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Spaghetti mit rotem Pesto",
-				"attributes": [
-					"V",
-					"Ö",
-					"30"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Rührei mit Champignons",
+				"name": "Provenzalischer Kartoffelauflauf",
 				"attributes": [
 					"F",
 					"Ö",
@@ -218,12 +187,45 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Ungarische Kartoffelpfanne mit Paprika, Zwiebeln und saurer Sahne",
+			"3": {
+				"name": "Tofusteak mit Béchamelkartoffeln",
 				"attributes": [
 					"F",
 					"Ö",
-					"36"
+					"30",
+					"35",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Asia-Reis-Gemüsepfanne",
+				"attributes": [
+					"V",
+					"Ö",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Spaghetti in Champignon-Rahmsauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -235,56 +237,11 @@
 		},
 		"Aktions-Essen": {
 			"1": {
-				"name": "Tortellini mit Rindfleischfüllung in Gorgonzolasauce",
+				"name": "Rinderroulade mit orientalischer Füllung",
 				"attributes": [
-					"1",
-					"30",
-					"35",
-					"36",
-					"R"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Beefsteak an geschmorten Zwiebeln",
-				"attributes": [
-					"1",
-					"39",
-					"R"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Paniertes Schweinekotelett mit Blumenkohlgemüse in Béchamelsauce",
-				"attributes": [
-					"1",
+					"3",
 					"30",
 					"32",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Svickova na smetane - Tschechischer Rinderbraten an Preiselbeeren",
-				"attributes": [
-					"36",
-					"38",
 					"R"
 				],
 				"price": {
@@ -294,12 +251,61 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Hähnchenbrust im Haselnussmantel mit Sauce Hollandaise",
+			"2": {
+				"name": "Hotpot - Belgischer Eintopf mit Rind und Kartoffeln",
 				"attributes": [
+					"A",
+					"2",
+					"41",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 5.5,
+					"employee": 6.8,
+					"visitor": 7.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gegrilltes Lachsfilet in Teriyakimarinade",
+				"attributes": [
+					"1",
+					"30",
+					"33",
+					"35"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Veggieburger mit Avokadodip",
+				"attributes": [
+					"F",
+					"2",
+					"30",
 					"32",
-					"36",
-					"37"
+					"38",
+					"40"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Matjesfilet nach Hausfrauen Art mit Äpfeln, Gurken und Zwiebeln",
+				"attributes": [
+					"2",
+					"9",
+					"33",
+					"36"
 				],
 				"price": {
 					"student": 3.5,
