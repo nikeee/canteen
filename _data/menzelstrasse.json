@@ -7,17 +7,20 @@
 		}
 	},
 	"validity": {
-		"from": "2017-06-26T00:00:00.000Z",
-		"until": "2017-06-30T00:00:00.000Z"
+		"from": "2017-07-03T00:00:00.000Z",
+		"until": "2017-07-07T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Quinoa-Kürbispfanne",
+				"name": "Couscous-Pfanne mit knackigem Gemüse an rotem Linsendip",
 				"attributes": [
 					"V",
-					"3"
+					"3",
+					"30",
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 1.8,
@@ -27,24 +30,12 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kartoffelpuffer mit Apfelmus",
-				"attributes": [
-					"F",
-					"3",
-					"32"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Grüne Tortellini in scharfer Tomatensauce",
+				"name": "Hausgemachte Polenta à la Crème an Champignonsauce",
 				"attributes": [
 					"V",
+					"1",
 					"30",
+					"35",
 					"38"
 				],
 				"price": {
@@ -54,11 +45,13 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Ofenfrische Brätlinge mit Spundekäse",
+			"3": {
+				"name": "Spaghetti in Karottenpesto",
 				"attributes": [
-					"F",
-					"36"
+					"V",
+					"3",
+					"30",
+					"37"
 				],
 				"price": {
 					"student": 1.8,
@@ -67,13 +60,29 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Italienische Penne in cremiger Steinpilz-Rahmsauce",
+			"4": {
+				"name": "Blumenkohl-Käse-Medaillon an Sauce Béarnaise",
 				"attributes": [
 					"F",
-					"1",
 					"30",
-					"36"
+					"32",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachter Süßkartoffelstampf auf Balsamico-Linsen",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"35"
 				],
 				"price": {
 					"student": 1.9,
@@ -85,14 +94,29 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Schweinerücken mit Schinken und Marsalajus",
+				"name": "Mini-Hackfleischbällchen auf Western-Tomatensauce",
 				"attributes": [
-					"A",
-					"2",
-					"3",
+					"1",
 					"30",
-					"41",
+					"32",
+					"R",
 					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Hähnchenbrust mit Petersilienpesto mariniert auf Béchamelsauce",
+				"attributes": [
+					"1",
+					"2",
+					"30",
+					"36",
+					"37"
 				],
 				"price": {
 					"student": 2.5,
@@ -101,23 +125,9 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Mediterranes Tomatengemüse mit Hähnchenstreifen",
-				"attributes": [
-					"30"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Geschnetzeltes nach Züricher Art",
+				"name": "Schweinesteak vom Nacken an Kräuterbutter",
 				"attributes": [
-					"1",
-					"30",
 					"36",
 					"S"
 				],
@@ -129,31 +139,35 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Spaghetti in Bolognese mit Putenfleisch und Parmesan",
+				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
 				"attributes": [
 					"1",
-					"2",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Curry-Bratreis mit Rinderhack",
-				"attributes": [
-					"3",
+					"36",
+					"38",
 					"39",
 					"R"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Gefülltes Hessisches Kraut auf Béchamelsauce",
+				"attributes": [
+					"1",
+					"30",
+					"32",
+					"36",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			}
