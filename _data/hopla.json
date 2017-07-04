@@ -254,7 +254,29 @@
 			}
 		},
 		"Angebot des Tages": {
-			"1": null,
+			"1": {
+				"name": "Seelachs mit Kartoffel-Senfkruste, Kerbelsauce und Karotten Schnittlauch-Frischkäsesauce",
+				"attributes": [
+					"MV",
+					"1",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": {
+					"fat": 24,
+					"carbohydrate": 87,
+					"protein": 39,
+					"calories": 739
+				}
+			},
 			"2": {
 				"name": "Champignon-Erbsen-Tomatengratin mit Sonnenblumenkernen Kräuterreis und Koriandersauce",
 				"attributes": [
