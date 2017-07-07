@@ -145,6 +145,7 @@
 				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
 				"attributes": [
 					"1",
+					"30",
 					"36",
 					"38",
 					"39",
@@ -293,8 +294,7 @@
 				"attributes": [
 					"V",
 					"MV",
-					"3",
-					"35",
+					"30",
 					"39"
 				],
 				"price": {

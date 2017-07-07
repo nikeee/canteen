@@ -369,9 +369,13 @@
 				"categoryName": "Angebot des Tages"
 			},
 			{
-				"name": "Gegrillte Medaillons vom Schweinefilet auf scharfer Westernsauce",
+				"name": "Grillteller von Schweinefilet, Putensteak und Bratwurst an scharfer Westernsauce",
 				"attributes": [
 					"1",
+					"3",
+					"8",
+					"36",
+					"R",
 					"S"
 				],
 				"price": {
