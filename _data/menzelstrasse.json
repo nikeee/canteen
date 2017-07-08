@@ -7,20 +7,21 @@
 		}
 	},
 	"validity": {
-		"from": "2017-07-03T00:00:00.000Z",
-		"until": "2017-07-07T00:00:00.000Z"
+		"from": "2017-07-10T00:00:00.000Z",
+		"until": "2017-07-14T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Couscous-Pfanne mit knackigem Gemüse an rotem Linsendip",
+				"name": "2 Hefeklöße auf warmer Roter Grütze",
 				"attributes": [
-					"V",
+					"F",
+					"1",
 					"3",
 					"30",
-					"39",
-					"40"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -30,7 +31,7 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hausgemachte Polenta à la Crème an Champignonsauce",
+				"name": "Hessische Kartoffelsuppe mit Gemüse und Petersilienöl",
 				"attributes": [
 					"V",
 					"1",
@@ -39,35 +40,37 @@
 					"38"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Spaghetti in Karottenpesto",
-				"attributes": [
-					"V",
-					"3",
-					"30",
-					"37"
-				],
-				"price": {
 					"student": 1.8,
 					"employee": 3.1,
 					"visitor": 4
 				},
 				"vitalInfo": null
 			},
+			"3": {
+				"name": "Gebratenes Curry-Quinoa mit Karotten und Brokkoli an fruchtigem Tomatendip",
+				"attributes": [
+					"V",
+					"3"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
 			"4": {
-				"name": "Blumenkohl-Käse-Medaillon an Sauce Béarnaise",
+				"name": "Kritharakisalat mit buntem Gemüse und Petersilienpesto, dazu Brotsticks",
 				"attributes": [
 					"F",
+					"1",
+					"2",
+					"3",
+					"6",
 					"30",
 					"32",
 					"36",
-					"38"
+					"37"
 				],
 				"price": {
 					"student": 1.9,
@@ -77,11 +80,10 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachter Süßkartoffelstampf auf Balsamico-Linsen",
+				"name": "Kartoffel-Paprikasuppe Ungarische Art",
 				"attributes": [
 					"V",
-					"1",
-					"3",
+					"30",
 					"35"
 				],
 				"price": {
@@ -94,41 +96,14 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Mini-Hackfleischbällchen auf Western-Tomatensauce",
+				"name": "Gebackenes Fleischkäseschnitzel auf Malzjus",
 				"attributes": [
-					"1",
+					"2",
+					"3",
+					"8",
 					"30",
 					"32",
 					"R",
-					"S"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Hähnchenbrust mit Petersilienpesto mariniert auf Béchamelsauce",
-				"attributes": [
-					"1",
-					"2",
-					"30",
-					"36",
-					"37"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Schweinesteak vom Nacken an Kräuterbutter",
-				"attributes": [
-					"36",
 					"S"
 				],
 				"price": {
@@ -138,31 +113,64 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
+			"2": {
+				"name": "Pfannenfrisches Hähnchengyros mit griechischem Zaziki",
 				"attributes": [
-					"1",
-					"36",
-					"38",
-					"39",
-					"R"
+					"36"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Käse-Schinken-Spätzlepfanne",
+				"attributes": [
+					"1",
+					"2",
+					"3",
+					"8",
+					"30",
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gegrilltes Steak vom Schweinerücken auf Portwein-Rahmsauce",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"36",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gefülltes Hessisches Kraut auf Béchamelsauce",
+				"name": "Farfalle Tricolore mit cremiger Thunfisch-Kräutersauce",
 				"attributes": [
+					"A",
 					"1",
 					"30",
-					"32",
+					"33",
 					"36",
-					"39",
-					"S"
+					"38",
+					"41"
 				],
 				"price": {
 					"student": 2.3,

@@ -8,19 +8,20 @@
 		}
 	},
 	"validity": {
-		"from": "2017-07-03T00:00:00.000Z",
-		"until": "2017-07-07T00:00:00.000Z"
+		"from": "2017-07-10T00:00:00.000Z",
+		"until": "2017-07-14T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise",
+				"name": "2 Hefeklöße mit Kirschgrütze",
 				"attributes": [
 					"F",
+					"1",
+					"3",
 					"30",
 					"32",
-					"36",
-					"38"
+					"36"
 				],
 				"price": {
 					"student": 1.8,
@@ -31,28 +32,30 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Mini-Hackfleischbällchen auf Western-Tomatensauce",
+				"name": "Allgäuer Käse-Schinken-Spätzlepfanne",
 				"attributes": [
+					"1",
+					"2",
+					"3",
+					"8",
 					"30",
 					"32",
-					"R",
+					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Pekingsuppe mit Karotte, Tofu und Paprika",
+				"name": "Bäckerin-Kartoffeln in dunkler Sauce",
 				"attributes": [
 					"V",
-					"Ö",
-					"35",
-					"39"
+					"Ö"
 				],
 				"price": {
 					"student": 2.9,
@@ -63,13 +66,8 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Stifado - Griechisches Rinderragout mit Gemüse, Reisnudeln und Zimt",
-				"attributes": [
-					"A",
-					"30",
-					"41",
-					"R"
-				],
+				"name": "Thai-Hühnchencurry auf Reis",
+				"attributes": [],
 				"price": {
 					"student": 3.5,
 					"employee": 4.8,
@@ -81,73 +79,13 @@
 		],
 		[
 			{
-				"name": "Spaghetti in Karotten-Pesto mit Sonnenblumenkernen",
-				"attributes": [
-					"V",
-					"30",
-					"37"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hähnchenbrust mit Pesto Rosso mariniert",
-				"attributes": [
-					"37"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Backkartoffeln mit Kräuterquark",
-				"attributes": [
-					"F",
-					"Ö",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Flammkuchen mit Räucherlachs, roten Zwiebeln und Schmand",
-				"attributes": [
-					"30",
-					"33",
-					"36"
-				],
-				"price": {
-					"student": 5.5,
-					"employee": 6.8,
-					"visitor": 7.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Couscouspfanne mit knackigem Gemüse an rotem Linsendip",
+				"name": "Kritharakisalat mit buntem Gemüse und Petersilienpesto",
 				"attributes": [
 					"V",
 					"3",
+					"6",
 					"30",
-					"39",
-					"40"
+					"37"
 				],
 				"price": {
 					"student": 1.8,
@@ -158,28 +96,25 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Fischfrikadelle mit Dill-Sahnesauce",
+				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
+					"36"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Kartoffelrösti mit Sommergemüse",
+				"name": "Spaghetti mit Tomatenwürfeln und Rucolapesto",
 				"attributes": [
 					"F",
 					"Ö",
-					"32"
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -190,13 +125,13 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Goldgelb gebackene Chicken-Crossis mit Currydip",
+				"name": "Rindfleischgulasch in Marsalarahm",
 				"attributes": [
-					"3",
+					"A",
 					"30",
-					"32",
 					"36",
-					"39"
+					"41",
+					"R"
 				],
 				"price": {
 					"student": 4,
@@ -209,12 +144,78 @@
 		],
 		[
 			{
-				"name": "Hausgemachte Polenta à la Crème auf Champignon-Sahnesauce",
+				"name": "Gebratenes Curry-Quinoa mit Mandeln, Karotten und Brokkoli an fruchtigem Tomatendip",
 				"attributes": [
 					"V",
+					"3",
+					"37"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Paniertes Schweineschnitzel auf Pfeffer-Rahmsauce",
+				"attributes": [
 					"1",
 					"30",
-					"35",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Champignons à la crème",
+				"attributes": [
+					"F",
+					"Ö",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Südafikanischer Bobotie Auflauf",
+				"attributes": [
+					"2",
+					"3",
+					"32",
+					"36",
+					"37",
+					"R"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Hessische Kartoffelsuppe mit Gemüse, dazu Brötchen",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"36",
 					"38"
 				],
 				"price": {
@@ -226,27 +227,31 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
+				"name": "Gebackenes Fleischkäseschnitzel auf Malzjus",
 				"attributes": [
-					"1",
-					"36",
-					"38",
-					"39",
-					"R"
+					"2",
+					"3",
+					"8",
+					"30",
+					"32",
+					"R",
+					"S"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Ratatouille-Gemüsepfanne",
+				"name": "Griechische Reispfanne mit Oliven und Tofu",
 				"attributes": [
 					"V",
-					"Ö"
+					"Ö",
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -257,17 +262,18 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Rinderroulade nach Hausfrauen Art in Bratenjus geschmort",
+				"name": "Türkisches Hähnchenschnitzel an Feigenchutney",
 				"attributes": [
-					"9",
+					"3",
 					"30",
+					"32",
 					"39",
-					"R"
+					"40"
 				],
 				"price": {
-					"student": 5.5,
-					"employee": 6.8,
-					"visitor": 7.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Aktions-Essen"
@@ -275,12 +281,11 @@
 		],
 		[
 			{
-				"name": "Hausgemachter Süßkartoffelstampf mit scharfen Erbsen",
+				"name": "Paprika-Kartoffel-Suppe Ungarische Art",
 				"attributes": [
-					"F",
-					"1",
+					"V",
 					"30",
-					"36"
+					"35"
 				],
 				"price": {
 					"student": 1.9,
@@ -291,12 +296,15 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gefülltes Hessisch Kraut",
+				"name": "Farfalle Tricolore an cremiger Thunfischsauce",
 				"attributes": [
+					"A",
+					"1",
 					"30",
-					"32",
-					"39",
-					"S"
+					"33",
+					"36",
+					"38",
+					"41"
 				],
 				"price": {
 					"student": 2.3,
@@ -307,10 +315,14 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Mexikanische Gemüsepfanne mit Chilisauce",
+				"name": "3 1/2 Eier in Senfsauce",
 				"attributes": [
-					"V",
-					"Ö"
+					"F",
+					"Ö",
+					"30",
+					"32",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -321,18 +333,16 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Arroz de Marisco - Portugiesiches Reisgericht mit Meeresfrüchten",
+				"name": "Spanisch Fricco mit Kartoffeln und Rindfleisch in Sauerrahm",
 				"attributes": [
-					"A",
-					"31",
-					"33",
-					"41",
-					"43"
+					"Ö",
+					"36",
+					"R"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Aktions-Essen"
