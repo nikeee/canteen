@@ -325,24 +325,7 @@
 		},
 		"Angebot des Tages II": {
 			"1": null,
-			"2": {
-				"name": "Burger mit rauchiger Mayonnaise und Wildkräutern",
-				"attributes": [
-					"1",
-					"3",
-					"9",
-					"30",
-					"39",
-					"40",
-					"R"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": null,
 			"4": null,
 			"5": null
