@@ -7,18 +7,52 @@
 		}
 	},
 	"validity": {
-		"from": "2017-07-10T00:00:00.000Z",
-		"until": "2017-07-14T00:00:00.000Z"
+		"from": "2017-07-17T00:00:00.000Z",
+		"until": "2017-07-21T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "2 Hefeklöße mit Kirschgrütze",
+				"name": "Schupfnudeln in Kürbissauce",
 				"attributes": [
 					"F",
 					"1",
+					"30",
+					"32",
+					"36",
+					"38",
+					"39",
+					"41"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Bulgurpfanne mit Nüssen und Trockenfrüchten an fruchtigem Birnendip",
+				"attributes": [
+					"V",
 					"3",
+					"30",
+					"37",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Semmelknödel in Spinatcreme",
+				"attributes": [
+					"F",
+					"1",
 					"30",
 					"32",
 					"36"
@@ -30,14 +64,13 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Kritharakisalat mit buntem Gemüse und Petersilienpesto",
+			"4": {
+				"name": "Kokos-Pfannkuchen an warmer Vanillesauce",
 				"attributes": [
 					"V",
-					"3",
-					"6",
+					"1",
 					"30",
-					"37"
+					"35"
 				],
 				"price": {
 					"student": 1.8,
@@ -46,43 +79,11 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Gebratene Curry-Graupen mit Mandeln, Karotten und Brokkoli an fruchtigem Tomatendip",
-				"attributes": [
-					"V",
-					"3",
-					"30",
-					"37"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Hessische Kartoffelsuppe mit Gemüse, dazu Brötchen",
+			"5": {
+				"name": "Rosmarinkartoffeln mit Paprika-Kreuzkümmelcreme",
 				"attributes": [
 					"F",
-					"1",
-					"30",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Paprika-Kartoffel-Suppe Ungarische Art",
-				"attributes": [
-					"V",
-					"30",
-					"35"
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -94,27 +95,10 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Allgäuer Käse-Schinken-Spätzlepfanne",
+				"name": "Geschnetzeltes von der Pute in Rahmsauce",
 				"attributes": [
-					"1",
-					"2",
-					"3",
-					"8",
 					"30",
 					"32",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
-				"attributes": [
 					"36"
 				],
 				"price": {
@@ -124,12 +108,26 @@
 				},
 				"vitalInfo": null
 			},
+			"2": {
+				"name": "Nasi Goreng mit buntem Gemüse und Putenstreifen",
+				"attributes": [
+					"2"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
 			"3": {
-				"name": "Paniertes Schweineschnitzel auf Pfeffer-Rahmsauce",
+				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
 				"attributes": [
 					"1",
+					"2",
 					"30",
 					"36",
+					"38",
 					"S"
 				],
 				"price": {
@@ -140,15 +138,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gebackenes Fleischkäseschnitzel auf Malzjus",
+				"name": "Hähnchenbrust mit Sauce Café de Paris",
 				"attributes": [
-					"2",
-					"3",
-					"8",
+					"1",
 					"30",
 					"32",
-					"R",
-					"S"
+					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -158,27 +153,57 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Farfalle Tricolore an cremiger Thunfischsauce",
+				"name": "Fischstäbchen mit Remouladensauce",
 				"attributes": [
-					"A",
-					"1",
+					"3",
+					"9",
 					"30",
+					"32",
 					"33",
 					"36",
-					"38",
-					"41"
+					"39"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Bäckerin-Kartoffeln in dunkler Sauce",
+				"name": "Couscous mit Gemüseragout",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Gegrillte Ofenkartoffel auf Kohlrabi-Gemüsebett",
+				"attributes": [
+					"V",
+					"Ö",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Frisches Gemüsegulasch mit Tomatensauce",
 				"attributes": [
 					"V",
 					"Ö"
@@ -190,42 +215,13 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Spaghetti mit Tomatenwürfeln und Rucolapesto",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Champignons à la crème",
-				"attributes": [
-					"F",
-					"Ö",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
 			"4": {
-				"name": "Griechische Reispfanne mit Oliven und Tofu",
+				"name": "Kartoffelauflauf mit Paprika und Bohnen",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"30",
-					"35"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -235,14 +231,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "3 1/2 Eier in Senfsauce",
+				"name": "Spaghetti mit scharfem Knoblauch-Blattspinat",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"30",
-					"32",
-					"36",
-					"39"
+					"30"
 				],
 				"price": {
 					"student": 2.9,
@@ -254,23 +247,31 @@
 		},
 		"Aktions-Essen": {
 			"1": {
-				"name": "Thai-Hühnchencurry auf Reis",
-				"attributes": [],
+				"name": "Pizza mit Salami, Schinken und frischen Champignons",
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"30",
+					"36",
+					"R",
+					"S"
+				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Rindfleischgulasch in Marsalarahm",
+				"name": "Paniertes Schweineschnitzel an hessischer Kräuter-Speck-Schmandsauce",
 				"attributes": [
-					"A",
+					"2",
 					"30",
+					"32",
 					"36",
-					"41",
-					"R"
+					"S"
 				],
 				"price": {
 					"student": 4,
@@ -280,30 +281,24 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Südafikanischer Bobotie Auflauf",
+				"name": "Putensteak mit Hirtenkäse-Tomatenhaube an Chilisahne",
 				"attributes": [
-					"2",
-					"3",
-					"32",
-					"36",
-					"37",
-					"R"
+					"1",
+					"30",
+					"36"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Türkisches Hähnchenschnitzel an Feigenchutney",
+				"name": "Gegrillte Medaillons vom Schweinefilet auf Thymianjus",
 				"attributes": [
-					"3",
 					"30",
-					"32",
-					"39",
-					"40"
+					"S"
 				],
 				"price": {
 					"student": 4,
@@ -313,16 +308,17 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Spanisch Fricco mit Kartoffeln und Rindfleisch in Sauerrahm",
+				"name": "Frisch gegrillte Spare Rips mit Dip",
 				"attributes": [
-					"Ö",
+					"1",
 					"36",
-					"R"
+					"39",
+					"S"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
 				},
 				"vitalInfo": null
 			}
