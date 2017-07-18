@@ -125,27 +125,18 @@
 				"categoryName": "Essen 3 oder 4"
 			},
 			{
-				"name": "Kartoffel-Kürbiskernpuffer mit Tomaten-Schnittlauch-Quark und Blattsalat",
+				"name": "Gebratene vegane Maultaschen auf Tomatenschmelze",
 				"attributes": [
-					"F",
-					"MV",
-					"3",
-					"30",
-					"32",
-					"36"
+					"V",
+					"30"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
-				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 82,
-					"protein": 38,
-					"calories": 651
-				},
-				"categoryName": "Angebot des Tages I"
+				"vitalInfo": null,
+				"categoryName": "Angebot des Tages II"
 			}
 		],
 		[

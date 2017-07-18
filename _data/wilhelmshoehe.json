@@ -253,28 +253,7 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Kartoffel-Kürbiskernpuffer mit Tomaten-Schnittlauch-Quark und Blattsalat",
-				"attributes": [
-					"F",
-					"MV",
-					"3",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 82,
-					"protein": 38,
-					"calories": 651
-				}
-			},
+			"2": null,
 			"3": {
 				"name": "Chili sin Carne mit Kräuterreis",
 				"attributes": [
@@ -344,7 +323,19 @@
 				},
 				"vitalInfo": null
 			},
-			"2": null,
+			"2": {
+				"name": "Gebratene vegane Maultaschen auf Tomatenschmelze",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null
+			},
 			"3": null,
 			"4": null,
 			"5": null
