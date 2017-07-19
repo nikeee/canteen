@@ -314,8 +314,9 @@
 			"1": {
 				"name": "Gebratene vegane Maultaschen auf Tomatenschmelze",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"30",
+					"32"
 				],
 				"price": {
 					"student": 3.2,
