@@ -308,17 +308,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Frisch gegrillte Spare Rips mit Dip",
-				"attributes": [
-					"1",
-					"36",
-					"39",
-					"S"
-				],
+				"name": "Lassen Sie sich überraschen!",
+				"attributes": [],
 				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			}
