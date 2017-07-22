@@ -7,111 +7,111 @@
 		}
 	},
 	"validity": {
-		"from": "2017-07-17T00:00:00.000Z",
-		"until": "2017-07-21T00:00:00.000Z"
+		"from": "2017-07-24T00:00:00.000Z",
+		"until": "2017-07-28T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Schupfnudeln in Kürbis-Salbeisauce",
+				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an Pfeffer-Sauerrahmdip",
 				"attributes": [
 					"F",
-					"1",
 					"30",
 					"32",
+					"35",
 					"36",
-					"38",
-					"39",
-					"41"
+					"38"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Zitronen-Couscouspfanne mit getrockneten Tomaten an fruchtigem Birnendip mit Koriander",
+				"name": "Italienische Gabelspaghetti mit fruchtiger Tomatensauce",
 				"attributes": [
 					"V",
-					"3",
 					"30"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Semmelknödel in Spinat-Béchamelsauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Pfannkuchen auf Erdbeermark mit warmer Vanillesauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"35",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Hausgemachte Kartoffel-Karottentaler an Tomatensauce",
+				"name": "Rosmarinkartoffeln mit Tomatencreme",
 				"attributes": [
 					"V",
-					"30"
+					"3",
+					"35"
 				],
 				"price": {
 					"student": 1.9,
 					"employee": 3.2,
 					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gemüsecurry in scharfer Haratisauce mit Kokos",
+				"attributes": [
+					"V",
+					"1",
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Minestrone - italienische Gemüsesuppe mit krossem Baguette",
+				"attributes": [
+					"V",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Braten vom Schweinerücken auf Whisky-Rahmsauce",
+				"name": "Mie-Nudelpfanne mit Hühnchen und Gemüse",
 				"attributes": [
-					"A",
-					"1",
 					"30",
-					"36",
-					"S"
+					"35",
+					"39"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
-				"attributes": [],
+				"name": "Gegrillte, nordhessische Kartoffelbratwurst auf dunkler Sauce",
+				"attributes": [
+					"2",
+					"8",
+					"30",
+					"36",
+					"S"
+				],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
@@ -120,29 +120,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Fischstäbchen mit Remouladensauce",
-				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
+				"name": "Geschnetzeltes nach Züricher Art mit Röstitalern",
 				"attributes": [
 					"1",
-					"2",
 					"30",
+					"32",
 					"36",
 					"S"
 				],
@@ -153,18 +135,30 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Hähnchenbrust mit Sauce Café de Paris",
+			"4": {
+				"name": "Gulasch aus der Puten Oberkeule in Pfirsichrahm",
 				"attributes": [
-					"1",
 					"30",
-					"32",
 					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
+				"attributes": [
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}

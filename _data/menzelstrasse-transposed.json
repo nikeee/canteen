@@ -8,86 +8,20 @@
 		}
 	},
 	"validity": {
-		"from": "2017-07-17T00:00:00.000Z",
-		"until": "2017-07-21T00:00:00.000Z"
+		"from": "2017-07-24T00:00:00.000Z",
+		"until": "2017-07-28T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Schupfnudeln in Kürbis-Salbeisauce",
+				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an Pfeffer-Sauerrahmdip",
 				"attributes": [
 					"F",
-					"1",
 					"30",
 					"32",
+					"35",
 					"36",
-					"38",
-					"39",
-					"41"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Braten vom Schweinerücken auf Whisky-Rahmsauce",
-				"attributes": [
-					"A",
-					"1",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Zitronen-Couscouspfanne mit getrockneten Tomaten an fruchtigem Birnendip mit Koriander",
-				"attributes": [
-					"V",
-					"3",
-					"30"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
-				"attributes": [],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Semmelknödel in Spinat-Béchamelsauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -98,20 +32,16 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Fischstäbchen mit Remouladensauce",
+				"name": "Mie-Nudelpfanne mit Hühnchen und Gemüse",
 				"attributes": [
-					"3",
-					"9",
 					"30",
-					"32",
-					"33",
-					"36",
+					"35",
 					"39"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
@@ -119,13 +49,10 @@
 		],
 		[
 			{
-				"name": "Pfannkuchen auf Erdbeermark mit warmer Vanillesauce",
+				"name": "Italienische Gabelspaghetti mit fruchtiger Tomatensauce",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"35",
-					"36"
+					"V",
+					"30"
 				],
 				"price": {
 					"student": 1.8,
@@ -136,11 +63,45 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
+				"name": "Gegrillte, nordhessische Kartoffelbratwurst auf dunkler Sauce",
+				"attributes": [
+					"2",
+					"8",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Rosmarinkartoffeln mit Tomatencreme",
+				"attributes": [
+					"V",
+					"3",
+					"35"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Geschnetzeltes nach Züricher Art mit Röstitalern",
 				"attributes": [
 					"1",
-					"2",
 					"30",
+					"32",
 					"36",
 					"S"
 				],
@@ -155,10 +116,13 @@
 		],
 		[
 			{
-				"name": "Hausgemachte Kartoffel-Karottentaler an Tomatensauce",
+				"name": "Gemüsecurry in scharfer Haratisauce mit Kokos",
 				"attributes": [
 					"V",
-					"30"
+					"1",
+					"30",
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 1.9,
@@ -169,17 +133,47 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hähnchenbrust mit Sauce Café de Paris",
+				"name": "Gulasch aus der Puten Oberkeule in Pfirsichrahm",
 				"attributes": [
-					"1",
 					"30",
-					"32",
 					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Minestrone - italienische Gemüsesuppe mit krossem Baguette",
+				"attributes": [
+					"V",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
+				"attributes": [
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
