@@ -264,6 +264,8 @@
 					"9",
 					"30",
 					"36",
+					"38",
+					"39",
 					"S"
 				],
 				"price": {
@@ -328,28 +330,6 @@
 					"calories": 707
 				},
 				"categoryName": "Angebot des Tages I"
-			},
-			{
-				"name": "Burger mit Schnitzel, Chilidip und Salat",
-				"attributes": [
-					"2",
-					"3",
-					"9",
-					"30",
-					"32",
-					"35",
-					"36",
-					"38",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot des Tages II"
 			}
 		]
 	]
