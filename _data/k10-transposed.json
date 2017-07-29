@@ -201,22 +201,6 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Vegane Soljanka mit Gurke, Paprika und Tofu",
-				"attributes": [
-					"V",
-					"9",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
 			}
 		]
 	]

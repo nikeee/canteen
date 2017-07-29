@@ -8,31 +8,38 @@
 		}
 	},
 	"validity": {
-		"from": "2017-07-24T00:00:00.000Z",
-		"until": "2017-07-28T00:00:00.000Z"
+		"from": "2017-07-31T00:00:00.000Z",
+		"until": "2017-08-04T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Italienische Spaghetti in Tomatensauce",
+				"name": "Goldgelb gebackenes Möhrenschnitzel auf Passionsfrucht-Sahne",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"1",
+					"2",
+					"3",
+					"30",
+					"32",
+					"36",
+					"38",
+					"39",
+					"40"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gegrillte, nordhessische Kartoffelbratwurst auf Majoranjus",
+				"name": "Ofenfrischer Spießbraten mit griechischem Zaziki und Krautsalat",
 				"attributes": [
 					"2",
-					"8",
-					"30",
+					"3",
 					"36",
 					"S"
 				],
@@ -45,11 +52,11 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Weißkohleintopf mit Kartoffeln, dazu Brötchen",
+				"name": "Geschwenktes Kichererbsen-Linsen-Curry",
 				"attributes": [
 					"V",
 					"Ö",
-					"30"
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -62,11 +69,9 @@
 		],
 		[
 			{
-				"name": "Minestrone - Italienische Gemüsesuppe mit Baguette",
+				"name": "Indisch Aloo Gobi mit Kartoffeln und Blumenkohl",
 				"attributes": [
-					"V",
-					"30",
-					"38"
+					"V"
 				],
 				"price": {
 					"student": 1.8,
@@ -77,26 +82,27 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Bami Goreng mit Geflügelstreifen",
+				"name": "Hähnchenbrust mit Cidre-Rahmsauce",
 				"attributes": [
+					"A",
+					"1",
+					"3",
 					"30",
-					"32",
-					"39"
+					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Kartoffelgratin mit Sahne und Käse überbacken",
+				"name": "Ofenkartoffeln mit Chili-Knoblauchdip",
 				"attributes": [
 					"F",
 					"Ö",
-					"30",
 					"36"
 				],
 				"price": {
@@ -110,45 +116,47 @@
 		],
 		[
 			{
-				"name": "Gemüsecurry in scharfer Sauce mit Kokos",
+				"name": "Geschmortes Ratatouille im gelben Reisrand",
 				"attributes": [
 					"V",
-					"1",
-					"30",
-					"35",
-					"39"
+					"30"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hähnchenbrust mit Tandoori Marinade in Béchamelsauce",
+				"name": "Nudelpfanne mit Salami, Schinken und Ei",
 				"attributes": [
-					"1",
+					"2",
+					"3",
+					"8",
 					"30",
+					"32",
 					"36",
-					"39"
+					"R",
+					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Gedünstete Zucchini mit Tofu-Grünkernauflage überbacken an Tomatensauce",
+				"name": "Hausgemachte Falafel an Joghurtdip",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
 					"30",
-					"35"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -161,11 +169,13 @@
 		],
 		[
 			{
-				"name": "Rosmarinkartoffeln mit Tomatencreme",
+				"name": "Frisch gebackene Kartoffelecken mit cremigem Currydip",
 				"attributes": [
 					"V",
 					"3",
-					"35"
+					"30",
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 1.9,
@@ -176,56 +186,10 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Geschnetzeltes von der Putenbrust in Pfirsichrahm",
+				"name": "Spinatpenne à la crème mit Hackfleisch",
 				"attributes": [
+					"1",
 					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Sabee Sabee Kumala - Australisches Kürbisgulasch",
-				"attributes": [
-					"V",
-					"Ö"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an Pfeffer-Sauerrahmdip",
-				"attributes": [
-					"F",
-					"30",
-					"35",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
-				"attributes": [
-					"32",
 					"36",
 					"S"
 				],
@@ -238,12 +202,59 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Asia-Reis-Gemüsepfanne",
+				"name": "Allgäuer Käsespätzle mit Röstzwiebeln",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Lauchkuchen mit Schmand und roten Zwiebeln",
+				"attributes": [
+					"F",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Balkan-Reisgericht mit Schweinefleisch",
+				"attributes": [
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Gebratene Nudeln mit asiatischem Gemüse",
 				"attributes": [
 					"V",
 					"Ö",
-					"35",
-					"39"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
