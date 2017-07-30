@@ -8,103 +8,52 @@
 		}
 	},
 	"validity": {
-		"from": "2017-07-24T00:00:00.000Z",
-		"until": "2017-07-29T00:00:00.000Z"
+		"from": "2017-07-31T00:00:00.000Z",
+		"until": "2017-08-05T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Mediterrane Gemüsepfanne mit Streifen von der Hähnchenbrust",
-				"attributes": [],
+				"name": "Zartes Hähnchenbrustfilet in Limettenmarinade mit Caipirinha-Rahmsauce",
+				"attributes": [
+					"A",
+					"2",
+					"30",
+					"36"
+				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Wellenbandnudeln in Erbsen-Cremesauce mit frischer Minze",
+				"name": "Gebackene Brokkolinuggets an Tomatensauce",
 				"attributes": [
 					"F",
-					"1",
 					"30",
 					"32",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Asia-Putenstreifen in Red-Thaicurrysauce",
-				"attributes": [
-					"1",
-					"30",
 					"35",
 					"36",
 					"38"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Gebackenes Ciabatta mit Tomaten und Mozarella an Feldsalat mit Balsamico-Vinaigrette",
-				"attributes": [
-					"F",
-					"1",
-					"3",
-					"30",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Gefüllter Germknödel mit Vanillesauce",
-				"attributes": [
-					"F",
-					"1",
-					"2",
-					"30",
-					"35",
-					"36"
-				],
-				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3 solange der Vorrat reicht"
 			}
 		],
 		[
 			{
-				"name": "Paniertes Schweineschnitzel an Speck-Schmandstippe",
+				"name": "Schweinegeschnetzeltes nach Züricher Art",
 				"attributes": [
-					"2",
-					"3",
+					"1",
 					"30",
-					"32",
 					"36",
 					"S"
 				],
@@ -117,13 +66,12 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Italienische Kartoffelgnocchi an Steinpilz-Rahmsauce mit Käse überbacken",
+				"name": "Börek mit Spinat und Hirtenkäse gefüllt an Knoblauchdip",
 				"attributes": [
 					"F",
-					"1",
 					"30",
-					"32",
-					"36"
+					"36",
+					"40"
 				],
 				"price": {
 					"student": 4,
@@ -132,55 +80,20 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Gefülltes Putenbruststeak Hawaii an Bratenjus",
-				"attributes": [
-					"2",
-					"3",
-					"8",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Enchilada mit Bohnen, Mais und Paprika an Ajvardip",
+				"name": "Bratheringfilets mit frischen Zwiebeln und Essiggurke an Pfeffer-Schmanddip",
 				"attributes": [
-					"F",
-					"2",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Im Ganzen gegrillte Forelle mit hausgemachter Kräuterbutter",
-				"attributes": [
-					"1",
+					"9",
 					"30",
 					"33",
-					"35",
-					"36"
+					"36",
+					"39"
 				],
 				"price": {
-					"student": 6,
-					"employee": 7.3,
-					"visitor": 8.2
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 3 solange der Vorrat reicht"
@@ -188,10 +101,94 @@
 		],
 		[
 			{
-				"name": "Frisch gebratenes Hähnchenbrustschnitzel auf Rahmsauce",
+				"name": "Putenschnitzel in Pankopanade auf feuriger Jalapeñosauce",
 				"attributes": [
 					"30",
+					"32"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Tortellini Tricolore mit Käsefüllung in Rucola-Sahnesauce mit Käse überbacken",
+				"attributes": [
+					"F",
+					"1",
+					"30",
 					"32",
+					"36"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Gebackene Fisch Nuggets an Cocktaildip",
+				"attributes": [
+					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Asiatische Basmatireis-Gemüsepfanne",
+				"attributes": [
+					"V",
+					"35",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Lauchkuchen mit Schmand und roten Zwiebeln",
+				"attributes": [
+					"F",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
+			}
+		],
+		[
+			{
+				"name": "Gebratenes Puten Cordon bleu mit Rahmsauce",
+				"attributes": [
+					"2",
+					"30",
 					"36"
 				],
 				"price": {
@@ -201,6 +198,22 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Kokos-Gemüsecurry",
+				"attributes": [
+					"V",
+					"3",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
 			}
 		]
 	]
