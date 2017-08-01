@@ -198,22 +198,7 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Hausgemachte Falafel an Joghurtdip",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
+			"3": null,
 			"4": {
 				"name": "Allgäuer Käsespätzle mit Röstzwiebeln",
 				"attributes": [
