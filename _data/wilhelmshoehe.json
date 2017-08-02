@@ -268,7 +268,7 @@
 				}
 			},
 			"2": {
-				"name": "Fischstäbchenburger mit Remoulade und hausgemachtem Kartoffelsalat",
+				"name": "Fischstäbchen mit Remouladensauce und hausgemachtem Kartoffelsalat",
 				"attributes": [
 					"3",
 					"9",
@@ -276,6 +276,7 @@
 					"32",
 					"33",
 					"36",
+					"38",
 					"39"
 				],
 				"price": {
