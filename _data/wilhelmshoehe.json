@@ -93,9 +93,12 @@
 					"3",
 					"8",
 					"9",
+					"30",
 					"32",
 					"36",
+					"38",
 					"39",
+					"R",
 					"S"
 				],
 				"price": {
@@ -224,6 +227,7 @@
 			"1": {
 				"name": "Gewokte Pasta mit Meeresfrüchten, Garnelen und Kräutern im Zitronensud",
 				"attributes": [
+					"1",
 					"8",
 					"30",
 					"31",
@@ -335,6 +339,7 @@
 					"32",
 					"36",
 					"39",
+					"40",
 					"R"
 				],
 				"price": {
