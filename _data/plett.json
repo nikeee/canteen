@@ -45,7 +45,12 @@
 			},
 			"3": {
 				"name": "Lassen Sie sich überraschen !",
-				"attributes": [],
+				"attributes": [
+					"30",
+					"32",
+					"36",
+					"38"
+				],
 				"price": {
 					"student": 1.9,
 					"employee": 3.2,
@@ -125,6 +130,7 @@
 			"3": {
 				"name": "Mie-Nudelpfanne mit Hähnchen und Gemüse",
 				"attributes": [
+					"2",
 					"30",
 					"35",
 					"39"

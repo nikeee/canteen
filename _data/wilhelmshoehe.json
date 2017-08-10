@@ -44,16 +44,7 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Lassen Sie sich überraschen !",
-				"attributes": [],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
+			"3": null,
 			"4": {
 				"name": "Hausgemachter Kartoffel-Pfannkuchen auf Kräuter-Sahnesauce",
 				"attributes": [
@@ -195,7 +186,7 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Paniertes Schweinekotelett mit Schwarzbierjus und Kräuterbutter",
+				"name": "Schweinekotelett natur mit Schwarzbierjus und Kräuterbutter",
 				"attributes": [
 					"A",
 					"30",
@@ -266,24 +257,7 @@
 					"calories": 720
 				}
 			},
-			"3": {
-				"name": "Flammkuchen mit Kürbiscreme, Birnen und gerösteten Walnüssen",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"30",
-					"35",
-					"37",
-					"39"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
+			"3": null,
 			"4": {
 				"name": "Linsen mit Kokoscurry und Bananen-Soja-Shake",
 				"attributes": [

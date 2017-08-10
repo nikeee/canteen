@@ -30,23 +30,17 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Grillfrische Zucchini auf fruchtiger Tomatensauce",
-				"attributes": [
-					"V",
-					"30",
-					"40"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": {
-				"name": "Lassen Sie sich überraschen !",
-				"attributes": [],
+				"name": "Gebackene Gemüsekroketten mit Béchamelsauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
+					"38"
+				],
 				"price": {
 					"student": 1.9,
 					"employee": 3.2,
@@ -107,23 +101,7 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Gebackener Alaska-Seelachs an Joghurtaioli",
-				"attributes": [
-					"3",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": {
 				"name": "Mie-Nudelpfanne mit Hähnchen und Gemüse",
 				"attributes": [
@@ -241,28 +219,7 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Rinderhacksteak mit Kohlrabi-Paprikagemüse und Kartoffeln",
-				"attributes": [
-					"MV",
-					"30",
-					"32",
-					"36",
-					"39",
-					"R"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": {
-					"fat": 26,
-					"carbohydrate": 81,
-					"protein": 43,
-					"calories": 720
-				}
-			},
+			"2": null,
 			"3": null,
 			"4": null,
 			"5": {
