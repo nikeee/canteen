@@ -150,40 +150,6 @@
 				"categoryName": "Essen 2"
 			}
 		],
-		[
-			{
-				"name": "Italienische Penne in Pilzcremesauce",
-				"attributes": [
-					"V",
-					"1",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hausgemachter Speckpfannkuchen an Kräuterdip",
-				"attributes": [
-					"2",
-					"30",
-					"32",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		]
+		[]
 	]
 }
