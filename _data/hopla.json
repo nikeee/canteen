@@ -8,38 +8,19 @@
 		}
 	},
 	"validity": {
-		"from": "2017-08-07T00:00:00.000Z",
-		"until": "2017-08-11T00:00:00.000Z"
+		"from": "2017-08-14T00:00:00.000Z",
+		"until": "2017-08-18T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Asiatische Sojastreifen mit Pflaumenmus und Gemüse",
-				"attributes": [
-					"V",
-					"1",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"2": null,
-			"3": {
-				"name": "Gebackene Gemüsekroketten mit Béchamelsauce",
+				"name": "Kartoffelpfanne mit Gewürzgurke",
 				"attributes": [
 					"F",
-					"1",
-					"30",
+					"9",
 					"32",
-					"36",
-					"38"
+					"39"
 				],
 				"price": {
 					"student": 1.9,
@@ -48,14 +29,11 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Hausgemachter Kartoffel-Pfannkuchen auf Kräuter-Sahnesauce",
+			"2": {
+				"name": "Farfalle Tricolore mit tomatisiertem Grünkernragout",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
+					"V",
+					"30"
 				],
 				"price": {
 					"student": 1.8,
@@ -64,13 +42,43 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Italienische Penne in Pilzcremesauce",
+			"3": {
+				"name": "Pfannenfrische Gemüsepaella",
+				"attributes": [
+					"V"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Curry von zweierlei Kartoffeln und Blumenkohl",
 				"attributes": [
 					"V",
+					"3",
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
+				"attributes": [
+					"F",
 					"1",
 					"30",
-					"35"
+					"32",
+					"36",
+					"37"
 				],
 				"price": {
 					"student": 1.9,
@@ -82,17 +90,25 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Feine Knackwurst mit Senf auf hausgemachtem Kartoffelsalat",
+				"name": "Ofenfrische Geflügelfrikadelle an Jus mit grünen Pfefferbeeren",
 				"attributes": [
-					"2",
-					"3",
-					"8",
-					"9",
+					"30",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Bami Goreng mit Geflügelstreifen",
+				"attributes": [
+					"30",
 					"32",
-					"36",
-					"39",
-					"R",
-					"S"
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -101,13 +117,13 @@
 				},
 				"vitalInfo": null
 			},
-			"2": null,
 			"3": {
-				"name": "Mie-Nudelpfanne mit Hähnchen und Gemüse",
+				"name": "Gebratene Gnocchi in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
 				"attributes": [
+					"1",
 					"30",
-					"35",
-					"39"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.4,
@@ -117,100 +133,51 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hühnerfrikassee mit Erbsen und Spargel",
-				"attributes": [
-					"A",
-					"1",
-					"30",
-					"36",
-					"41"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Hausgemachter Speckpfannkuchen an Kräuterdip",
+				"name": "Gebratene Scheiben vom Fleischkäse auf Jus mit Champignons",
 				"attributes": [
 					"2",
+					"3",
+					"8",
 					"30",
-					"32",
-					"36",
+					"R",
 					"S"
 				],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
 					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Frühlingsrolle mit Geflügelfleisch gefüllt an süßsaurer Sauce",
+				"attributes": [
+					"1",
+					"3",
+					"30",
+					"32",
+					"35",
+					"36",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 3 oder 4": {
-			"1": null,
-			"2": null,
-			"3": {
-				"name": "Cordon bleu von der Pute auf kräftiger Bratenjus",
+			"1": {
+				"name": "Hausgemachte Lasagne mit geschmortem Ratatouille, Geflügelschinken und Mozzarella",
 				"attributes": [
-					"1",
 					"2",
 					"3",
 					"8",
 					"30",
-					"32",
 					"36"
-				],
-				"price": {
-					"student": 3.7,
-					"employee": 5,
-					"visitor": 5.9
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Paniertes Schweinekotelett mit Schwarzbierjus und Kräuterbutter",
-				"attributes": [
-					"A",
-					"30",
-					"32",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Hähnchenbrust in Mango-Chili-Marinade auf sommerlichen Karottensalat mit Ingwer und Joghurtgitter",
-				"attributes": [
-					"3",
-					"36"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null
-			}
-		},
-		"Angebot des Tages": {
-			"1": {
-				"name": "Gewokte Pasta mit Meeresfrüchten, Garnelen und Kräutern im Zitronensud",
-				"attributes": [
-					"8",
-					"30",
-					"31",
-					"32",
-					"33",
-					"38",
-					"43"
 				],
 				"price": {
 					"student": 3.5,
@@ -219,45 +186,113 @@
 				},
 				"vitalInfo": null
 			},
-			"2": null,
+			"2": {
+				"name": "Fish & Chips",
+				"attributes": [
+					"30",
+					"32",
+					"33"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
 			"3": null,
 			"4": null,
 			"5": {
-				"name": "Spätzlepfanne mit Tofu, dazu Rucola-Radieschensalat",
+				"name": "Paniertes Schweineschnitzel an Schmanddip und geschmorten Zwiebeln",
 				"attributes": [
-					"F",
-					"MV",
-					"1",
-					"3",
 					"30",
 					"32",
-					"35",
-					"39"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 3.2,
 					"employee": 4.5,
 					"visitor": 5.4
 				},
-				"vitalInfo": {
-					"fat": 22,
-					"carbohydrate": 84,
-					"protein": 28,
-					"calories": 638
-				}
+				"vitalInfo": null
 			}
 		},
-		"Wok/Grill": {
+		"Angebot des Tages": {
 			"1": {
-				"name": "Caesars Burger mit Beef, Parmesandip, Tomate und Romanasalat",
+				"name": "Bohnen-Gemüse-Ragout mit Sojasprossen und Erdnüssen, dazu Kräuterkartoffeln",
+				"attributes": [
+					"V",
+					"MV",
+					"34"
+				],
+				"price": {
+					"student": 2.2,
+					"employee": 3.5,
+					"visitor": 4.4
+				},
+				"vitalInfo": {
+					"fat": 24,
+					"carbohydrate": 86,
+					"protein": 25,
+					"calories": 644
+				}
+			},
+			"2": null,
+			"3": {
+				"name": "Schmorgurken mit Kräuterkartoffeln, dazu Erdbeerpudding",
+				"attributes": [
+					"F",
+					"MV",
+					"1",
+					"36"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
+				},
+				"vitalInfo": {
+					"fat": 24,
+					"carbohydrate": 79,
+					"protein": 23,
+					"calories": 629
+				}
+			},
+			"4": {
+				"name": "Putensteak mit Sesam-Blumenkohl und Kartoffelpüree, dazu eine Banane",
+				"attributes": [
+					"MV",
+					"36",
+					"40"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": {
+					"fat": 24,
+					"carbohydrate": 82,
+					"protein": 42,
+					"calories": 717
+				}
+			},
+			"5": null
+		},
+		"Wok/Grill": {
+			"1": null,
+			"2": {
+				"name": "Cheeseburger mit Beef, Käse, zweierlei Dips und Salat",
 				"attributes": [
 					"1",
-					"2",
 					"3",
+					"9",
 					"30",
 					"32",
 					"36",
 					"39",
+					"40",
 					"R"
 				],
 				"price": {
@@ -267,48 +302,45 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Ofenfrische, marinierte Spare-Rips an Honig-Senf-Barbecue-Dip",
+			"3": {
+				"name": "Gegrillte Medaillons vom Schweinefilet im Speckmantel auf Spitzkohl und Bratenjus",
 				"attributes": [
+					"A",
+					"1",
+					"2",
 					"3",
-					"39",
+					"30",
+					"41",
 					"S"
 				],
 				"price": {
-					"student": 6,
-					"employee": 7.3,
-					"visitor": 8.2
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
 				},
 				"vitalInfo": null
 			},
-			"3": null,
 			"4": {
-				"name": "Linsen mit Kokoscurry und Bananen-Soja-Shake",
+				"name": "Im Ganzen gegrillte Forelle mit Zitrus-Kräuterfüllung auf zerschmolzener Butter",
 				"attributes": [
-					"V",
-					"MV",
-					"35",
-					"39"
+					"33"
 				],
 				"price": {
-					"student": 2.2,
-					"employee": 3.5,
-					"visitor": 4.4
+					"student": 5.5,
+					"employee": 6.8,
+					"visitor": 7.7
 				},
-				"vitalInfo": {
-					"fat": 18,
-					"carbohydrate": 86,
-					"protein": 37,
-					"calories": 661
-				}
+				"vitalInfo": null
 			},
 			"5": null
 		},
 		"Pizza/Pasta": {
 			"1": null,
 			"2": null,
-			"3": {
-				"name": "Flammkuchen mit Kürbiscreme, Birnen und gerösteten Walnüssen",
+			"3": null,
+			"4": null,
+			"5": {
+				"name": "Flammkuchen mit Creme von roten Linsen und Birne, Mandelspinat und Sojaschmelz",
 				"attributes": [
 					"V",
 					"1",
@@ -316,17 +348,15 @@
 					"30",
 					"35",
 					"37",
-					"39"
+					"40"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
 				},
 				"vitalInfo": null
-			},
-			"4": null,
-			"5": null
+			}
 		}
 	}
 }

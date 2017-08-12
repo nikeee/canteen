@@ -7,20 +7,32 @@
 		}
 	},
 	"validity": {
-		"from": "2017-08-07T00:00:00.000Z",
-		"until": "2017-08-11T00:00:00.000Z"
+		"from": "2017-08-14T00:00:00.000Z",
+		"until": "2017-08-18T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Asiatische Sojastreifen mit Pflaumenmus und Gemüse",
+				"name": "Kartoffelpfanne mit Gewürzgurke",
+				"attributes": [
+					"F",
+					"9",
+					"32",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Farfalle Tricolore mit tomatisiertem Grünkernragout",
 				"attributes": [
 					"V",
-					"1",
-					"30",
-					"35",
-					"39"
+					"30"
 				],
 				"price": {
 					"student": 1.8,
@@ -29,12 +41,26 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Grillfrische Zucchini auf fruchtiger Tomatensauce",
+			"3": {
+				"name": "Pfannenfrische Gemüsepaella",
+				"attributes": [
+					"V"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Curry von zweierlei Kartoffeln und Blumenkohl",
 				"attributes": [
 					"V",
+					"3",
 					"30",
-					"40"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 1.9,
@@ -43,79 +69,62 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Lassen Sie sich überraschen !",
-				"attributes": [],
+			"5": {
+				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
+					"37"
+				],
 				"price": {
 					"student": 1.9,
 					"employee": 3.2,
 					"visitor": 4.1
 				},
 				"vitalInfo": null
-			},
-			"4": {
-				"name": "Hausgemachter Kartoffel-Pfannkuchen auf Kräuter-Sahnesauce",
+			}
+		},
+		"Essen 2": {
+			"1": {
+				"name": "Ofenfrische Geflügelfrikadelle an Jus mit grünen Pfefferbeeren",
 				"attributes": [
-					"F",
+					"30",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Bami Goreng mit Geflügelstreifen",
+				"attributes": [
+					"30",
+					"32",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gebratene Gnocchi in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
+				"attributes": [
 					"1",
 					"30",
 					"32",
 					"36"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"5": null
-		},
-		"Essen 2": {
-			"1": {
-				"name": "Feine Knackwurst mit Senf auf hausgemachtem Kartoffelsalat",
-				"attributes": [
-					"2",
-					"3",
-					"8",
-					"9",
-					"32",
-					"36",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Gebackener Alaska-Seelachs an Joghurtaioli",
-				"attributes": [
-					"3",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Mie-Nudelpfanne mit Hähnchen und Gemüse",
-				"attributes": [
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
 					"student": 2.4,
 					"employee": 3.7,
 					"visitor": 4.6
@@ -123,22 +132,41 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hühnerfrikassee mit Erbsen und Spargel",
+				"name": "Gebratene Scheiben vom Fleischkäse auf Jus mit Champignons",
 				"attributes": [
-					"A",
-					"1",
+					"2",
+					"3",
+					"8",
 					"30",
-					"36",
-					"41"
+					"R",
+					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
-			"5": null
+			"5": {
+				"name": "Frühlingsrolle mit Geflügelfleisch gefüllt an süßsaurer Sauce",
+				"attributes": [
+					"1",
+					"3",
+					"30",
+					"32",
+					"35",
+					"36",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
+			}
 		}
 	}
 }

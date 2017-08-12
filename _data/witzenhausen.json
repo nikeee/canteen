@@ -7,18 +7,32 @@
 		}
 	},
 	"validity": {
-		"from": "2017-08-07T00:00:00.000Z",
-		"until": "2017-08-11T00:00:00.000Z"
+		"from": "2017-08-14T00:00:00.000Z",
+		"until": "2017-08-18T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Penne in Pilz-Rahmsauce",
+				"name": "Kartoffelpfanne mit Gewürzgurke",
+				"attributes": [
+					"F",
+					"9",
+					"32",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Farfalle Tricolore in tomatisiertem Grünkernragout",
 				"attributes": [
 					"V",
-					"30",
-					"35"
+					"30"
 				],
 				"price": {
 					"student": 1.8,
@@ -27,11 +41,23 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Thai-Sojastreifen mit buntem Gemüse in scharfer Currysauce",
+			"3": {
+				"name": "Pfannenfrische Gemüsepaella",
+				"attributes": [
+					"V"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Curry-Ragout von zweierlei Kartoffeln",
 				"attributes": [
 					"V",
-					"30",
+					"1",
 					"35",
 					"39"
 				],
@@ -42,42 +68,15 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Champignon-Risotto mit Kirschtomaten und Käse überbacken",
+			"5": {
+				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
 				"attributes": [
 					"F",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Kartoffelpfannkuchen auf cremiger Kürbissauce",
-				"attributes": [
-					"V",
 					"1",
 					"30",
-					"35",
-					"39",
-					"41"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Grillfrische Zucchini auf Tomatensauce",
-				"attributes": [
-					"V",
-					"30",
-					"40"
+					"32",
+					"36",
+					"37"
 				],
 				"price": {
 					"student": 1.9,
@@ -89,13 +88,16 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Belgischer Speckpfannkuchen auf Kräuterdip",
+				"name": "Frühlingsrolle mit Geflügelfleisch gefüllt an süßsaurer Sauce",
 				"attributes": [
-					"2",
+					"1",
+					"3",
 					"30",
 					"32",
+					"35",
 					"36",
-					"S"
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -105,24 +107,12 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Geschnetzeltes aus der Schweinekeule in Bärlauchrahm",
+				"name": "Ofenfrische Geflügelfrikadelle an Pfeffer-Rahmsauce",
 				"attributes": [
+					"1",
 					"30",
 					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Mie-Nudelpfanne mit Pute und Gemüse",
-				"attributes": [
-					"30",
-					"35",
+					"38",
 					"39"
 				],
 				"price": {
@@ -132,15 +122,25 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Hühnerfrikassee mit Erbsen und Spargel",
+			"3": {
+				"name": "Gebratene Gnocchi in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
 				"attributes": [
-					"A",
 					"1",
 					"30",
 					"32",
-					"36",
-					"41"
+					"36"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Mediterrane Gemüsepfanne mit Streifen von der Hähnchenbrust",
+				"attributes": [
+					"4"
 				],
 				"price": {
 					"student": 2.5,
@@ -150,32 +150,30 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Feine Knackwurst auf hausgemachtem Kartoffelsalat",
+				"name": "Gegrillter Fleischkäse auf Bratenjus",
 				"attributes": [
 					"2",
 					"3",
 					"8",
-					"9",
-					"32",
-					"36",
-					"39",
+					"30",
+					"R",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Huevos Mexicanos - Rührei mexikanisch mit Tomaten, Zwiebeln und Chili",
+				"name": "Spaghetti mit Tomatensauce Napoli",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"32"
+					"30"
 				],
 				"price": {
 					"student": 2.9,
@@ -185,13 +183,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gedünstete Karottenstifte mit Grünkern-Käsehaube überbacken",
+				"name": "Türkischer Hummus aus Kichererbsen mit Ofenkartoffeln",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"30",
-					"35",
-					"36"
+					"40"
 				],
 				"price": {
 					"student": 2.9,
@@ -201,12 +197,14 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gebratene, panierte Tofuschnitte mit Curry-Erbsensauce",
+				"name": "Gekochte Eier in Curry-Gemüsesauce",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
 					"30",
-					"35"
+					"32",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -216,11 +214,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Nudeln mit Soja-Bolognese",
+				"name": "Chili sin carne mit Tofu",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
 					"35"
 				],
 				"price": {
@@ -231,11 +228,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Ofenkartoffeln mit Kräuterquark",
+				"name": "Kartoffelrösti mit Blumenkohl-Rahmsauce",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"36"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,

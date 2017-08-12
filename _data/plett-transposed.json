@@ -8,19 +8,69 @@
 		}
 	},
 	"validity": {
-		"from": "2017-08-07T00:00:00.000Z",
-		"until": "2017-08-11T00:00:00.000Z"
+		"from": "2017-08-14T00:00:00.000Z",
+		"until": "2017-08-18T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Asiatische Sojastreifen mit Pflaumenmus und Gemüse",
+				"name": "Kartoffelpfanne mit Gewürzgurke",
+				"attributes": [
+					"F",
+					"9",
+					"32",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Ofenfrische Geflügelfrikadelle an Jus mit grünen Pfefferbeeren",
+				"attributes": [
+					"30",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Bohnen-Gemüse-Ragout mit Sojasprossen und Erdnüssen, dazu Kräuterkartoffeln",
 				"attributes": [
 					"V",
-					"1",
-					"30",
-					"35",
-					"39"
+					"MV",
+					"34"
+				],
+				"price": {
+					"student": 2.2,
+					"employee": 3.5,
+					"visitor": 4.4
+				},
+				"vitalInfo": {
+					"fat": 24,
+					"carbohydrate": 86,
+					"protein": 25,
+					"calories": 644
+				},
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Farfalle Tricolore mit tomatisiertem Grünkernragout",
+				"attributes": [
+					"V",
+					"30"
 				],
 				"price": {
 					"student": 1.8,
@@ -31,16 +81,11 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Feine Knackwurst mit Senf auf hausgemachtem Kartoffelsalat",
+				"name": "Bami Goreng mit Geflügelstreifen",
 				"attributes": [
-					"2",
-					"3",
-					"8",
-					"9",
+					"30",
 					"32",
-					"36",
-					"39",
-					"S"
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -51,15 +96,31 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Caesars Burger mit Beef, Parmesandip, Tomate und Romanasalat",
+				"name": "Fish & Chips",
+				"attributes": [
+					"30",
+					"32",
+					"33"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 3 oder 4"
+			},
+			{
+				"name": "Cheeseburger mit Beef, Käse, zweierlei Dips und Salat",
 				"attributes": [
 					"1",
-					"2",
 					"3",
+					"9",
 					"30",
 					"32",
 					"36",
 					"39",
+					"40",
 					"R"
 				],
 				"price": {
@@ -73,124 +134,9 @@
 		],
 		[
 			{
-				"name": "Grillfrische Zucchini auf fruchtiger Tomatensauce",
+				"name": "Pfannenfrische Gemüsepaella",
 				"attributes": [
-					"V",
-					"30",
-					"40"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gebackener Alaska-Seelachs an Joghurtaioli",
-				"attributes": [
-					"3",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Rinderhacksteak mit Kohlrabi-Paprikagemüse und Kartoffeln",
-				"attributes": [
-					"MV",
-					"30",
-					"32",
-					"36",
-					"39",
-					"R"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": {
-					"fat": 26,
-					"carbohydrate": 81,
-					"protein": 43,
-					"calories": 720
-				},
-				"categoryName": "Angebot des Tages I"
-			}
-		],
-		[
-			{
-				"name": "Lassen Sie sich überraschen !",
-				"attributes": [
-					"30",
-					"32",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Mie-Nudelpfanne mit Hähnchen und Gemüse",
-				"attributes": [
-					"2",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Cordon bleu von der Pute auf kräftiger Bratenjus",
-				"attributes": [
-					"1",
-					"2",
-					"3",
-					"8",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.7,
-					"employee": 5,
-					"visitor": 5.9
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 3 oder 4"
-			}
-		],
-		[
-			{
-				"name": "Hausgemachter Kartoffel-Pfannkuchen auf Kräuter-Sahnesauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
+					"V"
 				],
 				"price": {
 					"student": 1.8,
@@ -201,26 +147,142 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hühnerfrikassee mit Erbsen und Spargel",
+				"name": "Gebratene Gnocchi in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
 				"attributes": [
-					"A",
 					"1",
 					"30",
-					"36",
-					"41"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Paniertes Schweinekotelett mit Schwarzbierjus und Kräuterbutter",
+				"name": "Schmorgurken mit Kräuterkartoffeln, dazu Erdbeerpudding",
 				"attributes": [
-					"A",
+					"F",
+					"MV",
+					"1",
+					"36"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
+				},
+				"vitalInfo": {
+					"fat": 24,
+					"carbohydrate": 79,
+					"protein": 23,
+					"calories": 629
+				},
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Curry von zweierlei Kartoffeln und Blumenkohl",
+				"attributes": [
+					"V",
+					"3",
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gebratene Scheiben vom Fleischkäse auf Jus mit Champignons",
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"30",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Putensteak mit Sesam-Blumenkohl und Kartoffelpüree, dazu eine Banane",
+				"attributes": [
+					"MV",
+					"36",
+					"40"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": {
+					"fat": 24,
+					"carbohydrate": 82,
+					"protein": 42,
+					"calories": 717
+				},
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
+					"37"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Frühlingsrolle mit Geflügelfleisch gefüllt an süßsaurer Sauce",
+				"attributes": [
+					"1",
+					"3",
+					"30",
+					"32",
+					"35",
+					"36",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Paniertes Schweineschnitzel an Schmanddip und geschmorten Zwiebeln",
+				"attributes": [
 					"30",
 					"32",
 					"36",
@@ -233,87 +295,6 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 3 oder 4"
-			},
-			{
-				"name": "Linsen mit Kokoscurry und Bananen-Soja-Shake",
-				"attributes": [
-					"V",
-					"MV",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.2,
-					"employee": 3.5,
-					"visitor": 4.4
-				},
-				"vitalInfo": {
-					"fat": 18,
-					"carbohydrate": 86,
-					"protein": 37,
-					"calories": 661
-				},
-				"categoryName": "Angebot des Tages I"
-			}
-		],
-		[
-			{
-				"name": "Italienische Penne in Pilzcremesauce",
-				"attributes": [
-					"V",
-					"1",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hausgemachter Speckpfannkuchen an Kräuterdip",
-				"attributes": [
-					"2",
-					"30",
-					"32",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Spätzlepfanne mit Tofu, dazu Rucola-Radieschensalat",
-				"attributes": [
-					"F",
-					"MV",
-					"1",
-					"3",
-					"30",
-					"32",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": {
-					"fat": 22,
-					"carbohydrate": 84,
-					"protein": 28,
-					"calories": 638
-				},
-				"categoryName": "Angebot des Tages I"
 			}
 		]
 	]
