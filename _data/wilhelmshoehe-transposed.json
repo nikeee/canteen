@@ -88,7 +88,9 @@
 				"name": "Farfalle Tricolore mit tomatisiertem Grünkernragout",
 				"attributes": [
 					"V",
-					"30"
+					"30",
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -116,9 +118,13 @@
 			{
 				"name": "Fish & Chips",
 				"attributes": [
+					"3",
+					"9",
 					"30",
 					"32",
-					"33"
+					"33",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 3.5,
@@ -132,14 +138,18 @@
 				"name": "Cheeseburger mit Beef, Käse, zweierlei Dips und Salat",
 				"attributes": [
 					"1",
+					"2",
 					"3",
+					"8",
 					"9",
 					"30",
 					"32",
 					"36",
+					"38",
 					"39",
 					"40",
-					"R"
+					"R",
+					"S"
 				],
 				"price": {
 					"student": 4,
