@@ -207,7 +207,24 @@
 				"vitalInfo": null
 			},
 			"3": null,
-			"4": null,
+			"4": {
+				"name": "Gebackener Alaska-Seelachs an Remouladensauce",
+				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null
+			},
 			"5": {
 				"name": "Paniertes Schweineschnitzel an Schmanddip und geschmorten Zwiebeln",
 				"attributes": [
@@ -330,18 +347,7 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Im Ganzen gegrillte Forelle mit Zitrus-Kräuterfüllung auf zerschmolzener Butter",
-				"attributes": [
-					"33"
-				],
-				"price": {
-					"student": 5.5,
-					"employee": 6.8,
-					"visitor": 7.7
-				},
-				"vitalInfo": null
-			},
+			"4": null,
 			"5": null
 		}
 	}
