@@ -8,69 +8,18 @@
 		}
 	},
 	"validity": {
-		"from": "2017-08-14T00:00:00.000Z",
-		"until": "2017-08-18T00:00:00.000Z"
+		"from": "2017-08-21T00:00:00.000Z",
+		"until": "2017-08-25T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Kartoffelpfanne mit Gewürzgurke",
+				"name": "Makkronelli in Tofu-Gemüsebolognesesauce",
 				"attributes": [
-					"F",
-					"9",
-					"32",
-					"39"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Frühlingsrolle mit Geflügelfleisch gefüllt an süßsaurer Sauce",
-				"attributes": [
-					"1",
-					"3",
+					"V",
 					"30",
-					"32",
 					"35",
-					"36",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Spaghetti mit Tomatensauce Napoli",
-				"attributes": [
-					"V",
-					"Ö",
-					"30"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Farfalle Tricolore in tomatisiertem Grünkernragout",
-				"attributes": [
-					"V",
-					"30"
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -81,59 +30,12 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Ofenfrische Geflügelfrikadelle an Pfeffer-Rahmsauce",
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
 				"attributes": [
-					"1",
+					"8",
 					"30",
 					"36",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Türkischer Hummus aus Kichererbsen mit Ofenkartoffeln",
-				"attributes": [
-					"V",
-					"Ö",
-					"40"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Pfannenfrische Gemüsepaella",
-				"attributes": [
-					"V"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gebratene Gnocchi in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36"
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -144,14 +46,10 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Gekochte Eier in Curry-Gemüsesauce",
+				"name": "Geschwenkte Pilz-Kartoffel-Pfanne",
 				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"32",
-					"36",
-					"39"
+					"V",
+					"Ö"
 				],
 				"price": {
 					"student": 2.9,
@@ -164,25 +62,27 @@
 		],
 		[
 			{
-				"name": "Curry-Ragout von zweierlei Kartoffeln",
+				"name": "Gebackene Gemüsekroketten mit cremiger Sauce",
 				"attributes": [
 					"V",
-					"1",
-					"35",
-					"39"
+					"30",
+					"38"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Mediterrane Gemüsepfanne mit Streifen von der Hähnchenbrust",
+				"name": "Karibisches Mango-Hühnchen",
 				"attributes": [
-					"4"
+					"1",
+					"30",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -193,11 +93,12 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Chili sin carne mit Tofu",
+				"name": "Bauernomelett mit Ei und Gemüse, dazu Gewürzgurke",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"35"
+					"32",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -210,14 +111,11 @@
 		],
 		[
 			{
-				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
+				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
 				"attributes": [
 					"F",
-					"1",
-					"30",
 					"32",
-					"36",
-					"37"
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -228,13 +126,12 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gegrillter Fleischkäse auf Bratenjus",
+				"name": "Hausgemachtes Hacksteak an Zwiebel-Senfsauce",
 				"attributes": [
-					"2",
-					"3",
-					"8",
 					"30",
-					"R",
+					"32",
+					"35",
+					"39",
 					"S"
 				],
 				"price": {
@@ -246,12 +143,112 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Kartoffelrösti mit Blumenkohl-Rahmsauce",
+				"name": "Ratatouille-Gemüsepfanne",
 				"attributes": [
 					"V",
+					"Ö"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Kokos-Soja-Milchreis mit Kirschgrütze",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"35"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Wellenbandnudeln in feurigem Chili con Carne",
+				"attributes": [
+					"30",
+					"32",
+					"R"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Béchamelkartoffeln mit Gemüseragout",
+				"attributes": [
+					"F",
 					"Ö",
 					"30",
-					"35"
+					"35",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Hausgemachter Kichererbsen-Taler an Ananaschutney",
+				"attributes": [
+					"V",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Fischfrikadelle mit Cocktaildip",
+				"attributes": [
+					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Berner Röstiauflauf mit Käsesauce",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
