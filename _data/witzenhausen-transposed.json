@@ -8,34 +8,31 @@
 		}
 	},
 	"validity": {
-		"from": "2017-08-21T00:00:00.000Z",
-		"until": "2017-08-25T00:00:00.000Z"
+		"from": "2017-09-25T00:00:00.000Z",
+		"until": "2017-09-29T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Makkronelli in Tofu-Gemüsebolognesesauce",
+				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse und Brötchen",
 				"attributes": [
 					"V",
 					"30",
-					"35",
-					"38"
+					"38",
+					"39"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
+				"name": "Geschmortes Ratatouille-Gemüse mit Hähnchen",
 				"attributes": [
-					"8",
-					"30",
-					"36",
-					"S"
+					"30"
 				],
 				"price": {
 					"student": 2.4,
@@ -46,10 +43,12 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Geschwenkte Pilz-Kartoffel-Pfanne",
+				"name": "Provenzalischer Kartoffelauflauf",
 				"attributes": [
-					"V",
-					"Ö"
+					"F",
+					"Ö",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -62,7 +61,55 @@
 		],
 		[
 			{
-				"name": "Gebackene Gemüsekroketten mit cremiger Sauce",
+				"name": "Kartoffelpuffer mit Apfelmus",
+				"attributes": [
+					"F",
+					"3",
+					"32"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Saltimbocca vom Schweinerücken",
+				"attributes": [
+					"2",
+					"3",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Pasta in Linsen-Zitronensauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Grüne Tortellini mit Tomatensauce",
 				"attributes": [
 					"V",
 					"30",
@@ -77,12 +124,12 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Karibisches Mango-Hühnchen",
+				"name": "Geschnetzeltes nach Züricher Art",
 				"attributes": [
 					"1",
 					"30",
 					"36",
-					"39"
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -93,11 +140,13 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Bauernomelett mit Ei und Gemüse, dazu Gewürzgurke",
+				"name": "Tofusteak mit Béchamelkartoffeln",
 				"attributes": [
 					"F",
 					"Ö",
-					"32",
+					"30",
+					"35",
+					"36",
 					"39"
 				],
 				"price": {
@@ -111,10 +160,9 @@
 		],
 		[
 			{
-				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"name": "Ofenfrische Brätlinge mit Spundekäse",
 				"attributes": [
 					"F",
-					"32",
 					"36"
 				],
 				"price": {
@@ -126,114 +174,66 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hausgemachtes Hacksteak an Zwiebel-Senfsauce",
+				"name": "Spaghetti in Puten-Bolognese mit Parmesan",
 				"attributes": [
+					"1",
+					"2",
 					"30",
-					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Asia-Reis-Gemüsepfanne",
+				"attributes": [
+					"V",
+					"Ö",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Italienische Penne in Steinpilz-Rahmsauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Asiatische Schweinefleischstreifen in süß-saurer Sauce",
+				"attributes": [
+					"1",
+					"3",
+					"30",
 					"35",
 					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Ratatouille-Gemüsepfanne",
-				"attributes": [
-					"V",
-					"Ö"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Kokos-Soja-Milchreis mit Kirschgrütze",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"35"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Wellenbandnudeln in feurigem Chili con Carne",
-				"attributes": [
-					"30",
-					"32",
-					"R"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Béchamelkartoffeln mit Gemüseragout",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"35",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Hausgemachter Kichererbsen-Taler an Ananaschutney",
-				"attributes": [
-					"V",
-					"30",
-					"38"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Fischfrikadelle mit Cocktaildip",
-				"attributes": [
-					"3",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
 					"student": 2.4,
 					"employee": 3.7,
 					"visitor": 4.6
@@ -242,13 +242,10 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Berner Röstiauflauf mit Käsesauce",
+				"name": "Herbstliche Quinoa-Kürbispfanne",
 				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"32",
-					"36"
+					"V",
+					"Ö"
 				],
 				"price": {
 					"student": 2.9,

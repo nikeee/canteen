@@ -7,51 +7,16 @@
 		}
 	},
 	"validity": {
-		"from": "2017-08-21T00:00:00.000Z",
-		"until": "2017-08-25T00:00:00.000Z"
+		"from": "2017-09-25T00:00:00.000Z",
+		"until": "2017-09-29T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Tortellini mit Spinat-Ricotta-Füllung in Béchamelsauce mit Petersilienpesto",
+				"name": "Mexikanische Quinoa-Pfanne mit schwarzen Bohnen und Paprika",
 				"attributes": [
-					"F",
-					"1",
-					"2",
-					"30",
-					"32",
-					"36",
-					"37"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Kokos-Soja-Milchreis mit Kirschgrütze",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"35"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Hausgemachter Kichererbsen-Taler an Ananas-Chutney",
-				"attributes": [
-					"V",
-					"30",
-					"38"
+					"V"
 				],
 				"price": {
 					"student": 1.9,
@@ -60,11 +25,38 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Hessische Grüne Sauce mit gehacktem Ei, dazu Salzkartoffeln",
+			"2": {
+				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
 					"F",
-					"32",
+					"3",
+					"32"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Grüne Tortellini auf Tomatensauce",
+				"attributes": [
+					"V",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Ofenfrische Brätlinge mit Spundekäse",
+				"attributes": [
+					"F",
 					"36"
 				],
 				"price": {
@@ -75,28 +67,26 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gebackene Gemüsekroketten mit fruchtigem Tomatendip",
+				"name": "Italienische Penne mit Steinpilz-Rahmsauce",
 				"attributes": [
 					"V",
+					"1",
 					"30",
-					"38"
+					"35"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
+				"name": "Mediterranes Tomatengemüse mit geschwenkten Hähnchenstreifen",
 				"attributes": [
-					"8",
-					"30",
-					"36",
-					"S"
+					"30"
 				],
 				"price": {
 					"student": 2.4,
@@ -106,12 +96,12 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Karibisches Mango-Hühnchen",
+				"name": "Gegrillter Schweinerücken auf Jus mit Speck und Salbei",
 				"attributes": [
-					"1",
+					"2",
+					"3",
 					"30",
-					"36",
-					"39"
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -121,28 +111,27 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
+				"name": "Geschnetzeltes nach Züricher Art",
 				"attributes": [
-					"3",
+					"1",
 					"30",
-					"32",
-					"33",
 					"36",
-					"39"
+					"S"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Italienische Radinudeln mit Chili con Carne",
+				"name": "Spaghetti in Bolognese mit Putenfleisch und Parmesan",
 				"attributes": [
+					"1",
+					"2",
 					"30",
-					"32",
-					"R"
+					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -152,17 +141,19 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachtes Hacksteak auf einer Zwiebel-Senfsauce",
+				"name": "Asiatische Schweinefleischstreifen in süß-saurer Sauce",
 				"attributes": [
+					"1",
+					"3",
 					"30",
-					"32",
+					"35",
 					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			}
