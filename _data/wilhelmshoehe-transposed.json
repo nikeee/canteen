@@ -97,7 +97,7 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gegrillter Schweinerücken auf Jus mit Speck und Salbei",
+				"name": "Gegrillter Schweinerücken auf Jus mit Speck und Thymian",
 				"attributes": [
 					"2",
 					"3",
@@ -137,12 +137,13 @@
 			{
 				"name": "Mediterraner Burger mit Beef, Basilikum-Mayonnaise, getrockneten Tomaten, Parmesan und Rucola",
 				"attributes": [
-					"2",
 					"3",
 					"30",
 					"32",
 					"36",
+					"38",
 					"39",
+					"40",
 					"R"
 				],
 				"price": {
