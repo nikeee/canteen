@@ -174,7 +174,6 @@
 			{
 				"name": "Geschnetzeltes nach Züricher Art",
 				"attributes": [
-					"1",
 					"30",
 					"36",
 					"S"
@@ -232,6 +231,7 @@
 				"name": "Ofenfrische Brätlinge mit Spundekäse",
 				"attributes": [
 					"F",
+					"32",
 					"36"
 				],
 				"price": {
@@ -248,7 +248,8 @@
 					"1",
 					"2",
 					"30",
-					"36"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.5,
@@ -264,6 +265,7 @@
 					"1",
 					"30",
 					"32",
+					"35",
 					"36",
 					"S"
 				],
