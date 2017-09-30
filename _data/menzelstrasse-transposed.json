@@ -8,99 +8,41 @@
 		}
 	},
 	"validity": {
-		"from": "2017-09-25T00:00:00.000Z",
-		"until": "2017-09-29T00:00:00.000Z"
+		"from": "2017-10-02T00:00:00.000Z",
+		"until": "2017-10-06T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Mexikanische Quinoa-Pfanne mit schwarzen Bohnen und Paprika",
-				"attributes": [
-					"V"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Mediterranes Tomatengemüse mit geschwenkten Hähnchenstreifen",
-				"attributes": [
-					"30"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Kartoffelpuffer mit Apfelmus",
+				"name": "Blumenkohl-Käse-Medaillon an Sauce Bérnaise",
 				"attributes": [
 					"F",
-					"3",
-					"32"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gegrillter Schweinerücken auf Jus mit Speck und Salbei",
-				"attributes": [
-					"2",
-					"3",
 					"30",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Grüne Tortellini auf Tomatensauce",
-				"attributes": [
-					"V",
-					"30",
+					"32",
+					"36",
 					"38"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Geschnetzeltes nach Züricher Art",
+				"name": "Mini-Hackfleischbällchen auf Western-Tomatensauce",
 				"attributes": [
 					"1",
 					"30",
-					"36",
+					"32",
+					"R",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
@@ -108,10 +50,26 @@
 		],
 		[
 			{
-				"name": "Ofenfrische Brätlinge mit Spundekäse",
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			}
+		],
+		[
+			{
+				"name": "Couscouspfanne mit knackigem Gemüse an rotem Linsendip",
 				"attributes": [
-					"F",
-					"36"
+					"V",
+					"3",
+					"30",
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 1.9,
@@ -122,12 +80,13 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Spaghetti in Bolognese mit Putenfleisch und Parmesan",
+				"name": "Hähnchenbrust mit Petersilienpesto ummantelt auf Béchamelsauce",
 				"attributes": [
 					"1",
 					"2",
 					"30",
-					"36"
+					"36",
+					"37"
 				],
 				"price": {
 					"student": 2.5,
@@ -140,12 +99,11 @@
 		],
 		[
 			{
-				"name": "Italienische Penne mit Steinpilz-Rahmsauce",
+				"name": "Spaghetti mit feinem Karottenpesto",
 				"attributes": [
 					"V",
-					"1",
 					"30",
-					"35"
+					"37"
 				],
 				"price": {
 					"student": 1.8,
@@ -156,19 +114,54 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Asiatische Schweinefleischstreifen in süß-saurer Sauce",
+				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
 				"attributes": [
 					"1",
+					"36",
+					"38",
+					"39",
+					"R"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Hausgemachter Süßkartoffelstampf auf Balsamico-Linsen",
+				"attributes": [
+					"V",
+					"1",
 					"3",
+					"35"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gefülltes hessisches Kraut auf weißer Sauce",
+				"attributes": [
+					"1",
 					"30",
-					"35",
+					"32",
+					"36",
 					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"

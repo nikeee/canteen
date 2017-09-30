@@ -8,64 +8,19 @@
 		}
 	},
 	"validity": {
-		"from": "2017-09-25T00:00:00.000Z",
-		"until": "2017-09-29T00:00:00.000Z"
+		"from": "2017-10-02T00:00:00.000Z",
+		"until": "2017-10-06T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse und Brötchen",
-				"attributes": [
-					"V",
-					"30",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Geschmortes Ratatouille-Gemüse mit Hähnchen",
-				"attributes": [
-					"30"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Provenzalischer Kartoffelauflauf",
+				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise",
 				"attributes": [
 					"F",
-					"Ö",
+					"30",
 					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Kartoffelpuffer mit Apfelmus",
-				"attributes": [
-					"F",
-					"3",
-					"32"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -76,173 +31,187 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Saltimbocca vom Schweinerücken",
+				"name": "Gefülltes Hessisch Kraut",
 				"attributes": [
-					"2",
-					"3",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Pasta in Linsen-Zitronensauce",
-				"attributes": [
-					"V",
-					"Ö",
 					"30",
-					"38"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Grüne Tortellini mit Tomatensauce",
-				"attributes": [
-					"V",
-					"30",
-					"38"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Geschnetzeltes nach Züricher Art",
-				"attributes": [
-					"1",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Tofusteak mit Béchamelkartoffeln",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"35",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Ofenfrische Brätlinge mit Spundekäse",
-				"attributes": [
-					"F",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Spaghetti in Puten-Bolognese mit Parmesan",
-				"attributes": [
-					"1",
-					"2",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Asia-Reis-Gemüsepfanne",
-				"attributes": [
-					"V",
-					"Ö",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Italienische Penne in Steinpilz-Rahmsauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Asiatische Schweinefleischstreifen in süß-saurer Sauce",
-				"attributes": [
-					"1",
-					"3",
-					"30",
-					"35",
+					"32",
 					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Herbstliche Quinoa-Kürbispfanne",
+				"name": "Pekingsuppe mit Tofu, dazu Brötchen",
+				"attributes": [
+					"V",
+					"Ö",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			}
+		],
+		[
+			{
+				"name": "Couscouspfanne mit knackigem Gemüse an rotem Linsendip",
+				"attributes": [
+					"V",
+					"3",
+					"30",
+					"39",
+					"40"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hähnchenbrust mit Pesto rosso auf Béchamelsauce",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"37"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Hausgemachter Kartoffelrösti mit cremigem Gemüse",
+				"attributes": [
+					"F",
+					"Ö",
+					"32"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Hausgemachte Polenta à la Crème auf Champignon-Sahnesauce",
+				"attributes": [
+					"V",
+					"1",
+					"30",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
+				"attributes": [
+					"1",
+					"36",
+					"38",
+					"39",
+					"R"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Ofenkartoffeln mit Sour Cream",
+				"attributes": [
+					"F",
+					"Ö",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Hausgemachter Süßkartoffelstampf mit scharfen Erbsen",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Mini-Hackfleischbällchen auf Western-Tomatensauce",
+				"attributes": [
+					"30",
+					"32",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Ratatouille-Gemüsepfanne",
 				"attributes": [
 					"V",
 					"Ö"

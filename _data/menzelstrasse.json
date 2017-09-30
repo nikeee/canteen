@@ -7,16 +7,20 @@
 		}
 	},
 	"validity": {
-		"from": "2017-09-25T00:00:00.000Z",
-		"until": "2017-09-29T00:00:00.000Z"
+		"from": "2017-10-02T00:00:00.000Z",
+		"until": "2017-10-06T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Mexikanische Quinoa-Pfanne mit schwarzen Bohnen und Paprika",
+				"name": "Blumenkohl-Käse-Medaillon an Sauce Bérnaise",
 				"attributes": [
-					"V"
+					"F",
+					"30",
+					"32",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -26,12 +30,8 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kartoffelpuffer mit Apfelmus",
-				"attributes": [
-					"F",
-					"3",
-					"32"
-				],
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
 				"price": {
 					"student": 1.9,
 					"employee": 3.2,
@@ -40,24 +40,13 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Grüne Tortellini auf Tomatensauce",
+				"name": "Couscouspfanne mit knackigem Gemüse an rotem Linsendip",
 				"attributes": [
 					"V",
+					"3",
 					"30",
-					"38"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Ofenfrische Brätlinge mit Spundekäse",
-				"attributes": [
-					"F",
-					"36"
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 1.9,
@@ -66,94 +55,100 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Italienische Penne mit Steinpilz-Rahmsauce",
+			"4": {
+				"name": "Spaghetti mit feinem Karottenpesto",
 				"attributes": [
 					"V",
-					"1",
 					"30",
-					"35"
+					"37"
 				],
 				"price": {
 					"student": 1.8,
 					"employee": 3.1,
 					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachter Süßkartoffelstampf auf Balsamico-Linsen",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"35"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Mediterranes Tomatengemüse mit geschwenkten Hähnchenstreifen",
+				"name": "Mini-Hackfleischbällchen auf Western-Tomatensauce",
 				"attributes": [
-					"30"
+					"1",
+					"30",
+					"32",
+					"R",
+					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Gegrillter Schweinerücken auf Jus mit Speck und Salbei",
+			"2": null,
+			"3": {
+				"name": "Hähnchenbrust mit Petersilienpesto ummantelt auf Béchamelsauce",
 				"attributes": [
+					"1",
 					"2",
-					"3",
 					"30",
-					"S"
+					"36",
+					"37"
 				],
 				"price": {
 					"student": 2.5,
 					"employee": 3.8,
 					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Geschnetzeltes nach Züricher Art",
-				"attributes": [
-					"1",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Spaghetti in Bolognese mit Putenfleisch und Parmesan",
+				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
 				"attributes": [
 					"1",
-					"2",
-					"30",
-					"36"
+					"36",
+					"38",
+					"39",
+					"R"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Asiatische Schweinefleischstreifen in süß-saurer Sauce",
+				"name": "Gefülltes hessisches Kraut auf weißer Sauce",
 				"attributes": [
 					"1",
-					"3",
 					"30",
-					"35",
+					"32",
+					"36",
 					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}

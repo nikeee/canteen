@@ -7,16 +7,20 @@
 		}
 	},
 	"validity": {
-		"from": "2017-09-25T00:00:00.000Z",
-		"until": "2017-09-29T00:00:00.000Z"
+		"from": "2017-10-02T00:00:00.000Z",
+		"until": "2017-10-06T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Mexikanische Quinoa-Pfanne mit schwarzen Bohnen und Paprika",
+				"name": "Blumenkohl-Käse-Medaillon an Sauce Bérnaise",
 				"attributes": [
-					"S"
+					"F",
+					"30",
+					"32",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -26,12 +30,8 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kartoffelpuffer mit Apfelmus",
-				"attributes": [
-					"F",
-					"3",
-					"32"
-				],
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
 				"price": {
 					"student": 1.9,
 					"employee": 3.2,
@@ -40,24 +40,13 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Grüne Tortellini auf Tomatensauce",
+				"name": "Couscouspfanne mit knackigem Gemüse an rotem Linsendip",
 				"attributes": [
 					"V",
+					"3",
 					"30",
-					"38"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Ofenfrische Brätlinge mit Spundekäse",
-				"attributes": [
-					"F",
-					"36"
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 1.9,
@@ -66,169 +55,114 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Italienische Penne mit Steinpilz-Rahmsauce",
+			"4": {
+				"name": "Spaghetti mit feinem Karottenpesto",
 				"attributes": [
 					"V",
-					"1",
 					"30",
-					"35"
+					"37"
 				],
 				"price": {
 					"student": 1.8,
 					"employee": 3.1,
 					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachter Süßkartoffelstampf auf Balsamico-Linsen",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"35"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Mediterranes Tomatengemüse mit geschwenkten Hähnchenstreifen",
-				"attributes": [
-					"30"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Gegrillter Schweinerücken auf Jus mit Speck und Salbei",
-				"attributes": [
-					"2",
-					"3",
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Geschnetzeltes nach Züricher Art",
+				"name": "Mini-Hackfleischbällchen auf Western-Tomatensauce",
 				"attributes": [
 					"1",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Spaghetti in Bolognese mit Putenfleisch und Parmesan",
-				"attributes": [
-					"1",
-					"2",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Asiatische Schweinefleischstreifen in süß-saurer Sauce",
-				"attributes": [
-					"1",
-					"3",
-					"30",
-					"35",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			}
-		},
-		"Essen 3 oder 4": {
-			"1": {
-				"name": "Gebackene Tintenfischringe an Cocktaildip und Zitronenecke",
-				"attributes": [
-					"1",
-					"3",
 					"30",
 					"32",
-					"36",
-					"39",
-					"43"
+					"R",
+					"S"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			},
 			"2": null,
 			"3": {
-				"name": "Gebratene Hähnchenbrust an Kürbis-Kokossauce",
+				"name": "Hähnchenbrust mit Petersilienpesto ummantelt auf Béchamelsauce",
 				"attributes": [
 					"1",
+					"2",
+					"30",
 					"36",
-					"39",
-					"41"
+					"37"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Paniertes Schweineschnitzel im Pfefferkleid an Rahmsauce",
+				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
+				"attributes": [
+					"1",
+					"36",
+					"38",
+					"39",
+					"R"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Gefülltes hessisches Kraut auf weißer Sauce",
 				"attributes": [
 					"1",
 					"30",
 					"32",
 					"36",
+					"39",
 					"S"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
-			},
+			}
+		},
+		"Essen 3 oder 4": {
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
 			"5": null
 		},
 		"Angebot des Tages I": {
 			"1": {
-				"name": "Wildschweingulasch in Rotweinsauce",
-				"attributes": [
-					"A",
-					"30",
-					"41",
-					"S"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Süßkartoffel-Kokos-Soja-Curry mit Tomatenbulgur",
+				"name": "Asiatische Gemüsepfanne mit Tofu und Duftreis",
 				"attributes": [
 					"V",
 					"MV",
@@ -237,48 +171,30 @@
 					"39"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": {
-					"fat": 19,
-					"carbohydrate": 77,
-					"protein": 25,
-					"calories": 601
+					"fat": 23,
+					"carbohydrate": 73,
+					"protein": 28,
+					"calories": 620
 				}
 			},
+			"2": null,
 			"3": {
-				"name": "Eierragout in scharfer Senfsauce mit Paprika-Zartweizen",
+				"name": "Rustikaler Burger mit Pulled Pork und Whiskydip",
 				"attributes": [
-					"F",
-					"MV",
-					"30",
-					"32",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": {
-					"fat": 26,
-					"carbohydrate": 80,
-					"protein": 34,
-					"calories": 698
-				}
-			},
-			"4": null,
-			"5": {
-				"name": "Paprika mit orientalischer Hack-Couscous Füllung an Joghurt-Minzdip",
-				"attributes": [
+					"A",
+					"1",
 					"3",
+					"9",
 					"30",
 					"32",
 					"36",
-					"R"
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 4,
@@ -286,6 +202,47 @@
 					"visitor": 6.2
 				},
 				"vitalInfo": null
+			},
+			"4": {
+				"name": "Schupfnudelpfanne mit Gemüse und Pilzen",
+				"attributes": [
+					"F",
+					"MV",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 77,
+					"protein": 26,
+					"calories": 637
+				}
+			},
+			"5": {
+				"name": "Buntbarsch mit Kürbis, Zitronensauce und Lauchreis",
+				"attributes": [
+					"MV",
+					"30",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 96,
+					"protein": 42,
+					"calories": 748
+				}
 			}
 		}
 	}
