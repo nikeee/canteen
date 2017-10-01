@@ -8,115 +8,34 @@
 		}
 	},
 	"validity": {
-		"from": "2017-09-25T00:00:00.000Z",
-		"until": "2017-09-30T00:00:00.000Z"
+		"from": "2017-10-02T00:00:00.000Z",
+		"until": "2017-10-07T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Hausgemachte Gulaschsuppe mit Kartoffeln, Paprika und Champignons",
+				"name": "Geschnetzeltes von der Putenbrust in feiner Pfefferrahmsauce",
 				"attributes": [
 					"30",
-					"S"
+					"36"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Eieromlette mit Rahmspinat",
+				"name": "Gebackene Brokkoli-Nuggets an fruchtiger Tomatensauce",
 				"attributes": [
 					"F",
-					"1",
+					"30",
 					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Stifado - Griechisches Rinderragout mit Gemüse und Zimt",
-				"attributes": [
-					"R"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Pasta mit tomatisierter Gorgonzolasauce und Käse überbacken",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Seelachs mit Wasabi-Kartoffelhaube an Weißweinschaum",
-				"attributes": [
-					"A",
-					"1",
-					"9A",
-					"33",
 					"35",
 					"36",
-					"41"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3 solange der Vorrat reicht"
-			}
-		],
-		[
-			{
-				"name": "Frisch gebratenes Hähnchenbrustschnitzel auf hausgemachtem Kürbis-Chutney",
-				"attributes": [
-					"3",
-					"30",
-					"32"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Griechisches Moussaka mit Ei gestockt",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
+					"38"
 				],
 				"price": {
 					"student": 2.9,
@@ -129,35 +48,96 @@
 		],
 		[
 			{
-				"name": "Zuchhini mit Hackfleisch gefüllt und Käse überbacken an kräftiger Bratenjus",
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			}
+		],
+		[
+			{
+				"name": "Goldgelb gebackenes Schweineschnitzel an scharfem Barbecuedip",
 				"attributes": [
 					"30",
 					"32",
-					"36",
 					"S"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Orientalische Orangen-Couscous-Pfanne mit cremigem Ajvardip",
+				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
 					"F",
 					"3",
-					"9",
-					"30",
-					"36",
-					"38"
+					"32"
 				],
 				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Pasta mit Meeresfrüchten, Garnelen und Brokkoli",
+				"attributes": [
+					"30",
+					"31",
+					"32",
+					"33",
+					"36",
+					"38",
+					"43"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
+			}
+		],
+		[
+			{
+				"name": "Burger mit Asia-Hühnchen, Sprossen und süßsaurem Dip",
+				"attributes": [
+					"30",
+					"35",
+					"40"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Paprika gefüllt mit Tomaten-Couscous an Béchamelsauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -165,49 +145,44 @@
 		],
 		[
 			{
-				"name": "Geschwenkte Geflügelstreifen Gyros Art an Zaziki",
+				"name": "Nürnberger Rostbratwürstchen mit Bayrisch Kraut",
 				"attributes": [
-					"36",
-					"38"
+					"1",
+					"2",
+					"30",
+					"S"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Gebackener Gemüsetaler an Sauce Hollandaise",
+				"name": "Hausgemachter Spinatpfannkuchen an Kräuterdip",
 				"attributes": [
 					"F",
 					"30",
 					"32",
-					"35",
-					"36",
-					"38"
+					"36"
 				],
 				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Spinat mit Shrimps und Lachs im Blätterteig",
+				"name": "Flammkuchen mit Thunfisch, Lauch, Zwiebeln und Gouda",
 				"attributes": [
-					"A",
-					"1",
 					"30",
-					"31",
-					"32",
 					"33",
 					"36",
-					"39",
-					"41"
+					"38"
 				],
 				"price": {
 					"student": 4.5,
