@@ -141,6 +141,7 @@
 			{
 				"name": "Geräuchertes Lachsfilet mit Kartoffelpuffern und Salatnest an Zitronendip",
 				"attributes": [
+					"30",
 					"32",
 					"33",
 					"36"
@@ -163,7 +164,9 @@
 					"30",
 					"32",
 					"36",
+					"38",
 					"39",
+					"40",
 					"S"
 				],
 				"price": {
