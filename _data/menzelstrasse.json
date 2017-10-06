@@ -39,22 +39,7 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Couscouspfanne mit knackigem Gemüse an rotem Linsendip",
-				"attributes": [
-					"V",
-					"3",
-					"30",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
+			"3": null,
 			"4": {
 				"name": "Spaghetti mit feinem Karottenpesto",
 				"attributes": [
@@ -103,22 +88,7 @@
 				"vitalInfo": null
 			},
 			"2": null,
-			"3": {
-				"name": "Hähnchenbrust mit Petersilienpesto ummantelt auf Béchamelsauce",
-				"attributes": [
-					"1",
-					"2",
-					"30",
-					"36",
-					"37"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
+			"3": null,
 			"4": {
 				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
 				"attributes": [
