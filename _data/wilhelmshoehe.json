@@ -7,20 +7,41 @@
 		}
 	},
 	"validity": {
-		"from": "2017-10-02T00:00:00.000Z",
-		"until": "2017-10-06T00:00:00.000Z"
+		"from": "2017-10-09T00:00:00.000Z",
+		"until": "2017-10-13T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Blumenkohl-Käse-Medaillon an Sauce Bérnaise",
+				"name": "Zwei Hefeklöße mit fruchtigem Zwetschgenragout",
 				"attributes": [
 					"F",
+					"A",
+					"3",
 					"30",
 					"32",
 					"36",
-					"38"
+					"41"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Kritharakisalat mit buntem Gemüse, Petersilienpesto und Brotsticks",
+				"attributes": [
+					"F",
+					"1",
+					"2",
+					"3",
+					"6",
+					"30",
+					"36",
+					"37"
 				],
 				"price": {
 					"student": 1.9,
@@ -29,24 +50,11 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Couscouspfanne mit knackigem Gemüse an rotem Linsendip",
+				"name": "Quinoa-Brokkoli-Karottenpfanne an fruchtigem Tomatendip",
 				"attributes": [
 					"V",
-					"3",
-					"30",
-					"39",
-					"40"
+					"3"
 				],
 				"price": {
 					"student": 1.9,
@@ -56,11 +64,13 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Spaghetti mit feinem Karottenpesto",
+				"name": "Hessische Kartoffelsuppe mit Gemüse und Kräuteröl",
 				"attributes": [
 					"V",
+					"1",
 					"30",
-					"37"
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -70,11 +80,10 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachter Süßkartoffelstampf auf Balsamico-Linsen",
+				"name": "Paprikasuppe Ungarische Art",
 				"attributes": [
 					"V",
-					"1",
-					"3",
+					"30",
 					"35"
 				],
 				"price": {
@@ -87,15 +96,34 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Mini-Hackfleischbällchen auf Western-Tomatensauce",
+				"name": "Käse-Schinken-Spätzlepfanne",
 				"attributes": [
 					"1",
+					"2",
+					"3",
+					"8",
 					"30",
 					"32",
-					"38",
-					"39",
-					"R",
+					"36",
 					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Farfalle Tricolore mit cremiger Thunfischsauce",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"33",
+					"36",
+					"38",
+					"41"
 				],
 				"price": {
 					"student": 2.3,
@@ -104,15 +132,16 @@
 				},
 				"vitalInfo": null
 			},
-			"2": null,
 			"3": {
-				"name": "Hähnchenbrust mit Petersilienpesto ummantelt auf Béchamelsauce",
+				"name": "Gebackenes Fleischkäseschnitzel auf Malzjus",
 				"attributes": [
-					"1",
 					"2",
+					"3",
+					"8",
 					"30",
-					"36",
-					"37"
+					"32",
+					"R",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -122,30 +151,25 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
+				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
-					"1",
-					"30",
-					"36",
-					"38",
-					"39",
-					"R"
+					"36"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Geschmortes hessisches Kraut mit weißer Sauce",
+				"name": "Gegrilltes Steak vom Schweinerücken auf Portwein-Rahmsauce",
 				"attributes": [
+					"A",
 					"1",
 					"30",
-					"32",
 					"36",
-					"39",
+					"41",
 					"S"
 				],
 				"price": {
@@ -158,12 +182,14 @@
 		},
 		"Essen 3 oder 4": {
 			"1": {
-				"name": "Hähnchenschnitzel im Cornflakesmantel an Avokadodip",
+				"name": "Paniertes Fischfilet an Remouladensauce",
 				"attributes": [
+					"3",
+					"9",
 					"30",
 					"32",
+					"33",
 					"36",
-					"38",
 					"39"
 				],
 				"price": {
@@ -173,122 +199,98 @@
 				},
 				"vitalInfo": null
 			},
-			"2": null,
-			"3": null,
-			"4": null,
-			"5": {
-				"name": "Ofenfrisches Hähnchenfilet in Teriyakimarinade an Kokos-Chilisauce",
+			"2": {
+				"name": "Braumeister Gulasch aus der Rinderkeule",
+				"attributes": [
+					"A",
+					"30",
+					"R"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Großer, bunter Salatteller mit schwarzer Johannisbeer-Vinaigrette, kross gebackenen Rösti-Käse-Würfeln und Baguette",
+				"attributes": [
+					"F",
+					"1",
+					"3",
+					"30",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Ofenfrische Riesenhaxe auf Sauerkraut und Bratenjus",
 				"attributes": [
 					"1",
+					"2",
+					"3",
 					"30",
-					"35",
+					"S"
+				],
+				"price": {
+					"student": 3.8,
+					"employee": 5.1,
+					"visitor": 6
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Gebackener Rote Bete Puffer an griechischem Joghurtdip",
+				"attributes": [
+					"F",
+					"30",
 					"36"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Angebot des Tages I": {
 			"1": {
-				"name": "Asiatische Gemüsepfanne mit Tofu und Duftreis",
+				"name": "Penne mit Bohnen-Tomaten-Ragout",
 				"attributes": [
 					"V",
 					"MV",
+					"3",
 					"30",
 					"35",
-					"38",
-					"39"
+					"40"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": {
-					"fat": 23,
-					"carbohydrate": 73,
+					"fat": 20,
+					"carbohydrate": 102,
 					"protein": 28,
-					"calories": 620
+					"calories": 747
 				}
 			},
-			"2": null,
-			"3": {
-				"name": "Geräuchertes Lachsfilet mit Kartoffelpuffern und Salatnest an Zitronendip",
+			"2": {
+				"name": "Schnitzel mit Sauce nach Wahl: Champignon-Rahmsauce, kräftige Paprikasauce",
 				"attributes": [
-					"30",
-					"32",
-					"33",
-					"36"
-				],
-				"price": {
-					"student": 6,
-					"employee": 7.3,
-					"visitor": 8.2
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Schupfnudelpfanne mit Gemüse und Pilzen",
-				"attributes": [
-					"F",
-					"MV",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": {
-					"fat": 22,
-					"carbohydrate": 77,
-					"protein": 26,
-					"calories": 637
-				}
-			},
-			"5": {
-				"name": "Buntbarsch mit Kürbis, Zitronensauce und Lauchreis",
-				"attributes": [
-					"MV",
-					"30",
-					"33",
-					"36"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": {
-					"fat": 22,
-					"carbohydrate": 96,
-					"protein": 42,
-					"calories": 748
-				}
-			}
-		},
-		"Angebot des Tages II": {
-			"1": null,
-			"2": null,
-			"3": {
-				"name": "Rustikaler Burger mit Pulled Pork und Whiskydip",
-				"attributes": [
-					"A",
 					"1",
-					"3",
-					"9",
 					"30",
 					"32",
 					"36",
-					"38",
-					"39",
-					"40",
 					"S"
 				],
 				"price": {
@@ -298,23 +300,65 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Flammkuchen mit Feigen und Serranoschinken",
+			"3": {
+				"name": "Hähnchenbrust mit Dip, Honigmöhren und Kräuter-Kartoffeln",
 				"attributes": [
-					"2",
-					"3",
+					"MV",
 					"30",
-					"36",
-					"38",
-					"S"
+					"36"
 				],
 				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": {
+					"fat": 21,
+					"carbohydrate": 69,
+					"protein": 38,
+					"calories": 632
+				}
+			},
+			"4": {
+				"name": "Gebackene Gemüse-Reispfanne mit Joghurt-Quarkdip",
+				"attributes": [
+					"F",
+					"MV",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": {
+					"fat": 20,
+					"carbohydrate": 75,
+					"protein": 24,
+					"calories": 624
+				}
+			},
+			"5": {
+				"name": "Asiatisch marinierte Hähnchenbrust auf gewoktem Gemüsecurry",
+				"attributes": [
+					"3",
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
-			},
+			}
+		},
+		"Angebot des Tages II": {
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
 			"5": null
 		}
 	}

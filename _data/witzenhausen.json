@@ -7,20 +7,37 @@
 		}
 	},
 	"validity": {
-		"from": "2017-10-02T00:00:00.000Z",
-		"until": "2017-10-06T00:00:00.000Z"
+		"from": "2017-10-09T00:00:00.000Z",
+		"until": "2017-10-13T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise",
+				"name": "Zwei Hefeklöße mit Kirschgrütze",
 				"attributes": [
 					"F",
+					"1",
+					"3",
 					"30",
 					"32",
-					"36",
-					"38"
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Kritharakisalat mit buntem Gemüse und Petersilienpesto",
+				"attributes": [
+					"V",
+					"3",
+					"6",
+					"30",
+					"37"
 				],
 				"price": {
 					"student": 1.9,
@@ -29,24 +46,12 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Couscouspfanne mit knackigem Gemüse an rotem Linsendip",
+				"name": "Gebratene Curry-Quinoa mit Mandeln, Karotten und Brokkoli an fruchtigem Tomatendip",
 				"attributes": [
 					"V",
 					"3",
-					"30",
-					"39",
-					"40"
+					"37"
 				],
 				"price": {
 					"student": 1.9,
@@ -56,12 +61,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hausgemachte Polenta à la Crème auf Champignon-Sahnesauce",
+				"name": "Hessische Kartoffelsuppe mit Gemüse, dazu Brötchen",
 				"attributes": [
-					"V",
+					"F",
 					"1",
 					"30",
-					"35",
+					"36",
 					"38"
 				],
 				"price": {
@@ -72,12 +77,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachter Süßkartoffelstampf mit scharfen Erbsen",
+				"name": "Paprika-Kartoffel-Suppe Ungarische Art",
 				"attributes": [
-					"F",
-					"1",
+					"V",
 					"30",
-					"36"
+					"35"
 				],
 				"price": {
 					"student": 1.9,
@@ -89,12 +93,28 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Gefülltes Hessisch Kraut",
+				"name": "Allgäuer Käse-Schinken-Spätzlepfanne",
 				"attributes": [
+					"1",
+					"2",
+					"3",
+					"8",
 					"30",
 					"32",
-					"39",
+					"36",
 					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
+				"attributes": [
+					"36"
 				],
 				"price": {
 					"student": 2.3,
@@ -103,14 +123,13 @@
 				},
 				"vitalInfo": null
 			},
-			"2": null,
 			"3": {
-				"name": "Hähnchenbrust mit Pesto rosso auf Béchamelsauce",
+				"name": "Paniertes Schweineschnitzel auf Pfeffer-Rahmsauce",
 				"attributes": [
 					"1",
 					"30",
 					"36",
-					"37"
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -120,28 +139,33 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
+				"name": "Gebackenes Fleischkäseschnitzel auf Malzjus",
 				"attributes": [
-					"1",
-					"36",
-					"38",
-					"39",
-					"R"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Mini-Hackfleischbällchen auf Western-Tomatensauce",
-				"attributes": [
+					"2",
+					"3",
+					"8",
 					"30",
 					"32",
 					"R",
 					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Farfalle Tricolore an cremiger Thunfischsauce",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"33",
+					"36",
+					"38",
+					"41"
 				],
 				"price": {
 					"student": 2.3,
@@ -153,12 +177,10 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Pekingsuppe mit Tofu, dazu Brötchen",
+				"name": "Bäckerin-Kartoffeln mit roten Zwiebeln in dunkler Sauce",
 				"attributes": [
 					"V",
-					"Ö",
-					"35",
-					"39"
+					"Ö"
 				],
 				"price": {
 					"student": 2.9,
@@ -167,13 +189,11 @@
 				},
 				"vitalInfo": null
 			},
-			"2": null,
-			"3": {
-				"name": "Hausgemachter Kartoffelrösti mit cremigem Gemüse",
+			"2": {
+				"name": "Pasta mit Kartoffel-Croûtons und Paprikasauce",
 				"attributes": [
-					"F",
-					"Ö",
-					"32"
+					"V",
+					"Ö"
 				],
 				"price": {
 					"student": 2.9,
@@ -182,8 +202,8 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Ofenkartoffeln mit Sour Cream",
+			"3": {
+				"name": "Champignons à la crème",
 				"attributes": [
 					"F",
 					"Ö",
@@ -196,11 +216,30 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Ratatouille-Gemüsepfanne",
+			"4": {
+				"name": "Griechische Nudelpfanne mit Oliven und Tofu",
 				"attributes": [
 					"V",
-					"Ö"
+					"Ö",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "3 1/2 Eier in Senfsauce",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"32",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
