@@ -7,55 +7,96 @@
 		}
 	},
 	"validity": {
-		"from": "2017-10-02T00:00:00.000Z",
-		"until": "2017-10-07T00:00:00.000Z"
+		"from": "2017-10-09T00:00:00.000Z",
+		"until": "2017-10-14T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Geschnetzeltes von der Putenbrust in feiner Pfefferrahmsauce",
+				"name": "Hähnchenbrust nach Gyros Art gewürzt mit hausgemachtem Zaziki",
 				"attributes": [
-					"30",
-					"36"
+					"36",
+					"38",
+					"39"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
+				"name": "Zartes Schweinegulasch Braumeister Art",
+				"attributes": [
+					"A",
+					"30",
+					"S"
+				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Geschnetzeltes von der Putenbrust in feiner Pfefferrahmsauce",
+				"name": "Pfannenfrisches Putenschnitzel in der Kokoshülle mit Ananasrahmsauce",
 				"attributes": [
 					"30",
 					"32",
 					"36"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Burger mit Asia-Hühnchen, Sprossen und süßsaurem Dip",
+				"name": "Gegrillter Fleischkäse an kräftiger Bratenjus",
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"30",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Rindergeschnetzeltes Mediterrane Art",
 				"attributes": [
 					"30",
-					"35",
-					"40"
+					"36",
+					"R"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			}
+		},
+		"Angebot 2": {
+			"1": {
+				"name": "Ofenfrisches Pizzarad mit Pestotomaten und Mozzarella",
+				"attributes": [
+					"F",
+					"1",
+					"2",
+					"30",
+					"36",
+					"37"
 				],
 				"price": {
 					"student": 4.5,
@@ -64,60 +105,10 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Nürnberger Rostbratwürstchen mit Bayrisch Kraut",
-				"attributes": [
-					"1",
-					"2",
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null
-			}
-		},
-		"Angebot 2": {
-			"1": {
-				"name": "Gebackene Brokkoli-Nuggets an fruchtiger Tomatensauce",
+			"2": {
+				"name": "Gebackene Kartoffeltaschen mit Frischkäse gefüllt an Tomatensauce",
 				"attributes": [
 					"F",
-					"30",
-					"32",
-					"35",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"2": null,
-			"3": {
-				"name": "Kartoffelpuffer mit Apfelmus",
-				"attributes": [
-					"F",
-					"3",
-					"32"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Paprika gefüllt mit Tomaten-Couscous an Béchamelsauce",
-				"attributes": [
-					"F",
-					"1",
 					"30",
 					"36"
 				],
@@ -128,8 +119,23 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Hausgemachter Spinatpfannkuchen an Kräuterdip",
+			"3": {
+				"name": "Tortellini mit Ricotta-Spinat-Füllung in Kräuterbéchamel mit Käse überbacken",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Feines Gemüseragout in Sauce Hollandaise",
 				"attributes": [
 					"F",
 					"30",
@@ -137,47 +143,66 @@
 					"36"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachter griechischer Reistaler mit Knoblauchdip",
+				"attributes": [
+					"F",
+					"6",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
 				},
 				"vitalInfo": null
 			}
 		},
 		"Angebot 3 solange der Vorrat reicht": {
-			"1": null,
-			"2": null,
-			"3": {
-				"name": "Pasta mit Meeresfrüchten, Garnelen und Brokkoli",
+			"1": {
+				"name": "Bratheringsfilets mit frischen Zwiebeln und Essiggurke an Kartoffelsalat",
 				"attributes": [
+					"2",
+					"9",
 					"30",
-					"31",
 					"32",
 					"33",
+					"39"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null
+			},
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": {
+				"name": "Gebackene Tintenfischringe an Cocktaildip",
+				"attributes": [
+					"1",
+					"3",
+					"30",
+					"32",
+					"35",
 					"36",
-					"38",
+					"39",
 					"43"
 				],
 				"price": {
 					"student": 4,
 					"employee": 5.3,
 					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
-			"4": null,
-			"5": {
-				"name": "Flammkuchen mit Thunfisch, Lauch, Zwiebeln und Gouda",
-				"attributes": [
-					"30",
-					"33",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
 				},
 				"vitalInfo": null
 			}
