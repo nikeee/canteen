@@ -63,7 +63,22 @@
 				},
 				"vitalInfo": null
 			},
-			"4": null,
+			"4": {
+				"name": "Hessische Kartoffelsuppe mit Gemüse und Kräuteröl",
+				"attributes": [
+					"V",
+					"1",
+					"30",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
 			"5": {
 				"name": "Paprikasuppe Ungarische Art",
 				"attributes": [
@@ -135,7 +150,18 @@
 				},
 				"vitalInfo": null
 			},
-			"4": null,
+			"4": {
+				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
+				"attributes": [
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
 			"5": {
 				"name": "Gegrilltes Steak vom Schweinerücken auf Portwein-Rahmsauce",
 				"attributes": [
