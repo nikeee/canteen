@@ -67,8 +67,6 @@
 				"name": "Hessische Kartoffelsuppe mit Gemüse und Kräuteröl",
 				"attributes": [
 					"V",
-					"1",
-					"30",
 					"35",
 					"38"
 				],
@@ -151,7 +149,9 @@
 			"4": {
 				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
-					"36"
+					"36",
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -322,7 +322,10 @@
 				"attributes": [
 					"F",
 					"MV",
-					"36"
+					"1",
+					"2",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.5,
