@@ -8,42 +8,34 @@
 		}
 	},
 	"validity": {
-		"from": "2017-10-09T00:00:00.000Z",
-		"until": "2017-10-13T00:00:00.000Z"
+		"from": "2017-10-16T00:00:00.000Z",
+		"until": "2017-10-20T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Zwei Hefeklöße mit fruchtigem Zwetschgenragout",
+				"name": "Schupfnudeln in Kürbis-Salbeisauce",
 				"attributes": [
 					"F",
-					"A",
-					"3",
+					"1",
 					"30",
 					"32",
 					"36",
+					"38",
+					"39",
 					"41"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Käse-Schinken-Spätzlepfanne",
-				"attributes": [
-					"1",
-					"2",
-					"3",
-					"8",
-					"30",
-					"32",
-					"36",
-					"S"
-				],
+				"name": "Nasi Goreng",
+				"attributes": [],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
@@ -55,107 +47,35 @@
 		],
 		[
 			{
-				"name": "Kritharakisalat mit buntem Gemüse, Petersilienpesto und Brotsticks",
+				"name": "Semmelknödel auf Spinat-Béchamelsauce",
 				"attributes": [
 					"F",
 					"1",
-					"2",
-					"3",
-					"6",
-					"30",
-					"36",
-					"37"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Farfalle Tricolore mit cremiger Thunfischsauce",
-				"attributes": [
-					"A",
-					"1",
-					"30",
-					"33",
-					"36",
-					"38",
-					"41"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Quinoa-Brokkoli-Karottenpfanne an fruchtigem Tomatendip",
-				"attributes": [
-					"V",
-					"3"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gebackenes Fleischkäseschnitzel auf Malzjus",
-				"attributes": [
-					"2",
-					"3",
-					"8",
 					"30",
 					"32",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Hessische Kartoffelsuppe mit Gemüse und Kräuteröl",
-				"attributes": [
-					"V",
-					"1",
-					"30",
-					"35",
-					"38"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
-				"attributes": [
 					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Braten vom Schweinerücken auf Whiskey-Rahmsauce",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
@@ -163,11 +83,10 @@
 		],
 		[
 			{
-				"name": "Paprikasuppe Ungarische Art",
+				"name": "Zitronen-Couscouspfanne mit getrockneten Tomaten an fruchtigem Birnendip mit Koriander",
 				"attributes": [
 					"V",
-					"30",
-					"35"
+					"30"
 				],
 				"price": {
 					"student": 1.9,
@@ -178,19 +97,86 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gegrilltes Steak vom Schweinerücken auf Portwein-Rahmsauce",
+				"name": "Fischstäbchen mit Remouladensauce",
 				"attributes": [
-					"A",
-					"1",
+					"3",
+					"9",
 					"30",
+					"32",
+					"33",
 					"36",
-					"41",
-					"S"
+					"39"
 				],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
 					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Hausgemachter Latte Macchiato Schmarrn mit geschlagener Sahne und Kakao-Haube",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hähnchenbrust mit Basilikum-Tomatensauce",
+				"attributes": [
+					"30"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Gebackene Potatoe-Dippers an rauchigem Dip",
+				"attributes": [
+					"V",
+					"1",
+					"39"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
+				"attributes": [
+					"1",
+					"2",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
