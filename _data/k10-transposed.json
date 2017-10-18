@@ -14,9 +14,11 @@
 	"days": [
 		[
 			{
-				"name": "Gegrilltes Steak von der Putenbrust mit Röstzwiebel-Bratenjus",
+				"name": "Rindergeschnetzeltes Mediterrane Art",
 				"attributes": [
-					"30"
+					"30",
+					"36",
+					"R"
 				],
 				"price": {
 					"student": 3.5,
@@ -185,11 +187,12 @@
 				"attributes": [
 					"F",
 					"1",
-					"2",
+					"3",
 					"30",
 					"32",
 					"36",
-					"40"
+					"40",
+					"41"
 				],
 				"price": {
 					"student": 3.1,

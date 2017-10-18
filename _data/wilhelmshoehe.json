@@ -95,7 +95,9 @@
 		"Essen 2": {
 			"1": {
 				"name": "Nasi Goreng",
-				"attributes": [],
+				"attributes": [
+					"30"
+				],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
@@ -220,6 +222,7 @@
 					"3",
 					"4",
 					"8",
+					"30",
 					"38",
 					"39",
 					"R",
