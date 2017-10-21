@@ -8,52 +8,19 @@
 		}
 	},
 	"validity": {
-		"from": "2017-10-16T00:00:00.000Z",
-		"until": "2017-10-20T00:00:00.000Z"
+		"from": "2017-10-23T00:00:00.000Z",
+		"until": "2017-10-27T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Schupfnudeln in Kürbis-Salbeisauce",
+				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an Sauerrahmdip",
 				"attributes": [
 					"F",
-					"1",
 					"30",
 					"32",
 					"36",
-					"38",
-					"39",
-					"41"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Nasi Goreng",
-				"attributes": [],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Semmelknödel auf Spinat-Béchamelsauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -64,10 +31,10 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Braten vom Schweinerücken auf Whiskey-Rahmsauce",
+				"name": "Gegrillte, nordhessische Kartoffelbratwurst mit dunkler Sauce",
 				"attributes": [
-					"A",
-					"1",
+					"2",
+					"8",
 					"30",
 					"36",
 					"S"
@@ -83,28 +50,26 @@
 		],
 		[
 			{
-				"name": "Zitronen-Couscouspfanne mit getrockneten Tomaten an fruchtigem Birnendip mit Koriander",
+				"name": "Minestrone - italienische Gemüsesuppe mit krossem Baguette",
 				"attributes": [
 					"V",
-					"30"
+					"30",
+					"38"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Fischstäbchen mit Remouladensauce",
+				"name": "Thai-Nudelpfanne mit Pute und Gemüse",
 				"attributes": [
-					"3",
-					"9",
 					"30",
-					"32",
-					"33",
-					"36",
+					"34",
+					"35",
 					"39"
 				],
 				"price": {
@@ -118,45 +83,12 @@
 		],
 		[
 			{
-				"name": "Hausgemachter Latte Macchiato Schmarrn mit geschlagener Sahne und Kakao-Haube",
+				"name": "Italienische Gabelspaghetti mit fruchtiger Tomatensauce",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hähnchenbrust mit Basilikum-Tomatensauce",
-				"attributes": [
+					"V",
 					"30"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Gebackene Potatoe-Dippers an rauchigem Dip",
-				"attributes": [
-					"V",
-					"1",
-					"39"
-				],
-				"price": {
 					"student": 1.8,
 					"employee": 3.1,
 					"visitor": 4
@@ -165,11 +97,11 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
+				"name": "Rahmgeschnetzeltes aus der Schweinekeule mit Röstitalern",
 				"attributes": [
 					"1",
-					"2",
 					"30",
+					"32",
 					"36",
 					"S"
 				],
@@ -177,6 +109,77 @@
 					"student": 2.5,
 					"employee": 3.8,
 					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Gemüsecurry in scharfer Haratisauce mit Kokos",
+				"attributes": [
+					"V",
+					"1",
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Kassler-Nackenbraten auf Sauerkraut und süßem Senf",
+				"attributes": [
+					"1",
+					"2",
+					"3",
+					"4",
+					"36",
+					"38",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Drillings-Kartoffeln mit cremigem Dip",
+				"attributes": [
+					"V",
+					"3",
+					"35"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
+				"attributes": [
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"

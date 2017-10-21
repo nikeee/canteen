@@ -7,70 +7,17 @@
 		}
 	},
 	"validity": {
-		"from": "2017-10-16T00:00:00.000Z",
-		"until": "2017-10-20T00:00:00.000Z"
+		"from": "2017-10-23T00:00:00.000Z",
+		"until": "2017-10-27T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Schupfnudeln in Kürbissauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36",
-					"38",
-					"39",
-					"41"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Bulgurpfanne mit Nüssen und Trockenfrüchten an fruchtigem Birnendip",
+				"name": "Rosmarinkartoffeln mit Tomatencreme",
 				"attributes": [
 					"V",
 					"3",
-					"30",
-					"37",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Semmelknödel in Spinatcreme",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Kokos-Pfannkuchen an warmer Vanillesauce",
-				"attributes": [
-					"V",
-					"1",
-					"30",
 					"35"
 				],
 				"price": {
@@ -80,11 +27,12 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Rosmarinkartoffeln mit Paprika-Kreuzkümmelcreme",
+			"2": {
+				"name": "Minestrone - Italienische Gemüsesuppe mit Baguette",
 				"attributes": [
-					"F",
-					"36"
+					"V",
+					"30",
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -92,27 +40,62 @@
 					"visitor": 4
 				},
 				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gemüsecurry in scharfer Sauce mit Kokos",
+				"attributes": [
+					"V",
+					"1",
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Italienische Spaghetti in Tomatensauce",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an Pfeffer-Sauerrahmdip",
+				"attributes": [
+					"F",
+					"30",
+					"35",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Geschnetzeltes von der Pute in Rahmsauce",
+				"name": "Gegrillte, nordhessische Kartoffelbratwurst auf Majoranjus",
 				"attributes": [
+					"2",
+					"8",
 					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Nasi Goreng mit buntem Gemüse und Putenstreifen",
-				"attributes": [
-					"2"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -121,14 +104,53 @@
 				},
 				"vitalInfo": null
 			},
+			"2": {
+				"name": "Bami Goreng mit Geflügelstreifen",
+				"attributes": [
+					"30",
+					"32",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
 			"3": {
-				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
+				"name": "Hähnchenbrust mit Tandoori Marinade in Béchamelsauce",
 				"attributes": [
 					"1",
-					"2",
 					"30",
 					"36",
-					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Geschnetzeltes von der Putenbrust in Pfirsichrahm",
+				"attributes": [
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
+				"attributes": [
+					"32",
+					"36",
 					"S"
 				],
 				"price": {
@@ -137,50 +159,16 @@
 					"visitor": 4.7
 				},
 				"vitalInfo": null
-			},
-			"4": {
-				"name": "Hähnchenbrust mit Sauce Café de Paris",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Fischstäbchen mit Remouladensauce",
-				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Quinoa mit Gemüseragout",
+				"name": "Brokkoli-Blumenkohl-Auflauf an Petersiliensauce",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"30",
-					"35",
-					"39"
+					"32",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -190,10 +178,12 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Frisches Gemüsegulasch mit Tomatensauce",
+				"name": "Kartoffelgratin mit Sahne und Käse überbacken",
 				"attributes": [
-					"V",
-					"Ö"
+					"F",
+					"Ö",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -203,10 +193,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gegrillte Ofenkartoffel auf Kohlrabi-Gemüsebett",
+				"name": "Gedünstete Zucchini mit Tofu-Grünkernauflage überbacken",
 				"attributes": [
 					"V",
 					"Ö",
+					"30",
 					"35"
 				],
 				"price": {
@@ -217,12 +208,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Kartoffelauflauf mit Paprika und Bohnen",
+				"name": "Shakshuka - Poschierte Eier in Tomatensauce",
 				"attributes": [
 					"F",
 					"Ö",
-					"32",
-					"36"
+					"32"
 				],
 				"price": {
 					"student": 2.9,
@@ -232,11 +222,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Spaghetti mit scharfem Knoblauch-Blattspinat",
+				"name": "Asia-Reis-Gemüsepfanne",
 				"attributes": [
 					"V",
 					"Ö",
-					"30"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -248,13 +239,27 @@
 		},
 		"Aktions-Essen": {
 			"1": {
-				"name": "Hessisches Weckewerk mit Backkartoffeln und Gurke",
+				"name": "Ghanaisches Hähnchen in Erdnuss-Tomatensauce",
 				"attributes": [
-					"2",
-					"9",
 					"30",
-					"38",
-					"39",
+					"32",
+					"34"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Gegrilltes Schweinekotelett mit Madeira-Rahmsauce",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"36",
+					"41",
 					"S"
 				],
 				"price": {
@@ -264,14 +269,13 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Paniertes Schweineschnitzel an hessischer Kräuter-Speck-Schmandsauce",
+			"3": {
+				"name": "Cannelloni mit Rind und Aubergine gefüllt in Tomaten-Basilikumsauce mit Käse überbacken",
 				"attributes": [
-					"2",
 					"30",
-					"32",
+					"35",
 					"36",
-					"S"
+					"R"
 				],
 				"price": {
 					"student": 4,
@@ -280,34 +284,11 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Veggi-Burger mit Gemüseschnitzel, zweierlei Dips und Süßkartoffel-Pommes",
-				"attributes": [
-					"F",
-					"3",
-					"9",
-					"30",
-					"32",
-					"35",
-					"36",
-					"38",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
-			},
 			"4": {
-				"name": "Wildschweingulasch in Rotwein-Wacholdersauce",
+				"name": "Colita de Cuadril - Argentinisches Rindfleisch auf Gemüse und Kartoffeln",
 				"attributes": [
-					"A",
-					"30",
-					"41",
-					"S"
+					"39",
+					"R"
 				],
 				"price": {
 					"student": 6,
@@ -317,12 +298,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Lasagne mit Kürbis",
+				"name": "Herbstlicher Matjessalat mit Gurken, Tomaten und Zwiebeln",
 				"attributes": [
-					"V",
-					"30",
-					"35",
-					"38"
+					"1",
+					"2",
+					"3",
+					"33"
 				],
 				"price": {
 					"student": 4,

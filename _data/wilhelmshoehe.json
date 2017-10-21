@@ -7,39 +7,34 @@
 		}
 	},
 	"validity": {
-		"from": "2017-10-16T00:00:00.000Z",
-		"until": "2017-10-20T00:00:00.000Z"
+		"from": "2017-10-23T00:00:00.000Z",
+		"until": "2017-10-27T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Schupfnudeln in Kürbis-Salbeisauce",
+				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an Sauerrahmdip",
 				"attributes": [
 					"F",
-					"1",
 					"30",
 					"32",
 					"36",
-					"38",
-					"39",
-					"41"
+					"38"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Semmelknödel auf Spinat-Béchamelsauce",
+				"name": "Minestrone - italienische Gemüsesuppe mit krossem Baguette",
 				"attributes": [
-					"F",
-					"1",
+					"V",
 					"30",
-					"32",
-					"36"
+					"38"
 				],
 				"price": {
 					"student": 1.8,
@@ -49,10 +44,26 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Zitronen-Couscouspfanne mit getrockneten Tomaten an fruchtigem Birnendip mit Koriander",
+				"name": "Italienische Gabelspaghetti mit fruchtiger Tomatensauce",
 				"attributes": [
 					"V",
 					"30"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gemüsecurry in scharfer Haratisauce mit Kokos",
+				"attributes": [
+					"V",
+					"1",
+					"30",
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 1.9,
@@ -61,55 +72,27 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Hausgemachter Latte Macchiato Schmarrn mit geschlagener Sahne und Kakao-Haube",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Gebackene Potatoe-Dippers an rauchigem Dip",
+				"name": "Drillings-Kartoffeln mit cremigem Dip",
 				"attributes": [
 					"V",
-					"1",
-					"39"
+					"3",
+					"35"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Nasi Goreng",
+				"name": "Gegrillte, nordhessische Kartoffelbratwurst mit dunkler Sauce",
 				"attributes": [
-					"30"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Braten vom Schweinerücken auf Whiskey-Rahmsauce",
-				"attributes": [
-					"A",
-					"1",
+					"2",
+					"8",
 					"30",
 					"36",
 					"S"
@@ -121,15 +104,12 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Fischstäbchen mit Remouladensauce",
+			"2": {
+				"name": "Thai-Nudelpfanne mit Pute und Gemüse",
 				"attributes": [
-					"3",
-					"9",
 					"30",
-					"32",
-					"33",
-					"36",
+					"34",
+					"35",
 					"39"
 				],
 				"price": {
@@ -139,24 +119,12 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Hähnchenbrust mit Basilikum-Tomatensauce",
-				"attributes": [
-					"30"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
+			"3": {
+				"name": "Rahmgeschnetzeltes aus der Schweinekeule mit Röstitalern",
 				"attributes": [
 					"1",
-					"2",
 					"30",
+					"32",
 					"36",
 					"S"
 				],
@@ -166,67 +134,67 @@
 					"visitor": 4.7
 				},
 				"vitalInfo": null
-			}
-		},
-		"Essen 3 oder 4": {
-			"1": {
-				"name": "Gebackene Bärlauchnocken an fruchtigem Tomatendip",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
 			},
-			"2": null,
-			"3": {
-				"name": "Geschwenkte Putenstreifen Gyros Art an griechischem Zaziki",
-				"attributes": [
-					"36"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null
-			},
-			"4": null,
-			"5": {
-				"name": "Süßkartoffelcremesuppe mit Rote Bete Würfeln und Feta",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
-				},
-				"vitalInfo": null
-			}
-		},
-		"Angebot des Tages I": {
-			"1": {
-				"name": "Riesen Currywurst Berliner Art",
+			"4": {
+				"name": "Kassler-Nackenbraten auf Sauerkraut und süßem Senf",
 				"attributes": [
 					"1",
 					"2",
 					"3",
 					"4",
-					"8",
-					"30",
+					"36",
 					"38",
 					"39",
-					"R",
 					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
+				"attributes": [
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			}
+		},
+		"Essen 3 oder 4": {
+			"1": null,
+			"2": {
+				"name": "Ofenfrischer Gemüsestrudel auf Rote-Bete-Sauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Hausgemachter Kartoffelgratin mit Blattspinat, roten Zwiebeln und Gouda",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 3.3,
@@ -235,100 +203,40 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Paniertes Rotbarschfilet mit einer Zitronenecke und Sauerrahmdip",
+			"4": {
+				"name": "Gebratenes Putenschnitzel auf Jus mit grünen Pfefferbeeren und Spiegelei",
 				"attributes": [
 					"30",
-					"32",
-					"33",
-					"36"
+					"32"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 3.6,
+					"employee": 4.9,
+					"visitor": 5.8
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Kartoffel-Sauerkraut-Puffer mit Apfel-Meerrettich-Quarkdip",
-				"attributes": [
-					"F",
-					"MV",
-					"3",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": {
-					"fat": 20,
-					"carbohydrate": 72,
-					"protein": 29,
-					"calories": 605
-				}
-			},
-			"4": {
-				"name": "Pikante Sesamnudeln mit asiatischem Pfannengemüse",
-				"attributes": [
-					"V",
-					"MV",
-					"30",
-					"34",
-					"35",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 72,
-					"protein": 39,
-					"calories": 621
-				}
-			},
 			"5": {
-				"name": "Seelachs mit Spinat, Mozzarella und Mandeln an Vollkornreis",
+				"name": "Ghanaisches Hähnchen in Erdnuss-Tomatensauce",
 				"attributes": [
-					"MV",
-					"30",
-					"33",
-					"36",
-					"37"
+					"32",
+					"34"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
-				"vitalInfo": {
-					"fat": 23,
-					"carbohydrate": 82,
-					"protein": 45,
-					"calories": 718
-				}
+				"vitalInfo": null
 			}
 		},
-		"Angebot des Tages II": {
-			"1": null,
-			"2": {
-				"name": "Cheeseburger mit Beef, Käse, zweierlei Dips und Salat",
+		"Angebot des Tages I": {
+			"1": {
+				"name": "Rindfleischgulasch in kräftiger Bratensauce",
 				"attributes": [
-					"1",
 					"3",
-					"9",
 					"30",
-					"32",
-					"36",
-					"39",
-					"40",
+					"38",
 					"R"
 				],
 				"price": {
@@ -338,9 +246,76 @@
 				},
 				"vitalInfo": null
 			},
+			"2": {
+				"name": "Bulgur-Tomaten-Rucolasalat mit Schweinerückenstreifen",
+				"attributes": [
+					"MV",
+					"1",
+					"3",
+					"30",
+					"S"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": {
+					"fat": 19,
+					"carbohydrate": 83,
+					"protein": 41,
+					"calories": 693
+				}
+			},
 			"3": null,
+			"4": null,
+			"5": null
+		},
+		"Angebot des Tages II": {
+			"1": {
+				"name": "Tofu mit Ratatouille, Rosmarinkartoffeln und Weintrauben",
+				"attributes": [
+					"V",
+					"MV",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": {
+					"fat": 23,
+					"carbohydrate": 83,
+					"protein": 24,
+					"calories": 644
+				}
+			},
+			"2": null,
+			"3": {
+				"name": "Seelachs mit Ingwerrotkraut, Orangensauce und Dillkartoffeln",
+				"attributes": [
+					"MV",
+					"3",
+					"30",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": {
+					"fat": 21,
+					"carbohydrate": 73,
+					"protein": 39,
+					"calories": 643
+				}
+			},
 			"4": {
-				"name": "Gebratene Gnocchi in Mascarponesauce mit Kürbiskernen",
+				"name": "Tortellini mit Büffelmozzarella gefüllt in Basilikumsauce",
 				"attributes": [
 					"F",
 					"1",
@@ -355,7 +330,24 @@
 				},
 				"vitalInfo": null
 			},
-			"5": null
+			"5": {
+				"name": "Gebtatenes Schollenfilet auf Riesling-Fenchel-Karottengemüse",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"33",
+					"36",
+					"38",
+					"41"
+				],
+				"price": {
+					"student": 5.5,
+					"employee": 6.8,
+					"visitor": 7.7
+				},
+				"vitalInfo": null
+			}
 		}
 	}
 }

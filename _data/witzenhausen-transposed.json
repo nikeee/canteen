@@ -8,54 +8,50 @@
 		}
 	},
 	"validity": {
-		"from": "2017-10-16T00:00:00.000Z",
-		"until": "2017-10-20T00:00:00.000Z"
+		"from": "2017-10-23T00:00:00.000Z",
+		"until": "2017-10-27T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Schupfnudeln in Kürbissauce",
+				"name": "Rosmarinkartoffeln mit Tomatencreme",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36",
-					"38",
-					"39",
-					"41"
+					"V",
+					"3",
+					"35"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Geschnetzeltes von der Pute in Rahmsauce",
+				"name": "Gegrillte, nordhessische Kartoffelbratwurst auf Majoranjus",
 				"attributes": [
+					"2",
+					"8",
 					"30",
-					"32",
-					"36"
+					"36",
+					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Quinoa mit Gemüseragout",
+				"name": "Brokkoli-Blumenkohl-Auflauf an Petersiliensauce",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"30",
-					"35",
-					"39"
+					"32",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -66,13 +62,76 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Hessisches Weckewerk mit Backkartoffeln und Gurke",
+				"name": "Ghanaisches Hähnchen in Erdnuss-Tomatensauce",
 				"attributes": [
-					"2",
-					"9",
 					"30",
-					"38",
-					"39",
+					"32",
+					"34"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Minestrone - Italienische Gemüsesuppe mit Baguette",
+				"attributes": [
+					"V",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Bami Goreng mit Geflügelstreifen",
+				"attributes": [
+					"30",
+					"32",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Kartoffelgratin mit Sahne und Käse überbacken",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Gegrilltes Schweinekotelett mit Madeira-Rahmsauce",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"36",
+					"41",
 					"S"
 				],
 				"price": {
@@ -86,13 +145,12 @@
 		],
 		[
 			{
-				"name": "Bulgurpfanne mit Nüssen und Trockenfrüchten an fruchtigem Birnendip",
+				"name": "Gemüsecurry in scharfer Sauce mit Kokos",
 				"attributes": [
 					"V",
-					"3",
+					"1",
 					"30",
-					"37",
-					"38",
+					"35",
 					"39"
 				],
 				"price": {
@@ -104,23 +162,28 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Nasi Goreng mit buntem Gemüse und Putenstreifen",
+				"name": "Hähnchenbrust mit Tandoori Marinade in Béchamelsauce",
 				"attributes": [
-					"2"
+					"1",
+					"30",
+					"36",
+					"39"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Frisches Gemüsegulasch mit Tomatensauce",
+				"name": "Gedünstete Zucchini mit Tofu-Grünkernauflage überbacken",
 				"attributes": [
 					"V",
-					"Ö"
+					"Ö",
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -131,13 +194,12 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Paniertes Schweineschnitzel an hessischer Kräuter-Speck-Schmandsauce",
+				"name": "Cannelloni mit Rind und Aubergine gefüllt in Tomaten-Basilikumsauce mit Käse überbacken",
 				"attributes": [
-					"2",
 					"30",
-					"32",
+					"35",
 					"36",
-					"S"
+					"R"
 				],
 				"price": {
 					"student": 4,
@@ -150,13 +212,10 @@
 		],
 		[
 			{
-				"name": "Semmelknödel in Spinatcreme",
+				"name": "Italienische Spaghetti in Tomatensauce",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
+					"V",
+					"30"
 				],
 				"price": {
 					"student": 1.9,
@@ -167,29 +226,25 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
+				"name": "Geschnetzeltes von der Putenbrust in Pfirsichrahm",
 				"attributes": [
-					"1",
-					"2",
 					"30",
-					"36",
-					"38",
-					"S"
+					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Gegrillte Ofenkartoffel auf Kohlrabi-Gemüsebett",
+				"name": "Shakshuka - Poschierte Eier in Tomatensauce",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"35"
+					"32"
 				],
 				"price": {
 					"student": 2.9,
@@ -200,84 +255,10 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Veggi-Burger mit Gemüseschnitzel, zweierlei Dips und Süßkartoffel-Pommes",
+				"name": "Colita de Cuadril - Argentinisches Rindfleisch auf Gemüse und Kartoffeln",
 				"attributes": [
-					"F",
-					"3",
-					"9",
-					"30",
-					"32",
-					"35",
-					"36",
-					"38",
 					"39",
-					"40"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Kokos-Pfannkuchen an warmer Vanillesauce",
-				"attributes": [
-					"V",
-					"1",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hähnchenbrust mit Sauce Café de Paris",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Kartoffelauflauf mit Paprika und Bohnen",
-				"attributes": [
-					"F",
-					"Ö",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Wildschweingulasch in Rotwein-Wacholdersauce",
-				"attributes": [
-					"A",
-					"30",
-					"41",
-					"S"
+					"R"
 				],
 				"price": {
 					"student": 6,
@@ -290,44 +271,44 @@
 		],
 		[
 			{
-				"name": "Rosmarinkartoffeln mit Paprika-Kreuzkümmelcreme",
+				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an Pfeffer-Sauerrahmdip",
 				"attributes": [
 					"F",
-					"36"
+					"30",
+					"35",
+					"36",
+					"38"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Fischstäbchen mit Remouladensauce",
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
 				"attributes": [
-					"3",
-					"9",
-					"30",
 					"32",
-					"33",
 					"36",
-					"39"
+					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Spaghetti mit scharfem Knoblauch-Blattspinat",
+				"name": "Asia-Reis-Gemüsepfanne",
 				"attributes": [
 					"V",
 					"Ö",
-					"30"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -338,12 +319,12 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Lasagne mit Kürbis",
+				"name": "Herbstlicher Matjessalat mit Gurken, Tomaten und Zwiebeln",
 				"attributes": [
-					"V",
-					"30",
-					"35",
-					"38"
+					"1",
+					"2",
+					"3",
+					"33"
 				],
 				"price": {
 					"student": 4,
