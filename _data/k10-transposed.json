@@ -8,15 +8,17 @@
 		}
 	},
 	"validity": {
-		"from": "2017-10-16T00:00:00.000Z",
-		"until": "2017-10-21T00:00:00.000Z"
+		"from": "2017-10-23T00:00:00.000Z",
+		"until": "2017-10-28T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Gegrilltes Steak von der Putenbrust mit Röstzwiebel-Bratenjus",
+				"name": "Gegrillte Hähnchenbrust an Cranberry-Rahmsauce",
 				"attributes": [
-					"30"
+					"3",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 3.5,
@@ -27,15 +29,17 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Asiatische Gemüsepfanne mit Vollkornreis und Chilisauce",
+				"name": "Geschöpfte Wellenbandnudeln in cremiger Kürbissahnesauce mit Walnüssen getoppt",
 				"attributes": [
-					"V",
-					"2",
+					"F",
+					"1",
 					"3",
 					"30",
-					"35",
-					"38",
-					"39"
+					"32",
+					"36",
+					"37",
+					"39",
+					"41"
 				],
 				"price": {
 					"student": 2.6,
@@ -46,19 +50,14 @@
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Ofenfrischer Spanferkelrollbraten an kräftiger Marsalajus",
+				"name": "Weißkrauttopf mit Kartoffeln und Lammfleisch",
 				"attributes": [
-					"A",
-					"2",
-					"3",
-					"30",
-					"41",
-					"S"
+					"1"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 3 solange der Vorrat reicht"
@@ -66,10 +65,163 @@
 		],
 		[
 			{
-				"name": "Burrito Mexiko mit Hackfleisch gefüllt",
+				"name": "Putengeschnetzeltes in cremiger Karotten-Ingwersauce",
+				"attributes": [
+					"1",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Ragout von Waldpilzen mit Serviettenknödeln",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Gebratene Krakauer mit Grünkohl",
 				"attributes": [
 					"2",
+					"3",
 					"30",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
+			}
+		],
+		[
+			{
+				"name": "Goldgelb gebackenes Schweineschnitzel an Champignon-Rahmsauce",
+				"attributes": [
+					"1",
+					"30",
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Tortellini mit Soja Bolognese gefüllt in fruchtiger Tomatensauce",
+				"attributes": [
+					"V",
+					"30",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Glasierte Entenbrust mit Austernpilzen an kräftiger Rotweinjus",
+				"attributes": [
+					"A",
+					"30",
+					"41"
+				],
+				"price": {
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
+			}
+		],
+		[
+			{
+				"name": "Hirsch-Edelgulasch mit Preiselbeeren in Wacholder-Rahmsauce",
+				"attributes": [
+					"30"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Hausgemachter Wrap mit grünem Spargel,Tomaten und gebratenen Pfifferlingen",
+				"attributes": [
+					"F",
+					"2",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Miesmuscheln aus dem Wurzelsud mit Weißwein und frischen Kräutern",
+				"attributes": [
+					"A",
+					"38",
+					"41",
+					"43"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
+			}
+		],
+		[
+			{
+				"name": "Klassischer Burger mit Beef, zweierlei Dips und Salat",
+				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
+					"36",
+					"39",
+					"40",
 					"R"
 				],
 				"price": {
@@ -81,179 +233,23 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Backfrischer Himbeer-Pfannkuchen an Vanillesauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Rustikaler Pulled Pork Burger",
-				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
-					"35",
-					"36",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3 solange der Vorrat reicht"
-			}
-		],
-		[
-			{
-				"name": "Frisch gebratenes Hähnchenschnitzel im Kokoskleid auf hausgemachtem Ananas-Chutney",
-				"attributes": [
-					"30",
-					"32"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Italienische Penne in feinem Tomatenpesto geschwenkt und mit Rucola getoppt",
+				"name": "Erntefrische Blumenkohlröschen unter leckerer Kräuter-Béchamel",
 				"attributes": [
 					"V",
-					"30",
-					"37"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Marinierter Hirtenkäse auf geschmortem Ratatouille",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3 solange der Vorrat reicht"
-			}
-		],
-		[
-			{
-				"name": "Zartes Putengulasch in Cognac-Rahmsauce",
-				"attributes": [
-					"A",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Großer, bunter Salatteller mit Mozzarella im Balsamico-Sesamkleid, dazu Baguette",
-				"attributes": [
-					"F",
 					"1",
-					"3",
 					"30",
-					"32",
-					"36",
-					"40",
-					"41"
+					"35"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Ofenfrische Riesenhaxe auf Sauerkraut",
-				"attributes": [
-					"1",
-					"2",
-					"3",
-					"S"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3 solange der Vorrat reicht"
-			}
-		],
-		[
-			{
-				"name": "Grillteller mit Geflügel- und Schweinefleisch an scharfem Barbecuedip",
-				"attributes": [
-					"30",
-					"32",
-					"38",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Schupfnudelauflauf in feiner Spinatcreme mit Käse überbacken",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Auf der Haut gebratenes Zanderfilet an Rote Bete-Sauce",
+				"name": "Seelachsfilet in Knusperpanade auf Zucchinisahnesauce",
 				"attributes": [
 					"1",
 					"30",
@@ -261,9 +257,9 @@
 					"36"
 				],
 				"price": {
-					"student": 5.5,
-					"employee": 6.8,
-					"visitor": 7.7
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 3 solange der Vorrat reicht"
