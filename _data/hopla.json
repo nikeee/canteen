@@ -34,9 +34,11 @@
 			"2": {
 				"name": "Minestrone - italienische Gemüsesuppe mit krossem Baguette",
 				"attributes": [
-					"V",
+					"F",
 					"30",
-					"38"
+					"36",
+					"38",
+					"42"
 				],
 				"price": {
 					"student": 1.8,
@@ -109,10 +111,15 @@
 			"2": {
 				"name": "Thai-Nudelpfanne mit Pute und Gemüse",
 				"attributes": [
+					"2",
+					"3",
+					"8",
 					"30",
 					"34",
 					"35",
-					"39"
+					"39",
+					"R",
+					"S"
 				],
 				"price": {
 					"student": 2.4,

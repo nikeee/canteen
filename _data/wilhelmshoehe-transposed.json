@@ -178,7 +178,6 @@
 			{
 				"name": "Rahmgeschnetzeltes aus der Schweinekeule mit Röstitalern",
 				"attributes": [
-					"1",
 					"30",
 					"32",
 					"36",
@@ -193,7 +192,7 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Hausgemachter Kartoffelgratin mit Blattspinat, roten Zwiebeln und Gouda",
+				"name": "Hausgemachter Kartoffelgratin mit Blattspinat und Mozzarella",
 				"attributes": [
 					"F",
 					"1",
@@ -213,8 +212,10 @@
 				"attributes": [
 					"MV",
 					"3",
+					"9",
 					"30",
 					"33",
+					"35",
 					"36"
 				],
 				"price": {

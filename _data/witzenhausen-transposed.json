@@ -194,12 +194,11 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Cannelloni mit Rind und Aubergine gefüllt in Tomaten-Basilikumsauce mit Käse überbacken",
+				"name": "Cannelloni mit Ricotta Spinatfüllung Tomaten-Basilikumsauce mit Käse überbacken",
 				"attributes": [
+					"F",
 					"30",
-					"35",
-					"36",
-					"R"
+					"36"
 				],
 				"price": {
 					"student": 4,
