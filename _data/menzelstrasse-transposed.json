@@ -8,41 +8,45 @@
 		}
 	},
 	"validity": {
-		"from": "2017-10-23T00:00:00.000Z",
-		"until": "2017-10-27T00:00:00.000Z"
+		"from": "2017-10-30T00:00:00.000Z",
+		"until": "2017-11-03T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Deftiger Pfannkuchen mit Gemüsewürfeln an Sauerrahmdip",
+				"name": "Goldgelb gebackenes Möhrenschnitzel auf Passionsfrucht-Sahne",
 				"attributes": [
 					"F",
+					"1",
+					"3",
+					"9",
 					"30",
 					"32",
 					"36",
-					"38"
+					"38",
+					"39",
+					"40"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gegrillte, nordhessische Kartoffelbratwurst mit dunkler Sauce",
+				"name": "Ofenfrischer Spießbraten an griechischem Zaziki",
 				"attributes": [
 					"2",
-					"8",
-					"30",
+					"3",
 					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
@@ -50,40 +54,20 @@
 		],
 		[
 			{
-				"name": "Minestrone - italienische Gemüsesuppe mit krossem Baguette",
-				"attributes": [
-					"V",
-					"30",
-					"38"
-				],
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Thai-Nudelpfanne mit Pute und Gemüse",
-				"attributes": [
-					"30",
-					"34",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
 			}
 		],
 		[
 			{
-				"name": "Italienische Gabelspaghetti mit fruchtiger Tomatensauce",
+				"name": "Geschmortes Ratatouille-Gemüse an gelbem Langkornreis",
 				"attributes": [
 					"V",
 					"30"
@@ -97,13 +81,11 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Rahmgeschnetzeltes aus der Schweinekeule mit Röstitalern",
+				"name": "Hähnchenbrust mit Lauchcremesauce",
 				"attributes": [
 					"1",
 					"30",
-					"32",
-					"36",
-					"S"
+					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -116,38 +98,30 @@
 		],
 		[
 			{
-				"name": "Gemüsecurry in scharfer Haratisauce mit Kokos",
+				"name": "Indisch Aloo Gobi mit Kartoffeln und Blumenkohl",
 				"attributes": [
-					"V",
-					"1",
-					"30",
-					"35",
-					"39"
+					"V"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Kassler-Nackenbraten auf Sauerkraut und süßem Senf",
+				"name": "Penne mit Blattspinat und Hackfleisch",
 				"attributes": [
 					"1",
-					"2",
-					"3",
-					"4",
+					"30",
 					"36",
-					"38",
-					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
@@ -155,11 +129,11 @@
 		],
 		[
 			{
-				"name": "Drillings-Kartoffeln mit cremigem Dip",
+				"name": "Lauchkuchen mit Schmand und roten Zwiebeln",
 				"attributes": [
-					"V",
-					"3",
-					"35"
+					"F",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -170,10 +144,8 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
+				"name": "Balkan-Reisgericht mit Schweinefleisch",
 				"attributes": [
-					"32",
-					"36",
 					"S"
 				],
 				"price": {
