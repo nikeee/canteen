@@ -111,8 +111,7 @@
 			{
 				"name": "Geschmortes Ratatouille-Gemüse an gelbem Langkornreis",
 				"attributes": [
-					"V",
-					"30"
+					"V"
 				],
 				"price": {
 					"student": 1.8,
@@ -142,7 +141,6 @@
 				"attributes": [
 					"MV",
 					"30",
-					"38",
 					"39",
 					"S"
 				],
