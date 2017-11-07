@@ -432,6 +432,7 @@
 			{
 				"name": "Seelachsfilet auf buntem Sesam-Glasnudelsalat und Wakame Algen",
 				"attributes": [
+					"MV",
 					"1",
 					"30",
 					"33",
@@ -444,7 +445,12 @@
 					"employee": 6.3,
 					"visitor": 7.2
 				},
-				"vitalInfo": null,
+				"vitalInfo": {
+					"fat": 0,
+					"carbohydrate": 0,
+					"protein": 0,
+					"calories": 0
+				},
 				"categoryName": "Wok/Grill"
 			}
 		]
