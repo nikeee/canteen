@@ -189,8 +189,12 @@
 			{
 				"name": "Mie-Nudelpfanne mit Sesam-Schweinefleisch und Gemüse",
 				"attributes": [
+					"2",
+					"3",
 					"30",
+					"32",
 					"35",
+					"38",
 					"39",
 					"40",
 					"S"
@@ -206,7 +210,8 @@
 			{
 				"name": "Hähnchenbrust mit Tomaten-Quinoa",
 				"attributes": [
-					"30"
+					"30",
+					"38"
 				],
 				"price": {
 					"student": 3.5,
