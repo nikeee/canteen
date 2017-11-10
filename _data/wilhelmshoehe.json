@@ -152,7 +152,6 @@
 				"attributes": [
 					"A",
 					"1",
-					"30",
 					"36",
 					"41"
 				],
@@ -326,7 +325,7 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Seelachsfilet auf buntem Sesam-Glasnudelsalat und Wakame Algen",
+				"name": "Seelachsfilet auf buntem Sesam-Glasnudelsalat",
 				"attributes": [
 					"MV",
 					"1",
@@ -357,6 +356,7 @@
 				"name": "Flammkuchen mit Speck, roten Zwiebeln, Käse und Schmand",
 				"attributes": [
 					"2",
+					"3",
 					"30",
 					"36",
 					"S"

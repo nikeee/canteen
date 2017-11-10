@@ -266,7 +266,6 @@
 				"attributes": [
 					"A",
 					"1",
-					"30",
 					"36",
 					"41"
 				],
@@ -298,6 +297,7 @@
 				"name": "Flammkuchen mit Speck, roten Zwiebeln, Käse und Schmand",
 				"attributes": [
 					"2",
+					"3",
 					"30",
 					"36",
 					"S"
@@ -361,7 +361,7 @@
 				"categoryName": "Essen 3 oder 4"
 			},
 			{
-				"name": "Seelachsfilet auf buntem Sesam-Glasnudelsalat und Wakame Algen",
+				"name": "Seelachsfilet auf buntem Sesam-Glasnudelsalat",
 				"attributes": [
 					"MV",
 					"1",
