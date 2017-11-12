@@ -8,49 +8,50 @@
 		}
 	},
 	"validity": {
-		"from": "2017-11-06T00:00:00.000Z",
-		"until": "2017-11-11T00:00:00.000Z"
+		"from": "2017-11-13T00:00:00.000Z",
+		"until": "2017-11-18T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Hähnchenbrust nach Gyros Art gewürzt mit Zaziki",
+				"name": "Gulasch von der Putenoberkeule in Preiselbeer-Pfefferrahm",
 				"attributes": [
-					"36",
-					"38",
-					"39"
+					"30",
+					"36"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Tortellini mit feiner Gemüsefüllung in fruchtiger Tomatensauce",
+				"name": "Penne mit hausgemachtem Kürbispesto und Balsamicocreme getoppt",
 				"attributes": [
-					"F",
+					"V",
+					"1",
+					"3",
 					"30",
-					"32",
-					"36",
-					"38"
+					"37",
+					"41"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Gebackene Gemüsekroketten mit Kräutersauce",
+				"name": "Gebackene Brokkolinuggets an Tomatensauce",
 				"attributes": [
 					"F",
-					"1",
 					"30",
+					"32",
+					"35",
 					"36",
 					"38"
 				],
@@ -65,11 +66,11 @@
 		],
 		[
 			{
-				"name": "Ungarisches Schweinefleischgulasch",
+				"name": "Schweinegeschnetzeltes nach Züricher Art",
 				"attributes": [
-					"A",
+					"1",
 					"30",
-					"41",
+					"36",
 					"S"
 				],
 				"price": {
@@ -81,66 +82,12 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Backfrischer Apfel-Pfannkuchen an warmer Vanillesauce",
+				"name": "Börek mit Spinat und Hirtenkäse gefüllt an Knoblauchdip",
 				"attributes": [
 					"F",
-					"1",
-					"3",
 					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Pasta mit Steinchampignons in Kerbelbutter und Tranchen vom Lachsfilet",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"33",
 					"36",
-					"38"
-				],
-				"price": {
-					"student": 5.5,
-					"employee": 6.8,
-					"visitor": 7.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3 solange der Vorrat reicht"
-			}
-		],
-		[
-			{
-				"name": "Goldgelb gebackenes Putenschnitzel mit Rahmsauce",
-				"attributes": [
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Hausgemachte Spinatlasagne in Knoblauchcreme",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
+					"40"
 				],
 				"price": {
 					"student": 4,
@@ -151,83 +98,30 @@
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Herbstlicher Linseneintopf mit Wurzelgemüse und Kartoffeln",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"35",
-					"36",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3 solange der Vorrat reicht"
-			}
-		],
-		[
-			{
-				"name": "Geschöpfte Wellenbandnudeln mit pikantem Chili con Carne aus Rinderhackfleisch",
-				"attributes": [
-					"30",
-					"32",
-					"R"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Hausgemachte gebratene Polentaschnitte an tomatisiertem Schmorgemüse",
-				"attributes": [
-					"F",
-					"1",
-					"2",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Ofenfrische Entenkeule an Rotweinjus",
-				"attributes": [
-					"A",
-					"30",
-					"41"
-				],
-				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3 solange der Vorrat reicht"
-			}
-		],
-		[
-			{
-				"name": "Mit Asiagemüse gefülltes Putenbruststeak in Chilisauce",
+				"name": "Norddeutscher Heringsstipp vom Bismarckhering mit Apfel, Gurke, Zwiebel und Dill",
 				"attributes": [
 					"3",
-					"30",
-					"35",
-					"38",
+					"9",
+					"32",
+					"33",
+					"36",
 					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
+			}
+		],
+		[
+			{
+				"name": "Hähnchenschnitzel in Pankopanade auf feuriger Jalapeñosauce",
+				"attributes": [
+					"30",
+					"32"
 				],
 				"price": {
 					"student": 3.5,
@@ -238,34 +132,139 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Italienische Kartoffelgnocchi in leichter Gorgonzolasauce mit Käse überbacken",
+				"name": "Tortellini Tricolore mit Käsefüllung in Rucola-Sahnesauce mit Käse überbacken",
 				"attributes": [
 					"F",
 					"1",
 					"30",
 					"32",
-					"35",
 					"36"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Pizzarad mit Thunfisch und frischen Zwiebeln",
+				"name": "Tranchen vom Schweinefilet an einer Champignon Hollandaise",
 				"attributes": [
 					"30",
-					"33",
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
+			}
+		],
+		[
+			{
+				"name": "Griechisches Hacksteak mit Hirtenkäse an Kräuterjus",
+				"attributes": [
+					"30",
+					"32",
+					"35",
+					"36",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Asiatische Basmatireis-Gemüsepfanne",
+				"attributes": [
+					"V",
+					"35",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Zartes Rehgulasch in Wacholder-Portweinsauce",
+				"attributes": [
+					"A",
+					"30",
+					"41"
+				],
+				"price": {
+					"student": 6,
+					"employee": 7.3,
+					"visitor": 8.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
+			}
+		],
+		[
+			{
+				"name": "Gekochtes Rindfleisch aus dem Wurzelsud an Meerrettichsauce",
+				"attributes": [
+					"1",
+					"3",
+					"9",
+					"30",
+					"36",
+					"38",
+					"R"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Lauchkuchen mit Schmand und roten Zwiebeln",
+				"attributes": [
+					"F",
+					"30",
 					"36"
 				],
 				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Gebackene Fisch Nuggets an Cocktaildip",
+				"attributes": [
+					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 3 solange der Vorrat reicht"
