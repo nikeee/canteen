@@ -186,12 +186,13 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hausgemachter Pilzpfannkuchen mit Sauerrahmdip",
+				"name": "Lasagne mit Soja-Bolognese",
 				"attributes": [
-					"F",
+					"V",
+					"1",
 					"30",
-					"32",
-					"36"
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 2.9,
@@ -241,6 +242,7 @@
 				"attributes": [
 					"30",
 					"36",
+					"38",
 					"S"
 				],
 				"price": {
