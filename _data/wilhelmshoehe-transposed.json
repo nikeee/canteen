@@ -98,6 +98,7 @@
 				"attributes": [
 					"30",
 					"32",
+					"38",
 					"39"
 				],
 				"price": {
@@ -109,13 +110,12 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Lasagne mit Soja-Bolognese",
+				"name": "Hausgemachter Pilzpfannkuchen mit Sauerrahmdip",
 				"attributes": [
-					"V",
-					"1",
+					"F",
 					"30",
-					"35",
-					"38"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -130,8 +130,11 @@
 				"attributes": [
 					"A",
 					"MV",
+					"1",
 					"3",
+					"9",
 					"30",
+					"32",
 					"36",
 					"38",
 					"41",
