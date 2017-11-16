@@ -121,6 +121,7 @@
 				"name": "Gnocchi mit Putenhackfleisch à la Crème",
 				"attributes": [
 					"1",
+					"2",
 					"30",
 					"32",
 					"36"
@@ -266,7 +267,8 @@
 				"attributes": [
 					"1",
 					"33",
-					"36"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 4,
