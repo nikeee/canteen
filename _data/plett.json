@@ -7,73 +7,18 @@
 		}
 	},
 	"validity": {
-		"from": "2017-11-13T00:00:00.000Z",
-		"until": "2017-11-17T00:00:00.000Z"
+		"from": "2017-11-20T00:00:00.000Z",
+		"until": "2017-11-24T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Bauernfrühstück mit Kartoffeln, Zwiebeln, Ei und Kräutern",
-				"attributes": [
-					"F",
-					"9",
-					"32",
-					"39"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Farfalle Tricolore mit tomatisiertem Grünkernragout",
-				"attributes": [
-					"V",
-					"30"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Paella mit gelbem Reis und Gemüse",
-				"attributes": [
-					"V"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Curry von zweierlei Kartoffeln und Blumenkohl",
-				"attributes": [
-					"V",
-					"3",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
+				"name": "Tortellini mit Spinat-Ricotta-Füllung in Béchamelsauce mit Petersilienpesto",
 				"attributes": [
 					"F",
 					"1",
+					"2",
 					"30",
 					"32",
 					"36",
@@ -85,29 +30,87 @@
 					"visitor": 4.1
 				},
 				"vitalInfo": null
+			},
+			"2": {
+				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise mit Estragon",
+				"attributes": [
+					"V",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Kokos-Soja-Milchreis an Kirschgrütze",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"35"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachter Kichererbsen Taler an Ananaschutney",
+				"attributes": [
+					"V",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Ofenfrische Geflügelfrikadelle an Pfefferjus",
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvar-Bratenjus",
 				"attributes": [
-					"1",
+					"8",
 					"30",
-					"38",
-					"39"
+					"36",
+					"S"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Bami Goreng",
+				"name": "Karibisches Mango-Hühnchen",
 				"attributes": [
+					"1",
 					"30",
-					"32",
+					"36",
 					"39"
 				],
 				"price": {
@@ -118,48 +121,41 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gnocchi mit Putenhackfleisch à la Crème",
+				"name": "Italienische Radinudeln mit feurigem Chili con Carne",
 				"attributes": [
-					"1",
-					"2",
 					"30",
 					"32",
-					"36"
+					"R"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Ofenfrischer Fleischkäse Jäger Art",
+				"name": "Gegrilltes Schweinekotelett mit Schwarzbierjus",
 				"attributes": [
-					"2",
-					"3",
-					"8",
+					"A",
 					"30",
-					"R",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Frühlingsrolle mit Geflügelfleisch gefüllt an süßsauer Sauce",
+				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
 				"attributes": [
-					"1",
 					"3",
 					"30",
 					"32",
-					"35",
+					"33",
 					"36",
-					"38",
 					"39"
 				],
 				"price": {
@@ -171,14 +167,75 @@
 			}
 		},
 		"Essen 3 oder 4": {
+			"1": null,
+			"2": null,
+			"3": {
+				"name": "Gebratenes Putenschnitzel auf scharfer Tomatensauce",
+				"attributes": [
+					"30",
+					"32"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null
+			},
+			"4": null,
+			"5": null
+		},
+		"Angebot des Tages I": {
 			"1": {
-				"name": "Lasagne mit Soja-Bolognese",
+				"name": "Gegrillte Zucchini mit buntem Quinoasalat und Linsendip",
 				"attributes": [
 					"V",
-					"1",
+					"Ö",
+					"39"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Rindfleischgulasch in Erdnuss-Cremesauce",
+				"attributes": [
+					"Ö",
 					"30",
-					"35",
-					"38"
+					"34",
+					"36",
+					"R"
+				],
+				"price": {
+					"student": 6,
+					"employee": 7.3,
+					"visitor": 8.2
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Kürbis-Steckrübenpfanne mit Kokos und Curry im Reisrand",
+				"attributes": [
+					"V",
+					"Ö",
+					"39"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Vollkornpasta in Tomatensauce mit Blattspinat",
+				"attributes": [
+					"V",
+					"Ö",
+					"30"
 				],
 				"price": {
 					"student": 3.2,
@@ -187,132 +244,20 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Hausgemachter Pilzpfannkuchen mit Sauerrahmdip",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": null,
-			"4": {
-				"name": "Rindfleischgulasch in Pfeffer-Rotwein-Sauce",
-				"attributes": [
-					"A",
-					"30",
-					"36",
-					"41",
-					"R"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null
-			},
-			"5": null
-		},
-		"Angebot des Tages I": {
-			"1": {
-				"name": "Szegediner Gulasch aus der Schweinekeule mit Kraut und Paprika",
-				"attributes": [
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Sauerbraten mit Apfelrotkohl und Kartoffelklößen",
-				"attributes": [
-					"A",
-					"MV",
-					"1",
-					"3",
-					"30",
-					"32",
-					"36",
-					"38",
-					"41",
-					"R"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 77,
-					"protein": 39,
-					"calories": 641
-				}
-			},
-			"3": {
-				"name": "Seelachsfilet auf hausgemachtem Kartoffelstampf",
-				"attributes": [
-					"1",
-					"33",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Tagliatelle in Blattspinat-Tomaten-Frischkäse-Sauce",
-				"attributes": [
-					"F",
-					"MV",
-					"1",
-					"2",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 92,
-					"protein": 31,
-					"calories": 697
-				}
-			},
 			"5": {
-				"name": "Paniertes Schnitzel vom Schwein an Schmanddip mit Zwiebel-Speck",
+				"name": "Hausgemachte Frikadelle auf Rahmwirsing",
 				"attributes": [
-					"2",
-					"3",
+					"Ö",
 					"30",
 					"32",
 					"36",
+					"39",
 					"S"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
 				},
 				"vitalInfo": null
 			}

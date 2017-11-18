@@ -8,149 +8,17 @@
 		}
 	},
 	"validity": {
-		"from": "2017-11-13T00:00:00.000Z",
-		"until": "2017-11-17T00:00:00.000Z"
+		"from": "2017-11-20T00:00:00.000Z",
+		"until": "2017-11-24T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Bauernfrühstück mit Kartoffeln, Zwiebeln, Ei und Kräutern",
-				"attributes": [
-					"2",
-					"9",
-					"32",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Ofenfrische Geflügelfrikadelle an Pfefferjus",
-				"attributes": [
-					"30",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Farfalle Tricolore mit tomatisiertem Grünkernragout",
-				"attributes": [
-					"V",
-					"30"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Bami Goreng",
-				"attributes": [
-					"30",
-					"32",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Paella mit gelbem Reis und Gemüse",
-				"attributes": [
-					"V"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gnocchi mit Putenhackfleisch á la Creme",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Curry von zweierlei Kartoffeln und Blumenkohl",
-				"attributes": [
-					"V",
-					"3",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Ofenfrischer Fleischkäse Jäger Art",
-				"attributes": [
-					"2",
-					"3",
-					"8",
-					"30",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
+				"name": "Tortellini mit Spinat-Ricotta-Füllung in Béchamelsauce mit Petersilienpesto",
 				"attributes": [
 					"F",
 					"1",
+					"2",
 					"30",
 					"32",
 					"36",
@@ -165,15 +33,144 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Frühlingsrolle mit Geflügelfleisch gefüllt an süßsauer Sauce",
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvar-Bratenjus",
+				"attributes": [
+					"8",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise mit Estragon",
+				"attributes": [
+					"V",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Karibisches Mango-Hühnchen",
 				"attributes": [
 					"1",
+					"30",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Italienische Radinudeln mit feurigem Chili con Carne",
+				"attributes": [
+					"30",
+					"32",
+					"R"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Kokos-Soja-Milchreis an Kirschgrütze",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"35"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gegrilltes Schweinekotelett mit Schwarzbierjus",
+				"attributes": [
+					"A",
+					"30",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Hausgemachter Kichererbsen Taler an Ananaschutney",
+				"attributes": [
+					"V",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
+				"attributes": [
 					"3",
 					"30",
 					"32",
-					"35",
+					"33",
 					"36",
-					"38",
 					"39"
 				],
 				"price": {

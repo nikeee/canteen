@@ -8,18 +8,18 @@
 		}
 	},
 	"validity": {
-		"from": "2017-11-13T00:00:00.000Z",
-		"until": "2017-11-17T00:00:00.000Z"
+		"from": "2017-11-20T00:00:00.000Z",
+		"until": "2017-11-24T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Kartoffelpfanne mit Gewürzgurke",
+				"name": "Vegane Tortellini mit Tofu-Gemüsebolognesesauce",
 				"attributes": [
-					"F",
-					"9",
-					"32",
-					"39"
+					"V",
+					"30",
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -30,16 +30,12 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Frühlingsrolle mit Geflügelfleisch gefüllt an süßsaurer Sauce",
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
 				"attributes": [
-					"1",
-					"3",
+					"8",
 					"30",
-					"32",
-					"35",
 					"36",
-					"38",
-					"39"
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -50,11 +46,10 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Spaghetti mit Tomatensauce Napoli",
+				"name": "Mexikanische Gemüsepfanne mit Chilisauce",
 				"attributes": [
 					"V",
-					"Ö",
-					"30"
+					"Ö"
 				],
 				"price": {
 					"student": 2.9,
@@ -65,15 +60,9 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Schweinekoteletts al'berdouille aus der Wallonie",
+				"name": "Rotes Sri Lanka Hühnchencurry auf Reis",
 				"attributes": [
-					"A",
-					"9",
-					"30",
-					"36",
-					"39",
-					"41",
-					"S"
+					"39"
 				],
 				"price": {
 					"student": 3.5,
@@ -86,26 +75,27 @@
 		],
 		[
 			{
-				"name": "Farfalle Tricolore in tomatisiertem Grünkernragout",
+				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
 				"attributes": [
 					"V",
-					"30"
+					"30",
+					"38"
 				],
 				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Asia Schweinestreifen in Red-Thaicurry-Sauce",
+				"name": "Karibisches Mango-Hühnchen",
 				"attributes": [
 					"1",
 					"30",
 					"36",
-					"S"
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -116,74 +106,11 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Türkischer Hummus aus Kichererbsen mit Ofenkartoffeln",
-				"attributes": [
-					"V",
-					"Ö",
-					"40"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Hähnchenbrust in Zwiebel-Sahne gegart",
-				"attributes": [
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Pfannenfrische Gemüsepaella",
-				"attributes": [
-					"V"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gebratene Gnocchi in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Gekochte Eier in Curry-Gemüsesauce",
+				"name": "Bauernomelett mit Ei und Gemüse, dazu Gewürzgurke",
 				"attributes": [
 					"F",
 					"Ö",
-					"30",
 					"32",
-					"36",
 					"39"
 				],
 				"price": {
@@ -195,12 +122,141 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Paniertes Schweineschnitzel an Champignon-Rahmsauce",
+				"name": "Veggi-Burger mit Gemüseschnitzel, zweierlei Dips, Salat und Süßkartoffel-Pommes",
 				"attributes": [
-					"1",
+					"F",
+					"3",
+					"9",
 					"30",
 					"32",
 					"36",
+					"39",
+					"40"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hausgemachtes Hacksteak an Zwiebel-Senfsauce",
+				"attributes": [
+					"30",
+					"32",
+					"35",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Ratatouille-Gemüsepfanne",
+				"attributes": [
+					"V",
+					"Ö"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Gebratene Hähnchenbrust auf mediterranem Blattspinat",
+				"attributes": [],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Kokos-Soja-Milchreis mit Kirschgrütze",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"35"
+				],
+				"price": {
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Texanisches, feuriges Chili con Carne mit Wellenbandnudeln",
+				"attributes": [
+					"30",
+					"32",
+					"R"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Gebackene Spinat-Eier",
+				"attributes": [
+					"F",
+					"Ö",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Kassler Braten mit Sauerkraut",
+				"attributes": [
+					"1",
+					"2",
+					"3",
+					"4",
+					"8",
 					"S"
 				],
 				"price": {
@@ -214,96 +270,29 @@
 		],
 		[
 			{
-				"name": "Curry-Ragout von zweierlei Kartoffeln",
+				"name": "Hausgemachter Kichererbsen Taler an Ananaschutney",
 				"attributes": [
 					"V",
-					"1",
-					"3",
-					"35",
-					"39"
+					"30",
+					"38"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 1.8,
+					"employee": 3.1,
+					"visitor": 4
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Mediterrane Gemüsepfanne mit Streifen von der Hähnchenbrust",
+				"name": "Fischfrikadelle mit Cocktaildip",
 				"attributes": [
-					"4"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Chili sin carne mit Tofu",
-				"attributes": [
-					"V",
-					"Ö",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Schweinebraten in Kräuter-Senfkruste gegart an hausgemachtem Bayrisch Kraut",
-				"attributes": [
-					"1",
-					"2",
-					"30",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
-				"attributes": [
-					"F",
-					"1",
+					"3",
 					"30",
 					"32",
+					"33",
 					"36",
-					"37"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gegrillter Fleischkäse auf Bratenjus",
-				"attributes": [
-					"2",
-					"3",
-					"8",
-					"30",
-					"R",
-					"S"
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -314,12 +303,13 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Kartoffelrösti mit Blumenkohl-Rahmsauce",
+				"name": "Berner Röstiauflauf mit Käsesauce",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
 					"30",
-					"35"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -330,10 +320,10 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Rindergeschnetzeltes \"China Art\"",
+				"name": "Sauer-scharfe Pekingsuppe mit Hühnerfleisch und Glasnudeln",
 				"attributes": [
-					"39",
-					"R"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 4,
