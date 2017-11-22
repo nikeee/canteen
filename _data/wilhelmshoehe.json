@@ -34,8 +34,9 @@
 			"2": {
 				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise mit Estragon",
 				"attributes": [
-					"V",
+					"F",
 					"30",
+					"32",
 					"38"
 				],
 				"price": {
@@ -212,9 +213,9 @@
 					"R"
 				],
 				"price": {
-					"student": 6,
-					"employee": 7.3,
-					"visitor": 8.2
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			},
