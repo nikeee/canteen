@@ -49,9 +49,11 @@
 			"3": {
 				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
 				"attributes": [
-					"F",
+					"30",
 					"32",
-					"36"
+					"33",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 1.9,
@@ -213,9 +215,9 @@
 					"R"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 6,
+					"employee": 7.3,
+					"visitor": 8.2
 				},
 				"vitalInfo": null
 			},
