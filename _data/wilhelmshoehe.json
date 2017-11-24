@@ -235,20 +235,7 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Vollkornpasta in Tomatensauce mit Blattspinat",
-				"attributes": [
-					"V",
-					"Ö",
-					"30"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": null
-			},
+			"4": null,
 			"5": {
 				"name": "Hausgemachte Frikadelle auf Rahmwirsing",
 				"attributes": [

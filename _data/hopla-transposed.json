@@ -241,11 +241,13 @@
 				"categoryName": "Essen 3 oder 4"
 			},
 			{
-				"name": "Kürbis-Steckrübenpfanne mit Kokos und Curry im Reisrand",
+				"name": "Rindfleischgulasch in Erdnuss-Cremesauce",
 				"attributes": [
-					"V",
 					"Ö",
-					"39"
+					"30",
+					"34",
+					"36",
+					"R"
 				],
 				"price": {
 					"student": 3.4,

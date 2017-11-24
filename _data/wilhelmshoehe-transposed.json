@@ -257,21 +257,6 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Vollkornpasta in Tomatensauce mit Blattspinat",
-				"attributes": [
-					"V",
-					"Ö",
-					"30"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot des Tages I"
-			},
-			{
 				"name": "Gedünsteter Seelachs mit Apfel- Meerrettichdip auf Karotten und Dillkartoffeln",
 				"attributes": [
 					"MV",
