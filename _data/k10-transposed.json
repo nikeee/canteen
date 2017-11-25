@@ -191,19 +191,22 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Tortellini mit Soja Bolognese gefüllt in cremiger Karotten-Ingwersauce mit Käse überbacken",
+				"name": "Gebackenes Möhrenschnitzel an cremiger Karotten-Ingwersauce",
 				"attributes": [
 					"F",
 					"1",
+					"2",
 					"30",
+					"32",
 					"36",
 					"38",
-					"39"
+					"39",
+					"40"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
