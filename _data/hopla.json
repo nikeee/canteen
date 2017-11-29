@@ -67,7 +67,7 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Currywurst-Geschnetzeltes mit Ketchupsauce",
+				"name": "Soja-Geschnetzeltes mit Curry-Ketchupsauce",
 				"attributes": [
 					"V",
 					"1",
@@ -106,7 +106,9 @@
 				"name": "Gulasch von der Putenoberkeule mit Pfefferrahm",
 				"attributes": [
 					"1",
+					"3",
 					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -259,7 +261,7 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hessisches Weckewerk aus der Ofenkartoffel mit Saurer Gurke",
+				"name": "Hessisches Weckewerk auf der Ofenkartoffel mit Saurer Gurke",
 				"attributes": [
 					"2",
 					"9",
