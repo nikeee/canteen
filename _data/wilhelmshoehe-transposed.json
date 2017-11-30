@@ -149,7 +149,8 @@
 			{
 				"name": "Hessische Kartoffel-Pilzpfanne",
 				"attributes": [
-					"V"
+					"V",
+					"1"
 				],
 				"price": {
 					"student": 1.9,
@@ -177,12 +178,17 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Halbes Grillhähnchen mit Curry-Ketchupdip",
-				"attributes": [],
+				"name": "Burrito mit scharfem Rinder-Hackfleisch, dazu Gemüse mit Sauerrahmdip und Limettenecke",
+				"attributes": [
+					"2",
+					"30",
+					"36",
+					"R"
+				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot des Tages I"

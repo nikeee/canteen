@@ -132,7 +132,8 @@
 			{
 				"name": "Hessische Kartoffel-Pilzpfanne",
 				"attributes": [
-					"V"
+					"F",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -147,7 +148,9 @@
 				"attributes": [
 					"2",
 					"3",
+					"8",
 					"30",
+					"36",
 					"39",
 					"S"
 				],
