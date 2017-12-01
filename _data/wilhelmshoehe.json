@@ -58,6 +58,7 @@
 				"attributes": [
 					"F",
 					"1",
+					"30",
 					"36"
 				],
 				"price": {
@@ -136,9 +137,7 @@
 			"4": {
 				"name": "Hähnchenbrust in grüner Thaicurrysauce",
 				"attributes": [
-					"1",
 					"3",
-					"30",
 					"36"
 				],
 				"price": {
@@ -186,8 +185,11 @@
 			"4": {
 				"name": "Putensteak im Pfannkuchenkleid auf Tomatensauce",
 				"attributes": [
+					"1",
+					"2",
 					"30",
-					"32"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 3.4,
