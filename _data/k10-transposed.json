@@ -8,15 +8,48 @@
 		}
 	},
 	"validity": {
-		"from": "2017-11-27T00:00:00.000Z",
-		"until": "2017-12-02T00:00:00.000Z"
+		"from": "2017-12-04T00:00:00.000Z",
+		"until": "2017-12-09T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Gegrilltes Steak von der Putenbrust mit Röstzwiebel-Bratenjus",
+				"name": "Chinese Honey-Chicken auf feinem Wokgemüse",
+				"attributes": [],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Ragout von Waldpilzen mit Petersilie getoppt",
 				"attributes": [
-					"30"
+					"F",
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Mit Hirsch gefüllte Tortellini in cremiger Kürbissahnesauce",
+				"attributes": [
+					"1",
+					"30",
+					"32",
+					"36",
+					"38",
+					"39",
+					"41"
 				],
 				"price": {
 					"student": 3.5,
@@ -24,38 +57,58 @@
 					"visitor": 5.7
 				},
 				"vitalInfo": null,
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
+			}
+		],
+		[
+			{
+				"name": "Gebratenes Rotbarschfilet auf Fenchel-Karottenbett",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"33",
+					"38",
+					"41"
+				],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Asiatische Gemüsepfanne mit Vollkornreis und Chilisauce",
+				"name": "Feine Cappeletti Nudeln mit Rote Beetefüllung in Kräuterbéchamelsauce mit Käse überbacken",
 				"attributes": [
-					"V",
-					"2",
-					"3",
+					"F",
+					"1",
 					"30",
-					"35",
-					"38",
-					"39"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Gebackenes Ciabatta mit Tomaten und Mozzarella",
+				"name": "Pfannenfrische Wildbratwurst an kräftiger Kräutersauce",
 				"attributes": [
-					"F",
+					"A",
+					"8",
 					"30",
-					"36"
+					"39",
+					"S"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 3 solange der Vorrat reicht"
@@ -63,25 +116,29 @@
 		],
 		[
 			{
-				"name": "Gulasch vom Schwein nach Braumeister Art",
+				"name": "Gebratenes Putenschnitzel mit Pfefferrahmsauce",
 				"attributes": [
 					"30",
-					"S"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Sabee Sabee Kumala- Australisches Kürbisgulasch",
+				"name": "Blumenkohl-Käse-Medaillon an Champignonsauce",
 				"attributes": [
-					"V",
-					"5",
-					"41"
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.8,
@@ -92,16 +149,15 @@
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Burrito Mexiko mit Hackfleisch gefüllt",
+				"name": "Ofenfrische Kaninchenkeule in Salbei-Rosmarinrahm",
 				"attributes": [
-					"2",
 					"30",
-					"R"
+					"36"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 3 solange der Vorrat reicht"
@@ -109,10 +165,44 @@
 		],
 		[
 			{
-				"name": "Frisch gebratenes Hähnchenschnitzel im Kokoskleid auf hausgemachtem Ananas-Chutney",
+				"name": "Deftige gebratene Krakauer mit Grünkohl",
 				"attributes": [
+					"2",
+					"3",
 					"30",
-					"32"
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Geschöpfte Teigtaschen mit Gemüse in Tomatensauce",
+				"attributes": [
+					"V",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Schmorbraten vom Dammhirsch in Rotwein- Wacholderjus",
+				"attributes": [
+					"A",
+					"30",
+					"38",
+					"41"
 				],
 				"price": {
 					"student": 4,
@@ -120,127 +210,16 @@
 					"visitor": 6.2
 				},
 				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Italienische Penne in feinem Tomatenpesto geschwenkt mit Rucola",
-				"attributes": [
-					"V",
-					"30",
-					"37"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Marinierter Hirtenkäse auf geschmortem Ratatouille",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null,
 				"categoryName": "Angebot 3 solange der Vorrat reicht"
 			}
 		],
 		[
 			{
-				"name": "Rindergeschnetzeltes Mediterrane Art",
+				"name": "Hirsch-Edelgulasch mit Mischpilzen und Preiselbeeren",
 				"attributes": [
+					"A",
 					"30",
-					"36",
-					"R"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Tortellini mit Ricotta-Spinat-Füllung in Béchamelsauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Seelachsfilet in Knusperpanade auf cremiger Senfsauce",
-				"attributes": [
-					"1",
-					"30",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3 solange der Vorrat reicht"
-			}
-		],
-		[
-			{
-				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
-				"attributes": [],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Hausgemachter Griechischer Reistaler mit Knoblauchdip",
-				"attributes": [
-					"F",
-					"6",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Ofenfrisches Pizzarad mit Schinken, Champignons und Paprika",
-				"attributes": [
-					"2",
-					"3",
-					"8",
-					"30",
-					"36",
-					"S"
+					"41"
 				],
 				"price": {
 					"student": 4.5,
@@ -248,7 +227,23 @@
 					"visitor": 6.7
 				},
 				"vitalInfo": null,
-				"categoryName": "Angebot 3 solange der Vorrat reicht"
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Ofenfrisches Kartoffel- Brokkoli-Gratin",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
 			}
 		]
 	]
