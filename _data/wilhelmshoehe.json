@@ -95,9 +95,11 @@
 			"1": {
 				"name": "Schweinegeschnetzeltes in Sherry-Perlzwiebeljus",
 				"attributes": [
+					"A",
 					"3",
 					"9",
 					"30",
+					"41",
 					"S"
 				],
 				"price": {
@@ -313,7 +315,7 @@
 		},
 		"Angebot des Tages II": {
 			"1": {
-				"name": "Crispy Chicken Burger mit Mangomayonnaise, Ketchup und knackigem Salat",
+				"name": "Chicken Burger mit Mangomayonnaise, Ketchup und knackigem Salat",
 				"attributes": [
 					"3",
 					"30",

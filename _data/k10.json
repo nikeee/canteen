@@ -24,19 +24,20 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebratenes Rotbarschfilet auf Fenchel-Karottenbett",
+				"name": "Gebratenes Seelachsfilet auf Fenchel-Karottenbett",
 				"attributes": [
 					"A",
 					"1",
 					"30",
+					"32",
 					"33",
 					"38",
 					"41"
 				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
@@ -48,9 +49,9 @@
 					"36"
 				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
@@ -71,10 +72,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hirsch-Edelgulasch mit Mischpilzen und Preiselbeeren",
+				"name": "Wildgulasch in Preiselbeer-Rahmsauce",
 				"attributes": [
 					"A",
 					"30",
+					"36",
 					"41"
 				],
 				"price": {
@@ -102,7 +104,7 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Feine Cappeletti Nudeln mit Rote Beetefüllung in Kräuterbéchamelsauce mit Käse überbacken",
+				"name": "Feine Cappeletti Nudeln mit Rote Betefüllung in Kräuter-Béchamelsauce mit Käse überbacken",
 				"attributes": [
 					"F",
 					"1",
@@ -149,7 +151,7 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Ofenfrisches Kartoffel- Brokkoli-Gratin",
+				"name": "Ofenfrisches Kartoffel-Brokkoli-Gratin",
 				"attributes": [
 					"F",
 					"1",
@@ -206,14 +208,14 @@
 					"36"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Schmorbraten vom Dammhirsch in Rotwein- Wacholderjus",
+				"name": "Schmorbraten vom Dammhirsch in Rotwein-Wacholderjus",
 				"attributes": [
 					"A",
 					"30",
@@ -221,9 +223,9 @@
 					"41"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
 				},
 				"vitalInfo": null
 			},
