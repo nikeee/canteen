@@ -34,9 +34,11 @@
 			{
 				"name": "Schweinegeschnetzeltes in Sherry-Perlzwiebeljus",
 				"attributes": [
+					"A",
 					"3",
 					"9",
 					"30",
+					"41",
 					"S"
 				],
 				"price": {
@@ -216,7 +218,6 @@
 					"30",
 					"32",
 					"36",
-					"37",
 					"41",
 					"S"
 				],
