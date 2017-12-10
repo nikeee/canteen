@@ -8,29 +8,32 @@
 		}
 	},
 	"validity": {
-		"from": "2017-12-04T00:00:00.000Z",
-		"until": "2017-12-09T00:00:00.000Z"
+		"from": "2017-12-11T00:00:00.000Z",
+		"until": "2017-12-16T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Chinese Honey-Chicken auf feinem Wokgemüse",
-				"attributes": [],
+				"name": "Ghanaisches Hähnchen in Erdnuss-Tomatensauce",
+				"attributes": [
+					"30",
+					"32",
+					"34"
+				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Ragout von Waldpilzen mit Petersilie getoppt",
+				"name": "Gebackene Gemüsekroketten mit fruchtiger Basilikum-Tomatensauce",
 				"attributes": [
-					"F",
-					"1",
+					"V",
 					"30",
-					"36"
+					"38"
 				],
 				"price": {
 					"student": 2.7,
@@ -41,21 +44,19 @@
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Mit Hirsch gefüllte Tortellini in cremiger Kürbissahnesauce",
+				"name": "Pochiertes Lachsfilet aus dem Glühweinsud mit Béchamelsauce",
 				"attributes": [
+					"A",
 					"1",
-					"2",
 					"30",
-					"32",
+					"33",
 					"36",
-					"38",
-					"39",
 					"41"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 3 solange der Vorrat reicht"
@@ -63,15 +64,10 @@
 		],
 		[
 			{
-				"name": "Gebratenes Seelachsfilet auf Fenchel-Karottenbett",
+				"name": "Ofenfrische Entenkeule mit Cranbeery-Rahmsauce",
 				"attributes": [
-					"A",
-					"1",
 					"30",
-					"32",
-					"33",
-					"38",
-					"41"
+					"36"
 				],
 				"price": {
 					"student": 4,
@@ -82,30 +78,12 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Feine Cappeletti Nudeln mit Rote Betefüllung in Kräuter-Béchamelsauce mit Käse überbacken",
+				"name": "Italienische Kartoffelgnocchi in Maronensauce mit Käse überbacken",
 				"attributes": [
 					"F",
-					"1",
 					"30",
 					"32",
 					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Pfannenfrische Wildbratwurst an kräftiger Kräutersauce",
-				"attributes": [
-					"A",
-					"8",
-					"30",
-					"39",
-					"S"
 				],
 				"price": {
 					"student": 2.9,
@@ -113,48 +91,15 @@
 					"visitor": 5.1
 				},
 				"vitalInfo": null,
-				"categoryName": "Angebot 3 solange der Vorrat reicht"
-			}
-		],
-		[
-			{
-				"name": "Gebratenes Putenschnitzel mit Pfefferrahmsauce",
-				"attributes": [
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Blumenkohl-Käse-Medaillon an Champignonsauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
-				},
-				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Ofenfrische Kaninchenkeule in Salbei-Rosmarinrahm",
+				"name": "Wildschweingulasch in Rotweinsauce und Preiselbeeren",
 				"attributes": [
+					"A",
 					"30",
-					"36"
+					"41",
+					"S"
 				],
 				"price": {
 					"student": 4,
@@ -167,12 +112,10 @@
 		],
 		[
 			{
-				"name": "Deftige gebratene Krakauer mit Grünkohl",
+				"name": "Goldgelb gebackenes Schweineschnitzel an kräftiger Bratenjus",
 				"attributes": [
-					"2",
-					"3",
 					"30",
-					"39",
+					"32",
 					"S"
 				],
 				"price": {
@@ -184,26 +127,118 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Geschöpfte Teigtaschen mit Gemüse in Tomatensauce",
+				"name": "Shakshuka - israelisches Gericht aus Tomaten, Paprika, Zwiebeln und Eiern dazu Baguette",
 				"attributes": [
-					"V",
+					"F",
 					"30",
-					"38"
+					"32",
+					"35",
+					"36"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Schmorbraten vom Dammhirsch in Rotwein-Wacholderjus",
+				"name": "Cremiges Kartoffelsüppchen mit Gemüsewürfeln",
 				"attributes": [
-					"A",
+					"F",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
+			}
+		],
+		[
+			{
+				"name": "Gebratene Asianudeln mit Pute und Gemüse",
+				"attributes": [
 					"30",
+					"35",
 					"38",
+					"39"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Rahmspinat mit saftigem Omelette",
+				"attributes": [
+					"F",
+					"1",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Ofenfrischer Flammkuchen mit Chili, Mango und roten Zwiebeln",
+				"attributes": [
+					"F",
+					"30",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
+			}
+		],
+		[
+			{
+				"name": "Bolognese mit Rinderhackfleisch auf Wellenbandnudeln mit Käse überbacken",
+				"attributes": [
+					"1",
+					"2",
+					"30",
+					"32",
+					"36",
+					"38",
+					"R"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Ofenfrisches Pizzarad mit Pestotomaten und Mozzarella",
+				"attributes": [
+					"F",
+					"1",
+					"2",
+					"3",
+					"30",
+					"36",
+					"37",
 					"41"
 				],
 				"price": {
@@ -212,41 +247,23 @@
 					"visitor": 7.2
 				},
 				"vitalInfo": null,
-				"categoryName": "Angebot 3 solange der Vorrat reicht"
-			}
-		],
-		[
-			{
-				"name": "Wildgulasch in Preiselbeer-Rahmsauce",
-				"attributes": [
-					"A",
-					"30",
-					"36",
-					"41"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
+				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Ofenfrisches Kartoffel-Brokkoli-Gratin",
+				"name": "Matjesfilet nach Hausfrauenart mit Äpfeln, Gurken und Zwiebeln",
 				"attributes": [
-					"F",
-					"1",
-					"30",
+					"2",
+					"9",
+					"33",
 					"36"
 				],
 				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null,
-				"categoryName": "Angebot 2"
+				"categoryName": "Angebot 3 solange der Vorrat reicht"
 			}
 		]
 	]
