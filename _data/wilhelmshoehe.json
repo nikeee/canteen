@@ -58,34 +58,8 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Mexikanische Kartoffelpfanne mit cremigem Dip",
-				"attributes": [
-					"V",
-					"3",
-					"35"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Grilltomate auf Kokos-Creme-Spinat",
-				"attributes": [
-					"V",
-					"1",
-					"35"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			}
+			"4": null,
+			"5": null
 		},
 		"Essen 2": {
 			"1": {
@@ -93,6 +67,7 @@
 				"attributes": [
 					"1",
 					"3",
+					"9",
 					"30",
 					"36",
 					"39"
@@ -127,40 +102,8 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Asiatische Putenfleischstreifen in süß-sauer Sauce",
-				"attributes": [
-					"1",
-					"3",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Schweinerückensteak mit Schinken und Salbeijus",
-				"attributes": [
-					"A",
-					"1",
-					"2",
-					"30",
-					"36",
-					"41",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			}
+			"4": null,
+			"5": null
 		},
 		"Essen 3 oder 4": {
 			"1": {
@@ -214,20 +157,7 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Gefülltes Kartoffel-Cordon-bleu an Quark-Ziegenkäsedip",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
-			},
+			"4": null,
 			"5": null
 		},
 		"Angebot des Tages I": {
@@ -288,72 +218,15 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Glühweingulasch mit Mandelrosenkohl und Semmelknödeln",
-				"attributes": [
-					"A",
-					"MV",
-					"30",
-					"32",
-					"37",
-					"41",
-					"R"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 79,
-					"protein": 43,
-					"calories": 682
-				}
-			},
-			"5": {
-				"name": "Seelachs mit Kürbis-Kartoffelpüree und Lauch-Maissalat",
-				"attributes": [
-					"MV",
-					"33",
-					"36",
-					"40"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": {
-					"fat": 25,
-					"carbohydrate": 83,
-					"protein": 43,
-					"calories": 727
-				}
-			}
+			"4": null,
+			"5": null
 		},
 		"Angebot des Tages II": {
 			"1": null,
 			"2": null,
 			"3": null,
 			"4": null,
-			"5": {
-				"name": "Zwei Hefeklöße mit Kirschragout und warmer Vanillesauce",
-				"attributes": [
-					"F",
-					"1",
-					"3",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			}
+			"5": null
 		}
 	}
 }
