@@ -131,11 +131,9 @@
 			"4": {
 				"name": "Asiatische Putenfleischstreifen in süß-sauer Sauce",
 				"attributes": [
-					"1",
-					"3",
+					"2",
 					"30",
-					"35",
-					"39"
+					"35"
 				],
 				"price": {
 					"student": 2.5,
@@ -145,7 +143,7 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Schweinerückensteak mit Schinken und Salbeijus",
+				"name": "Schweinerückensteak mit Salbeijus",
 				"attributes": [
 					"A",
 					"1",
@@ -339,23 +337,7 @@
 			"2": null,
 			"3": null,
 			"4": null,
-			"5": {
-				"name": "Zwei Hefeklöße mit Kirschragout und warmer Vanillesauce",
-				"attributes": [
-					"F",
-					"1",
-					"3",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			}
+			"5": null
 		}
 	}
 }
