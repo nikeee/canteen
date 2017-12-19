@@ -17,6 +17,7 @@
 				"name": "Chili sin Carne",
 				"attributes": [
 					"V",
+					"30",
 					"35"
 				],
 				"price": {
@@ -165,6 +166,8 @@
 				"name": "Ofenfrischer bayrischer Krustenbraten auf Schwarzbierjus",
 				"attributes": [
 					"A",
+					"2",
+					"3",
 					"30",
 					"S"
 				],
