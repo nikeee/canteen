@@ -194,11 +194,13 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Nürnberger Rostbratwurst mit Rahmwirsing",
+				"name": "Nordhessische Bauernbratwurst mit Rahmwirsing",
 				"attributes": [
 					"1",
+					"8",
 					"30",
 					"36",
+					"38",
 					"S"
 				],
 				"price": {
