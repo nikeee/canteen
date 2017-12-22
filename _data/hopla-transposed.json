@@ -118,6 +118,7 @@
 				"name": "Geschwenkte Schweinefleischstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
 					"36",
+					"R",
 					"S"
 				],
 				"price": {
@@ -241,7 +242,6 @@
 			{
 				"name": "Steckrüben-Bohnen-Paprika-Curry mit Chilikartoffeln",
 				"attributes": [
-					"V",
 					"MV",
 					"3",
 					"30",
