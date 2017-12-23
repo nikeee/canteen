@@ -7,292 +7,37 @@
 		}
 	},
 	"validity": {
-		"from": "2017-12-18T00:00:00.000Z",
-		"until": "2017-12-22T00:00:00.000Z"
+		"from": "2017-12-25T00:00:00.000Z",
+		"until": "2017-12-29T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
-			"1": {
-				"name": "Chili sin Carne",
-				"attributes": [
-					"V",
-					"35"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Gebratene Gnocchi in Béchamelsauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Hausgemachter Spinatpfannkuchen auf Chili-Quarkdip",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Ofenfrische Sesam-Blechkartoffeln an scharfer Gurkensalsa",
-				"attributes": [
-					"V",
-					"40"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Schupfnudelpfanne mit Sauerkraut",
-				"attributes": [
-					"V",
-					"1",
-					"30"
-				],
-				"price": {
-					"student": 1.8,
-					"employee": 3.1,
-					"visitor": 4
-				},
-				"vitalInfo": null
-			}
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null
 		},
 		"Essen 2": {
-			"1": {
-				"name": "Klassische Currywurst",
-				"attributes": [
-					"1",
-					"3",
-					"8",
-					"38",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Hausgemachte Hackfleischpizza mit Paprika, Tomaten und Mais",
-				"attributes": [
-					"30",
-					"32",
-					"36",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Hähnchenbrust mit Estragon-Sahnesauce",
-				"attributes": [
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Geschwenkte Schweinefleischstreifen Gyros Art",
-				"attributes": [
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Fish and Chips",
-				"attributes": [
-					"30",
-					"32",
-					"33",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			}
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null
 		},
 		"Bio-Essen": {
-			"1": {
-				"name": "Polenta-Käseschnitte auf Tomatensauce",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Ofenrisotto mit Erbsen, Zucchini und Zitrone",
-				"attributes": [
-					"V",
-					"Ö"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Spaghetti mit rotem Pesto",
-				"attributes": [
-					"V",
-					"Ö",
-					"30"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Rührei mit Champignons",
-				"attributes": [
-					"F",
-					"Ö",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Ungarische Kartoffelpfanne mit Paprika, Zwiebeln und Saurer Sahne",
-				"attributes": [
-					"F",
-					"Ö",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			}
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null
 		},
 		"Aktions-Essen": {
-			"1": {
-				"name": "Sauer-scharfe Pekingsuppe mit Hühnerfleisch und Glasnudeln",
-				"attributes": [
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Gegrillter Garnelenspieß asiatisch an Wildreis",
-				"attributes": [
-					"8",
-					"31",
-					"39"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Paniertes Schweinekotelett mit Blumenkohlgemüse in Béchamelsauce",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Cannelloni mit Ricotta-Spinatfüllung an Tomatensauce",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
 			"5": null
 		}
 	}
