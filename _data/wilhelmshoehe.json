@@ -7,24 +7,141 @@
 		}
 	},
 	"validity": {
-		"from": "2017-12-25T00:00:00.000Z",
-		"until": "2017-12-29T00:00:00.000Z"
+		"from": "2018-01-01T00:00:00.000Z",
+		"until": "2018-01-05T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
-			"1": null,
-			"2": null,
-			"3": null,
-			"4": null,
-			"5": null
+			"1": {
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Kritharakisalat mit buntem Gemüse, dazu Baguette",
+				"attributes": [
+					"V",
+					"3",
+					"6",
+					"30"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Ofenfrisches Hirtenkäsesteak mit Rahmspinat",
+				"attributes": [
+					"F",
+					"1",
+					"36"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Hausgemachte Polenta à la Crème auf tomatisierter Bratzucchini",
+				"attributes": [
+					"V",
+					"1",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachter Kürbis-Pfannkuchen auf Sojajoghurtdip",
+				"attributes": [
+					"V",
+					"3",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			}
 		},
 		"Essen 2": {
 			"1": null,
-			"2": null,
-			"3": null,
-			"4": null,
-			"5": null
+			"2": {
+				"name": "Geflügelwürfel in Red-Thaicurrysauce",
+				"attributes": [
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Texanisches feuriges Chili con Carne",
+				"attributes": [
+					"30",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gebratene Hähnchenbrust auf cremigen Béchamelkartoffeln",
+				"attributes": [
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
+				"attributes": [
+					"1",
+					"36",
+					"38",
+					"39",
+					"R"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null
+			}
 		},
 		"Essen 3 oder 4": {
 			"1": null,
@@ -35,10 +152,82 @@
 		},
 		"Angebot des Tages I": {
 			"1": null,
-			"2": null,
-			"3": null,
-			"4": null,
-			"5": null
+			"2": {
+				"name": "Gnocchi in fruchtiger Tomatensauce",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Sojageschnetzeltes mit Waldpilzen, dazu Rotkohl und Klöße",
+				"attributes": [
+					"V",
+					"MV",
+					"3",
+					"30",
+					"35",
+					"41"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 72,
+					"protein": 31,
+					"calories": 611
+				}
+			},
+			"4": {
+				"name": "Gratinierte Schupfnudeln mit Chinakohl und Rindfleischstreifen",
+				"attributes": [
+					"MV",
+					"30",
+					"32",
+					"36",
+					"R"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 69,
+					"protein": 38,
+					"calories": 617
+				}
+			},
+			"5": {
+				"name": "Buntbarsch mit Kürbis, Zitronensauce und Lauchreis",
+				"attributes": [
+					"MV",
+					"30",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 96,
+					"protein": 42,
+					"calories": 748
+				}
+			}
 		},
 		"Angebot des Tages II": {
 			"1": null,
