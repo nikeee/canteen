@@ -90,7 +90,9 @@
 				"attributes": [
 					"1",
 					"30",
-					"36"
+					"35",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.4,
@@ -155,8 +157,10 @@
 			"2": {
 				"name": "Gnocchi in fruchtiger Tomatensauce",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 3,
