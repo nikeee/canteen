@@ -36,8 +36,10 @@
 				"name": "Geflügelfrikadelle an Jus mit grünen Pfefferbeeren",
 				"attributes": [
 					"30",
+					"36",
 					"38",
-					"39"
+					"39",
+					"R"
 				],
 				"price": {
 					"student": 2.4,

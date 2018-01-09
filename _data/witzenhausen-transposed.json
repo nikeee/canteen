@@ -14,14 +14,10 @@
 	"days": [
 		[
 			{
-				"name": "Backfrischer Mohn-Pfannkuchen auf hausgemachtem Birnenragout",
+				"name": "Ofenkartoffel mit hessischem Ratatouille",
 				"attributes": [
-					"F",
-					"1",
-					"3",
-					"30",
-					"32",
-					"36"
+					"V",
+					"38"
 				],
 				"price": {
 					"student": 2,
@@ -213,10 +209,14 @@
 		],
 		[
 			{
-				"name": "Ofenkartoffel mit hessischem Ratatouille",
+				"name": "Backfrischer Mohn-Pfannkuchen auf hausgemachtem Birnenragout",
 				"attributes": [
-					"V",
-					"38"
+					"F",
+					"1",
+					"3",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.1,
