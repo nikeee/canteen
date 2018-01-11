@@ -116,6 +116,8 @@
 			"3": {
 				"name": "Ofenfrischer Schweinenackenbraten an Schmanddip mit süßem Senf",
 				"attributes": [
+					"1",
+					"30",
 					"36",
 					"39",
 					"S"
@@ -231,26 +233,7 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Linsen-Graupenragout mit Kartoffelpüree und Salat",
-				"attributes": [
-					"V",
-					"MV",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": {
-					"fat": 22,
-					"carbohydrate": 81,
-					"protein": 26,
-					"calories": 650
-				}
-			},
+			"3": null,
 			"4": {
 				"name": "Champignon-Erbsen-Tomatengratin mit Sonnenblumenkernen Kräuterreis und Koriandersauce",
 				"attributes": [
