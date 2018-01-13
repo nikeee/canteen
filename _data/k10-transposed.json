@@ -165,15 +165,16 @@
 		],
 		[
 			{
-				"name": "Geschnetzeltes von der Putenoberkeule mit Champignons",
+				"name": "Paniertes Schweineschnitzel an kräftiger Zwiebeljus",
 				"attributes": [
 					"30",
-					"36"
+					"32",
+					"S"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
