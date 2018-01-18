@@ -43,16 +43,16 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Goldgelb gebackenes Putenschnitzel mit Rahmsauce",
+				"name": "Geschnetzeltes aus der Schweinekeule in Pfirsichrahmsauce",
 				"attributes": [
 					"30",
-					"32",
-					"36"
+					"36",
+					"S"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null
 			},
@@ -201,8 +201,10 @@
 				"name": "Fischcurry mit Kokosmilch, Spinat und Paprika",
 				"attributes": [
 					"30",
+					"31",
 					"33",
-					"35"
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 4.5,
