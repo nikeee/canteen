@@ -113,16 +113,16 @@
 		],
 		[
 			{
-				"name": "Geschnetzeltes aus der Schweinekeule in Pfirsichrahmsauce",
+				"name": "Goldgelb gebackenes Putenschnitzel mit Rahmsauce",
 				"attributes": [
 					"30",
-					"36",
-					"S"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
@@ -163,10 +163,9 @@
 		],
 		[
 			{
-				"name": "Pikantes Chili con Carne mit Rinderhack auf Farfallenudeln mit Käse überbacken",
+				"name": "Pikantes Chili con Carne mit Rinderhack auf Farfallenudeln",
 				"attributes": [
 					"30",
-					"36",
 					"R"
 				],
 				"price": {
