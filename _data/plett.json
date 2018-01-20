@@ -7,65 +7,63 @@
 		}
 	},
 	"validity": {
-		"from": "2018-01-15T00:00:00.000Z",
-		"until": "2018-01-19T00:00:00.000Z"
+		"from": "2018-01-22T00:00:00.000Z",
+		"until": "2018-01-26T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Spaghetti mit Karotten-Pesto und Kürbiskernen",
+				"name": "Ofenfrische Gemüsefrikadellen mit Sauerrahmdip",
 				"attributes": [
-					"V",
-					"3",
+					"F",
 					"30",
-					"37"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Fleischlos gefüllte Kohlroulade an Béchamelsauce",
+				"name": "Chili sin Carne",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"35",
-					"36"
+					"V",
+					"35"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Grillfrische Zucchini auf fruchtiger Tomatensauce",
+				"name": "Gnocchi in Béchamelsauce mit Rucola",
 				"attributes": [
-					"V",
+					"F",
+					"1",
 					"30",
-					"40"
+					"36"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Kartoffelpfanne mit Gewürzgurke",
+				"name": "Grilltomate auf cremigem Graupen-Gemüse-Risotto",
 				"attributes": [
-					"F",
-					"9",
-					"32",
-					"39"
+					"V",
+					"1",
+					"30",
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 2.1,
@@ -75,43 +73,51 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse",
+				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
 				"attributes": [
-					"V",
-					"38",
-					"39"
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
+					"37"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Gebackene Fisch Nuggets an cremigem Dill-Senfdip",
+				"name": "Curry-Hähnchen Madras",
 				"attributes": [
+					"1",
 					"3",
 					"30",
-					"32",
-					"33",
 					"36",
 					"39"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Ofenkartoffel mit Kräuterquark und Hähnchenstreifen",
+				"name": "Gegrilltes Steak vom Schweinerücken auf Marsala-Rahmsauce mit Salbei und Speck",
 				"attributes": [
+					"A",
+					"1",
+					"2",
+					"3",
+					"30",
 					"36",
-					"38"
+					"41",
+					"S"
 				],
 				"price": {
 					"student": 2.6,
@@ -121,13 +127,9 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Deftige gebratene Krakauer mit Grünkohl",
+				"name": "Ofenfrischer Hähnchenschenkel auf Bratenjus",
 				"attributes": [
-					"2",
-					"3",
-					"30",
-					"39",
-					"S"
+					"30"
 				],
 				"price": {
 					"student": 2.4,
@@ -137,12 +139,8 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Im Ganzen gegarter Schweinerücken auf Whisky-Rahmsauce",
+				"name": "Balkan-Reisgericht mit Schweinefleisch",
 				"attributes": [
-					"A",
-					"1",
-					"30",
-					"36",
 					"S"
 				],
 				"price": {
@@ -153,11 +151,10 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hackbraten mit Zwiebeljus",
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
 				"attributes": [
-					"30",
 					"32",
-					"39",
+					"36",
 					"S"
 				],
 				"price": {
@@ -170,62 +167,101 @@
 		},
 		"Essen 3 oder 4": {
 			"1": {
-				"name": "Hähnchenbrustschnitzel Toscana auf Mascarponesauce",
+				"name": "Gebackene Fischsticks an scharfem Tomatendip",
+				"attributes": [
+					"30",
+					"32",
+					"33",
+					"39"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null
+			},
+			"2": null,
+			"3": {
+				"name": "Schweineroulade nach Hausfrauen Art in Bratenjus geschmort",
+				"attributes": [
+					"A",
+					"2",
+					"3",
+					"9",
+					"30",
+					"39",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Hähnchenbrust in Tandoori Marinade auf Currysauce",
 				"attributes": [
 					"1",
 					"30",
 					"36",
-					"38"
+					"39"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse, Speck und Kochwurst",
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"38",
+					"39",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null
+			}
+		},
+		"Angebot des Tages I": {
+			"1": {
+				"name": "Burger mit 200 Gramm Angus Beef, rauchigem Dip und Wildkräutersalat",
+				"attributes": [
+					"1",
+					"3",
+					"9",
+					"30",
+					"32",
+					"36",
+					"39",
+					"40",
+					"R"
+				],
+				"price": {
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Paniertes Schnitzel vom Schwein auf Jägersauce",
+				"name": "Gebratenes Putenschnitzel auf Tomaten-Sahnesauce",
 				"attributes": [
 					"30",
 					"32",
-					"S"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null
-			},
-			"3": null,
-			"4": {
-				"name": "Hähnchenbrust mit Curry mariniert auf asiatischer Gewürzsauce",
-				"attributes": [
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null
-			},
-			"5": null
-		},
-		"Angebot des Tages I": {
-			"1": {
-				"name": "Asia-Rindfleischstreifen mit Ramennudeln, Gemüse und Sesamsauce",
-				"attributes": [
-					"30",
-					"32",
-					"35",
-					"36",
-					"38",
-					"39",
-					"40",
-					"R"
+					"36"
 				],
 				"price": {
 					"student": 4,
@@ -234,81 +270,66 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Spätzle-Auflauf mit Sauerkraut, Rinderhack und Karottensalat",
-				"attributes": [
-					"A",
-					"MV",
-					"30",
-					"32",
-					"36",
-					"37",
-					"41",
-					"R"
-				],
-				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": {
-					"fat": 24,
-					"carbohydrate": 86,
-					"protein": 43,
-					"calories": 741
-				}
-			},
 			"3": {
-				"name": "Spaghetti mit Rote-Betesauce, dazu Tomatensalat",
-				"attributes": [
-					"F",
-					"MV",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": {
-					"fat": 25,
-					"carbohydrate": 88,
-					"protein": 25,
-					"calories": 668
-				}
-			},
-			"4": {
-				"name": "Wrap mit roter Linsencreme, schwarzen Bohnen, geschmorten Auberginen und Salat",
+				"name": "Soja-Steak mit rotem Zwiebelgemüse und Süßkartoffelpüree",
 				"attributes": [
 					"V",
-					"1",
-					"2",
+					"MV",
 					"3",
-					"30",
-					"40"
+					"35"
 				],
 				"price": {
 					"student": 3.4,
 					"employee": 4.7,
 					"visitor": 5.6
+				},
+				"vitalInfo": {
+					"fat": 18,
+					"carbohydrate": 70,
+					"protein": 26,
+					"calories": 601
+				}
+			},
+			"4": {
+				"name": "Burger mit Kartoffel-Quinoa-Patty und Avocadodip",
+				"attributes": [
+					"F",
+					"2",
+					"3",
+					"9",
+					"30",
+					"32",
+					"36",
+					"39",
+					"40",
+					"41"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachter Back-Camembert auf Tomaten-Basilikumsauce",
+				"name": "Hähnchenpfanne mit Mandelromanesco und Kurkumareis",
 				"attributes": [
-					"F",
+					"MV",
+					"6",
 					"30",
-					"32",
-					"36"
+					"37"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
 				},
-				"vitalInfo": null
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 80,
+					"protein": 38,
+					"calories": 665
+				}
 			}
 		}
 	}

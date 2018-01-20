@@ -8,104 +8,35 @@
 		}
 	},
 	"validity": {
-		"from": "2018-01-15T00:00:00.000Z",
-		"until": "2018-01-19T00:00:00.000Z"
+		"from": "2018-01-22T00:00:00.000Z",
+		"until": "2018-01-26T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Spaghetti mit Karotten-Pesto und Kürbiskernen",
-				"attributes": [
-					"V",
-					"3",
-					"30",
-					"37"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gebackene Fisch Nuggets an cremigem Dill-Senfdip",
-				"attributes": [
-					"3",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Fleischlos gefüllte Kohlroulade an Béchamelsauce",
+				"name": "Ofenfrische Gemüsefrikadellen mit Sauerrahmdip",
 				"attributes": [
 					"F",
-					"1",
 					"30",
 					"32",
-					"35",
 					"36"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Ofenkartoffel mit Kräuterquark und Hähnchenstreifen",
+				"name": "Curry-Hähnchen Madras",
 				"attributes": [
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Grillfrische Zucchini auf fruchtiger Tomatensauce",
-				"attributes": [
-					"V",
-					"30",
-					"40"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Deftige gebratene Krakauer mit Grünkohl",
-				"attributes": [
-					"2",
+					"1",
 					"3",
 					"30",
-					"39",
-					"S"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -118,12 +49,48 @@
 		],
 		[
 			{
-				"name": "Kartoffelpfanne mit Gewürzgurke",
+				"name": "Chili sin Carne",
+				"attributes": [
+					"V",
+					"35"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gegrilltes Steak vom Schweinerücken auf Marsala-Rahmsauce mit Salbei und Speck",
+				"attributes": [
+					"A",
+					"1",
+					"2",
+					"3",
+					"30",
+					"36",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Gnocchi in Béchamelsauce mit Rucola",
 				"attributes": [
 					"F",
-					"9",
-					"32",
-					"39"
+					"1",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -134,12 +101,40 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Im Ganzen gegarter Schweinerücken auf Whisky-Rahmsauce",
+				"name": "Ofenfrischer Hähnchenschenkel auf Bratenjus",
 				"attributes": [
-					"A",
+					"30"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Grilltomate auf cremigem Graupen-Gemüse-Risotto",
+				"attributes": [
+					"V",
 					"1",
 					"30",
-					"36",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Balkan-Reisgericht mit Schweinefleisch",
+				"attributes": [
 					"S"
 				],
 				"price": {
@@ -153,26 +148,28 @@
 		],
 		[
 			{
-				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse",
+				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
 				"attributes": [
-					"V",
-					"38",
-					"39"
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
+					"37"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hackbraten mit Zwiebeljus",
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
 				"attributes": [
-					"30",
 					"32",
-					"39",
+					"36",
 					"S"
 				],
 				"price": {
