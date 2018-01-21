@@ -8,18 +8,15 @@
 		}
 	},
 	"validity": {
-		"from": "2018-01-15T00:00:00.000Z",
-		"until": "2018-01-20T00:00:00.000Z"
+		"from": "2018-01-22T00:00:00.000Z",
+		"until": "2018-01-27T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Hähnchenbrust mit Ingwer mariniert in asiatischer Chilisauce",
+				"name": "Putengeschnetzeltes mit toskanischem Gemüse und grünen Oliven",
 				"attributes": [
-					"3",
-					"30",
-					"35",
-					"39"
+					"30"
 				],
 				"price": {
 					"student": 3.4,
@@ -30,31 +27,32 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Backfrischer Kirschpfannkuchen an Schokoladensauce",
+				"name": "Grünkernpfanne mit knackigem Gemüse und Balsamico",
 				"attributes": [
-					"F",
+					"V",
 					"1",
+					"3",
 					"30",
-					"32",
-					"36"
+					"41"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Rumpsteak auf Paprika-Zwiebelgemüse",
+				"name": "Leicht & Vital ab 14:30 Uhr Bandnudeln mit Zucchini-Paprikagemüse und Tranchen vom Schweinefilet",
 				"attributes": [
-					"R"
+					"30",
+					"S"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 3 ab 14:30 Uhr"
@@ -62,26 +60,114 @@
 		],
 		[
 			{
-				"name": "Geschnetzeltes aus der Schweinekeule in Pfirsichrahmsauce",
+				"name": "Zartes Rehgulasch in Wacholder-Portweinsauce",
 				"attributes": [
+					"A",
 					"30",
-					"36",
-					"S"
+					"41"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 6,
+					"employee": 7.3,
+					"visitor": 8.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Frisches Eieromelette auf Rahmspinat",
+				"name": "Hausgemachter Steckrüben-Kartoffeleintopf",
 				"attributes": [
 					"F",
 					"1",
+					"30",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Leicht & Vital ab 14:30 Uhr Asiatische Gemüsepfanne mit Garnelen",
+				"attributes": [
+					"1",
+					"2",
+					"4",
+					"30",
+					"31",
+					"35",
+					"38",
+					"39",
+					"43"
+				],
+				"price": {
+					"student": 6,
+					"employee": 7.3,
+					"visitor": 8.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 ab 14:30 Uhr"
+			}
+		],
+		[
+			{
+				"name": "Frisch gebratenes Hähnchenbrustschnitzel mit Steinpilz-Rahmsauce",
+				"attributes": [
+					"30",
 					"32",
+					"36"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Geschöpfte Tortellini mit Spinat-Ricotta-Füllung in fruchtiger Tomatensauce",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Leicht & Vital ab 14:30 Uhr Curry von zweierlei Kartoffeln und Blumenkohl",
+				"attributes": [
+					"V",
+					"3",
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 ab 14:30 Uhr"
+			}
+		],
+		[
+			{
+				"name": "Zartes Putengulasch",
+				"attributes": [
+					"30",
 					"36"
 				],
 				"price": {
@@ -90,16 +176,48 @@
 					"visitor": 5.7
 				},
 				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Ofenfrisches Pizzarad Mexico Style",
+				"attributes": [
+					"F",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Frisch gewokte asiatische Gemüsepfanne mit Nudeln",
+				"name": "Leicht & Vital ab 14:30 Uhr Hausgemachte Polentaschnitte gebraten auf Champignon- Lauchragout",
 				"attributes": [
 					"F",
-					"3",
+					"1",
+					"2",
+					"36"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 ab 14:30 Uhr"
+			}
+		],
+		[
+			{
+				"name": "Geflügelgulasch in Maracujasauce",
+				"attributes": [
+					"1",
 					"30",
 					"32",
-					"35",
+					"36",
 					"39"
 				],
 				"price": {
@@ -108,151 +226,37 @@
 					"visitor": 5.4
 				},
 				"vitalInfo": null,
-				"categoryName": "Angebot 3 ab 14:30 Uhr"
-			}
-		],
-		[
-			{
-				"name": "Geschnetzeltes aus der Schweinekeule in Pfirsichrahmsauce",
-				"attributes": [
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Tortellini mit vegetarischer Bolognesefüllung in fruchtiger Basilikum-Tomatensauce",
+				"name": "Schupfnudeln auf Rahmwirsing",
 				"attributes": [
 					"V",
-					"30",
-					"35",
-					"38"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Fischcurry mit Kokosmilch, Spinat und Paprika",
-				"attributes": [
-					"30",
-					"31",
-					"33",
-					"35",
-					"38"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3 ab 14:30 Uhr"
-			}
-		],
-		[
-			{
-				"name": "Pikantes Chili con Carne mit Rinderhack auf Farfallenudeln",
-				"attributes": [
-					"30",
-					"R"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Gebackenes Gemüseschnitzel an Sauce Hollandaise",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"35",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
-				"attributes": [],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3 ab 14:30 Uhr"
-			}
-		],
-		[
-			{
-				"name": "Gebackener Alaska-Seelachs auf Rahmkohlrabi",
-				"attributes": [
 					"1",
 					"30",
-					"33",
-					"36"
+					"35"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Ofenfrisches Pizzarad mit frischen Champignons und Brokkoli",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"35",
-					"36"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Shakshuka - Israelisches Gericht aus Tomaten, Paprika, Zwiebeln und frischen Eiern, dazu Baguette",
+				"name": "Leicht & Vital ab 14:30 Uhr Gebratenes Filet von der Lachsforelle auf Gemüsebett mit Riesling und Dill",
 				"attributes": [
-					"F",
+					"A",
 					"30",
-					"32",
-					"35",
-					"36"
+					"33",
+					"38",
+					"41"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 5.5,
+					"employee": 6.8,
+					"visitor": 7.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 3 ab 14:30 Uhr"
