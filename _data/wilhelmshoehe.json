@@ -32,7 +32,8 @@
 				"name": "Chili sin Carne",
 				"attributes": [
 					"V",
-					"35"
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 1.9,
@@ -318,12 +319,14 @@
 				"name": "Seehecht auf Balsamicolinsen und Meerrettichstampf",
 				"attributes": [
 					"MV",
+					"1",
 					"3",
 					"30",
 					"32",
 					"33",
 					"36",
-					"39"
+					"39",
+					"41"
 				],
 				"price": {
 					"student": 3.2,

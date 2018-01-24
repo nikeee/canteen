@@ -168,30 +168,6 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot des Tages"
-			},
-			{
-				"name": "Seehecht auf Balsamicolinsen und Meerrettichstampf",
-				"attributes": [
-					"MV",
-					"3",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": {
-					"fat": 19,
-					"carbohydrate": 86,
-					"protein": 44,
-					"calories": 698
-				},
-				"categoryName": "Wok/Grill"
 			}
 		],
 		[
