@@ -178,9 +178,13 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Ofenfrischer Hähnchenschenkel auf Bratenjus",
+				"name": "Ofenfrischer Hähnchenschenkel auf Bratensauce",
 				"attributes": [
-					"30"
+					"A",
+					"1",
+					"30",
+					"36",
+					"41"
 				],
 				"price": {
 					"student": 2.4,
