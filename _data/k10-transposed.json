@@ -8,157 +8,60 @@
 		}
 	},
 	"validity": {
-		"from": "2018-01-22T00:00:00.000Z",
-		"until": "2018-01-27T00:00:00.000Z"
+		"from": "2018-01-29T00:00:00.000Z",
+		"until": "2018-02-03T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Geschwenkte Geflügelstreifen Gyros Art mit Zaziki",
+				"name": "Hähnchenbrust nach Gyros Art gewürzt mit Zaziki",
 				"attributes": [
 					"36",
-					"38"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Grünkernpfanne mit knackigem Gemüse und Balsamico",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"30",
-					"41"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Leicht & Vital ab 14:30 Uhr Bandnudeln mit Zucchini-Paprikagemüse und Tranchen vom Schweinefilet",
-				"attributes": [
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3 ab 14:30 Uhr"
-			}
-		],
-		[
-			{
-				"name": "Zartes Rehgulasch in Wacholder-Portweinsauce",
-				"attributes": [
-					"A",
-					"30",
-					"41"
-				],
-				"price": {
-					"student": 6,
-					"employee": 7.3,
-					"visitor": 8.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Hausgemachter Steckrüben-Kartoffeleintopf",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Leicht & Vital ab 14:30 Uhr Asiatische Gemüsepfanne mit Garnelen",
-				"attributes": [
-					"1",
-					"2",
-					"4",
-					"30",
-					"31",
-					"35",
 					"38",
-					"39",
-					"43"
-				],
-				"price": {
-					"student": 6,
-					"employee": 7.3,
-					"visitor": 8.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3 ab 14:30 Uhr"
-			}
-		],
-		[
-			{
-				"name": "Frisch gebratenes Hähnchenbrustschnitzel mit Steinpilz-Rahmsauce",
-				"attributes": [
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Geschöpfte Tortellini mit Spinat-Ricotta-Füllung in fruchtiger Tomatensauce",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Leicht & Vital ab 14:30 Uhr Curry von zweierlei Kartoffeln und Blumenkohl",
-				"attributes": [
-					"V",
-					"3",
-					"30",
-					"35",
 					"39"
 				],
 				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Tortellini mit feiner Gemüsefüllung in fruchtiger Tomatensauce",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "------- Ab 14:30 ------ Feines Ragout von Meeresfrüchten mit Brokkoli auf Bandnudeln",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"31",
+					"33",
+					"36",
+					"38",
+					"41",
+					"43"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 3 ab 14:30 Uhr"
@@ -166,9 +69,62 @@
 		],
 		[
 			{
-				"name": "Zartes Putengulasch",
+				"name": "Ungarisches Schweinefleischgulasch",
 				"attributes": [
+					"A",
 					"30",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Backfrischer Apfel-Pfannkuchen an warmer Vanillesauce",
+				"attributes": [
+					"F",
+					"1",
+					"3",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "------- Ab 14:30 ------ Kartoffeleintopf mit Schnittlauch",
+				"attributes": [
+					"F",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3 ab 14:30 Uhr"
+			}
+		],
+		[
+			{
+				"name": "Goldgelb gebackenes Putenschnitzel mit Cassis-Rahmsauce",
+				"attributes": [
+					"A",
+					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -180,11 +136,31 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Ofenfrisches Pizzarad Mexico Style",
+				"name": "Hausgemachte Spinatlasagne in Knoblauchcreme",
 				"attributes": [
 					"F",
+					"1",
 					"30",
+					"32",
 					"36"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "------- Ab 14:30 ------ Pasta mit Steinchampignons in Kerbelbutter und Tranchen vom Lachsfilet",
+				"attributes": [
+					"1",
+					"30",
+					"32",
+					"33",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 4.5,
@@ -192,20 +168,52 @@
 					"visitor": 6.7
 				},
 				"vitalInfo": null,
-				"categoryName": "Angebot 2"
+				"categoryName": "Angebot 3 ab 14:30 Uhr"
+			}
+		],
+		[
+			{
+				"name": "Mini-Hackfleischbällchen auf scharfer Jalapeño-Tomatensauce",
+				"attributes": [
+					"30",
+					"32",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Leicht & Vital ab 14:30 Uhr Hausgemachte Polentaschnitte gebraten auf Champignon- Lauchragout",
+				"name": "Gebackene Gemüsekroketten mit Kräutersauce",
 				"attributes": [
 					"F",
 					"1",
-					"2",
-					"36"
+					"30",
+					"36",
+					"38"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "------- Ab 14:30 ------ Maledivisches Chicken Curry",
+				"attributes": [
+					"39"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 3 ab 14:30 Uhr"
@@ -213,51 +221,47 @@
 		],
 		[
 			{
-				"name": "Geflügelgulasch in Maracujasauce",
+				"name": "Ofenfrische Entenkeule an Rotweinjus",
 				"attributes": [
-					"1",
+					"A",
 					"30",
-					"32",
-					"36",
-					"39"
+					"41"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Schupfnudeln auf Rahmwirsing",
+				"name": "Pizzarad mit Thunfisch und frischen Zwiebeln",
 				"attributes": [
-					"V",
-					"1",
 					"30",
-					"35"
+					"33",
+					"36"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Leicht & Vital ab 14:30 Uhr Gebratenes Filet von der Lachsforelle auf Gemüsebett mit Riesling und Dill",
+				"name": "------- Ab 14:30 ------ Fruchtig, scharfe Orangen-Couscous-Pfanne mit mildem Paprikarelish",
 				"attributes": [
-					"A",
+					"V",
+					"3",
 					"30",
-					"33",
-					"38",
-					"41"
+					"38"
 				],
 				"price": {
-					"student": 5.5,
-					"employee": 6.8,
-					"visitor": 7.7
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 3 ab 14:30 Uhr"
