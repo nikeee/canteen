@@ -8,275 +8,19 @@
 		}
 	},
 	"validity": {
-		"from": "2018-01-29T00:00:00.000Z",
-		"until": "2018-02-02T00:00:00.000Z"
+		"from": "2018-02-05T00:00:00.000Z",
+		"until": "2018-02-09T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Hausgemachter Süßkartoffelstampf auf Balsamico-Linsen",
+				"name": "Curry von zweierlei Kartoffeln mit Spinat",
 				"attributes": [
 					"V",
-					"1",
 					"3",
-					"35"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gegrillte, nordhessische Kartoffelbratwurst an Schmanddip",
-				"attributes": [
-					"2",
-					"8",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Dal Bhat Tarkari - Nepalesisches Linsengericht",
-				"attributes": [
-					"V",
-					"Ö",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Geschnetzeltes vom Rind mit Mango-Currysauce",
-				"attributes": [
-					"36",
-					"R"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Gemüsekroketten mit veganer Sauce Hollandaise",
-				"attributes": [
-					"V",
-					"30",
-					"38"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Geschmortes Ratatouille-Gemüse mit Hähnchenstreifen",
-				"attributes": [
-					"30"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Gekochte Eier in Senfsauce",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"32",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Schweinenackenbraten mit bayrischer Bierjus und Sauerkraut",
-				"attributes": [
-					"A",
-					"1",
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Bunter, marinierter Penne-Salat mit Balsamicocreme und Baguette",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"6",
-					"30",
-					"41"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Geschnetzeltes nach Züricher Art",
-				"attributes": [
-					"1",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Geschwenkte hessische Pilz-Kartoffel-Pfanne",
-				"attributes": [
-					"V",
-					"Ö"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Gebackene Putenbrust mit Cranberriesauce",
-				"attributes": [
-					"30"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Gebratenes Curry-Quinoa mit Karotten und Brokkoli",
-				"attributes": [
-					"V",
-					"3"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Drei Semmelknödel in Speck-Schmandstippe",
-				"attributes": [
-					"2",
-					"3",
-					"30",
-					"32",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Falafel aus Kichererbsen mit Joghurt-Schnittlauch-Dip",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Spanisch Fricco",
-				"attributes": [
-					"36",
-					"R"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Asia-Sojastreifen in süßscharfer Sauce",
-				"attributes": [
-					"V",
 					"30",
 					"35",
-					"38",
-					"39",
-					"40"
+					"39"
 				],
 				"price": {
 					"student": 2.1,
@@ -287,12 +31,11 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Cevapcici an scharfer Sauce",
+				"name": "Hühnerfrikassee mit Erbsen und Spargel",
 				"attributes": [
+					"1",
 					"30",
-					"32",
-					"39",
-					"S"
+					"36"
 				],
 				"price": {
 					"student": 2.4,
@@ -303,7 +46,7 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Kartoffel-Auflauf",
+				"name": "Pochierte Eier mit türkischem Joghurtdip",
 				"attributes": [
 					"F",
 					"Ö",
@@ -319,8 +62,285 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Karibisches Bananenhuhn mit Reis",
-				"attributes": [],
+				"name": "Gekochtes Rindfleisch aus dem Wurzelsud an grüner Sauce",
+				"attributes": [
+					"36",
+					"38",
+					"R"
+				],
+				"price": {
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Arabische Reispfanne mit Gemüse, Sultaninen und Mandeln",
+				"attributes": [
+					"V",
+					"37"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Orientalische Hackfleisch-Couscouspfanne",
+				"attributes": [
+					"3",
+					"30",
+					"38",
+					"R"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Backkartoffeln mit Sour Cream",
+				"attributes": [
+					"F",
+					"Ö",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Griechischer Veggie-Burger mit Käseschnitzel",
+				"attributes": [
+					"F",
+					"6",
+					"30",
+					"32",
+					"36",
+					"40"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Hausgebackener Kichererbsen-Pfannkuchen mit Gemüsewürfeln und Karottenhummus",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36",
+					"38",
+					"40"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
+				"attributes": [
+					"8",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Spaghetti in Linsen-Zitronensauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Hähnchenragout in Rahmsauce mit Austernpilzen",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"36",
+					"41"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Italienische Gabelspaghetti mit Oregano-Tomatensauce",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Geschnetzeltes nach Züricher Art",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Kartoffelpfannkuchen mit Knoblauchsauce",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Hähnchenbrust im Parmesansmantel mit Tomatensauce",
+				"attributes": [
+					"1",
+					"2",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Schupfnudeln in Salbei-Kürbissauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
+					"38",
+					"39",
+					"41"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
+				"attributes": [
+					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Asia Reis-Gemüsepfanne",
+				"attributes": [
+					"V",
+					"Ö",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Hessisches Weckewerk mit Schippeln und Gurke",
+				"attributes": [
+					"2",
+					"9",
+					"30",
+					"38",
+					"39",
+					"S"
+				],
 				"price": {
 					"student": 3.5,
 					"employee": 4.8,

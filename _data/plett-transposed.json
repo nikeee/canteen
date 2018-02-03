@@ -8,18 +8,19 @@
 		}
 	},
 	"validity": {
-		"from": "2018-01-29T00:00:00.000Z",
-		"until": "2018-02-02T00:00:00.000Z"
+		"from": "2018-02-05T00:00:00.000Z",
+		"until": "2018-02-09T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Hausgemachter Süßkartoffelstampf auf Balsamico-Linsen",
+				"name": "Curry von zweierlei Kartoffeln mit Spinat",
 				"attributes": [
 					"V",
-					"1",
 					"3",
-					"35"
+					"30",
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.1,
@@ -30,10 +31,136 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gegrillte, nordhessische Kartoffelbratwurst an Schmanddip",
+				"name": "Hühnerfrikassee mit Erbsen und Spargel",
 				"attributes": [
-					"2",
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Nürnberger Rostbratwurst mit Sauerkraut und Bratenjus",
+				"attributes": [
+					"1",
+					"30",
+					"S"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 3 oder 4"
+			},
+			{
+				"name": "Gemüsepfanne mit Rinderhackfleisch und Zartweizen",
+				"attributes": [
+					"MV",
+					"30",
+					"R"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": {
+					"fat": 21,
+					"carbohydrate": 94,
+					"protein": 41,
+					"calories": 731
+				},
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Arabische Reispfanne mit Gemüse, Sultaninen und Mandeln",
+				"attributes": [
+					"V",
+					"37"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
+				"attributes": [
+					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Mediterrane Nudelpfanne mit Mozzarella",
+				"attributes": [
+					"F",
+					"MV",
+					"30",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
+				},
+				"vitalInfo": {
+					"fat": 27,
+					"carbohydrate": 98,
+					"protein": 27,
+					"calories": 746
+				},
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Kichererbsen-Pfannkuchen mit Gemüsewürfeln und hausgemachtem Karottenhummus",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36",
+					"38",
+					"40"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
+				"attributes": [
 					"8",
+					"30",
 					"36",
 					"S"
 				],
@@ -46,38 +173,32 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Goldgelb gebackene Chicken-Crossies mit Currydip",
+				"name": "Hähnchenbrust mit Joghurt und Curry mariniert auf karibischer Kokossauce",
 				"attributes": [
-					"3",
+					"1",
 					"30",
-					"32",
 					"36",
 					"39"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 3 oder 4"
 			},
 			{
-				"name": "Tortellini mit Seehecht gefüllt in cremiger Hummer-Buttersauce",
+				"name": "Wildschweingulasch in Johannisbeersauce",
 				"attributes": [
-					"1",
+					"3",
 					"30",
-					"31",
-					"32",
-					"33",
-					"35",
-					"36",
-					"38"
+					"S"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 5.5,
+					"employee": 6.8,
+					"visitor": 7.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot des Tages I"
@@ -85,84 +206,15 @@
 		],
 		[
 			{
-				"name": "Gemüsekroketten mit veganer Sauce Hollandaise",
+				"name": "Italienische Gabelspaghetti mit Oregano-Tomatensauce",
 				"attributes": [
 					"V",
-					"30",
-					"38"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Geschmortes Ratatouille-Gemüse mit Hähnchenstreifen",
-				"attributes": [
 					"30"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Gebackenes Schnitzel von Karotte und Kürbiskernen auf Ajvardip",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 3 oder 4"
-			},
-			{
-				"name": "Ofenfrisches Lammhacksteak auf orientalischem Bratspinat",
-				"attributes": [
-					"3",
-					"30",
-					"32",
-					"37",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot des Tages I"
-			}
-		],
-		[
-			{
-				"name": "Bunter, marinierter Penne-Salat mit Balsamicocreme und Baguette",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"6",
-					"30",
-					"41"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
@@ -176,163 +228,119 @@
 					"S"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Gemüse-Hähnchen-Pfanne mit Aprikosen und Cashewkernen, dazu Couscous",
+				"name": "Hausgemachte Hackbällchen aus dem Würzsud auf Schwarzwurzelgemüse à la Crème",
 				"attributes": [
-					"MV",
-					"2",
-					"30",
-					"37",
-					"38",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": {
-					"fat": 20,
-					"carbohydrate": 86,
-					"protein": 45,
-					"calories": 715
-				},
-				"categoryName": "Angebot des Tages I"
-			}
-		],
-		[
-			{
-				"name": "Gebratenes Curry-Quinoa mit Karotten und Brokkoli",
-				"attributes": [
-					"V",
-					"3"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Drei Semmelknödel in Speck-Schmandstippe",
-				"attributes": [
-					"2",
-					"3",
+					"1",
 					"30",
 					"32",
 					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Garnelen auf Gemüse mit Wildreis und Romanasalat",
-				"attributes": [
-					"MV",
-					"1",
-					"3",
-					"31",
-					"40"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": {
-					"fat": 19,
-					"carbohydrate": 76,
-					"protein": 31,
-					"calories": 610
-				},
-				"categoryName": "Angebot des Tages I"
-			}
-		],
-		[
-			{
-				"name": "Asia-Sojastreifen in süßscharfer Sauce",
-				"attributes": [
-					"V",
-					"30",
-					"35",
-					"38",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Cevapcici an scharfer Sauce",
-				"attributes": [
-					"30",
-					"32",
 					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Gegrilltes Steak von der Putenbrust mit Kokos-Erdnuss-Sauce",
-				"attributes": [
-					"1",
-					"30",
-					"34",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 3 oder 4"
 			},
 			{
-				"name": "Nudelhörnchen mit Bohnen, Paprika und Pinienkernen",
+				"name": "Hausgemachter Pellkartoffelstampf mit Hähnchenragout in Rahmsauce mit Frühlingslauch, Röstzwiebeln und Petersilie",
 				"attributes": [
-					"V",
-					"MV",
+					"1",
 					"30",
-					"34"
+					"36"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Schupfnudeln in Salbei-Kürbissauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
+					"38",
+					"39",
+					"41"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Orientalische Hackfleisch-Couscouspfanne",
+				"attributes": [
+					"3",
+					"30",
+					"38",
+					"R"
 				],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
 					"visitor": 4.6
 				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Schmorbraten aus der Schweinekeule in Rotweinjus",
+				"attributes": [
+					"A",
+					"30",
+					"38",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 3 oder 4"
+			},
+			{
+				"name": "Sojacurry mit Roter Bete, Champignons und Bohnen, dazu Reis",
+				"attributes": [
+					"V",
+					"MV",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
 				"vitalInfo": {
-					"fat": 23,
-					"carbohydrate": 96,
-					"protein": 26,
-					"calories": 719
+					"fat": 18,
+					"carbohydrate": 85,
+					"protein": 32,
+					"calories": 617
 				},
 				"categoryName": "Angebot des Tages I"
 			}
