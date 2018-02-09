@@ -225,8 +225,9 @@
 			{
 				"name": "Italienische Gabelspaghetti mit Oregano-Tomatensauce",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2,
