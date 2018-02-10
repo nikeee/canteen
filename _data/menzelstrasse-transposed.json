@@ -8,19 +8,24 @@
 		}
 	},
 	"validity": {
-		"from": "2018-02-05T00:00:00.000Z",
-		"until": "2018-02-09T00:00:00.000Z"
+		"from": "2018-02-12T00:00:00.000Z",
+		"until": "2018-02-16T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Curry von zweierlei Kartoffeln mit Spinat",
+				"name": "Goldgelb gebackenes Möhrenschnitzel auf Passionsfruchtsahne",
 				"attributes": [
-					"V",
+					"F",
+					"1",
 					"3",
+					"9",
 					"30",
-					"35",
-					"39"
+					"32",
+					"36",
+					"38",
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 2.1,
@@ -31,12 +36,47 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hühnerfrikassee mit Erbsen und Spargel",
+				"name": "Feine Knackwurst mit hausgemachtem Kartoffelsalat und Senf",
 				"attributes": [
+					"2",
+					"3",
+					"8",
+					"9",
+					"32",
+					"36",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Hessische Kartoffelsuppe mit Gemüse und Kräuteröl",
+				"attributes": [
+					"V",
 					"1",
 					"30",
-					"36"
+					"35",
+					"38"
 				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
+				"attributes": [],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
@@ -48,117 +88,13 @@
 		],
 		[
 			{
-				"name": "Arabische Reispfanne mit Gemüse, Sultaninen und Mandeln",
+				"name": "Zwei Kartoffelklöße mit Spinatsauce",
 				"attributes": [
-					"V",
-					"37"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
-				"attributes": [
+					"F",
+					"1",
 					"3",
 					"30",
-					"32",
-					"33",
 					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Kichererbsen-Pfannkuchen mit Gemüsewürfeln und hausgemachtem Karottenhummus",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36",
-					"38",
-					"40"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
-				"attributes": [
-					"8",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Italienische Gabelspaghetti mit Oregano-Tomatensauce",
-				"attributes": [
-					"V",
-					"30"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Geschnetzeltes nach Züricher Art",
-				"attributes": [
-					"1",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Schupfnudeln in Salbei-Kürbissauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36",
-					"38",
-					"39",
 					"41"
 				],
 				"price": {
@@ -170,17 +106,88 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Orientalische Hackfleisch-Couscouspfanne",
+				"name": "Bami Goreng mit Geflügelstreifen",
 				"attributes": [
-					"3",
 					"30",
-					"38",
-					"R"
+					"32",
+					"39"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Couscouspfanne mit knackigem Gemüse an roter Linsencreme",
+				"attributes": [
+					"V",
+					"3",
+					"30",
+					"39",
+					"40"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gebackenes Fleischkäseschnitzel auf Malzjus",
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"30",
+					"32",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Hessische Kartoffelpfanne mit Kräutern und Pilzen an Schmanddip",
+				"attributes": [
+					"F",
+					"36"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Griechisches Hacksteak auf Knoblauchsauce",
+				"attributes": [
+					"6",
+					"30",
+					"32",
+					"36",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"

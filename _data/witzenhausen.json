@@ -7,20 +7,24 @@
 		}
 	},
 	"validity": {
-		"from": "2018-02-05T00:00:00.000Z",
-		"until": "2018-02-09T00:00:00.000Z"
+		"from": "2018-02-12T00:00:00.000Z",
+		"until": "2018-02-16T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Curry von zweierlei Kartoffeln mit Spinat",
+				"name": "Goldgelb gebackenes Möhrenschnitzel auf Passionsfruchtsahne",
 				"attributes": [
-					"V",
+					"F",
+					"1",
 					"3",
 					"30",
-					"35",
-					"39"
+					"32",
+					"36",
+					"38",
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 2.1,
@@ -30,26 +34,45 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Arabische Reispfanne mit Gemüse, Sultaninen und Mandeln",
+				"name": "Hessische Kartoffelsuppe mit Gemüse und Kräuteröl",
 				"attributes": [
 					"V",
-					"37"
+					"1",
+					"30",
+					"35",
+					"38"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Hausgebackener Kichererbsen-Pfannkuchen mit Gemüsewürfeln und Karottenhummus",
+				"name": "Zwei Kartoffelklöße mit Spinatsauce",
 				"attributes": [
 					"F",
+					"1",
+					"3",
 					"30",
-					"32",
 					"36",
-					"38",
+					"41"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Couscouspfanne mit knackigem Gemüse an roter Linsencreme",
+				"attributes": [
+					"V",
+					"3",
+					"30",
+					"39",
 					"40"
 				],
 				"price": {
@@ -59,62 +82,43 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Italienische Gabelspaghetti mit Oregano-Tomatensauce",
-				"attributes": [
-					"V",
-					"30"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Schupfnudeln in Salbei-Kürbissauce",
+				"name": "Hessische Kartoffelpfanne mit Kräutern und Pilzen an Schmanddip",
 				"attributes": [
 					"F",
-					"1",
-					"30",
-					"32",
-					"36",
-					"38",
-					"39",
-					"41"
+					"36"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Hühnerfrikassee mit Erbsen und Spargel",
+				"name": "Feine Knackwurst auf hausgemachtem Kartoffelsalat und Senf",
 				"attributes": [
-					"1",
-					"30",
-					"36"
+					"2",
+					"3",
+					"8",
+					"9",
+					"32",
+					"36",
+					"39",
+					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Orientalische Hackfleisch-Couscouspfanne",
-				"attributes": [
-					"3",
-					"30",
-					"38",
-					"R"
-				],
+				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
+				"attributes": [],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
@@ -123,56 +127,73 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
+				"name": "Bami Goreng mit Geflügelstreifen",
 				"attributes": [
-					"8",
 					"30",
-					"36",
-					"S"
+					"32",
+					"39"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Geschnetzeltes nach Züricher Art",
+				"name": "Gebackenes Fleischkäseschnitzel auf Malzjus",
 				"attributes": [
-					"1",
+					"2",
+					"3",
+					"8",
 					"30",
+					"32",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Griechisches Hacksteak auf Knoblauchjus",
+				"attributes": [
+					"6",
+					"30",
+					"32",
 					"36",
+					"39",
 					"S"
 				],
 				"price": {
 					"student": 2.5,
 					"employee": 3.8,
 					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
-				"attributes": [
-					"3",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Pochierte Eier mit türkischem Joghurtdip",
+				"name": "Asiatischer Gemüseeintopf",
+				"attributes": [
+					"V",
+					"Ö",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Kartoffel- Gemüseauflauf",
 				"attributes": [
 					"F",
 					"Ö",
@@ -186,27 +207,13 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Backkartoffeln mit Sour Cream",
-				"attributes": [
-					"F",
-					"Ö",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Spaghetti in Linsen-Zitronensauce",
+				"name": "Nudeln mit Mangold-Karottenragout in Rahmsauce",
 				"attributes": [
 					"V",
 					"Ö",
 					"30",
-					"38"
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -216,11 +223,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Kartoffelpfannkuchen mit Knoblauchsauce",
+				"name": "Spinach Eggs",
 				"attributes": [
 					"F",
 					"Ö",
-					"30",
 					"32",
 					"36"
 				],
@@ -232,11 +238,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Asia Reis-Gemüsepfanne",
+				"name": "Panierte Tofuschnitte mit Curry-Erbsensauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"39"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -247,86 +254,11 @@
 			}
 		},
 		"Aktions-Essen": {
-			"1": {
-				"name": "Gekochtes Rindfleisch aus dem Wurzelsud an grüner Sauce",
-				"attributes": [
-					"36",
-					"38",
-					"R"
-				],
-				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Griechischer Veggie-Burger mit Käseschnitzel",
-				"attributes": [
-					"F",
-					"6",
-					"30",
-					"32",
-					"36",
-					"40"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Hähnchenragout in Rahmsauce mit Austernpilzen",
-				"attributes": [
-					"A",
-					"1",
-					"30",
-					"36",
-					"41"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Hähnchenbrust im Parmesansmantel mit Tomatensauce",
-				"attributes": [
-					"1",
-					"2",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Hessisches Weckewerk mit Schippeln und Gurke",
-				"attributes": [
-					"2",
-					"9",
-					"30",
-					"38",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			}
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null
 		}
 	}
 }
