@@ -8,16 +8,22 @@
 		}
 	},
 	"validity": {
-		"from": "2018-02-05T00:00:00.000Z",
-		"until": "2018-02-10T00:00:00.000Z"
+		"from": "2018-02-12T00:00:00.000Z",
+		"until": "2018-02-17T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Zartes Putengeschnetzeltes in Waldpilzrahmsauce",
+				"name": "Klassischer Hamburger mit Rindfleisch, Salat und Dip",
 				"attributes": [
+					"3",
+					"9",
 					"30",
-					"36"
+					"32",
+					"36",
+					"39",
+					"40",
+					"R"
 				],
 				"price": {
 					"student": 3.5,
@@ -28,34 +34,32 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Blumenkohl-Käse-Medaillon an feiner Schnittlauchsauce",
+				"name": "Schupfnudelpfanne mit Austernpilzen, Champignons und Petersiliendip",
 				"attributes": [
 					"F",
-					"1",
 					"30",
 					"32",
-					"36",
-					"38"
+					"36"
 				],
 				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "------- Ab 14:30 ------ Hausgemachtes Chili sin Carne mit Tofu, Mais und Bohnen, dazu Baguette",
+				"name": "Türkische rote Linsensuppe",
 				"attributes": [
 					"V",
-					"30",
-					"35"
+					"3",
+					"38"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 3"
@@ -63,50 +67,43 @@
 		],
 		[
 			{
-				"name": "Ofenfrischer Braten vom Schweinerücken in Calvadosjus",
+				"name": "Karibisches Mango-Hühnchen",
 				"attributes": [
-					"A",
-					"3",
+					"1",
 					"30",
-					"S"
+					"36",
+					"39"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Cremesuppe von der Süßkartoffel mit Wintergemüse und Baguette",
+				"name": "Hausgemachte Lasagne mit geschmortem Ratatouille-Gemüse",
 				"attributes": [
 					"F",
-					"1",
-					"3",
 					"30",
-					"36",
-					"38",
-					"41"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "------- Ab 14:30 ------ Auf der Haut gebratenes Zanderfilet auf geschwenktem Fenchelgemüse",
+				"name": "Gedämpfter Petersfisch auf Chakalakagemüse",
 				"attributes": [
-					"A",
-					"1",
-					"30",
+					"3",
 					"33",
-					"36",
-					"38",
-					"41"
+					"39"
 				],
 				"price": {
 					"student": 5.5,
@@ -119,10 +116,13 @@
 		],
 		[
 			{
-				"name": "Hähnchenschnitzel im Cornflakesmantel auf fruchtiger Basilikum-Tomatensauce",
+				"name": "Zartes Putenschnitzel in Parmesan-Eihülle an fruchtiger Basilikum-Tomatensauce",
 				"attributes": [
+					"1",
+					"2",
 					"30",
-					"32"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 3.5,
@@ -133,63 +133,7 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Bunte Farfallenudeln in cremiger Kürbissahnesauce mit Hirtenkäse getoppt",
-				"attributes": [
-					"F",
-					"1",
-					"2",
-					"30",
-					"36",
-					"39",
-					"41"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "------- Ab 14:30 ------ Tranchen vom gegrillten Schweinefilet im Kräuterkleid auf Rotweinjus",
-				"attributes": [
-					"A",
-					"30",
-					"41",
-					"S"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3"
-			}
-		],
-		[
-			{
-				"name": "Gegrillter Fleischkäse auf hausgemachtem Bayrisch Kraut und Kräuterjus",
-				"attributes": [
-					"1",
-					"2",
-					"3",
-					"8",
-					"30",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Schwäbische Spätzle mit Röstzwiebeln und Käsesauce",
+				"name": "Geschöpfte Tortellini mit Spinat-Ricotta-Füllung in Kräuterbéchamel",
 				"attributes": [
 					"F",
 					"1",
@@ -206,17 +150,59 @@
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "------- Ab 14:30 ------ Wellenbandnudeln mit feinem Rucolapesto und Tomatenwürfeln",
+				"name": "Indisches Zucchini-Curry mit Tomate und frischem Koriander",
 				"attributes": [
-					"F",
+					"V"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3"
+			}
+		],
+		[
+			{
+				"name": "Spaghetti mit Bolognese aus Rinderhackfleisch",
+				"attributes": [
 					"1",
 					"2",
-					"3",
 					"30",
-					"32",
 					"36",
-					"37",
-					"41"
+					"38",
+					"R"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Ofenfrischer Flammkuchen mit Lauch, Zwiebeln und Tomaten",
+				"attributes": [
+					"F",
+					"30",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Asia-Kokossuppe mit Geflügelfleisch, Paprika und einem Hauch Limette",
+				"attributes": [
+					"1",
+					"3"
 				],
 				"price": {
 					"student": 2.7,
@@ -229,51 +215,51 @@
 		],
 		[
 			{
-				"name": "Matjesfilet nach Hausfrauenart mit Äpfeln, Gurken und Zwiebeln",
+				"name": "Pfannenfrische Bratwurst mit Curry-Ketchupsauce",
 				"attributes": [
 					"3",
-					"9",
-					"33",
-					"36"
+					"8",
+					"38",
+					"39",
+					"S"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Mie-Nudelpfanne mit Gemüse in Red-Thai-Curry-Kokossauce",
+				"name": "Geschwenkte Nudelpfanne mit Ei und Maracujasauce",
 				"attributes": [
 					"F",
+					"3",
 					"30",
 					"32",
-					"35",
-					"36",
-					"38"
+					"39"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "------- Ab 14:30 ------ Wildschweingulasch in Rotweinsauce mit Preiselbeeren",
+				"name": "Goldgelb gebackenes Schollenfilet an leichter Dillsauce",
 				"attributes": [
-					"A",
+					"1",
 					"30",
-					"41",
-					"S"
+					"33",
+					"36"
 				],
 				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 3"

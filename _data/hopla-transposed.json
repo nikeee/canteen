@@ -74,18 +74,27 @@
 				"categoryName": "Essen 3 oder 4"
 			},
 			{
-				"name": "Spaghetti mit rotem, veganem Pesto",
+				"name": "Französische Fischsuppe mit Tomaten-Endivien-Salat",
 				"attributes": [
-					"V",
+					"MV",
 					"30",
-					"37"
+					"31",
+					"33",
+					"36",
+					"38",
+					"43"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
-				"vitalInfo": null,
+				"vitalInfo": {
+					"fat": 19,
+					"carbohydrate": 81,
+					"protein": 44,
+					"calories": 722
+				},
 				"categoryName": "Angebot des Tages"
 			},
 			{
