@@ -71,52 +71,7 @@
 				"categoryName": "Bio-Essen"
 			}
 		],
-		[
-			{
-				"name": "Hessische Kartoffelsuppe mit Gemüse und Kräuteröl",
-				"attributes": [
-					"V",
-					"1",
-					"30",
-					"35",
-					"38"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
-				"attributes": [],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Kartoffel- Gemüseauflauf",
-				"attributes": [
-					"F",
-					"Ö",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
+		[],
 		[
 			{
 				"name": "Zwei Kartoffelklöße mit Spinatsauce",
