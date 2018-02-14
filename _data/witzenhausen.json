@@ -33,7 +33,22 @@
 				},
 				"vitalInfo": null
 			},
-			"2": null,
+			"2": {
+				"name": "Hessische Kartoffelsuppe mit Gemüse und Kräuteröl",
+				"attributes": [
+					"V",
+					"1",
+					"30",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
 			"3": {
 				"name": "Zwei Kartoffelklöße mit Spinatsauce",
 				"attributes": [
@@ -101,7 +116,16 @@
 				},
 				"vitalInfo": null
 			},
-			"2": null,
+			"2": {
+				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
+				"attributes": [],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
 			"3": {
 				"name": "Bami Goreng mit Geflügelstreifen",
 				"attributes": [
@@ -168,7 +192,21 @@
 				},
 				"vitalInfo": null
 			},
-			"2": null,
+			"2": {
+				"name": "Kartoffel- Gemüseauflauf",
+				"attributes": [
+					"F",
+					"Ö",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
 			"3": {
 				"name": "Nudeln mit Mangold-Karottenragout in Rahmsauce",
 				"attributes": [

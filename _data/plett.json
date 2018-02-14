@@ -37,11 +37,15 @@
 			"2": {
 				"name": "Hessische Kartoffelsuppe mit Gemüse und Kräuteröl",
 				"attributes": [
-					"V",
 					"1",
+					"2",
+					"3",
+					"8",
 					"30",
 					"35",
-					"38"
+					"38",
+					"R",
+					"S"
 				],
 				"price": {
 					"student": 2,
@@ -120,7 +124,13 @@
 			},
 			"2": {
 				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
-				"attributes": [],
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"R",
+					"S"
+				],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
