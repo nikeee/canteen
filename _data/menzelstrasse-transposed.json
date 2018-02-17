@@ -8,43 +8,38 @@
 		}
 	},
 	"validity": {
-		"from": "2018-02-12T00:00:00.000Z",
-		"until": "2018-02-16T00:00:00.000Z"
+		"from": "2018-02-19T00:00:00.000Z",
+		"until": "2018-02-23T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Goldgelb gebackenes Möhrenschnitzel auf Passionsfruchtsahne",
+				"name": "Tortellini mit Spinat-Ricotta-Füllung in Béchamelsauce",
 				"attributes": [
 					"F",
 					"1",
-					"3",
-					"9",
 					"30",
 					"32",
-					"36",
-					"38",
-					"39",
-					"40"
+					"36"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Feine Knackwurst mit hausgemachtem Kartoffelsalat und Senf",
+				"name": "Kassler Braten mit Calvadosjus",
 				"attributes": [
+					"A",
 					"2",
 					"3",
-					"8",
-					"9",
-					"32",
+					"4",
+					"30",
 					"36",
-					"39",
+					"38",
 					"S"
 				],
 				"price": {
@@ -58,29 +53,30 @@
 		],
 		[
 			{
-				"name": "Hessische Kartoffelsuppe mit Gemüse und Kräuteröl",
+				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
-					"V",
-					"1",
+					"F",
+					"3",
 					"30",
-					"35",
-					"38"
+					"32"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
-				"attributes": [],
+				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
+				"attributes": [
+					"36"
+				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
@@ -88,14 +84,9 @@
 		],
 		[
 			{
-				"name": "Zwei Kartoffelklöße mit Spinatsauce",
+				"name": "Geschmortes Ratatouille-Gemüse im gelben Reisrand",
 				"attributes": [
-					"F",
-					"1",
-					"3",
-					"30",
-					"36",
-					"41"
+					"V"
 				],
 				"price": {
 					"student": 2,
@@ -106,11 +97,12 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Bami Goreng mit Geflügelstreifen",
+				"name": "Penne mit Blattspinat und Hackfleisch",
 				"attributes": [
+					"1",
 					"30",
-					"32",
-					"39"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -123,47 +115,12 @@
 		],
 		[
 			{
-				"name": "Couscouspfanne mit knackigem Gemüse an roter Linsencreme",
-				"attributes": [
-					"V",
-					"3",
-					"30",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gebackenes Fleischkäseschnitzel auf Malzjus",
-				"attributes": [
-					"2",
-					"3",
-					"8",
-					"30",
-					"32",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Hessische Kartoffelpfanne mit Kräutern und Pilzen an Schmanddip",
+				"name": "Eieromelette mit Champignons à la Crème",
 				"attributes": [
 					"F",
+					"1",
+					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -175,19 +132,52 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Griechisches Hacksteak auf Knoblauchsauce",
+				"name": "Geflügelgulasch in Curry-Maracujasauce",
 				"attributes": [
-					"6",
+					"1",
 					"30",
-					"32",
 					"36",
-					"39",
-					"S"
+					"39"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gebackener Alaska-Seelachs an Joghurtaioli",
+				"attributes": [
+					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"

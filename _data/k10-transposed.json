@@ -216,18 +216,20 @@
 		],
 		[
 			{
-				"name": "Pfannenfrische Bratwurst mit Curry-Ketchupsauce",
+				"name": "Spaghetti mit Bolognese aus Rinderhackfleisch",
 				"attributes": [
-					"3",
-					"8",
+					"1",
+					"2",
+					"30",
+					"32",
+					"36",
 					"38",
-					"39",
-					"S"
+					"R"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
@@ -250,17 +252,15 @@
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Goldgelb gebackenes Schollenfilet an leichter Dillsauce",
+				"name": "Asia-Kokossuppe mit Geflügelfleisch, Paprika und einem Hauch Limette",
 				"attributes": [
 					"1",
-					"30",
-					"33",
-					"36"
+					"3"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 3"
