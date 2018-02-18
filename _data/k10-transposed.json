@@ -8,39 +8,22 @@
 		}
 	},
 	"validity": {
-		"from": "2018-02-12T00:00:00.000Z",
-		"until": "2018-02-17T00:00:00.000Z"
+		"from": "2018-02-19T00:00:00.000Z",
+		"until": "2018-02-24T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Klassischer Hamburger mit Rindfleisch, Salat und Dip",
+				"name": "Grillteller mit Puten- und Schweinefleisch an scharfem Barbecuedip",
 				"attributes": [
+					"2",
 					"3",
-					"9",
+					"8",
 					"30",
 					"32",
 					"36",
-					"38",
-					"39",
-					"40",
-					"R"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Schupfnudelpfanne mit Austernpilzen, Champignons und Petersiliendip",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
+					"R",
+					"S"
 				],
 				"price": {
 					"student": 4,
@@ -48,32 +31,31 @@
 					"visitor": 6.2
 				},
 				"vitalInfo": null,
-				"categoryName": "Angebot 2"
+				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Türkische rote Linsensuppe",
+				"name": "Feines Gemüseragout in Sauce Hollandaise",
 				"attributes": [
-					"V",
-					"3",
-					"38"
+					"F",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
 				},
 				"vitalInfo": null,
-				"categoryName": "Angebot 3"
+				"categoryName": "Angebot 2"
 			}
 		],
 		[
 			{
-				"name": "Karibisches Mango-Hühnchen",
+				"name": "Geschnetzeltes von der Putenbrust in Champignon-Zwiebelrahmsauce",
 				"attributes": [
-					"1",
 					"30",
-					"36",
-					"39"
+					"36"
 				],
 				"price": {
 					"student": 3.4,
@@ -84,112 +66,33 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Hausgemachte Lasagne mit geschmortem Ratatouille-Gemüse",
+				"name": "Ofenfrisches Pizzarad mit Tomaten, Rucola, Mozzarella und Balsamicocreme",
 				"attributes": [
 					"F",
+					"1",
+					"3",
 					"30",
-					"32",
-					"36"
+					"36",
+					"41"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Gedämpfter Petersfisch auf Chakalakagemüse",
+				"name": "Großer, bunter Salatteller mit Kartoffelpuffern und Heringssalat",
 				"attributes": [
 					"3",
+					"9",
+					"30",
+					"32",
 					"33",
+					"36",
 					"39"
-				],
-				"price": {
-					"student": 5.5,
-					"employee": 6.8,
-					"visitor": 7.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3"
-			}
-		],
-		[
-			{
-				"name": "Zartes Putenschnitzel in Parmesan-Eihülle an fruchtiger Basilikum-Tomatensauce",
-				"attributes": [
-					"1",
-					"2",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Geschöpfte Tortellini mit Spinat-Ricotta-Füllung in Kräuterbéchamel",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Indisches Zucchini-Curry mit Tomate und frischem Koriander",
-				"attributes": [
-					"V"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3"
-			}
-		],
-		[
-			{
-				"name": "Spaghetti mit Bolognese aus Rinderhackfleisch",
-				"attributes": [
-					"1",
-					"2",
-					"30",
-					"36",
-					"38",
-					"R"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Ofenfrischer Flammkuchen mit Lauch, Zwiebeln und Tomaten",
-				"attributes": [
-					"F",
-					"30",
-					"36",
-					"38"
 				],
 				"price": {
 					"student": 4,
@@ -197,18 +100,92 @@
 					"visitor": 6.2
 				},
 				"vitalInfo": null,
+				"categoryName": "Angebot 3"
+			}
+		],
+		[
+			{
+				"name": "Goldgelb gebackenes Schweineschnitzel auf Rahmkohlrabi",
+				"attributes": [
+					"1",
+					"30",
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Tortellini mit vegetarischer Bolognesefüllung in Karotten-Ingwersauce mit Käse überbacken",
+				"attributes": [
+					"F",
+					"30",
+					"35",
+					"36",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Zarter Putenbraten auf tomatisiertem mediterranen Gemüse",
+				"attributes": [
+					"30"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Bulgurpfanne mit Nüssen und Trockenfrüchten",
+				"attributes": [
+					"V",
+					"3",
+					"30",
+					"37",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Asia-Kokossuppe mit Geflügelfleisch, Paprika und einem Hauch Limette",
+				"name": "Asiatische Nudelnpfanne mit Garnelen und Gemüse",
 				"attributes": [
-					"1",
-					"3"
+					"2",
+					"3",
+					"30",
+					"31",
+					"35",
+					"39"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 3"
@@ -216,54 +193,35 @@
 		],
 		[
 			{
-				"name": "Spaghetti mit Bolognese aus Rinderhackfleisch",
+				"name": "Zartes Rehgulasch in Wacholder-Portweinrahmsauce",
 				"attributes": [
-					"1",
-					"2",
+					"A",
 					"30",
-					"32",
 					"36",
-					"38",
-					"R"
+					"41"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 5.5,
+					"employee": 6.8,
+					"visitor": 7.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Geschwenkte Nudelpfanne mit Ei und Maracujasauce",
+				"name": "Kartoffeltaschen mit Frischkäse gefüllt an Tomatensahnesauce",
 				"attributes": [
 					"F",
-					"3",
 					"30",
-					"32",
-					"39"
+					"36"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Asia-Kokossuppe mit Geflügelfleisch, Paprika und einem Hauch Limette",
-				"attributes": [
-					"1",
-					"3"
-				],
-				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3"
 			}
 		]
 	]
