@@ -68,12 +68,14 @@
 			{
 				"name": "Ofenfrisches Pizzarad mit Tomaten, Rucola, Mozzarella und Balsamicocreme",
 				"attributes": [
-					"F",
 					"1",
+					"2",
 					"3",
 					"30",
 					"36",
-					"41"
+					"41",
+					"R",
+					"S"
 				],
 				"price": {
 					"student": 4.5,
