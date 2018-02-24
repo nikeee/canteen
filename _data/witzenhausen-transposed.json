@@ -8,89 +8,37 @@
 		}
 	},
 	"validity": {
-		"from": "2018-02-19T00:00:00.000Z",
-		"until": "2018-02-23T00:00:00.000Z"
+		"from": "2018-02-26T00:00:00.000Z",
+		"until": "2018-03-02T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Tortellini mit Spinat-Ricotta-Füllung in Béchamelsauce",
+				"name": "Blumenkohl-Käse-Medaillon an Sauce Bérnaise",
 				"attributes": [
 					"F",
-					"1",
 					"30",
 					"32",
-					"36"
+					"36",
+					"38"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Kassler Braten mit Calvadosjus",
+				"name": "Bami Goreng mit Putenstreifen",
 				"attributes": [
-					"A",
-					"2",
-					"3",
-					"4",
 					"30",
-					"36",
-					"38",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Couscous mit Gemüseragout",
-				"attributes": [
-					"V",
-					"Ö",
-					"30",
+					"32",
 					"35",
 					"39"
 				],
 				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Kartoffelpuffer mit Apfelmus",
-				"attributes": [
-					"F",
-					"3",
-					"30",
-					"32"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
-				"attributes": [
-					"36"
-				],
-				"price": {
 					"student": 2.6,
 					"employee": 3.9,
 					"visitor": 4.8
@@ -99,106 +47,7 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Spaghetti in Kürbis-Walnuss-Haselnuss-Pesto",
-				"attributes": [
-					"V",
-					"Ö",
-					"30",
-					"37"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Geschmortes Ratatouille-Gemüse im gelben Reisrand",
-				"attributes": [
-					"V"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Penne mit Blattspinat und Hackfleisch",
-				"attributes": [
-					"1",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Überbackenes Kartoffelrösti mit mediterranem Gemüse",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Eieromelette mit Champignons à la Crème",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Geflügelgulasch in Curry-Maracujasauce",
-				"attributes": [
-					"1",
-					"30",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Gemüserisotto mit gegrillten Tomaten",
+				"name": "Kokosmilch-Zitronenreis mit Spinat",
 				"attributes": [
 					"V",
 					"Ö"
@@ -214,9 +63,55 @@
 		],
 		[
 			{
-				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
+				"name": "Linseneintopf mit Wurzelgemüse",
+				"attributes": [
+					"V",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Schweinesteak vom Nacken an Kräuterbutter",
+				"attributes": [
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Huevos Mexicanos - Rührei mexikanisch mit Tomaten, Zwiebeln und Chili",
 				"attributes": [
 					"F",
+					"Ö",
+					"32"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Rahmspinat mit Rührei",
+				"attributes": [
+					"F",
+					"1",
 					"32",
 					"36"
 				],
@@ -229,14 +124,110 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gebackener Alaska-Seelachs an Joghurtaioli",
+				"name": "Hähnchenbrust mit Chili mariniert auf roter Linsencreme",
+				"attributes": [
+					"1",
+					"36"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Tofusteak mit Curry-Ketchupsauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"9",
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Farfalle Tricolore mit Grünkernragout",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gulasch von der Putenoberkeule mit Champignons",
 				"attributes": [
 					"3",
 					"30",
 					"32",
-					"33",
-					"36",
-					"39"
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Kartoffelgratin mit Sahne und Käse",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Hessisches Schmorgemüse mit Sojastreifen",
+				"attributes": [
+					"V",
+					"30",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hausgemachtes Hacksteak auf Zwiebeljus",
+				"attributes": [
+					"30",
+					"32",
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -247,11 +238,12 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Chili sin Carne mit Tofu",
+				"name": "Spaghetti mit Karotten-Sellerie-Bolognese",
 				"attributes": [
 					"V",
 					"Ö",
-					"35"
+					"30",
+					"38"
 				],
 				"price": {
 					"student": 2.9,

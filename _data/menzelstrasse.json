@@ -7,35 +7,48 @@
 		}
 	},
 	"validity": {
-		"from": "2018-02-19T00:00:00.000Z",
-		"until": "2018-02-23T00:00:00.000Z"
+		"from": "2018-02-26T00:00:00.000Z",
+		"until": "2018-03-02T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Tortellini mit Spinat-Ricotta-Füllung in Béchamelsauce",
+				"name": "Blumenkohl-Käse-Medaillon an Sauce Bérnaise",
 				"attributes": [
 					"F",
-					"1",
 					"30",
 					"32",
-					"36"
+					"36",
+					"38"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kartoffelpuffer mit Apfelmus",
+				"name": "Linseneintopf mit Wurzelgemüse",
+				"attributes": [
+					"V",
+					"38"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Rahmspinat mit Rührei",
 				"attributes": [
 					"F",
-					"3",
-					"30",
-					"32"
+					"1",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -44,10 +57,11 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Geschmortes Ratatouille-Gemüse im gelben Reisrand",
+			"4": {
+				"name": "Farfalle Tricolore mit Grünkernragout",
 				"attributes": [
-					"V"
+					"V",
+					"30"
 				],
 				"price": {
 					"student": 2,
@@ -56,49 +70,30 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Eieromelette mit Champignons à la Crème",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
+				"name": "Hessisches Schmorgemüse mit Sojastreifen",
 				"attributes": [
-					"F",
-					"32",
-					"36"
+					"V",
+					"30",
+					"35",
+					"38"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Kassler Braten mit Calvadosjus",
+				"name": "Bami Goreng mit Hähnchenstreifen",
 				"attributes": [
-					"A",
-					"2",
-					"3",
-					"4",
 					"30",
-					"36",
-					"38",
-					"S"
+					"32",
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.6,
@@ -108,22 +103,8 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
+				"name": "Schweinesteak vom Nacken an Kräuterbutter",
 				"attributes": [
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Penne mit Blattspinat und Hackfleisch",
-				"attributes": [
-					"1",
-					"30",
 					"36",
 					"S"
 				],
@@ -134,30 +115,41 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Geflügelgulasch in Curry-Maracujasauce",
+			"3": {
+				"name": "Hähnchenbrust mit Chili mariniert auf roter Linsencreme",
 				"attributes": [
 					"1",
-					"30",
-					"36",
-					"39"
+					"36"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Gebackener Alaska-Seelachs an Joghurtaioli",
+			"4": {
+				"name": "Gulasch von der Putenoberkeule mit Champignons",
 				"attributes": [
 					"3",
 					"30",
 					"32",
-					"33",
-					"36",
-					"39"
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachtes Hacksteak auf Zwiebeljus",
+				"attributes": [
+					"30",
+					"32",
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
