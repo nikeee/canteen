@@ -7,36 +7,21 @@
 		}
 	},
 	"validity": {
-		"from": "2018-02-19T00:00:00.000Z",
-		"until": "2018-02-24T00:00:00.000Z"
+		"from": "2018-02-26T00:00:00.000Z",
+		"until": "2018-03-03T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Grillteller mit Puten- und Schweinefleisch an scharfem Barbecuedip",
+				"name": "Herzhafte Krakauer auf Grünkohlgemüse",
 				"attributes": [
 					"2",
 					"3",
 					"8",
-					"30",
-					"32",
-					"36",
-					"R",
+					"38",
+					"39",
 					"S"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Geschnetzeltes von der Putenbrust in Champignon-Zwiebelrahmsauce",
-				"attributes": [
-					"30",
-					"36"
 				],
 				"price": {
 					"student": 3.4,
@@ -45,26 +30,43 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Goldgelb gebackenes Schweineschnitzel auf Rahmkohlrabi",
+			"2": {
+				"name": "Zartes Kalbsgulasch in Sherryrahmsauce",
 				"attributes": [
-					"1",
+					"A",
+					"30",
+					"36",
+					"41",
+					"R"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Goldgelb gebackenes Putenschnitzel in Mandelhülle mit Kirschrahmsauce",
+				"attributes": [
 					"30",
 					"32",
 					"36",
-					"S"
+					"37"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Zarter Putenbraten auf tomatisiertem mediterranen Gemüse",
+				"name": "Asia-Burger mit Hähnchenbrustfilet, Sprossen und fruchtig scharfem Dip",
 				"attributes": [
-					"30"
+					"30",
+					"35",
+					"40"
 				],
 				"price": {
 					"student": 4,
@@ -74,96 +76,86 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Zartes Rehgulasch in Wacholder-Portweinrahmsauce",
-				"attributes": [
-					"A",
-					"30",
-					"36",
-					"41"
-				],
+				"name": "Spanische Paella mit buntem Gemüse und Geflügelstreifen",
+				"attributes": [],
 				"price": {
-					"student": 5.5,
-					"employee": 6.8,
-					"visitor": 7.7
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
 			}
 		},
 		"Angebot 2": {
 			"1": {
-				"name": "Feines Gemüseragout in Sauce Hollandaise",
+				"name": "Frisch gerollter Lahmacun mit Blattsalat, Tomate, Gurke und Kräuterjoghurt gefüllt",
 				"attributes": [
 					"F",
 					"30",
-					"32",
 					"36"
 				],
 				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Ofenfrisches Pizzarad mit Tomaten, Rucola, Mozzarella und Balsamicocreme",
+				"name": "Hausgemachter Spinatpfannkuchen an fruchtigem Tomatendip",
 				"attributes": [
-					"1",
-					"2",
-					"3",
+					"F",
 					"30",
-					"36",
-					"41",
-					"R",
-					"S"
+					"32"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Tortellini mit vegetarischer Bolognesefüllung in Karotten-Ingwersauce mit Käse überbacken",
+				"name": "Geschöpfte Tortellini mit Gemüsefüllung in Pastinakensauce mit Rote Beetewürfeln",
 				"attributes": [
 					"F",
+					"1",
 					"30",
-					"35",
 					"36",
-					"38",
-					"39"
+					"38"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Bulgurpfanne mit Nüssen und Trockenfrüchten",
+				"name": "Mexikanische Couscous-Pfanne an Guacamole-Sauerrahmdip",
 				"attributes": [
-					"V",
+					"F",
+					"1",
 					"3",
 					"30",
-					"37",
-					"38",
-					"39"
+					"36"
 				],
 				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Kartoffeltaschen mit Frischkäse gefüllt an Tomatensahnesauce",
+				"name": "Gebratener Mozzarella an gartenfrischen Salaten mit Balsamico-Vinaigrette und Baguette",
 				"attributes": [
 					"F",
+					"1",
+					"3",
 					"30",
-					"36"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 3.2,
@@ -176,38 +168,37 @@
 		"Angebot 3": {
 			"1": null,
 			"2": {
-				"name": "Großer, bunter Salatteller mit Kartoffelpuffern und Heringssalat",
+				"name": "Ofenfrischer Flammkuchen mit Lachsstreifen, Lauch und Käse",
 				"attributes": [
-					"3",
-					"9",
+					"1",
 					"30",
-					"32",
 					"33",
-					"36",
-					"39"
+					"36"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
 				},
 				"vitalInfo": null
 			},
 			"3": null,
 			"4": {
-				"name": "Asiatische Nudelnpfanne mit Garnelen und Gemüse",
+				"name": "Bratfrisches Seelachsfilet im Maisgrießmantel an Weißweinschaum",
 				"attributes": [
-					"2",
-					"3",
+					"A",
+					"1",
 					"30",
-					"31",
-					"35",
-					"39"
+					"32",
+					"33",
+					"36",
+					"38",
+					"41"
 				],
 				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
