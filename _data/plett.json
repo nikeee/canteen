@@ -32,8 +32,12 @@
 			"2": {
 				"name": "Linseneintopf mit Wurzelgemüse",
 				"attributes": [
-					"V",
-					"38"
+					"F",
+					"A",
+					"30",
+					"36",
+					"38",
+					"40"
 				],
 				"price": {
 					"student": 1.9,
