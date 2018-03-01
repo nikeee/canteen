@@ -201,31 +201,7 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Tofuklopse mit Kapernsauce und Kartoffeln, dazu Salat",
-				"attributes": [
-					"F",
-					"MV",
-					"3",
-					"9",
-					"30",
-					"32",
-					"35",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": {
-					"fat": 24,
-					"carbohydrate": 96,
-					"protein": 32,
-					"calories": 722
-				}
-			},
+			"2": null,
 			"3": {
 				"name": "Vegane Pancakes mit Walnüssen, Ahornsirup und fruchtigem Heidelbeer-Ragout",
 				"attributes": [
