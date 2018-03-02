@@ -185,6 +185,7 @@
 			{
 				"name": "Rustikaler Hessenburger mit Apfelcreme, Rauchfleisch, frischem Meerrettich und hausgemachem Krautsalat",
 				"attributes": [
+					"1",
 					"2",
 					"3",
 					"4",
@@ -192,6 +193,8 @@
 					"30",
 					"36",
 					"38",
+					"40",
+					"41",
 					"S"
 				],
 				"price": {
