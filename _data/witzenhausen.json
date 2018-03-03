@@ -7,33 +7,21 @@
 		}
 	},
 	"validity": {
-		"from": "2018-02-26T00:00:00.000Z",
-		"until": "2018-03-02T00:00:00.000Z"
+		"from": "2018-03-05T00:00:00.000Z",
+		"until": "2018-03-09T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Blumenkohl-Käse-Medaillon an Sauce Bérnaise",
+				"name": "Zwei Hefeklöße mit Ragout von roten Beeren",
 				"attributes": [
 					"F",
+					"1",
+					"3",
 					"30",
 					"32",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Linseneintopf mit Wurzelgemüse",
-				"attributes": [
-					"V",
-					"38"
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -42,11 +30,10 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Rahmspinat mit Rührei",
+			"2": {
+				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
 				"attributes": [
 					"F",
-					"1",
 					"32",
 					"36"
 				],
@@ -57,8 +44,22 @@
 				},
 				"vitalInfo": null
 			},
+			"3": {
+				"name": "Rosmarinkartoffeln mit Tomatencreme",
+				"attributes": [
+					"V",
+					"3",
+					"35"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
 			"4": {
-				"name": "Farfalle Tricolore mit Grünkernragout",
+				"name": "Süßkartoffel-Gnocchi in fruchtiger Tomatensauce",
 				"attributes": [
 					"V",
 					"30"
@@ -71,66 +72,44 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hessisches Schmorgemüse mit Sojastreifen",
+				"name": "Gebackene Brokkoli-Nuggets an Kräuterquark",
 				"attributes": [
-					"V",
+					"F",
 					"30",
+					"32",
 					"35",
+					"36",
 					"38"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Bami Goreng mit Putenstreifen",
+				"name": "Hausgemachter Speckpfannkuchen auf Schmanddip",
 				"attributes": [
+					"2",
 					"30",
 					"32",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Schweinesteak vom Nacken an Kräuterbutter",
-				"attributes": [
 					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Hähnchenbrust mit Chili mariniert auf roter Linsencreme",
+			"2": {
+				"name": "Geschnetzeltes aus der Putenoberkeule in Bärlauchrahm",
 				"attributes": [
 					"1",
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Gulasch von der Putenoberkeule mit Champignons",
-				"attributes": [
 					"3",
 					"30",
 					"32",
@@ -143,56 +122,64 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Hausgemachtes Hacksteak auf Zwiebeljus",
+			"3": {
+				"name": "Gegrilltes Steak vom Schweinerücken auf Portwein-Rahmsauce",
 				"attributes": [
+					"A",
+					"1",
 					"30",
-					"32",
-					"39",
+					"36",
+					"41",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Karibisches Mango-Hühnchen",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Nudelpfanne mit Salami, Schinken und Ei",
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"30",
+					"32",
+					"36",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Kokosmilch-Zitronenreis mit Spinat",
-				"attributes": [
-					"V",
-					"Ö"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Huevos Mexicanos - Rührei mexikanisch mit Tomaten, Zwiebeln und Chili",
-				"attributes": [
-					"F",
-					"Ö",
-					"32"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Tofusteak mit Curry-Ketchupsauce",
+				"name": "Bunte Spirelli mit Zucchini-Currysauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"9",
 					"30",
 					"35",
 					"39"
@@ -204,12 +191,44 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Kartoffelgratin mit Sahne und Käse",
+			"2": {
+				"name": "Geschwenktes Kichererbsen-Linsen-Curry",
+				"attributes": [
+					"V",
+					"Ö",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gekochte Eier in Curry-Gemüsesauce",
 				"attributes": [
 					"F",
 					"Ö",
 					"30",
+					"32",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Pfannkuchen mit Kirschgrütze",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -220,12 +239,13 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Spaghetti mit Karotten-Sellerie-Bolognese",
+				"name": "Asiatische Gemüsepfanne mit Tofu",
 				"attributes": [
 					"V",
 					"Ö",
 					"30",
-					"38"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.9,

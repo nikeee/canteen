@@ -7,33 +7,21 @@
 		}
 	},
 	"validity": {
-		"from": "2018-02-26T00:00:00.000Z",
-		"until": "2018-03-02T00:00:00.000Z"
+		"from": "2018-03-05T00:00:00.000Z",
+		"until": "2018-03-09T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Blumenkohl-Käse-Medaillon an Sauce Bérnaise",
+				"name": "Zwei Hefeklöße mit Ragout von roten Beeren",
 				"attributes": [
 					"F",
+					"1",
+					"3",
 					"30",
 					"32",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Linseneintopf mit Wurzelgemüse",
-				"attributes": [
-					"V",
-					"38"
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -42,11 +30,10 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Rahmspinat mit Rührei",
+			"2": {
+				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
 				"attributes": [
 					"F",
-					"1",
 					"32",
 					"36"
 				],
@@ -57,8 +44,8 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Farfalle Tricolore mit Grünkernragout",
+			"3": {
+				"name": "Süßkartoffel-Gnocchi in fruchtiger Tomatensauce",
 				"attributes": [
 					"V",
 					"30"
@@ -70,67 +57,59 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Hessisches Schmorgemüse mit Sojastreifen",
+			"4": {
+				"name": "Rosmarinkartoffeln mit Tomatencreme",
 				"attributes": [
 					"V",
+					"3",
+					"35"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Gebackene Brokkoli-Nuggets an Kräuterquark",
+				"attributes": [
+					"F",
 					"30",
+					"32",
 					"35",
+					"36",
 					"38"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Bami Goreng mit Hähnchenstreifen",
+				"name": "Hausgemachter Speckpfannkuchen auf Schmanddip",
 				"attributes": [
+					"2",
 					"30",
 					"32",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Schweinesteak vom Nacken an Kräuterbutter",
-				"attributes": [
 					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Hähnchenbrust mit Chili mariniert auf roter Linsencreme",
+			"2": {
+				"name": "Geschnetzeltes aus der Putenoberkeule in Bärlauchrahm",
 				"attributes": [
 					"1",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Gulasch von der Putenoberkeule mit Champignons",
-				"attributes": [
 					"3",
 					"30",
 					"32",
@@ -143,18 +122,54 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Hausgemachtes Hacksteak auf Zwiebeljus",
+			"3": {
+				"name": "Gegrilltes Steak vom Schweinerücken auf Portwein-Rahmsauce",
 				"attributes": [
+					"A",
+					"1",
 					"30",
-					"32",
-					"39",
+					"36",
+					"41",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Karibisches Mango-Hühnchen",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Nudelpfanne mit Salami, Schinken und Ei",
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"30",
+					"32",
+					"36",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			}
