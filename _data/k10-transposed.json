@@ -8,19 +8,145 @@
 		}
 	},
 	"validity": {
-		"from": "2018-02-26T00:00:00.000Z",
-		"until": "2018-03-03T00:00:00.000Z"
+		"from": "2018-03-05T00:00:00.000Z",
+		"until": "2018-03-10T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Herzhafte Krakauer auf Grünkohlgemüse",
+				"name": "Zartes Hähnchenbrustfilet mit Kräutercrumble überbacken an Bratenjus",
 				"attributes": [
+					"30",
+					"32",
+					"35"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Italienische Tagliatelle mit würzigem Kräuterpesto, Tomatenwürfeln und Basamicocreme",
+				"attributes": [
+					"F",
+					"1",
 					"2",
 					"3",
-					"8",
+					"30",
+					"32",
+					"36",
+					"37",
+					"41"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Ungarisches Schweinefleischgulasch in tomatisierter Rotweinsauce",
+				"attributes": [
+					"A",
+					"30",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Ofenrischer Flammkuchen mit Frühlingslauch, roten Zwiebeln und Kirschtomaten",
+				"attributes": [
+					"F",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Feines Ragout von Meeresfrüchten auf Butterbandnudeln",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"31",
+					"33",
+					"36",
 					"38",
+					"41",
+					"43"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 3"
+			}
+		],
+		[
+			{
+				"name": "Gebratenes Hähnchenbrustschnitzel in der Sesamhülle auf fruchtig-scharfer Honigsauce",
+				"attributes": [
+					"30",
+					"32",
+					"35",
 					"39",
+					"40"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Hausgemachte Polentaschnitte gebraten an geschwenktem Retrogemüse",
+				"attributes": [
+					"F",
+					"1",
+					"2",
+					"30",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Steak vom Schweinerücken mit Lauch und Sauce Hollandaise",
+				"attributes": [
+					"32",
+					"36",
 					"S"
 				],
 				"price": {
@@ -32,150 +158,13 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Frisch gerollter Lahmacun mit Blattsalat, Tomate, Gurke und Kräuterjoghurt gefüllt",
+				"name": "Feine Spinatlasagne in milder Knoblauchcreme mit Käse überbacken",
 				"attributes": [
 					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Zartes Kalbsgulasch in Sherryrahmsauce",
-				"attributes": [
-					"A",
-					"30",
-					"36",
-					"41",
-					"R"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Hausgemachter Spinatpfannkuchen an fruchtigem Tomatendip",
-				"attributes": [
-					"F",
-					"30",
-					"32"
-				],
-				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Ofenfrischer Flammkuchen mit Lachsstreifen, Lauch und Käse",
-				"attributes": [
-					"1",
-					"30",
-					"33",
-					"36"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3"
-			}
-		],
-		[
-			{
-				"name": "Goldgelb gebackenes Putenschnitzel in Mandelhülle mit Kirschrahmsauce",
-				"attributes": [
-					"30",
-					"32",
-					"36",
-					"37"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Geschöpfte Tortellini mit Gemüsefüllung in Pastinakensauce mit Rote Beetewürfeln",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Asia-Burger mit Hähnchenbrustfilet, Sprossen und fruchtig scharfem Dip",
-				"attributes": [
-					"30",
-					"35",
-					"40"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Mexikanische Couscous-Pfanne an Guacamole-Sauerrahmdip",
-				"attributes": [
-					"F",
-					"1",
-					"3",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Bratfrisches Seelachsfilet im Maisgrießmantel an Weißweinschaum",
-				"attributes": [
-					"A",
 					"1",
 					"30",
 					"32",
-					"33",
-					"36",
-					"38",
-					"41"
+					"36"
 				],
 				"price": {
 					"student": 3.5,
@@ -183,35 +172,54 @@
 					"visitor": 5.7
 				},
 				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			},
+			{
+				"name": "Kabeljaufilet in Joghurt-Zitrus-Marinade auf Currysahnesauce",
+				"attributes": [
+					"1",
+					"30",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
+				},
+				"vitalInfo": null,
 				"categoryName": "Angebot 3"
 			}
 		],
 		[
 			{
-				"name": "Spanische Paella mit buntem Gemüse und Geflügelstreifen",
-				"attributes": [],
+				"name": "Putenfrikassee mit Erbsen und Spargel",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"36",
+					"41"
+				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Gebratener Mozzarella an gartenfrischen Salaten mit Balsamico-Vinaigrette und Baguette",
+				"name": "Gebackener marinierter Hirtenkäse auf Paprika-Zwiebel-Confit",
 				"attributes": [
 					"F",
-					"1",
-					"3",
-					"30",
-					"36",
-					"39"
+					"36"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
