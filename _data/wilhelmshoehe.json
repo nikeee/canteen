@@ -47,8 +47,11 @@
 			"3": {
 				"name": "Süßkartoffel-Gnocchi in fruchtiger Tomatensauce",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"1",
+					"2",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2,
