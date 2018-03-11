@@ -7,49 +7,52 @@
 		}
 	},
 	"validity": {
-		"from": "2018-03-05T00:00:00.000Z",
-		"until": "2018-03-10T00:00:00.000Z"
+		"from": "2018-03-12T00:00:00.000Z",
+		"until": "2018-03-17T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Zartes Hähnchenbrustfilet mit Kräutercrumble überbacken an Bratenjus",
+				"name": "Zartes Putengeschnetzeltes in Rahmsauce mit grünem Pfeffer",
 				"attributes": [
 					"30",
-					"32",
-					"35"
+					"36"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Ungarisches Schweinefleischgulasch in tomatisierter Rotweinsauce",
+				"name": "Burger mit Beef, Ananas, Käse, Salat und Currydip",
 				"attributes": [
-					"A",
+					"1",
+					"2",
+					"3",
 					"30",
-					"41",
-					"S"
+					"32",
+					"36",
+					"39",
+					"40",
+					"R"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gebratenes Hähnchenbrustschnitzel in der Sesamhülle auf fruchtig-scharfer Honigsauce",
+				"name": "Paniertes Schweineschnitzel an hessischer Kräuter-Schmandsauce",
 				"attributes": [
 					"30",
 					"32",
-					"35",
-					"39",
-					"40"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 3.5,
@@ -59,78 +62,58 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Steak vom Schweinerücken mit Lauch und Sauce Hollandaise",
+				"name": "Ungarische Gulaschsuppe mit Rindfleisch, Paprika und Zwiebeln",
 				"attributes": [
-					"32",
-					"36",
-					"S"
+					"30",
+					"R"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Putenfrikassee mit Erbsen und Spargel",
+				"name": "Hähnchenbrust nach Gyros Art gewürzt mit Zaziki",
 				"attributes": [
-					"A",
-					"1",
-					"30",
 					"36",
-					"41"
+					"38",
+					"39"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			}
 		},
 		"Angebot 2": {
 			"1": {
-				"name": "Italienische Tagliatelle mit würzigem Kräuterpesto, Tomatenwürfeln und Basamicocreme",
+				"name": "Tortellini mit Ricotta-Spinatfüllung in Tomatensauce mit Käse überbacken",
 				"attributes": [
 					"F",
-					"1",
-					"2",
-					"3",
 					"30",
 					"32",
+					"35",
 					"36",
-					"37",
-					"41"
+					"38"
 				],
 				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Ofenrischer Flammkuchen mit Frühlingslauch, roten Zwiebeln und Kirschtomaten",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Hausgemachte Polentaschnitte gebraten an geschwenktem Retrogemüse",
+				"name": "Blumenkohl-Käse-Medaillon an Kräutersauce",
 				"attributes": [
 					"F",
 					"1",
-					"2",
 					"30",
+					"32",
 					"36",
 					"38"
 				],
@@ -141,8 +124,8 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Feine Spinatlasagne in milder Knoblauchcreme mit Käse überbacken",
+			"3": {
+				"name": "Radi-Nudeln in Steinpilzsauce mit Petersilie",
 				"attributes": [
 					"F",
 					"1",
@@ -151,22 +134,40 @@
 					"36"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Griechisches Moussaka mit Kartoffeln, Auberginen und gestocktem Ei",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gebackener marinierter Hirtenkäse auf Paprika-Zwiebel-Confit",
+				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
 					"F",
-					"36"
+					"3",
+					"30",
+					"32"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			}
@@ -174,39 +175,33 @@
 		"Angebot 3": {
 			"1": null,
 			"2": {
-				"name": "Feines Ragout von Meeresfrüchten auf Butterbandnudeln",
+				"name": "Solang der Vorrat reicht.....Ofenfrische Entenkeule auf Orangenjus",
 				"attributes": [
-					"A",
-					"1",
-					"30",
-					"31",
-					"33",
-					"36",
-					"38",
-					"41",
-					"43"
+					"30"
 				],
 				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
+					"student": 5.5,
+					"employee": 6.8,
+					"visitor": 7.7
 				},
 				"vitalInfo": null
 			},
 			"3": null,
 			"4": {
-				"name": "Kabeljaufilet in Joghurt-Zitrus-Marinade auf Currysahnesauce",
+				"name": "Paniertes Fischfilet an hausgemachter Remouladensauce",
 				"attributes": [
-					"1",
+					"3",
+					"9",
 					"30",
+					"32",
 					"33",
 					"36",
 					"39"
 				],
 				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null
 			},
