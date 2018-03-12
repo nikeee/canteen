@@ -198,7 +198,78 @@
 				"categoryName": "Essen 3 oder 4"
 			}
 		],
-		[],
+		[
+			{
+				"name": "Hausgemachter Spinatpfannkuchen auf Knoblauchdip",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hähnchenbrust mit Sauce Café de Paris",
+				"attributes": [
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Paniertes Schweineschnitzel an Rahmsauce mit Austernpilzen",
+				"attributes": [
+					"1",
+					"30",
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 3 oder 4"
+			},
+			{
+				"name": "Chili sin Carne mit Kräuterreis",
+				"attributes": [
+					"V",
+					"MV",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": {
+					"fat": 18,
+					"carbohydrate": 84,
+					"protein": 31,
+					"calories": 629
+				},
+				"categoryName": "Angebot des Tages I"
+			}
+		],
 		[
 			{
 				"name": "Orientalische Linsenpfanne mit buntem Gemüse",
