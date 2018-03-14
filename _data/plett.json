@@ -110,7 +110,9 @@
 				"name": "Gnocchi in Béchamelsauce mit Putenfleisch",
 				"attributes": [
 					"1",
+					"2",
 					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -189,6 +191,7 @@
 					"32",
 					"39",
 					"41",
+					"R",
 					"S"
 				],
 				"price": {
