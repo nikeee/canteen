@@ -154,53 +154,7 @@
 				"categoryName": "Angebot des Tages I"
 			}
 		],
-		[
-			{
-				"name": "Dattel-Aprikosen-Pilaw",
-				"attributes": [
-					"V",
-					"3",
-					"41"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gebackener Alaska-Seelachs an Schnittlauchdip",
-				"attributes": [
-					"30",
-					"33",
-					"36"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Braumeister Gulasch",
-				"attributes": [
-					"A",
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 3 oder 4"
-			}
-		],
+		[],
 		[
 			{
 				"name": "Hausgemachter Spinatpfannkuchen auf Knoblauchdip",
