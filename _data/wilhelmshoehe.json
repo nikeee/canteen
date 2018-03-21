@@ -27,21 +27,7 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Berner Riesenrösti mit buntem Béchamelgemüse",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": {
 				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
 				"attributes": [
@@ -103,21 +89,7 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Hähnchenbrust mit Pesto Rosso mariniert auf Cremesauce",
-				"attributes": [
-					"1",
-					"30",
-					"36",
-					"37"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": {
 				"name": "Wellenbandnudeln mit feurigem Chili con Carne",
 				"attributes": [
@@ -203,27 +175,7 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Tomaten-Chili-Knoblauchspaghetti mit Tofu",
-				"attributes": [
-					"V",
-					"MV",
-					"6",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": {
-					"fat": 23,
-					"carbohydrate": 85,
-					"protein": 23,
-					"calories": 640
-				}
-			},
+			"2": null,
 			"3": {
 				"name": "Linsenbratling mit Joghurtdip, Chilikartoffeln und Salat",
 				"attributes": [
@@ -305,20 +257,7 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Gebratenes Schollenfilet mit zerlassener Butter, Speck und Zwiebeln",
-				"attributes": [
-					"30",
-					"32",
-					"33"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": {
 				"name": "Gegrillte Medaillons vom Schweinefilet auf Mangold in Tomatensauce",
 				"attributes": [
