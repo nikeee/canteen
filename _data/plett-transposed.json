@@ -198,7 +198,10 @@
 				"attributes": [
 					"1",
 					"30",
+					"35",
 					"36",
+					"38",
+					"39",
 					"S"
 				],
 				"price": {
@@ -229,6 +232,7 @@
 				"name": "Quesadilla mit tomatisiertem Ragout von Linsen und Sour Cream",
 				"attributes": [
 					"F",
+					"2",
 					"30",
 					"36"
 				],
