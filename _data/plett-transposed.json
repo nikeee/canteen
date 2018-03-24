@@ -8,125 +8,16 @@
 		}
 	},
 	"validity": {
-		"from": "2018-03-19T00:00:00.000Z",
-		"until": "2018-03-23T00:00:00.000Z"
+		"from": "2018-03-26T00:00:00.000Z",
+		"until": "2018-03-30T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Gemüsebällchen auf Schmanddip mit Preiselbeeren",
-				"attributes": [
-					"F",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gegrillter Fleischkäse auf Jägersauce",
-				"attributes": [
-					"2",
-					"3",
-					"8",
-					"30",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Fladenbrot-Ratatouille-Pizza",
+				"name": "Schupfnudelpfanne mit Spitzkohl",
 				"attributes": [
 					"V",
 					"1",
-					"30",
-					"35",
-					"40"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot des Tages I"
-			}
-		],
-		[
-			{
-				"name": "Berner Riesenrösti mit buntem Béchamelgemüse",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hähnchenbrust mit Pesto Rosso mariniert auf Cremesauce",
-				"attributes": [
-					"1",
-					"3",
-					"30",
-					"32",
-					"36",
-					"37"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Tomaten-Chili-Knoblauchspaghetti mit Tofu",
-				"attributes": [
-					"V",
-					"MV",
-					"6",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": {
-					"fat": 23,
-					"carbohydrate": 85,
-					"protein": 23,
-					"calories": 640
-				},
-				"categoryName": "Angebot des Tages I"
-			}
-		],
-		[
-			{
-				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
-				"attributes": [
-					"V",
 					"30"
 				],
 				"price": {
@@ -138,11 +29,12 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Wellenbandnudeln mit feurigem Chili con Carne",
+				"name": "Hähnchenbrust in Green-Thaicurrysauce",
 				"attributes": [
-					"30",
-					"32",
-					"R"
+					"1",
+					"2",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.6,
@@ -153,55 +45,47 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Linsenbratling mit Joghurtdip, Chilikartoffeln und Salat",
+				"name": "Hessischer Wrap mit Kassler, hausgemachtem Krautsalat und Senfsauce",
 				"attributes": [
-					"F",
-					"MV",
+					"2",
+					"3",
+					"4",
+					"8",
 					"30",
-					"32",
 					"36",
-					"40"
+					"39",
+					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
-				"vitalInfo": {
-					"fat": 23,
-					"carbohydrate": 91,
-					"protein": 31,
-					"calories": 706
-				},
+				"vitalInfo": null,
 				"categoryName": "Angebot des Tages I"
 			}
 		],
 		[
 			{
-				"name": "Pfannkuchen auf Erdbeermark und Vanillesauce",
+				"name": "Pfannenfrische Gemüsepaella",
 				"attributes": [
-					"V",
-					"1",
-					"30",
-					"35"
+					"V"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Asia-Schweinefleischstreifen in Red-Thaicurrysauce",
+				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
 				"attributes": [
 					"1",
+					"2",
 					"30",
-					"35",
 					"36",
-					"38",
-					"39",
 					"S"
 				],
 				"price": {
@@ -213,12 +97,11 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Gebackenes Putenschnitzel auf Gorgonzolasauce",
+				"name": "Gebackenes Putenschnitzel im Kokoskleid auf hausgemachtem Mangochutney",
 				"attributes": [
-					"1",
+					"3",
 					"30",
-					"32",
-					"36"
+					"32"
 				],
 				"price": {
 					"student": 3.5,
@@ -229,11 +112,117 @@
 				"categoryName": "Essen 3 oder 4"
 			},
 			{
-				"name": "Quesadilla mit tomatisiertem Ragout von Linsen und Sour Cream",
+				"name": "Seehechtfilet auf Gemüse und Kräuterkartoffeln, dazu Joghurt",
+				"attributes": [
+					"MV",
+					"30",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": {
+					"fat": 20,
+					"carbohydrate": 73,
+					"protein": 39,
+					"calories": 651
+				},
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Pastasotto mit Strauchtomaten und Rucola",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gegrilltes Schweinekotelett mit Schwarzbierjus",
+				"attributes": [
+					"A",
+					"30",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Hähnchenbrust mit Tomaten-Mozzarella-Kruste, dazu Brokkoli und Curryreis",
+				"attributes": [
+					"MV",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": {
+					"fat": 25,
+					"carbohydrate": 83,
+					"protein": 47,
+					"calories": 746
+				},
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Indisch Aloo Matar mit Kartoffeln und Erbsen",
+				"attributes": [
+					"V",
+					"39"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Fischstäbchen mit Remouladensauce",
+				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Hessische Grüne Sauce mit drei halben Eiern und Salzkartoffeln",
 				"attributes": [
 					"F",
-					"2",
-					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -247,13 +236,8 @@
 		],
 		[
 			{
-				"name": "Süßkartoffelsuppe mit Rote Bete",
-				"attributes": [
-					"V",
-					"1",
-					"30",
-					"35"
-				],
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
 				"price": {
 					"student": 2,
 					"employee": 3.3,
@@ -261,46 +245,6 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gefülltes hessisches Kraut auf Béchamelsauce",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Seelachs mit Dill-Senfsauce, Salbeimöhren und Wildreis",
-				"attributes": [
-					"MV",
-					"30",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": {
-					"fat": 20,
-					"carbohydrate": 85,
-					"protein": 39,
-					"calories": 682
-				},
-				"categoryName": "Angebot des Tages I"
 			}
 		]
 	]

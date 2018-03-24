@@ -7,46 +7,19 @@
 		}
 	},
 	"validity": {
-		"from": "2018-03-19T00:00:00.000Z",
-		"until": "2018-03-23T00:00:00.000Z"
+		"from": "2018-03-26T00:00:00.000Z",
+		"until": "2018-03-30T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Gemüsebällchen auf Schmanddip mit Preiselbeeren",
-				"attributes": [
-					"F",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Berner Riesenrösti mit buntem Béchamelgemüse",
+				"name": "Schupfnudelpfanne mit Spitzkohl",
 				"attributes": [
 					"F",
 					"1",
 					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
-				"attributes": [
-					"V",
-					"30"
+					"32"
 				],
 				"price": {
 					"student": 2,
@@ -55,30 +28,47 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Pfannkuchen auf Erdbeermark und Vanillesauce",
+			"2": {
+				"name": "Pfannenfrische Gemüsepaella",
 				"attributes": [
-					"V",
-					"1",
-					"30",
-					"35"
+					"V"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Pastasotto mit Strauchtomaten und Rucola",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Indisch Aloo Matar mit Kartoffeln und Erbsen",
+				"attributes": [
+					"V",
+					"39"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Süßkartoffelsuppe mit Rote Bete",
-				"attributes": [
-					"V",
-					"1",
-					"30",
-					"35",
-					"39"
-				],
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
 				"price": {
 					"student": 2,
 					"employee": 3.3,
@@ -89,56 +79,26 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Gegrillter Fleischkäse auf Jägersauce",
+				"name": "Hähnchenbrust in Green-Thaicurrysauce",
 				"attributes": [
+					"1",
 					"2",
-					"3",
-					"8",
-					"30",
-					"R",
-					"S"
+					"36",
+					"38"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hähnchenbrust mit Pesto Rosso mariniert auf Cremesauce",
+				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
 				"attributes": [
 					"1",
 					"2",
 					"30",
-					"36",
-					"37"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Wellenbandnudeln mit feurigem Chili con Carne",
-				"attributes": [
-					"30",
-					"32",
-					"R"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Asia-Schweinefleischstreifen in Red-Thaicurrysauce",
-				"attributes": [
-					"1",
 					"36",
 					"S"
 				],
@@ -149,23 +109,39 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Gefülltes hessisches Kraut auf Béchamelsauce",
+			"3": {
+				"name": "Gegrilltes Schweinekotelett mit Schwarzbierjus",
 				"attributes": [
-					"1",
+					"A",
 					"30",
-					"32",
-					"36",
-					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
-			}
+			},
+			"4": {
+				"name": "Fischstäbchen mit Remouladensauce",
+				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": null
 		}
 	}
 }
