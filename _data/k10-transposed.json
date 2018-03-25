@@ -8,20 +8,35 @@
 		}
 	},
 	"validity": {
-		"from": "2018-03-19T00:00:00.000Z",
-		"until": "2018-03-24T00:00:00.000Z"
+		"from": "2018-03-26T00:00:00.000Z",
+		"until": "2018-03-31T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Rindfleischstreifen in Erdnuss-Zwiebelsauce",
+				"name": "Altbayerisches Bierfleisch",
 				"attributes": [
-					"1",
+					"A",
+					"2",
 					"30",
-					"32",
-					"34",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Börek mit Spinat und Hirtenkäse gefüllt an griechischem Zaziki",
+				"attributes": [
+					"F",
+					"30",
 					"36",
-					"R"
+					"40"
 				],
 				"price": {
 					"student": 4,
@@ -29,67 +44,48 @@
 					"visitor": 6.2
 				},
 				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Schupfnudelauflauf in feiner Spinatcreme mit Käse überbacken",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			}
 		],
 		[
 			{
-				"name": "Grillfrische Bratwurst an klassischer Curry-Ketchupsauce",
+				"name": "Stifado - Griechisches Rinderragout mit Gemüse und Zimt",
 				"attributes": [
-					"3",
-					"8",
-					"38",
-					"39",
-					"S"
+					"R"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Minestrone - Italienische Gemüsesuppe",
+				"name": "Schwäbische Spätzle mit Röstzwiebeln und Käsesauce",
 				"attributes": [
-					"V",
+					"F",
+					"1",
 					"30",
-					"38"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			},
 			{
-				"name": "Flammkuchen mit Mais, roten Bohnen und Gouda",
+				"name": "Ofenfrisches Pizzarad mit Champignons und Sauce Hollandaise",
 				"attributes": [
 					"F",
 					"30",
-					"36",
-					"38"
+					"32",
+					"35",
+					"36"
 				],
 				"price": {
 					"student": 4.5,
@@ -102,47 +98,11 @@
 		],
 		[
 			{
-				"name": "Putenschnitzel in Kokoshülle an hausgemachtem Ananaschutney",
+				"name": "Frisch gebratenes Hähnchenbrustschnitzel auf cremiger Aprikosenrahmsauce",
 				"attributes": [
-					"30",
-					"32"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Mini Frühlingsröllchen auf asiatischer Zwiebelsauce",
-				"attributes": [
-					"F",
-					"1",
-					"3",
 					"30",
 					"32",
-					"35",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Rahmgeschnetzeltes aus der Schweinekeule",
-				"attributes": [
-					"30",
-					"36",
-					"S"
+					"36"
 				],
 				"price": {
 					"student": 3.5,
@@ -153,71 +113,69 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Tofu-Ragout mit Paprika und Zwiebeln",
+				"name": "Vegane Soljanka mit Gurke, Paprika und Tofu",
 				"attributes": [
 					"V",
+					"9",
+					"30",
 					"35"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
-			},
-			{
-				"name": "Frisch gegrilltes Rumpsteak auf Portweinjus",
-				"attributes": [
-					"A",
-					"30",
-					"41",
-					"R"
-				],
-				"price": {
-					"student": 7,
-					"employee": 8.3,
-					"visitor": 9.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 3"
 			}
 		],
 		[
 			{
-				"name": "Fischfrikassee mit Champignons und Erbsen",
+				"name": "Paniertes Seelachsfilet auf Remouladensauce",
 				"attributes": [
-					"A",
-					"1",
+					"3",
+					"9",
 					"30",
+					"32",
 					"33",
-					"38",
-					"41"
+					"36",
+					"39"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Asiatische Gemüsepfanne mit Nudeln",
+				"name": "Grüne Sauce mit frischen Eiern und Salzkartoffeln",
 				"attributes": [
 					"F",
-					"3",
-					"30",
 					"32",
-					"39"
+					"36"
 				],
 				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
 			}
 		]
 	]
