@@ -34,7 +34,8 @@
 					"1",
 					"2",
 					"36",
-					"38"
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 2.6,
@@ -53,6 +54,7 @@
 					"8",
 					"30",
 					"36",
+					"38",
 					"39",
 					"S"
 				],
@@ -221,7 +223,75 @@
 				"categoryName": "Angebot des Tages II"
 			}
 		],
-		[],
+		[
+			{
+				"name": "Indisch Aloo Matar mit Kartoffeln und Erbsen",
+				"attributes": [
+					"V",
+					"39"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Fischstäbchen mit Remouladensauce",
+				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Hessische Grüne Sauce mit drei halben Eiern und Salzkartoffeln",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot des Tages I"
+			},
+			{
+				"name": "Klassischer Burger mit Beef, Salat und Hot-Salsadip",
+				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
+					"36",
+					"39",
+					"R"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot des Tages II"
+			}
+		],
 		[
 			{
 				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
