@@ -146,6 +146,7 @@
 				"name": "Pastasotto mit Strauchtomaten und Rucola",
 				"attributes": [
 					"V",
+					"1",
 					"30"
 				],
 				"price": {
@@ -160,6 +161,7 @@
 				"name": "Gegrilltes Schweinekotelett mit Schwarzbierjus",
 				"attributes": [
 					"A",
+					"1",
 					"30",
 					"S"
 				],
@@ -175,6 +177,7 @@
 				"name": "Hähnchenbrust mit Tomaten-Mozzarella-Kruste, dazu Brokkoli und Curryreis",
 				"attributes": [
 					"MV",
+					"1",
 					"30",
 					"36"
 				],
