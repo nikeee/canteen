@@ -204,23 +204,25 @@
 				"categoryName": "Angebot des Tages"
 			},
 			{
-				"name": "Frisch gewolfter Kartoffelstampf mit asiatischer Sesam-Sojasauce und knackigem Gemüse",
+				"name": "Seehecht Spitzkohl Béchamelsauce",
 				"attributes": [
-					"V",
+					"MV",
 					"1",
-					"3",
 					"30",
-					"35",
-					"39",
-					"40",
-					"41"
+					"33",
+					"36"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
-				"vitalInfo": null,
+				"vitalInfo": {
+					"fat": 0,
+					"carbohydrate": 0,
+					"protein": 0,
+					"calories": 0
+				},
 				"categoryName": "Wok/Grill"
 			}
 		],
