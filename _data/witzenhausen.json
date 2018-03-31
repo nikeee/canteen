@@ -7,42 +7,43 @@
 		}
 	},
 	"validity": {
-		"from": "2018-03-26T00:00:00.000Z",
-		"until": "2018-03-30T00:00:00.000Z"
+		"from": "2018-04-02T00:00:00.000Z",
+		"until": "2018-04-06T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Indisch Aloo Matar mit Kartoffeln und Erbsen",
-				"attributes": [
-					"V",
-					"39"
-				],
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Pfannenfrische Gemüsepaella",
+				"name": "Hausgemachter Kürbis-Pfannkuchen auf Soja-Joghurtdip",
 				"attributes": [
-					"V"
+					"V",
+					"3",
+					"30",
+					"35"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Pastasotto mit Strauchtomaten und Rucola",
+				"name": "Ofenfrisches Hirtenkäsesteak mit Rahmspinat",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"1",
+					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -52,10 +53,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Schupfnudelpfanne mit Spitzkohl",
+				"name": "Kritharakisalat mit buntem Gemüse, dazu Baguette",
 				"attributes": [
 					"V",
-					"1",
+					"3",
+					"6",
 					"30"
 				],
 				"price": {
@@ -66,24 +68,29 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
+				"name": "Hausgemachte Polenta à la Crème auf tomatisierter Bratzucchini",
+				"attributes": [
+					"V",
+					"1",
+					"35",
+					"38"
+				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
-			"1": {
-				"name": "Hähnchenbrust in Green-Thaicurrysauce",
+			"1": null,
+			"2": {
+				"name": "Hähnchenbrust mit Béchamelkartoffeln",
 				"attributes": [
 					"1",
-					"2",
-					"36",
-					"38"
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.6,
@@ -92,13 +99,10 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
+			"3": {
+				"name": "Texanisches feuriges Chili con Carne",
 				"attributes": [
-					"1",
-					"2",
 					"30",
-					"36",
 					"S"
 				],
 				"price": {
@@ -108,11 +112,14 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Gegrilltes Schweinekotelett mit Schwarzbierjus",
+			"4": {
+				"name": "Gebratene Asianudeln mit Sesam-Schweinefleisch und Gemüse",
 				"attributes": [
-					"A",
 					"30",
+					"35",
+					"38",
+					"39",
+					"40",
 					"S"
 				],
 				"price": {
@@ -122,47 +129,32 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Fischstäbchen mit Remouladensauce",
+			"5": {
+				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
 				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
-					"33",
+					"1",
 					"36",
-					"39"
+					"38",
+					"39",
+					"R"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
-			},
-			"5": null
+			}
 		},
 		"Bio-Essen": {
-			"1": {
-				"name": "Spaghetti in Blattspinat",
+			"1": null,
+			"2": {
+				"name": "Spaghetti in Tomatensauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"30"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Backkartoffeln mit Kräuterquark",
-				"attributes": [
-					"F",
-					"Ö",
-					"36"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -172,12 +164,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Indisches Zucchini-Curry",
+				"name": "Gegrillte Ofenkartoffel mit Gemüse",
 				"attributes": [
 					"V",
 					"Ö",
-					"35",
-					"39"
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -187,10 +178,24 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Grüne Sauce mit gekochten Eier",
+				"name": "Mexikanische Gemüsepfanne mit Chilisauce",
+				"attributes": [
+					"V",
+					"Ö"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Allgäuer Käsespätzle mit Röstzwiebeln",
 				"attributes": [
 					"F",
 					"Ö",
+					"30",
 					"32",
 					"36"
 				],
@@ -200,8 +205,7 @@
 					"visitor": 5.1
 				},
 				"vitalInfo": null
-			},
-			"5": null
+			}
 		},
 		"Aktions-Essen": {
 			"1": null,

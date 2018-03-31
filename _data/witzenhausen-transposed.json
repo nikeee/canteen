@@ -8,203 +8,10 @@
 		}
 	},
 	"validity": {
-		"from": "2018-03-26T00:00:00.000Z",
-		"until": "2018-03-30T00:00:00.000Z"
+		"from": "2018-04-02T00:00:00.000Z",
+		"until": "2018-04-06T00:00:00.000Z"
 	},
 	"days": [
-		[
-			{
-				"name": "Indisch Aloo Matar mit Kartoffeln und Erbsen",
-				"attributes": [
-					"V",
-					"39"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hähnchenbrust in Green-Thaicurrysauce",
-				"attributes": [
-					"1",
-					"2",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Spaghetti in Blattspinat",
-				"attributes": [
-					"V",
-					"Ö",
-					"30"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Pfannenfrische Gemüsepaella",
-				"attributes": [
-					"V"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
-				"attributes": [
-					"1",
-					"2",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Backkartoffeln mit Kräuterquark",
-				"attributes": [
-					"F",
-					"Ö",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Pastasotto mit Strauchtomaten und Rucola",
-				"attributes": [
-					"V",
-					"30"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gegrilltes Schweinekotelett mit Schwarzbierjus",
-				"attributes": [
-					"A",
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Indisches Zucchini-Curry",
-				"attributes": [
-					"V",
-					"Ö",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Schupfnudelpfanne mit Spitzkohl",
-				"attributes": [
-					"V",
-					"1",
-					"30"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Fischstäbchen mit Remouladensauce",
-				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Grüne Sauce mit gekochten Eier",
-				"attributes": [
-					"F",
-					"Ö",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
 		[
 			{
 				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
@@ -216,6 +23,203 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
+			}
+		],
+		[
+			{
+				"name": "Hausgemachter Kürbis-Pfannkuchen auf Soja-Joghurtdip",
+				"attributes": [
+					"V",
+					"3",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hähnchenbrust mit Béchamelkartoffeln",
+				"attributes": [
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Spaghetti in Tomatensauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Ofenfrisches Hirtenkäsesteak mit Rahmspinat",
+				"attributes": [
+					"F",
+					"1",
+					"36"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Texanisches feuriges Chili con Carne",
+				"attributes": [
+					"30",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Gegrillte Ofenkartoffel mit Gemüse",
+				"attributes": [
+					"V",
+					"Ö",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Kritharakisalat mit buntem Gemüse, dazu Baguette",
+				"attributes": [
+					"V",
+					"3",
+					"6",
+					"30"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gebratene Asianudeln mit Sesam-Schweinefleisch und Gemüse",
+				"attributes": [
+					"30",
+					"35",
+					"38",
+					"39",
+					"40",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Mexikanische Gemüsepfanne mit Chilisauce",
+				"attributes": [
+					"V",
+					"Ö"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Hausgemachte Polenta à la Crème auf tomatisierter Bratzucchini",
+				"attributes": [
+					"V",
+					"1",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
+				"attributes": [
+					"1",
+					"36",
+					"38",
+					"39",
+					"R"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Allgäuer Käsespätzle mit Röstzwiebeln",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
 			}
 		]
 	]
