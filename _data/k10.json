@@ -7,91 +7,56 @@
 		}
 	},
 	"validity": {
-		"from": "2018-03-26T00:00:00.000Z",
-		"until": "2018-03-31T00:00:00.000Z"
+		"from": "2018-04-02T00:00:00.000Z",
+		"until": "2018-04-07T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Altbayerisches Bierfleisch",
-				"attributes": [
-					"A",
-					"2",
-					"30",
-					"39",
-					"S"
-				],
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Stifado - Griechisches Rinderragout mit Gemüse und Zimt",
+				"name": "Goldgelb gebackene Chicken-Crossies mit fruchtiger Basilikum-Tomatensauce",
 				"attributes": [
-					"R"
+					"30"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Frisch gebratenes Hähnchenbrustschnitzel auf cremiger Aprikosenrahmsauce",
+				"name": "Paniertes Schweineschnitzel an Rahmsauce",
 				"attributes": [
 					"30",
 					"32",
-					"36"
+					"36",
+					"S"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Paniertes Seelachsfilet auf Remouladensauce",
+				"name": "Rindergeschnetzeltes Mediterrane Art",
 				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
-				},
-				"vitalInfo": null
-			}
-		},
-		"Angebot 2": {
-			"1": {
-				"name": "Börek mit Spinat und Hirtenkäse gefüllt an griechischem Zaziki",
-				"attributes": [
-					"F",
+					"4",
 					"30",
 					"36",
-					"40"
+					"R"
 				],
 				"price": {
 					"student": 4,
@@ -100,8 +65,28 @@
 				},
 				"vitalInfo": null
 			},
+			"5": {
+				"name": "Norddeutscher Heringsstipp vom Bismarckhering mit Apfel, Gurke, Zwiebel und Dill",
+				"attributes": [
+					"3",
+					"9",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null
+			}
+		},
+		"Angebot 2": {
+			"1": null,
 			"2": {
-				"name": "Schwäbische Spätzle mit Röstzwiebeln und Käsesauce",
+				"name": "Italienische Kartoffelgnocchi in Champignonsahnesauce",
 				"attributes": [
 					"F",
 					"1",
@@ -117,56 +102,72 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Vegane Soljanka mit Gurke, Paprika und Tofu",
+				"name": "Vegetarischer Lahmacun mit Salat und Tomaten",
 				"attributes": [
-					"V",
-					"9",
+					"F",
 					"30",
-					"35"
+					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Grüne Sauce mit frischen Eiern und Salzkartoffeln",
+				"name": "Quarkkeulchen mit Apfelmus",
 				"attributes": [
 					"F",
+					"3",
+					"30",
 					"32",
 					"36"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null
 			},
-			"5": null
-		},
-		"Angebot 3": {
-			"1": null,
-			"2": {
-				"name": "Ofenfrisches Pizzarad mit Champignons und Sauce Hollandaise",
+			"5": {
+				"name": "Gebackene Gemüsekroketten mit Sauce Hollandaise",
 				"attributes": [
 					"F",
 					"30",
 					"32",
-					"35",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			}
+		},
+		"Angebot 3": {
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": {
+				"name": "Hausgemachter Spinatpfannkuchen auf Béchamelsauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
 					"36"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
 			},
-			"3": null,
-			"4": null,
 			"5": null
 		}
 	}
