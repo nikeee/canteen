@@ -38,20 +38,7 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Ofenfrisches Hirtenkäsesteak mit Rahmspinat",
-				"attributes": [
-					"F",
-					"1",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
+			"3": null,
 			"4": {
 				"name": "Kritharakisalat mit buntem Gemüse, dazu Baguette",
 				"attributes": [
@@ -99,19 +86,7 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Texanisches feuriges Chili con Carne",
-				"attributes": [
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
+			"3": null,
 			"4": {
 				"name": "Gebratene Asianudeln mit Sesam-Schweinefleisch und Gemüse",
 				"attributes": [
@@ -163,20 +138,7 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Gegrillte Ofenkartoffel mit Gemüse",
-				"attributes": [
-					"V",
-					"Ö",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
+			"3": null,
 			"4": {
 				"name": "Mexikanische Gemüsepfanne mit Chilisauce",
 				"attributes": [
