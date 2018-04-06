@@ -58,10 +58,12 @@
 				"name": "Kritharakisalat mit buntem Gemüse, dazu Baguette",
 				"attributes": [
 					"F",
+					"1",
 					"3",
 					"6",
 					"30",
 					"36",
+					"40",
 					"42"
 				],
 				"price": {
@@ -121,6 +123,7 @@
 			"4": {
 				"name": "Gebratene Asianudeln mit Sesam-Schweinefleisch und Gemüse",
 				"attributes": [
+					"2",
 					"30",
 					"35",
 					"38",
@@ -217,6 +220,7 @@
 				"name": "Kartoffelpfanne Korsika mit Hähnchenstreifen, dazu eine Banane",
 				"attributes": [
 					"MV",
+					"6",
 					"36"
 				],
 				"price": {
