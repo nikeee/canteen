@@ -7,43 +7,36 @@
 		}
 	},
 	"validity": {
-		"from": "2018-04-02T00:00:00.000Z",
-		"until": "2018-04-06T00:00:00.000Z"
+		"from": "2018-04-09T00:00:00.000Z",
+		"until": "2018-04-13T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
+				"name": "Backfrischer Mohn-Pfannkuchen auf hausgemachtem Birnenragout",
+				"attributes": [
+					"F",
+					"1",
+					"3",
+					"30",
+					"32",
+					"36"
+				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hausgemachter Kürbis-Pfannkuchen auf Soja-Joghurtdip",
+				"name": "Mexikanische Couscous-Pfanne an scharfem Dip",
 				"attributes": [
 					"V",
 					"3",
 					"30",
 					"35"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Ofenfrisches Hirtenkäsesteak mit Rahmspinat",
-				"attributes": [
-					"F",
-					"1",
-					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -52,58 +45,57 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Kritharakisalat mit buntem Gemüse, dazu Baguette",
+			"3": {
+				"name": "Italienische Penne in Steinpilz-Rahmsauce",
 				"attributes": [
-					"V",
-					"3",
-					"6",
-					"30"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Hausgemachte Polenta à la Crème auf tomatisierter Bratzucchini",
-				"attributes": [
-					"V",
-					"1",
-					"35",
-					"38"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
-			}
-		},
-		"Essen 2": {
-			"1": null,
-			"2": {
-				"name": "Hähnchenbrust mit Béchamelkartoffeln",
-				"attributes": [
+					"F",
 					"1",
 					"30",
 					"36"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Texanisches feuriges Chili con Carne",
+			"4": {
+				"name": "Ofenkartoffel mit hessischem Ratatouille",
+				"attributes": [
+					"V",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Lauchkuchen mit Schmand und roten Zwiebeln",
+				"attributes": [
+					"F",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			}
+		},
+		"Essen 2": {
+			"1": {
+				"name": "Ofenfrische Geflügelfrikadelle an Jus mit grünem Pfeffer",
 				"attributes": [
 					"30",
-					"S"
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -112,14 +104,34 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Gebratene Asianudeln mit Sesam-Schweinefleisch und Gemüse",
+			"2": {
+				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
+				"attributes": [],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Geschwenkte Schweinefleischstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
-					"30",
-					"35",
-					"38",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Schweinenackenbraten an Schmanddip mit süßem Senf",
+				"attributes": [
+					"36",
 					"39",
-					"40",
 					"S"
 				],
 				"price": {
@@ -130,55 +142,27 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
+				"name": "Käse-Spätzlepfanne mit Speck",
 				"attributes": [
 					"1",
+					"2",
+					"3",
+					"30",
+					"32",
 					"36",
-					"38",
-					"39",
-					"R"
+					"S"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
-			"1": null,
-			"2": {
-				"name": "Spaghetti in Tomatensauce",
-				"attributes": [
-					"V",
-					"Ö",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Gegrillte Ofenkartoffel mit Gemüse",
-				"attributes": [
-					"V",
-					"Ö",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Mexikanische Gemüsepfanne mit Chilisauce",
+			"1": {
+				"name": "Bunte Bohnenpfanne mit Tomaten, Kartoffeln und Zwiebeln",
 				"attributes": [
 					"V",
 					"Ö"
@@ -190,14 +174,57 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Allgäuer Käsespätzle mit Röstzwiebeln",
+			"2": {
+				"name": "Spaghetti mit Tomatenwürfeln und Rucolapesto",
 				"attributes": [
 					"F",
 					"Ö",
 					"30",
-					"32",
 					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Griechischer Reistaler mit Tomatensauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Nudeln mit Soja-Bolognese",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Kartoffel-Spinatcurry",
+				"attributes": [
+					"V",
+					"Ö",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -208,11 +235,81 @@
 			}
 		},
 		"Aktions-Essen": {
-			"1": null,
-			"2": null,
-			"3": null,
-			"4": null,
-			"5": null
+			"1": {
+				"name": "Braumeister Gulasch mit zwei Kartoffelklößen",
+				"attributes": [
+					"A",
+					"3",
+					"30",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Hessisches Weckewerk mit Backkartoffeln und Gurke",
+				"attributes": [
+					"2",
+					"9",
+					"30",
+					"38",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Frisch gebratenes Hähnchenbrustschnitzel auf Pfeffer-Rahmsauce",
+				"attributes": [
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Stifado - Griechisches Rinderragout mit Gemüse und Zimt",
+				"attributes": [
+					"R"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Bratheringsfilets mit frischen Zwiebeln, Essiggurke und Bratkartoffeln",
+				"attributes": [
+					"9",
+					"30",
+					"33",
+					"39"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			}
 		}
 	}
 }

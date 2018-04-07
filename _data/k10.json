@@ -148,26 +148,11 @@
 				"vitalInfo": null
 			}
 		},
-		"Angebot 3": {
+		"": {
 			"1": null,
 			"2": null,
 			"3": null,
-			"4": {
-				"name": "Hausgemachter Spinatpfannkuchen auf Béchamelsauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
-			},
+			"4": null,
 			"5": null
 		}
 	}
