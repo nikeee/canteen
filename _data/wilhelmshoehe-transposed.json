@@ -49,10 +49,13 @@
 			{
 				"name": "Spaghetti mit Kürbis-Soja-Bolognese",
 				"attributes": [
-					"V",
+					"F",
 					"MV",
+					"1",
+					"2",
 					"30",
-					"35"
+					"35",
+					"36"
 				],
 				"price": {
 					"student": 2.5,
