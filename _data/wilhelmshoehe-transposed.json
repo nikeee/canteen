@@ -111,7 +111,11 @@
 			},
 			{
 				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
-				"attributes": [],
+				"attributes": [
+					"1",
+					"3",
+					"9"
+				],
 				"price": {
 					"student": 2.5,
 					"employee": 3.8,
