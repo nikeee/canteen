@@ -12,7 +12,64 @@
 		"until": "2018-04-13T00:00:00.000Z"
 	},
 	"days": [
-		[],
+		[
+			{
+				"name": "Backfrischer Mohn-Pfannkuchen auf hausgemachtem Birnenragout",
+				"attributes": [
+					"F",
+					"1",
+					"3",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Ofenfrische Geflügelfrikadelle an Jus mit grünen Pfefferbeeren",
+				"attributes": [
+					"1",
+					"30",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Spaghetti mit Kürbis-Soja-Bolognese",
+				"attributes": [
+					"V",
+					"MV",
+					"1",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": {
+					"fat": 21,
+					"carbohydrate": 98,
+					"protein": 39,
+					"calories": 749
+				},
+				"categoryName": "Angebot des Tages I"
+			}
+		],
 		[
 			{
 				"name": "Mexikanische Couscous-Pfanne an scharfem Dip",
@@ -114,6 +171,7 @@
 				"attributes": [
 					"1",
 					"30",
+					"32",
 					"36",
 					"39"
 				],
