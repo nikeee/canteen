@@ -121,6 +121,7 @@
 			"3": {
 				"name": "Geschwenkte Schweinefleischstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
+					"32",
 					"36",
 					"S"
 				],
@@ -134,6 +135,8 @@
 			"4": {
 				"name": "Schweinenackenbraten an Schmanddip mit süßem Senf",
 				"attributes": [
+					"3",
+					"32",
 					"36",
 					"39",
 					"S"
@@ -205,6 +208,8 @@
 					"F",
 					"30",
 					"32",
+					"36",
+					"38",
 					"40"
 				],
 				"price": {
