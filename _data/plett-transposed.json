@@ -8,141 +8,17 @@
 		}
 	},
 	"validity": {
-		"from": "2018-04-09T00:00:00.000Z",
-		"until": "2018-04-13T00:00:00.000Z"
+		"from": "2018-04-16T00:00:00.000Z",
+		"until": "2018-04-20T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Backfrischer Mohn-Pfannkuchen auf hausgemachtem Birnenragout",
+				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse",
 				"attributes": [
-					"F",
-					"1",
-					"3",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Ofenfrische Geflügelfrikadelle an Jus mit grünen Pfefferbeeren",
-				"attributes": [
-					"1",
-					"30",
+					"V",
 					"38",
 					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Spaghetti mit Kürbis-Soja-Bolognese",
-				"attributes": [
-					"V",
-					"MV",
-					"1",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 98,
-					"protein": 39,
-					"calories": 749
-				},
-				"categoryName": "Angebot des Tages I"
-			}
-		],
-		[
-			{
-				"name": "Mexikanische Couscous-Pfanne an scharfem Dip",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
-				"attributes": [
-					"1"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Marinierter Schweinebauch auf süß scharfem Spitzkohl",
-				"attributes": [
-					"1",
-					"2",
-					"3",
-					"30",
-					"35",
-					"S"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 3 oder 4"
-			},
-			{
-				"name": "Geschwenkte Gnocchi in Spinat-Tomatensauce",
-				"attributes": [
-					"V",
-					"1",
-					"30"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot des Tages I"
-			}
-		],
-		[
-			{
-				"name": "Italienische Penne in Steinpilz-Rahmsauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -153,49 +29,44 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Geschwenkte Schweinefleischstreifen Gyros Art mit griechischem Zaziki",
+				"name": "Deftige gebratene Krakauer an Senfjus",
 				"attributes": [
-					"32",
-					"36",
+					"2",
+					"3",
+					"30",
+					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Gegrilltes Putensteak Hawaii auf fruchtiger Currysauce",
+				"name": "Hausgemachter Back-Camembert auf fruchtiger Tomaten-Basilikumsauce",
 				"attributes": [
-					"1",
+					"F",
 					"30",
 					"32",
-					"36",
-					"39"
+					"36"
 				],
 				"price": {
-					"student": 3.7,
-					"employee": 5,
-					"visitor": 5.9
+					"student": 3.6,
+					"employee": 4.9,
+					"visitor": 5.8
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 3 oder 4"
 			},
 			{
-				"name": "Burger mit Beef, zweierlei Dips, Salat und Baked Beans",
+				"name": "Hähnchenfilet mit Spinathaube auf Mascarponesauce",
 				"attributes": [
 					"1",
-					"3",
-					"9",
 					"30",
-					"32",
-					"36",
-					"39",
-					"40",
-					"R"
+					"36"
 				],
 				"price": {
 					"student": 4,
@@ -208,11 +79,115 @@
 		],
 		[
 			{
-				"name": "Ofenkartoffel mit hessischem Ratatouille",
+				"name": "Fleischlos gefüllte Kohlroulade an Béchamelsauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"35",
+					"36"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Ofenkartoffel mit Kräuterquark und Hähnchenstreifen",
+				"attributes": [
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Gebratenes Seehechtfilet auf warmen Linsen-Reis-Salat",
+				"attributes": [
+					"MV",
+					"33",
+					"37"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": {
+					"fat": 23,
+					"carbohydrate": 86,
+					"protein": 47,
+					"calories": 743
+				},
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Grillfrische Zucchini auf fruchtiger Tomatensauce",
 				"attributes": [
 					"V",
+					"40"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gebackene Fischnuggets an cremigem Dill-Senfdip",
+				"attributes": [
+					"3",
 					"30",
-					"38"
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Paniertes Schnitzel vom Schwein auf Jus mit grünem Pfeffer",
+				"attributes": [
+					"30",
+					"32",
+					"S"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Kartoffelpfanne mit Gewürzgurke",
+				"attributes": [
+					"F",
+					"9",
+					"32",
+					"39"
 				],
 				"price": {
 					"student": 2.1,
@@ -223,11 +198,65 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Schweinenackenbraten an Schmanddip mit süßem Senf",
+				"name": "Braten vom Schweinerücken an Rahmsauce",
 				"attributes": [
-					"3",
-					"32",
+					"A",
+					"1",
+					"30",
 					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Pasta mit Spargel und Pinienkernen, dazu ein Erdbeershake",
+				"attributes": [
+					"V",
+					"MV",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": {
+					"fat": 19,
+					"carbohydrate": 97,
+					"protein": 26,
+					"calories": 719
+				},
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Spaghetti mit Karottenpesto",
+				"attributes": [
+					"V",
+					"30",
+					"37"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hackbraten mit Zwiebeljus",
+				"attributes": [
+					"30",
+					"32",
 					"39",
 					"S"
 				],
@@ -240,97 +269,40 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Gebackene Zucchinipuffer mit Dip von roten Linsen",
+				"name": "Großer, bunter Salatteller mit Kresse-Zitronen-Vinaigrette, pochiertem Ei und Mozzarellakugeln",
 				"attributes": [
 					"F",
-					"30",
 					"32",
 					"36",
-					"38",
-					"40"
+					"39"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 3 oder 4"
 			},
 			{
-				"name": "Marinierte Hähnchenkeule auf Gemüsereis",
+				"name": "Hähnchenstreifen in Honig-Senfsauce mit Kartoffeln und Salat",
 				"attributes": [
 					"MV",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": {
-					"fat": 25,
-					"carbohydrate": 76,
-					"protein": 36,
-					"calories": 674
-				},
-				"categoryName": "Angebot des Tages I"
-			}
-		],
-		[
-			{
-				"name": "Lauchkuchen mit Schmand und roten Zwiebeln",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Käse-Spätzlepfanne mit Speck",
-				"attributes": [
-					"1",
-					"2",
 					"3",
-					"30",
-					"32",
 					"36",
-					"S"
+					"37",
+					"39"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Gebratenes Wildlachsfilet mit Barbecuegemüse und Wildreis",
-				"attributes": [
-					"MV",
-					"9",
-					"30",
-					"33"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": {
-					"fat": 18,
-					"carbohydrate": 93,
+					"fat": 23,
+					"carbohydrate": 77,
 					"protein": 37,
-					"calories": 717
+					"calories": 674
 				},
 				"categoryName": "Angebot des Tages I"
 			}
