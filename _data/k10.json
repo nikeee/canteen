@@ -7,20 +7,19 @@
 		}
 	},
 	"validity": {
-		"from": "2018-04-09T00:00:00.000Z",
-		"until": "2018-04-14T00:00:00.000Z"
+		"from": "2018-04-16T00:00:00.000Z",
+		"until": "2018-04-21T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Gegrilltes Steak von der Putenbrust mit asiatischer Chilisauce",
+				"name": "Curry-Hähnchen Madras mit Paprika und Apfel",
 				"attributes": [
-					"2",
+					"1",
 					"3",
-					"30",
-					"35",
-					"38",
+					"32",
+					"36",
 					"39"
 				],
 				"price": {
@@ -31,8 +30,57 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Geschnetzeltes vom Rind mit Mango-Curry-Sauce",
+				"name": "Asia-Schweinefleischstreifen in Red-Thaicurrysauce",
 				"attributes": [
+					"1",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Pfannenfrisches Putenschnitzel in Kokoshülle an hausgemachtem Mango-Chutney",
+				"attributes": [
+					"30",
+					"32"
+				],
+				"price": {
+					"student": 3.7,
+					"employee": 5,
+					"visitor": 5.9
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gegrillter Fleischkäse auf kräftiger Kräuterjus",
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"30",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Burrito Mexiko mit Rinderhackfleisch, Mais und Bohnen gefüllt an erfrischendem Avocado-Limettendip",
+				"attributes": [
+					"1",
+					"2",
+					"3",
+					"30",
 					"36",
 					"R"
 				],
@@ -42,112 +90,45 @@
 					"visitor": 6.2
 				},
 				"vitalInfo": null
-			},
-			"3": {
-				"name": "Hähnchenschnitzel im Cornflakesmantel auf fruchtiger Basilikum-Tomatensauce",
-				"attributes": [
-					"30",
-					"32"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Ofenfrischer Spießbraten auf Bratenjus",
-				"attributes": [
-					"2",
-					"3",
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Gebackener Alaska-Seelachs an Remouladensauce",
-				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
 			}
 		},
 		"Angebot 2": {
 			"1": {
-				"name": "Gebackenes Gemüseschnitzel an Kräuter-Sahnesauce",
+				"name": "Auflauf von Brokkoli, Blumenkohl, Kartoffeln und Gorgonzola",
 				"attributes": [
 					"F",
 					"1",
+					"3",
 					"30",
-					"35",
-					"36",
-					"38"
+					"36"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hausgemachte Spinatlasagne in Knoblauchcreme",
+				"name": "Geschwenkte Eblypfanne mit grünem Spargel und Pesto rosso",
 				"attributes": [
-					"F",
-					"1",
+					"V",
 					"30",
-					"32",
-					"36"
+					"37"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Geschöpfte Radinudeln an Champignon-Béchamelsauce",
+				"name": "Geschöpfte Tortellini mit feiner Gemüsefüllung in fruchtiger Basilikum-Tomatensauce",
 				"attributes": [
-					"F",
-					"1",
+					"V",
 					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Schwäbische Spätzle mit Röstzwiebeln und Käsesauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
+					"38"
 				],
 				"price": {
 					"student": 3,
@@ -156,17 +137,37 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Flammkuchen mit Chili, Paprika, Tomaten und roten Zwiebeln",
+			"4": {
+				"name": "Hausgemachte Polenta à la Crème mit frischen Champignons",
 				"attributes": [
-					"F",
-					"30",
-					"36"
+					"V",
+					"1",
+					"35",
+					"38"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Fetziger Chili-Burger mit Kichererbsen-Patty, Karottensalat und Dip",
+				"attributes": [
+					"V",
+					"1",
+					"2",
+					"3",
+					"9",
+					"30",
+					"38",
+					"40"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			}
