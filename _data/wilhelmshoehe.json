@@ -17,6 +17,7 @@
 				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse",
 				"attributes": [
 					"V",
+					"30",
 					"38",
 					"39"
 				],
@@ -91,6 +92,7 @@
 			"1": {
 				"name": "Deftige gebratene Krakauer an Senfjus",
 				"attributes": [
+					"1",
 					"2",
 					"3",
 					"30",
@@ -171,6 +173,7 @@
 				"name": "Hausgemachter Back-Camembert auf fruchtiger Tomaten-Basilikumsauce",
 				"attributes": [
 					"F",
+					"1",
 					"30",
 					"32",
 					"36"
