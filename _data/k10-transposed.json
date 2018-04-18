@@ -14,14 +14,18 @@
 	"days": [
 		[
 			{
-				"name": "Mediterranes Putenragout mit Zucchini, Aubergine und Paprika",
+				"name": "Curry-Hähnchen Madras mit Paprika und Apfel",
 				"attributes": [
-					"30"
+					"1",
+					"3",
+					"32",
+					"36",
+					"39"
 				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
