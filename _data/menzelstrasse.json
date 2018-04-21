@@ -7,34 +7,18 @@
 		}
 	},
 	"validity": {
-		"from": "2018-04-16T00:00:00.000Z",
-		"until": "2018-04-20T00:00:00.000Z"
+		"from": "2018-04-23T00:00:00.000Z",
+		"until": "2018-04-27T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse",
-				"attributes": [
-					"V",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Fleischlos gefüllte Kohlroulade an Béchamelsauce",
+				"name": "Ofenfrische Gemüsefrikadellen mit Sauerrahmdip",
 				"attributes": [
 					"F",
-					"1",
 					"30",
 					"32",
-					"35",
 					"36"
 				],
 				"price": {
@@ -44,11 +28,26 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Grillfrische Zucchini auf fruchtiger Tomatensauce",
+			"2": {
+				"name": "Chili sin Carne",
 				"attributes": [
 					"V",
-					"40"
+					"35"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gnocchi in Béchamelsauce mit frischem Rucola",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2,
@@ -58,25 +57,29 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Kartoffelpfanne mit Gewürzgurke",
+				"name": "Grilltomate auf cremigem Graupen-Gemüse-Risotto",
 				"attributes": [
-					"F",
-					"9",
-					"32",
-					"39"
+					"V",
+					"1",
+					"30",
+					"35",
+					"38"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Spaghetti mit Karottenpesto",
+				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
 				"attributes": [
-					"V",
+					"F",
+					"1",
 					"30",
+					"32",
+					"36",
 					"37"
 				],
 				"price": {
@@ -89,13 +92,13 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Deftige gebratene Krakauer an Senfjus",
+				"name": "Curry-Hähnchen Madras",
 				"attributes": [
-					"2",
+					"1",
 					"3",
 					"30",
-					"39",
-					"S"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -105,42 +108,13 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Ofenkartoffel mit Kräuterquark und Hähnchenstreifen",
-				"attributes": [
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Gebackene Fischnuggets an cremigem Dill-Senfdip",
-				"attributes": [
-					"3",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Braten vom Schweinerücken an Rahmsauce",
+				"name": "Gegrilltes Steak vom Schweinerücken auf Marsala-Rahmsauce",
 				"attributes": [
 					"A",
 					"1",
 					"30",
 					"36",
+					"41",
 					"S"
 				],
 				"price": {
@@ -150,18 +124,41 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Hackbraten mit Zwiebeljus",
+			"3": {
+				"name": "Ofenfrischer Hähnchenschenkel auf Bratenjus",
 				"attributes": [
-					"30",
-					"32",
-					"39",
+					"30"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Balkan-Reisgericht mit Schweinefleisch",
+				"attributes": [
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
+				"attributes": [
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			}

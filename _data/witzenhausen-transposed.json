@@ -8,17 +8,88 @@
 		}
 	},
 	"validity": {
-		"from": "2018-04-16T00:00:00.000Z",
-		"until": "2018-04-20T00:00:00.000Z"
+		"from": "2018-04-23T00:00:00.000Z",
+		"until": "2018-04-27T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse",
+				"name": "Ofenfrische Gemüsefrikadellen mit Sauerrahmdip",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Curry-Hähnchen Madras",
+				"attributes": [
+					"1",
+					"3",
+					"30",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Indisches Dal aus roten Linsen auf Reis",
 				"attributes": [
 					"V",
+					"Ö",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Riesen Currywurst Berliner Art",
+				"attributes": [
+					"1",
+					"2",
+					"3",
+					"4",
+					"8",
 					"38",
-					"39"
+					"39",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Chili sin Carne",
+				"attributes": [
+					"V",
+					"35"
 				],
 				"price": {
 					"student": 1.9,
@@ -29,12 +100,134 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Deftige gebratene Krakauer an Senfjus",
+				"name": "Gegrilltes Steak vom Schweinerücken auf Marsala-Rahmsauce",
 				"attributes": [
-					"2",
-					"3",
+					"A",
+					"1",
 					"30",
-					"39",
+					"36",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Marokkanische Pasta mit Walnüssen, Kichererbsen und Rosinen",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"37"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Hähnchengeschnetzeltes in Bärlauchrahmsauce auf Langkornreis",
+				"attributes": [
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Gnocchi in Béchamelsauce mit frischem Rucola",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Ofenfrischer Hähnchenschenkel auf Bratenjus",
+				"attributes": [
+					"30"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Kartoffelrösti mit Brokkoli-Rahmsauce",
+				"attributes": [
+					"V",
+					"Ö"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Texanisches, feuriges Chili con Carne mit Brötchen",
+				"attributes": [
+					"30",
+					"R"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Grilltomate auf cremigem Graupen-Gemüse-Risotto",
+				"attributes": [
+					"V",
+					"1",
+					"30",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Balkan-Reisgericht mit Schweinefleisch",
+				"attributes": [
 					"S"
 				],
 				"price": {
@@ -46,12 +239,10 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Gemüse-Dinkelpfanne",
+				"name": "Sabee Sabee Kumala - Australisches Kürbisgulasch",
 				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"32"
+					"V",
+					"Ö"
 				],
 				"price": {
 					"student": 2.9,
@@ -62,216 +253,13 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Chinese Honey-Chicken mit Chinagemüse auf Reis",
-				"attributes": [
-					"35",
-					"38"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Fleischlos gefüllte Kohlroulade an Béchamelsauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"35",
-					"36"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Ofenkartoffel mit Kräuterquark und Hähnchenstreifen",
-				"attributes": [
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Spaghetti aglio olio e peperoncino",
-				"attributes": [
-					"V",
-					"Ö",
-					"30"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Paniertes Schweineschnitzel an Champignon-Rahmsauce",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Grillfrische Zucchini auf fruchtiger Tomatensauce",
-				"attributes": [
-					"V",
-					"40"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gebackene Fischnuggets an cremigem Dill-Senfdip",
+				"name": "Hähnchenbrust in Tandoori Marinade auf hausgemachter Mango-Fruchtsauce",
 				"attributes": [
 					"3",
-					"30",
-					"32",
-					"33",
 					"36",
 					"39"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Berner Röstiauflauf mit Käsesauce",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Veggi-Burger mit Gemüseschnitzel, zweierlei Dips und Salat, dazu Süßkartoffel-Pommes",
-				"attributes": [
-					"F",
-					"3",
-					"9",
-					"30",
-					"32",
-					"35",
-					"36",
-					"38",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Kartoffelpfanne mit Gewürzgurke",
-				"attributes": [
-					"F",
-					"9",
-					"32",
-					"39"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Braten vom Schweinerücken an Rahmsauce",
-				"attributes": [
-					"A",
-					"1",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Arabische Reispfanne",
-				"attributes": [
-					"V",
-					"Ö",
-					"37"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Rindergeschnetzeltes nach Mediterraner Art",
-				"attributes": [
-					"30",
-					"36",
-					"R"
-				],
-				"price": {
 					"student": 4,
 					"employee": 5.3,
 					"visitor": 6.2
@@ -282,10 +270,13 @@
 		],
 		[
 			{
-				"name": "Spaghetti mit Karottenpesto",
+				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
 				"attributes": [
-					"V",
+					"F",
+					"1",
 					"30",
+					"32",
+					"36",
 					"37"
 				],
 				"price": {
@@ -297,30 +288,26 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hackbraten mit Zwiebeljus",
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
 				"attributes": [
-					"30",
 					"32",
-					"39",
+					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Eier in Senfsauce",
+				"name": "Ofenkartoffeln mit mit türkischem Hummus aus Kichererbsen",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"30",
-					"32",
-					"36",
-					"39"
+					"40"
 				],
 				"price": {
 					"student": 2.9,
@@ -331,10 +318,12 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Goldgelb gebackene Chicken-Crossies mit Hot-Salsadip",
+				"name": "Sommerlicher Matjessalat mit Gurken, Tomaten und Zwiebeln",
 				"attributes": [
+					"1",
+					"2",
 					"3",
-					"30"
+					"33"
 				],
 				"price": {
 					"student": 4,
