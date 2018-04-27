@@ -129,7 +129,9 @@
 			"3": {
 				"name": "Ofenfrischer Hähnchenschenkel auf Bratenjus",
 				"attributes": [
-					"30"
+					"30",
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
