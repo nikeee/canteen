@@ -133,14 +133,11 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Großes Ciabattabrot Caprese mit Tomaten, Mozzarella und Petersilienpesto",
+				"name": "Brörek mit Spinat und Hirtenkäse gefüllt Kräuterdip",
 				"attributes": [
 					"F",
-					"1",
-					"2",
 					"30",
-					"36",
-					"37"
+					"36"
 				],
 				"price": {
 					"student": 3.5,
@@ -170,18 +167,16 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Vegane Tortellini Bolognese Art in Kokos-Currycremesauce",
+				"name": "Brörek mit Spinat und Hirtenkäse gefüllt Kräuterdip",
 				"attributes": [
-					"V",
-					"3",
+					"F",
 					"30",
-					"35",
-					"38"
+					"36"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
