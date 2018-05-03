@@ -40,12 +40,14 @@
 			"3": {
 				"name": "Bunter marinierter Pennesalat mit Balsamicocreme, dazu Baguette",
 				"attributes": [
-					"V",
+					"F",
 					"1",
 					"3",
 					"6",
 					"30",
-					"41"
+					"36",
+					"41",
+					"42"
 				],
 				"price": {
 					"student": 2.1,
@@ -206,6 +208,7 @@
 				"attributes": [
 					"F",
 					"MV",
+					"2",
 					"30",
 					"35",
 					"36",

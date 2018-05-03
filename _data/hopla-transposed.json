@@ -30,12 +30,13 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln Béchamelsauce",
+				"name": "Gegrillte, nordhessische Kartoffelbratwurst an Schmanddip",
 				"attributes": [
-					"1",
-					"30",
-					"32",
+					"2",
+					"8",
 					"36",
+					"38",
+					"R",
 					"S"
 				],
 				"price": {
@@ -47,18 +48,25 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Hähnchenbrust in Tandoori Marinade auf Tomaten Grund Sauce",
+				"name": "Putenbruststreifen in Rucolapesto mit Tomaten-Basilikum-Farfalle",
 				"attributes": [
+					"MV",
+					"1",
+					"2",
 					"30",
-					"36",
-					"39"
+					"36"
 				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
 				},
-				"vitalInfo": null,
+				"vitalInfo": {
+					"fat": 21,
+					"carbohydrate": 82,
+					"protein": 42,
+					"calories": 681
+				},
 				"categoryName": "Angebot des Tages"
 			},
 			{
