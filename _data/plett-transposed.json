@@ -174,7 +174,8 @@
 			{
 				"name": "Geschmortes Ratatouille-Gemüse mit Hähnchenstreifen",
 				"attributes": [
-					"30"
+					"30",
+					"38"
 				],
 				"price": {
 					"student": 2.4,
