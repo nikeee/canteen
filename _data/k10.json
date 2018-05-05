@@ -54,11 +54,14 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Frisch gebratenes Hähnchenbrustschnitzel auf Pfefferrahmsauce",
+				"name": "Rindfleisch mit Sesam, Shiitake und Zwiebeln",
 				"attributes": [
+					"3",
 					"30",
-					"32",
-					"36"
+					"35",
+					"39",
+					"40",
+					"R"
 				],
 				"price": {
 					"student": 4,

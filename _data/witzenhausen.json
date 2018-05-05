@@ -7,18 +7,20 @@
 		}
 	},
 	"validity": {
-		"from": "2018-04-30T00:00:00.000Z",
-		"until": "2018-05-04T00:00:00.000Z"
+		"from": "2018-05-07T00:00:00.000Z",
+		"until": "2018-05-11T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
+				"name": "Curry von zweierlei Kartoffeln mit Spinat",
 				"attributes": [
 					"V",
+					"3",
 					"30",
-					"38"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.1,
@@ -28,88 +30,69 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
+				"name": "Indisch Aloo Gobi mit Kartoffeln und Blumenkohl",
+				"attributes": [
+					"V"
+				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Bunter marinierter Penne-Salat mit Balsamicocreme und Baguette",
+				"name": "Italienische Gabelspaghetti mit fruchtiger Tomatensauce",
 				"attributes": [
-					"F",
-					"1",
-					"3",
-					"6",
-					"30",
-					"36",
-					"41",
-					"42"
+					"V",
+					"30"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gebratenes Curry-Quinoa mit Mandeln, Karotten und Brokkoli",
-				"attributes": [
-					"V",
-					"3",
-					"37"
-				],
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachter Süßkartoffelstampf auf Balsamico-Linsen",
+				"name": "Schupfnudeln in Kürbis-Salbeisauce",
 				"attributes": [
-					"V",
+					"F",
 					"1",
-					"3",
-					"35"
+					"30",
+					"32",
+					"36",
+					"38",
+					"39",
+					"41"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Gegrillte, nordhessische Kartoffelbratwurst an Schmanddip",
+				"name": "Hühnerfrikassee mit Erbsen und Spargel",
 				"attributes": [
-					"2",
-					"8",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"2": null,
-			"3": {
-				"name": "Geschnetzeltes nach Züricher Art",
-				"attributes": [
+					"A",
 					"1",
 					"30",
 					"36",
-					"S"
+					"41"
 				],
 				"price": {
 					"student": 2.5,
@@ -118,10 +101,13 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Geschmortes Ratatouille-Gemüse mit Hähnchenstreifen",
+			"2": {
+				"name": "Orientalische Hackfleisch-Couscouspfanne",
 				"attributes": [
-					"30"
+					"3",
+					"30",
+					"38",
+					"R"
 				],
 				"price": {
 					"student": 2.4,
@@ -130,13 +116,31 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Cevapcici vom Schweinefleisch an Curry-Ketchupdip",
+			"3": {
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
 				"attributes": [
+					"8",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": null,
+			"5": {
+				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
+				"attributes": [
+					"3",
 					"30",
 					"32",
-					"39",
-					"S"
+					"33",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -148,12 +152,13 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Spaghetti in Karotten-Selleriesauce",
+				"name": "Spaghetti in Bärlauchpesto",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
 					"30",
-					"38"
+					"36",
+					"37"
 				],
 				"price": {
 					"student": 2.9,
@@ -162,9 +167,23 @@
 				},
 				"vitalInfo": null
 			},
-			"2": null,
+			"2": {
+				"name": "Spinach Eggs",
+				"attributes": [
+					"F",
+					"Ö",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
 			"3": {
-				"name": "Steckrüben-Karotteneintopf mit Kartoffeln und Kräutern",
+				"name": "Polenta-Gemüse-Pizza",
 				"attributes": [
 					"V",
 					"Ö"
@@ -176,26 +195,13 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Kartoffelgratin mit Roter Bete an Petersilien-Schmandsauce",
-				"attributes": [
-					"F",
-					"Ö",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
+			"4": null,
 			"5": {
-				"name": "Ofenkartoffeln mit Knoblauch-Quarkdip",
+				"name": "Rotes Thai Curry mit Blumenkohl, Paprika und Zwiebeln",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"36"
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -207,41 +213,12 @@
 		},
 		"Aktions-Essen": {
 			"1": {
-				"name": "Bretonischer Fischeintopf",
+				"name": "Pizza mit Schinken und frischen Champignons",
 				"attributes": [
-					"A",
-					"33"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"2": null,
-			"3": {
-				"name": "Crispy Chicken Burger mit Guacamole-Sauerrahmdip",
-				"attributes": [
-					"1",
+					"2",
 					"3",
+					"8",
 					"30",
-					"32",
-					"36",
-					"40"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Paniertes Nackenschnitzel vom Schwein an Sauce Hollandaise mit Spargel",
-				"attributes": [
-					"30",
-					"32",
 					"36",
 					"S"
 				],
@@ -252,21 +229,32 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Pizzakuchen mit Thunfisch, Lauch, Zwiebeln und Käse",
+			"2": {
+				"name": "Paniertes Schweineschnitzel an ungarischer Pusztasauce",
 				"attributes": [
 					"30",
-					"33",
-					"36",
-					"38"
+					"32",
+					"S"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
-			}
+			},
+			"3": {
+				"name": "Thai-Hühnchencurry auf Reis",
+				"attributes": [],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"4": null,
+			"5": null
 		}
 	}
 }

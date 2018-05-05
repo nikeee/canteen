@@ -7,18 +7,20 @@
 		}
 	},
 	"validity": {
-		"from": "2018-04-30T00:00:00.000Z",
-		"until": "2018-05-04T00:00:00.000Z"
+		"from": "2018-05-07T00:00:00.000Z",
+		"until": "2018-05-11T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
+				"name": "Curry von zweierlei Kartoffeln mit Spinat",
 				"attributes": [
 					"V",
+					"3",
 					"30",
-					"38"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.1,
@@ -28,6 +30,31 @@
 				"vitalInfo": null
 			},
 			"2": {
+				"name": "Indisch Aloo Gobi mit Kartoffeln und Blumenkohl",
+				"attributes": [
+					"V"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Italienische Gabelspaghetti mit fruchtiger Tomatensauce",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
 				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
 				"attributes": [],
 				"price": {
@@ -37,77 +64,35 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Bunter marinierter Pennesalat mit Balsamicocreme, dazu Baguette",
+			"5": {
+				"name": "Schupfnudeln in Kürbis-Salbeisauce",
 				"attributes": [
-					"V",
+					"F",
 					"1",
-					"3",
-					"6",
 					"30",
+					"32",
+					"36",
+					"38",
+					"39",
 					"41"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Gebratenes Curry-Quinoa mit Mandeln, Karotten und Brokkoli",
-				"attributes": [
-					"V",
-					"3",
-					"37"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Hausgemachter Süßkartoffelstampf auf Balsamico-Linsen",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"35"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Gegrillte, nordhessische Kartoffelbratwurst an Schmanddip",
+				"name": "Hühnerfrikassee mit Erbsen und Spargel",
 				"attributes": [
-					"2",
-					"8",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"2": null,
-			"3": {
-				"name": "Geschnetzeltes nach Züricher Art",
-				"attributes": [
+					"A",
 					"1",
 					"30",
 					"36",
-					"S"
+					"41"
 				],
 				"price": {
 					"student": 2.5,
@@ -116,10 +101,15 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Geschmortes Ratatouille-Gemüse mit Hähnchenstreifen",
+			"2": {
+				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
 				"attributes": [
-					"30"
+					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -128,13 +118,29 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Cevapcici vom Schweinefleisch an Curry-Ketchupdip",
+			"3": {
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
 				"attributes": [
+					"8",
 					"30",
-					"32",
-					"39",
+					"36",
 					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": null,
+			"5": {
+				"name": "Orientalische Hackfleisch-Couscouspfanne",
+				"attributes": [
+					"3",
+					"30",
+					"38",
+					"R"
 				],
 				"price": {
 					"student": 2.4,
