@@ -7,60 +7,36 @@
 		}
 	},
 	"validity": {
-		"from": "2018-04-30T00:00:00.000Z",
-		"until": "2018-05-05T00:00:00.000Z"
+		"from": "2018-05-07T00:00:00.000Z",
+		"until": "2018-05-12T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Grillfrische Bratwurst mit Curry-Ketchupsauce",
+				"name": "Schweinebraten in Kräuter-Senfkruste gegart an Bratensauce",
 				"attributes": [
-					"3",
-					"8",
+					"4",
+					"30",
+					"36",
 					"38",
 					"39",
 					"S"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Frisch gebratenes Hähnchenbrustschnitzel auf Pfefferrahmsauce",
+				"name": "Zartes Kalbsgulasch in Sherryrahmsauce",
 				"attributes": [
+					"A",
 					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Rindfleisch mit Sesam, Shiitake und Zwiebeln",
-				"attributes": [
-					"3",
-					"30",
-					"35",
-					"39",
-					"40",
+					"36",
+					"41",
 					"R"
 				],
 				"price": {
@@ -70,47 +46,13 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Gebackener Alaska Seelachs an Dijon-Senfsauce",
+			"3": {
+				"name": "Goldgelb gebackenes Putenschnitzel in Mandelhülle mit Kirschrahmsauce",
 				"attributes": [
-					"1",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": null
-			}
-		},
-		"Angebot 2": {
-			"1": {
-				"name": "Fleischlos gefüllte Maultaschen in Gemüsebouillon",
-				"attributes": [
-					"F",
 					"30",
 					"32",
 					"36",
-					"38"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null
-			},
-			"2": null,
-			"3": {
-				"name": "Flammkuchen mit Lauch, Zwiebeln und Kirschtomaten",
-				"attributes": [
-					"F",
-					"30",
-					"36",
-					"38"
+					"37"
 				],
 				"price": {
 					"student": 4,
@@ -120,12 +62,62 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Shakshuka - Israelisches Gericht aus Tomaten, Paprika, Zwiebeln und Eiern",
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Spanische Paella mit buntem Gemüse und Geflügelstreifen",
+				"attributes": [],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null
+			}
+		},
+		"Angebot 2": {
+			"1": {
+				"name": "Geschöpfte Tortellini mit Gemüsefüllung in Pastinakensauce mit Rote-Betewürfeln",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Ebly mit grünem Spargel und Pesto Rosso",
+				"attributes": [
+					"V",
+					"30",
+					"37"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Spirelli mit tomatisierter Gorgonzolasauce und Käse überbacken",
 				"attributes": [
 					"F",
 					"30",
-					"32",
-					"35",
 					"36"
 				],
 				"price": {
@@ -135,19 +127,18 @@
 				},
 				"vitalInfo": null
 			},
+			"4": null,
 			"5": {
-				"name": "Hausgemachter griechischer Reistaler mit Knoblauchdip",
+				"name": "Hausgemachter Spinatpfannkuchen an fruchtigem Tomatendip",
 				"attributes": [
 					"F",
-					"6",
 					"30",
-					"32",
-					"36"
+					"32"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null
 			}
