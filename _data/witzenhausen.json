@@ -229,30 +229,8 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Paniertes Schweineschnitzel an ungarischer Pusztasauce",
-				"attributes": [
-					"30",
-					"32",
-					"S"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Thai-Hühnchencurry auf Reis",
-				"attributes": [],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
+			"2": null,
+			"3": null,
 			"4": null,
 			"5": null
 		}

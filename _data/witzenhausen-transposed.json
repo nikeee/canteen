@@ -128,21 +128,6 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Paniertes Schweineschnitzel an ungarischer Pusztasauce",
-				"attributes": [
-					"30",
-					"32",
-					"S"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
 			}
 		],
 		[
@@ -189,17 +174,6 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Thai-Hühnchencurry auf Reis",
-				"attributes": [],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
 			}
 		],
 		[
