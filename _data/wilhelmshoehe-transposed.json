@@ -156,8 +156,11 @@
 			{
 				"name": "Italienische Gabelspaghetti mit fruchtiger Tomatensauce",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"1",
+					"2",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 1.9,
@@ -170,9 +173,11 @@
 			{
 				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
 				"attributes": [
+					"3",
 					"8",
 					"30",
 					"36",
+					"38",
 					"S"
 				],
 				"price": {
