@@ -7,20 +7,25 @@
 		}
 	},
 	"validity": {
-		"from": "2018-05-07T00:00:00.000Z",
-		"until": "2018-05-11T00:00:00.000Z"
+		"from": "2018-05-14T00:00:00.000Z",
+		"until": "2018-05-18T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Curry von zweierlei Kartoffeln mit Spinat",
+				"name": "Goldgelb gebackenes Möhrenschnitzel auf Passionsfruchtsahne",
 				"attributes": [
-					"V",
+					"F",
+					"1",
 					"3",
+					"9",
 					"30",
-					"35",
-					"39"
+					"32",
+					"36",
+					"38",
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 2.1,
@@ -30,9 +35,13 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Indisch Aloo Gobi mit Kartoffeln und Blumenkohl",
+				"name": "Hessische Kartoffelsuppe mit Gemüse und Petersilienpesto",
 				"attributes": [
-					"V"
+					"V",
+					"1",
+					"30",
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 2,
@@ -42,75 +51,76 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Italienische Gabelspaghetti mit fruchtiger Tomatensauce",
-				"attributes": [
-					"V",
-					"30"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Schupfnudeln in Kürbis-Salbeisauce",
+				"name": "Zwei Kartoffelklöße mit Spinatsauce",
 				"attributes": [
 					"F",
 					"1",
+					"3",
 					"30",
-					"32",
 					"36",
-					"38",
-					"39",
 					"41"
 				],
 				"price": {
 					"student": 2,
 					"employee": 3.3,
 					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Couscouspfanne mit knackigem Gemüse an Creme von roten Linsen",
+				"attributes": [
+					"V",
+					"3",
+					"30",
+					"39",
+					"40"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hessische Kartoffelpfanne mit Kräutern und Pilzen an veganem Dip",
+				"attributes": [
+					"V",
+					"3",
+					"35"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Hühnerfrikassee mit Erbsen und Spargel",
+				"name": "Feine Knackwurst auf hausgemachtem Kartoffelsalat",
 				"attributes": [
-					"A",
-					"1",
-					"30",
+					"2",
+					"3",
+					"8",
+					"9",
+					"32",
 					"36",
-					"41"
+					"39",
+					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
-				"attributes": [
-					"3",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
+				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
+				"attributes": [],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
@@ -119,33 +129,51 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
+				"name": "Bami Goreng mit Geflügelstreifen",
 				"attributes": [
+					"30",
+					"32",
+					"39"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gebackenes Fleischkäseschnitzel auf Malzjus",
+				"attributes": [
+					"2",
+					"3",
 					"8",
 					"30",
+					"32",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Griechisches Hacksteak auf Knoblauchjus",
+				"attributes": [
+					"6",
+					"30",
+					"32",
 					"36",
+					"39",
 					"S"
 				],
 				"price": {
 					"student": 2.5,
 					"employee": 3.8,
 					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"4": null,
-			"5": {
-				"name": "Orientalische Hackfleisch-Couscouspfanne",
-				"attributes": [
-					"3",
-					"30",
-					"38",
-					"R"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}
