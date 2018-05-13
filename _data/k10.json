@@ -7,36 +7,16 @@
 		}
 	},
 	"validity": {
-		"from": "2018-05-07T00:00:00.000Z",
-		"until": "2018-05-12T00:00:00.000Z"
+		"from": "2018-05-14T00:00:00.000Z",
+		"until": "2018-05-19T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Schweinebraten in Kräuter-Senfkruste gegart an Bratensauce",
+				"name": "Chili con Carne mit Rinderhack",
 				"attributes": [
-					"4",
 					"30",
-					"36",
-					"38",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Zartes Kalbsgulasch in Sherryrahmsauce",
-				"attributes": [
-					"A",
-					"30",
-					"36",
-					"41",
 					"R"
 				],
 				"price": {
@@ -46,13 +26,27 @@
 				},
 				"vitalInfo": null
 			},
+			"2": {
+				"name": "Grillteller vom Schwein auf Spitzkohlgemüse",
+				"attributes": [
+					"1",
+					"2",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
 			"3": {
-				"name": "Goldgelb gebackenes Putenschnitzel in Mandelhülle mit Kirschrahmsauce",
+				"name": "Frisch gebratenes Hähnchenbrustschnitzel an Sauce Hollandaise mit Spargelstücken",
 				"attributes": [
 					"30",
 					"32",
-					"36",
-					"37"
+					"36"
 				],
 				"price": {
 					"student": 4,
@@ -62,83 +56,116 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
+				"name": "Rustikaler Pulled Turkey Burger",
+				"attributes": [
+					"1",
+					"3",
+					"9",
+					"30",
+					"32",
+					"36",
+					"39",
+					"40"
+				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Spanische Paella mit buntem Gemüse und Geflügelstreifen",
-				"attributes": [],
+				"name": "Lachsfilet pochiert auf Esterhazy Gemüse und Béchamelsauce",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"33",
+					"36",
+					"38",
+					"41"
+				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 5.5,
+					"employee": 6.8,
+					"visitor": 7.7
 				},
 				"vitalInfo": null
 			}
 		},
 		"Angebot 2": {
 			"1": {
-				"name": "Geschöpfte Tortellini mit Gemüsefüllung in Pastinakensauce mit Rote-Betewürfeln",
+				"name": "Backfrischer Apfel-Pfannkuchen an Vanillesauce",
 				"attributes": [
 					"F",
 					"1",
+					"3",
 					"30",
-					"36",
-					"38"
+					"32"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Ebly mit grünem Spargel und Pesto Rosso",
+				"name": "Original Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
 				"attributes": [
-					"V",
-					"30",
-					"37"
+					"F",
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Spirelli mit tomatisierter Gorgonzolasauce und Käse überbacken",
+				"name": "Pizza mit Blattspinat und Hirtenkäse überbacken",
 				"attributes": [
 					"F",
 					"30",
 					"36"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
-			"4": null,
-			"5": {
-				"name": "Hausgemachter Spinatpfannkuchen an fruchtigem Tomatendip",
+			"4": {
+				"name": "Hausgemachte Lasagne mit geschmortem Ratatouille-Gemüse",
 				"attributes": [
 					"F",
 					"30",
-					"32"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Geschöpfte Tortellini mit Spinat-Ricotta-Füllung an Pesto Rosso und schwarzen Oliven",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36",
+					"37"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
 				},
 				"vitalInfo": null
 			}
