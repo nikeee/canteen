@@ -69,25 +69,6 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Südafikanischer Bobotie Auflauf",
-				"attributes": [
-					"3",
-					"30",
-					"32",
-					"36",
-					"37",
-					"41",
-					"R"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
 			}
 		],
 		[
@@ -136,21 +117,6 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Ofenfrischer Spießbraten an hausgemachtem Krautsalat",
-				"attributes": [
-					"2",
-					"3",
-					"S"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
 			}
 		],
 		[
@@ -202,25 +168,6 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Gegrillte Bratwurst an hausgemachtem Kartoffelstampf",
-				"attributes": [
-					"1",
-					"3",
-					"8",
-					"30",
-					"36",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
 			}
 		],
 		[
@@ -276,20 +223,6 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Gebratene Hähnchenbrust mit Kichererbsensalat",
-				"attributes": [
-					"1",
-					"3"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
 			}
 		],
 		[
@@ -341,24 +274,6 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Feines Fischragout in cremiger Currysauce",
-				"attributes": [
-					"1",
-					"30",
-					"33",
-					"36",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
 			}
 		]
 	]
