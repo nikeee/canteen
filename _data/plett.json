@@ -120,7 +120,13 @@
 			},
 			"2": {
 				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
-				"attributes": [],
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"36",
+					"S"
+				],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
