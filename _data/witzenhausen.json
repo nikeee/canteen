@@ -7,24 +7,30 @@
 		}
 	},
 	"validity": {
-		"from": "2018-05-14T00:00:00.000Z",
-		"until": "2018-05-18T00:00:00.000Z"
+		"from": "2018-05-21T00:00:00.000Z",
+		"until": "2018-05-25T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Goldgelb gebackenes Möhrenschnitzel auf Passionsfruchtsahne",
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Tortellini mit Spinat-Ricotta-Füllung in Gorgonzolasauce",
 				"attributes": [
 					"F",
 					"1",
-					"3",
 					"30",
 					"32",
-					"36",
-					"38",
-					"39",
-					"40"
+					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -33,34 +39,10 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Hessische Kartoffelsuppe mit Gemüse und Petersilienpesto",
-				"attributes": [
-					"F",
-					"1",
-					"2",
-					"30",
-					"35",
-					"36",
-					"37",
-					"38"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Zwei Kartoffelklöße mit Spinatsauce",
+				"name": "Geschmortes Ratatouille-Gemüse mit gelbem Langkornreis",
 				"attributes": [
-					"F",
-					"1",
-					"3",
-					"30",
-					"36",
-					"41"
+					"V"
 				],
 				"price": {
 					"student": 2,
@@ -70,27 +52,26 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Couscouspfanne mit knackigem Gemüse an Creme von roten Linsen",
+				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
-					"V",
+					"F",
 					"3",
 					"30",
-					"39",
-					"40"
+					"32"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hessische Kartoffelpfanne mit Kräutern und Pilzen an veganem Dip",
+				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
 				"attributes": [
-					"V",
-					"3",
-					"35"
+					"F",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -101,41 +82,26 @@
 			}
 		},
 		"Essen 2": {
-			"1": {
-				"name": "Feine Knackwurst auf hausgemachtem Kartoffelsalat",
+			"1": null,
+			"2": {
+				"name": "Geflügelgulasch in Curry-Maracujasauce",
 				"attributes": [
-					"2",
-					"3",
-					"8",
-					"9",
-					"32",
+					"1",
+					"30",
 					"36",
-					"39",
-					"S"
+					"39"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
-				"attributes": [],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Bami Goreng mit Geflügelstreifen",
+				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
-					"30",
-					"32",
-					"39"
+					"36"
 				],
 				"price": {
 					"student": 2.6,
@@ -145,31 +111,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gebackenes Fleischkäseschnitzel auf Malzjus",
+				"name": "Penne mit Blattspinat und Hackfleisch",
 				"attributes": [
-					"2",
-					"3",
-					"8",
+					"1",
 					"30",
-					"32",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Griechisches Hacksteak auf Knoblauchjus",
-				"attributes": [
-					"6",
-					"30",
-					"32",
 					"36",
-					"39",
 					"S"
 				],
 				"price": {
@@ -178,11 +124,29 @@
 					"visitor": 4.7
 				},
 				"vitalInfo": null
+			},
+			"5": {
+				"name": "Gebackener Alaska-Seelachs an Joghurtaioli",
+				"attributes": [
+					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
-			"1": {
-				"name": "Asiatischer Gemüseeintopf",
+			"1": null,
+			"2": {
+				"name": "Pekingsuppe mit Tofu",
 				"attributes": [
 					"V",
 					"Ö",
@@ -196,27 +160,12 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Spaghetti mit scharfem Knoblauch-Blattspinat",
-				"attributes": [
-					"V",
-					"Ö",
-					"30"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Gebratene panierte Tofuschnitte mit Curry-Erbsensauce",
+				"name": "Champignons à la crème",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"30",
-					"35"
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -226,13 +175,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Bärlauchpfannkuchen mit Quark",
+				"name": "Bäckerinkartoffeln in dunkler Sauce",
 				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"32",
-					"36"
+					"V",
+					"Ö"
 				],
 				"price": {
 					"student": 2.9,
@@ -242,12 +188,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Pochierte Eier in Joghurtdip",
+				"name": "Gegrillte Zucchini mit buntem Quinoasalat und Linsendip",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"32",
-					"36"
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -259,10 +204,66 @@
 		},
 		"Aktions-Essen": {
 			"1": null,
-			"2": null,
-			"3": null,
-			"4": null,
-			"5": null
+			"2": {
+				"name": "Gegrillte Rindsbratwurst",
+				"attributes": [
+					"3",
+					"8",
+					"32",
+					"R"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Paniertes Schweineschnitzel an hessischer Schmandsauce mit Kräutern und krossen Speckwürfeln",
+				"attributes": [
+					"2",
+					"30",
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Hähnchenbrustfilet in Parmesanhülle",
+				"attributes": [
+					"1",
+					"2",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Elbsan - Türkisches Ragout vom Rind in Joghurtsauce",
+				"attributes": [
+					"32",
+					"36",
+					"R"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			}
 		}
 	}
 }

@@ -8,24 +8,32 @@
 		}
 	},
 	"validity": {
-		"from": "2018-05-14T00:00:00.000Z",
-		"until": "2018-05-18T00:00:00.000Z"
+		"from": "2018-05-21T00:00:00.000Z",
+		"until": "2018-05-25T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Goldgelb gebackenes Möhrenschnitzel auf Passionsfruchtsahne",
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			}
+		],
+		[
+			{
+				"name": "Tortellini mit Spinat-Ricotta-Füllung in Gorgonzolasauce",
 				"attributes": [
 					"F",
 					"1",
-					"3",
-					"9",
 					"30",
 					"32",
-					"36",
-					"38",
-					"39",
-					"40"
+					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -36,47 +44,15 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Feine Knackwurst auf hausgemachtem Kartoffelsalat",
+				"name": "Gebackener Alaska-Seelachs an Joghurtaioli",
 				"attributes": [
-					"2",
 					"3",
-					"8",
-					"9",
-					"32",
-					"36",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Hessische Kartoffelsuppe mit Gemüse und Petersilienpesto",
-				"attributes": [
-					"V",
-					"1",
 					"30",
-					"35",
-					"38"
+					"32",
+					"33",
+					"36",
+					"39"
 				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
-				"attributes": [],
 				"price": {
 					"student": 2.4,
 					"employee": 3.7,
@@ -88,84 +64,40 @@
 		],
 		[
 			{
-				"name": "Zwei Kartoffelklöße mit Spinatsauce",
+				"name": "Geschmortes Ratatouille-Gemüse im gelben Reisrand",
+				"attributes": [
+					"V"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
+				"attributes": [
+					"36"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
 					"F",
-					"1",
 					"3",
 					"30",
-					"36",
-					"41"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Bami Goreng mit Geflügelstreifen",
-				"attributes": [
-					"30",
-					"32",
-					"39"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Couscouspfanne mit knackigem Gemüse an Creme von roten Linsen",
-				"attributes": [
-					"V",
-					"3",
-					"30",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gebackenes Fleischkäseschnitzel auf Malzjus",
-				"attributes": [
-					"2",
-					"3",
-					"8",
-					"30",
-					"32",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Hessische Kartoffelpfanne mit Kräutern und Pilzen an veganem Dip",
-				"attributes": [
-					"V",
-					"3",
-					"35"
+					"32"
 				],
 				"price": {
 					"student": 2.1,
@@ -176,19 +108,50 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Griechisches Hacksteak auf Knoblauchjus",
+				"name": "Penne mit Blattspinat und Hackfleisch",
 				"attributes": [
-					"6",
+					"1",
 					"30",
-					"32",
 					"36",
-					"39",
 					"S"
 				],
 				"price": {
 					"student": 2.5,
 					"employee": 3.8,
 					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Geflügelgulasch in Curry-Maracujasauce",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
