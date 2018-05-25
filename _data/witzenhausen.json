@@ -236,12 +236,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hähnchenbrustfilet in Parmesanhülle",
+				"name": "Hähnchenbrustfilet in roten Linsenmehlpanade mit Tomatensauce",
 				"attributes": [
-					"1",
-					"2",
-					"32",
-					"36"
+					"30",
+					"32"
 				],
 				"price": {
 					"student": 3.5,
