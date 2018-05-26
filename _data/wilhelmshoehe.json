@@ -7,13 +7,54 @@
 		}
 	},
 	"validity": {
-		"from": "2018-05-21T00:00:00.000Z",
-		"until": "2018-05-25T00:00:00.000Z"
+		"from": "2018-05-28T00:00:00.000Z",
+		"until": "2018-06-01T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
+				"name": "Rahmspinat mit Rührei",
+				"attributes": [
+					"F",
+					"1",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Farfalle Tricolore an tomatisiertem Grünkernragout",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gebackene Potato Dippers an Curry-Ketchupdip",
+				"attributes": [
+					"V",
+					"1"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
+			"4": {
 				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
 				"attributes": [],
 				"price": {
@@ -23,56 +64,14 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Tortellini mit Spinat-Ricotta-Füllung in Gorgonzolasauce",
-				"attributes": [
-					"F",
-					"1",
-					"2",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Geschmortes Ratatouille-Gemüse im gelben Reisrand",
-				"attributes": [
-					"V"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Kartoffelpuffer mit Apfelmus",
-				"attributes": [
-					"F",
-					"3",
-					"30",
-					"32"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
+				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise",
 				"attributes": [
 					"F",
+					"30",
 					"32",
-					"36"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.1,
@@ -83,30 +82,12 @@
 			}
 		},
 		"Essen 2": {
-			"1": null,
-			"2": {
-				"name": "Gebackener Alaska-Seelachs an Joghurtaioli",
+			"1": {
+				"name": "Bami Goreng mit Hähnchenstreifen",
 				"attributes": [
-					"3",
 					"30",
 					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
-				"attributes": [
-					"30",
-					"36",
-					"38",
+					"35",
 					"39"
 				],
 				"price": {
@@ -116,11 +97,9 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Penne mit Blattspinat und Hackfleisch",
+			"2": {
+				"name": "Schweinesteak vom Nacken mit Kräuterbutter",
 				"attributes": [
-					"1",
-					"30",
 					"36",
 					"S"
 				],
@@ -131,13 +110,10 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Geflügelgulasch in Curry-Maracujasauce",
+			"3": {
+				"name": "Hähnchenbrust mit Chili mariniert an rotem Linsendip",
 				"attributes": [
-					"1",
-					"30",
-					"36",
-					"39"
+					"40"
 				],
 				"price": {
 					"student": 2.6,
@@ -145,13 +121,10 @@
 					"visitor": 4.8
 				},
 				"vitalInfo": null
-			}
-		},
-		"Essen 3 oder 4": {
-			"1": null,
-			"2": null,
-			"3": {
-				"name": "Hausgefüllte Paprika mit Hackfleisch auf Tomatenjus",
+			},
+			"4": null,
+			"5": {
+				"name": "Hausgemachtes Hacksteak auf Zwiebeljus",
 				"attributes": [
 					"30",
 					"32",
@@ -159,18 +132,36 @@
 					"S"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			}
+		},
+		"Essen 3 oder 4": {
+			"1": null,
+			"2": {
+				"name": "Gegrilltes Steak von der Putenbrust auf scharfer Sauce mit Mais und Bohnen",
+				"attributes": [
+					"30"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Gebackenes Putenschnitzel im Kokoskleid auf Mango-Fruchtsauce",
+			"3": {
+				"name": "Paniertes Seelachsfilet mit Zitronenecken auf Schnittlauchsauce",
 				"attributes": [
-					"3",
+					"1",
 					"30",
-					"32"
+					"32",
+					"33",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 3.5,
@@ -179,19 +170,53 @@
 				},
 				"vitalInfo": null
 			},
-			"5": null
-		},
-		"Angebot des Tages I": {
-			"1": null,
-			"2": {
-				"name": "Geschnetzeltes mit grünem Pfeffer, Brokkoli und Spätzle",
+			"4": null,
+			"5": {
+				"name": "Hähnchenbrustfilet im Kokosnussmilch-Backteig auf Currysauce",
 				"attributes": [
-					"MV",
+					"1",
 					"30",
 					"32",
 					"36",
-					"37",
+					"39"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null
+			}
+		},
+		"Angebot des Tages I": {
+			"1": {
+				"name": "Schweinemedaillons mit Tomaten-Mais-Nudelpfanne",
+				"attributes": [
+					"MV",
+					"30",
 					"S"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": {
+					"fat": 25,
+					"carbohydrate": 87,
+					"protein": 39,
+					"calories": 717
+				}
+			},
+			"2": {
+				"name": "Feuriges Gemüse-Fischcurry mit Ingwerreis",
+				"attributes": [
+					"MV",
+					"30",
+					"33",
+					"36",
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 2.8,
@@ -199,79 +224,19 @@
 					"visitor": 5
 				},
 				"vitalInfo": {
-					"fat": 22,
-					"carbohydrate": 88,
-					"protein": 45,
-					"calories": 747
+					"fat": 18,
+					"carbohydrate": 86,
+					"protein": 41,
+					"calories": 672
 				}
 			},
 			"3": {
-				"name": "Gebackene Falafelbällchen mit Hummus und Fladenbrot",
+				"name": "Frischer Stangenspargel mit Sauce Hollandaise",
 				"attributes": [
 					"F",
-					"A",
-					"30",
-					"36",
-					"40"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Asiatische Gemüsepfanne mit Tofu und Duftreis",
-				"attributes": [
-					"V",
-					"MV",
-					"2",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": {
-					"fat": 23,
-					"carbohydrate": 73,
-					"protein": 28,
-					"calories": 620
-				}
-			},
-			"5": {
-				"name": "Buntbarsch mit Kartoffel-Gurkensalat und Beerengrütze",
-				"attributes": [
-					"MV",
-					"33",
+					"1",
+					"32",
 					"36"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": {
-					"fat": 22,
-					"carbohydrate": 75,
-					"protein": 38,
-					"calories": 654
-				}
-			}
-		},
-		"Angebot des Tages II": {
-			"1": null,
-			"2": {
-				"name": "Frisch gegrillte Merguez auf buntem Mexicosalat und Limetten-Sauerrahmdip",
-				"attributes": [
-					"2",
-					"3",
-					"36",
-					"41"
 				],
 				"price": {
 					"student": 4.5,
@@ -280,28 +245,50 @@
 				},
 				"vitalInfo": null
 			},
-			"3": null,
 			"4": null,
 			"5": {
-				"name": "Rustikaler Pulled Pork Burger",
+				"name": "Limetten-Spaghetti mit Erbsen, Pilzen und Cashewkernen",
 				"attributes": [
-					"1",
+					"V",
+					"MV",
+					"30",
+					"37"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": {
+					"fat": 19,
+					"carbohydrate": 86,
+					"protein": 25,
+					"calories": 629
+				}
+			}
+		},
+		"Angebot des Tages II": {
+			"1": {
+				"name": "Vital Burger mit Kürbis-Chiasamen-Patty, Eisbergsalat, Babayspinat, Ketchup und veganem Dip",
+				"attributes": [
+					"V",
 					"3",
 					"9",
 					"30",
-					"32",
 					"35",
-					"36",
-					"39",
-					"S"
+					"40"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
 				},
 				"vitalInfo": null
-			}
+			},
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null
 		}
 	}
 }

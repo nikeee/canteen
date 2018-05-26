@@ -7,28 +7,17 @@
 		}
 	},
 	"validity": {
-		"from": "2018-05-21T00:00:00.000Z",
-		"until": "2018-05-25T00:00:00.000Z"
+		"from": "2018-05-28T00:00:00.000Z",
+		"until": "2018-06-01T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Tortellini mit Ricotta- Spinat- Füllung Gorgonzolasauce",
+				"name": "Rahmspinat mit Rührei",
 				"attributes": [
 					"F",
 					"1",
-					"30",
 					"32",
 					"36"
 				],
@@ -39,10 +28,11 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Geschmortes Ratatouille-Gemüse mit gelbem Langkornreis",
+			"2": {
+				"name": "Farfalle Tricolore an tomatisiertem Grünkernragout",
 				"attributes": [
-					"V"
+					"V",
+					"30"
 				],
 				"price": {
 					"student": 2,
@@ -51,13 +41,11 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Kartoffelpuffer mit Apfelmus",
+			"3": {
+				"name": "Gebackene Potato Dippers an Curry-Ketchupdip",
 				"attributes": [
-					"F",
-					"3",
-					"30",
-					"32"
+					"V",
+					"1"
 				],
 				"price": {
 					"student": 2.1,
@@ -66,12 +54,24 @@
 				},
 				"vitalInfo": null
 			},
+			"4": {
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
 			"5": {
-				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
+				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise",
 				"attributes": [
 					"F",
+					"30",
 					"32",
-					"36"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.1,
@@ -82,26 +82,13 @@
 			}
 		},
 		"Essen 2": {
-			"1": null,
-			"2": {
-				"name": "Geflügelgulasch in Curry-Maracujasauce",
+			"1": {
+				"name": "Bami Goreng mit Hähnchenstreifen",
 				"attributes": [
-					"1",
 					"30",
-					"36",
+					"32",
+					"35",
 					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
-				"attributes": [
-					"36"
 				],
 				"price": {
 					"student": 2.6,
@@ -110,11 +97,9 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Penne mit Blattspinat und Hackfleisch",
+			"2": {
+				"name": "Schweinesteak vom Nacken mit Kräuterbutter",
 				"attributes": [
-					"1",
-					"30",
 					"36",
 					"S"
 				],
@@ -125,15 +110,10 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Gebackener Alaska-Seelachs an Joghurtaioli",
+			"3": {
+				"name": "Hähnchenbrust mit Chili mariniert an rotem Linsendip",
 				"attributes": [
-					"3",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
+					"40"
 				],
 				"price": {
 					"student": 2.6,
@@ -141,41 +121,27 @@
 					"visitor": 4.8
 				},
 				"vitalInfo": null
+			},
+			"4": null,
+			"5": {
+				"name": "Hausgemachtes Hacksteak auf Zwiebeljus",
+				"attributes": [
+					"30",
+					"32",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
-			"1": null,
-			"2": {
-				"name": "Pekingsuppe mit Tofu",
-				"attributes": [
-					"V",
-					"Ö",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Champignons à la crème",
-				"attributes": [
-					"F",
-					"Ö",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Bäckerinkartoffeln in dunkler Sauce",
+			"1": {
+				"name": "Geschwenkte hessische Pilz-Kartoffel-Pfanne",
 				"attributes": [
 					"V",
 					"Ö"
@@ -187,12 +153,43 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Gegrillte Zucchini mit buntem Quinoasalat und Linsendip",
+			"2": {
+				"name": "Provenzalischer Kartoffelauflauf",
+				"attributes": [
+					"F",
+					"Ö",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Spaghetti mit Tomatensauce Napoli",
 				"attributes": [
 					"V",
 					"Ö",
-					"39"
+					"30"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": null,
+			"5": {
+				"name": "Reis-Tomatenpuffer mit Ingwer-Kräutersauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -203,14 +200,16 @@
 			}
 		},
 		"Aktions-Essen": {
-			"1": null,
-			"2": {
-				"name": "Gegrillte Rindsbratwurst",
+			"1": {
+				"name": "Schweinekoteletts al`berdoulle aus der Walonnie",
 				"attributes": [
-					"3",
-					"8",
-					"32",
-					"R"
+					"A",
+					"9",
+					"30",
+					"36",
+					"39",
+					"41",
+					"S"
 				],
 				"price": {
 					"student": 3.5,
@@ -219,12 +218,23 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Paniertes Schweineschnitzel an hessischer Schmandsauce mit Kräutern und krossen Speckwürfeln",
+			"2": {
+				"name": "Hausgemachtes Spanisch Fricco mit Sauerrahm",
 				"attributes": [
-					"2",
+					"36",
+					"R"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Hausgemachte Lasagne Bologneser Art",
+				"attributes": [
 					"30",
-					"32",
 					"36",
 					"S"
 				],
@@ -235,33 +245,8 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Hähnchenbrustfilet in roten Linsenmehlpanade mit Tomatensauce",
-				"attributes": [
-					"30",
-					"32"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Elbsan - Türkisches Ragout vom Rind in Joghurtsauce",
-				"attributes": [
-					"32",
-					"36",
-					"R"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			}
+			"4": null,
+			"5": null
 		}
 	}
 }

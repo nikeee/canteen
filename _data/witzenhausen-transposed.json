@@ -8,30 +8,16 @@
 		}
 	},
 	"validity": {
-		"from": "2018-05-21T00:00:00.000Z",
-		"until": "2018-05-25T00:00:00.000Z"
+		"from": "2018-05-28T00:00:00.000Z",
+		"until": "2018-06-01T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			}
-		],
-		[
-			{
-				"name": "Tortellini mit Ricotta- Spinat- Füllung Gorgonzolasauce",
+				"name": "Rahmspinat mit Rührei",
 				"attributes": [
 					"F",
 					"1",
-					"30",
 					"32",
 					"36"
 				],
@@ -44,72 +30,12 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Geflügelgulasch in Curry-Maracujasauce",
+				"name": "Bami Goreng mit Hähnchenstreifen",
 				"attributes": [
-					"1",
 					"30",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Pekingsuppe mit Tofu",
-				"attributes": [
-					"V",
-					"Ö",
+					"32",
 					"35",
 					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Gegrillte Rindsbratwurst",
-				"attributes": [
-					"3",
-					"8",
-					"32",
-					"R"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Geschmortes Ratatouille-Gemüse mit gelbem Langkornreis",
-				"attributes": [
-					"V"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
-				"attributes": [
-					"36"
 				],
 				"price": {
 					"student": 2.6,
@@ -120,73 +46,7 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Champignons à la crème",
-				"attributes": [
-					"F",
-					"Ö",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Paniertes Schweineschnitzel an hessischer Schmandsauce mit Kräutern und krossen Speckwürfeln",
-				"attributes": [
-					"2",
-					"30",
-					"32",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Kartoffelpuffer mit Apfelmus",
-				"attributes": [
-					"F",
-					"3",
-					"30",
-					"32"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Penne mit Blattspinat und Hackfleisch",
-				"attributes": [
-					"1",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Bäckerinkartoffeln in dunkler Sauce",
+				"name": "Geschwenkte hessische Pilz-Kartoffel-Pfanne",
 				"attributes": [
 					"V",
 					"Ö"
@@ -200,10 +60,15 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Hähnchenbrustfilet in roten Linsenmehlpanade mit Tomatensauce",
+				"name": "Schweinekoteletts al`berdoulle aus der Walonnie",
 				"attributes": [
+					"A",
+					"9",
 					"30",
-					"32"
+					"36",
+					"39",
+					"41",
+					"S"
 				],
 				"price": {
 					"student": 3.5,
@@ -216,44 +81,40 @@
 		],
 		[
 			{
-				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
+				"name": "Farfalle Tricolore an tomatisiertem Grünkernragout",
 				"attributes": [
-					"F",
-					"32",
-					"36"
+					"V",
+					"30"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gebackener Alaska-Seelachs an Joghurtaioli",
+				"name": "Schweinesteak vom Nacken mit Kräuterbutter",
 				"attributes": [
-					"3",
-					"30",
-					"32",
-					"33",
 					"36",
-					"39"
+					"S"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Gegrillte Zucchini mit buntem Quinoasalat und Linsendip",
+				"name": "Provenzalischer Kartoffelauflauf",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"39"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -264,11 +125,69 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Elbsan - Türkisches Ragout vom Rind in Joghurtsauce",
+				"name": "Hausgemachtes Spanisch Fricco mit Sauerrahm",
 				"attributes": [
-					"32",
 					"36",
 					"R"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Gebackene Potato Dippers an Curry-Ketchupdip",
+				"attributes": [
+					"V",
+					"1"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hähnchenbrust mit Chili mariniert an rotem Linsendip",
+				"attributes": [
+					"40"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Spaghetti mit Tomatensauce Napoli",
+				"attributes": [
+					"V",
+					"Ö",
+					"30"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Hausgemachte Lasagne Bologneser Art",
+				"attributes": [
+					"30",
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 4,
@@ -277,6 +196,70 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			}
+		],
+		[
+			{
+				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hausgemachtes Hacksteak auf Zwiebeljus",
+				"attributes": [
+					"30",
+					"32",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Reis-Tomatenpuffer mit Ingwer-Kräutersauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
 			}
 		]
 	]
