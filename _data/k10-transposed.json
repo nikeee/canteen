@@ -8,10 +8,112 @@
 		}
 	},
 	"validity": {
-		"from": "2018-05-21T00:00:00.000Z",
-		"until": "2018-05-26T00:00:00.000Z"
+		"from": "2018-05-28T00:00:00.000Z",
+		"until": "2018-06-02T00:00:00.000Z"
 	},
 	"days": [
+		[
+			{
+				"name": "Mit Tomate und Mozzarella gefülltes Putenbruststeak an leichter Tomaten-Sahnesauce",
+				"attributes": [
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Geschöpfte Wellenbandnudeln in Karotten-Ingwersauce geschwenkt mit frischer Minze und Kürbiskernen",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Rindergeschnetzeltes mit Paprika und Pilzen in kräftiger Rotweinjus",
+				"attributes": [
+					"30",
+					"36",
+					"R"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Italienische Kartoffelgnocchi in Gorgonzolasauce mit Käse überbacken",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Hähnchenschnitzel mit Panko-Panierung auf fruchtig-scharfer Honig-Sesamsauce",
+				"attributes": [
+					"30",
+					"32",
+					"35",
+					"39",
+					"40"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Gegrillte Tofuschnitte auf Wokgemüse",
+				"attributes": [
+					"V",
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
 		[
 			{
 				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
@@ -27,127 +129,28 @@
 		],
 		[
 			{
-				"name": "Hähnchenbrust in Green-Thaicurrysauce",
+				"name": "Gebratene Krakauer auf Zwiebeljus",
 				"attributes": [
-					"1",
 					"2",
-					"30",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Mini-Fladenbrot mit Tomate und Mozzarella gebacken, an gartenfrischen Salaten",
-				"attributes": [
-					"F",
-					"30",
-					"35",
-					"36"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Goldgelb gebackenes Schweineschnitzel an scharfer Gurkensalsa",
-				"attributes": [
-					"30",
-					"32",
-					"S"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Flammkuchen mit grünem Spargel und getrockneten Tomaten",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Putengeschnetzeltes in Mangorahmsauce",
-				"attributes": [
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Tortellini mit feiner Gemüsefüllung in Schnittlauchsauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Bei schönem Wetter grillen wir ab 11:30 Uhr auf unserer Terrasse: Schweinesteak vom Nacken oder grobe Bratwurst mit Tomaten-Chimichurri",
-				"attributes": [
 					"3",
-					"8",
-					"36",
-					"R",
+					"30",
 					"S"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Grill-Gemüsespieße an Kräuterdip",
+				"name": "Brörekschnecke mit Spinat gefüllt an Tomatensalsa",
 				"attributes": [
-					"F",
-					"36"
+					"V",
+					"1",
+					"3",
+					"30"
 				],
 				"price": {
 					"student": 3,
