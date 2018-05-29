@@ -84,11 +84,11 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Bami Goreng mit Hähnchenstreifen",
+				"name": "Geflügelgulasch in Curry-Maracujasauce",
 				"attributes": [
+					"1",
 					"30",
-					"32",
-					"35",
+					"36",
 					"39"
 				],
 				"price": {
@@ -225,26 +225,19 @@
 				}
 			},
 			"2": {
-				"name": "Feuriges Gemüse-Fischcurry mit Ingwerreis",
+				"name": "Gebackene Zucchinipuffer mit Quark-Kräuterdip",
 				"attributes": [
-					"MV",
+					"F",
 					"30",
-					"33",
-					"36",
-					"38",
-					"39"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
-				"vitalInfo": {
-					"fat": 18,
-					"carbohydrate": 86,
-					"protein": 41,
-					"calories": 672
-				}
+				"vitalInfo": null
 			},
 			"3": {
 				"name": "Frischer Stangenspargel mit Sauce Hollandaise",
