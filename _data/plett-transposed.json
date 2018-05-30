@@ -53,6 +53,7 @@
 					"2",
 					"3",
 					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -102,6 +103,8 @@
 			{
 				"name": "Schweinesteak vom Nacken mit Kräuterbutter",
 				"attributes": [
+					"2",
+					"3",
 					"36",
 					"S"
 				],
