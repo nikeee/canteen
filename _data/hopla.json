@@ -225,19 +225,26 @@
 				}
 			},
 			"2": {
-				"name": "Gebackene Zucchinipuffer mit Quark-Kräuterdip",
+				"name": "Feuriges Gemüse-Fischcurry mit Ingwerreis",
 				"attributes": [
-					"F",
+					"MV",
 					"30",
-					"32",
-					"36"
+					"33",
+					"36",
+					"38",
+					"39"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
 				},
-				"vitalInfo": null
+				"vitalInfo": {
+					"fat": 18,
+					"carbohydrate": 86,
+					"protein": 41,
+					"calories": 672
+				}
 			},
 			"3": {
 				"name": "Frischer Stangenspargel mit Sauce Hollandaise",
