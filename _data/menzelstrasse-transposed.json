@@ -8,16 +8,53 @@
 		}
 	},
 	"validity": {
-		"from": "2018-05-28T00:00:00.000Z",
-		"until": "2018-06-01T00:00:00.000Z"
+		"from": "2018-06-04T00:00:00.000Z",
+		"until": "2018-06-08T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Rahmspinat mit Rührei",
+				"name": "Zwei Hefeklöße mit Ragout von roten Beeren",
 				"attributes": [
 					"F",
 					"1",
+					"3",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hausgemachter Speckschmarrn auf Schmanddip",
+				"attributes": [
+					"2",
+					"3",
+					"30",
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"attributes": [
+					"F",
 					"32",
 					"36"
 				],
@@ -30,17 +67,16 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Bami Goreng mit Hähnchenstreifen",
+				"name": "Geschnetzeltes aus der Putenoberkeule in Bärlauchrahm",
 				"attributes": [
 					"30",
 					"32",
-					"35",
-					"39"
+					"36"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
@@ -48,23 +84,27 @@
 		],
 		[
 			{
-				"name": "Farfalle Tricolore an tomatisiertem Grünkernragout",
+				"name": "Feine Süßkartoffel-Gnocchi in fruchtiger Tomatensauce",
 				"attributes": [
 					"V",
 					"30"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Schweinesteak vom Nacken mit Kräuterbutter",
+				"name": "Gegrilltes Steak vom Schweinerücken auf Portwein-Rahmsauce",
 				"attributes": [
+					"A",
+					"1",
+					"30",
 					"36",
+					"41",
 					"S"
 				],
 				"price": {
@@ -78,10 +118,11 @@
 		],
 		[
 			{
-				"name": "Gebackene Potato Dippers an Curry-Ketchupdip",
+				"name": "Rosmarinkartoffeln mit Chili-Tomatendip",
 				"attributes": [
 					"V",
-					"1"
+					"3",
+					"35"
 				],
 				"price": {
 					"student": 2.1,
@@ -92,9 +133,13 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hähnchenbrust mit Chili mariniert an rotem Linsendip",
+				"name": "Karibisches Mango-Hühnchen",
 				"attributes": [
-					"40"
+					"1",
+					"3",
+					"30",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.6,
@@ -107,24 +152,12 @@
 		],
 		[
 			{
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			}
-		],
-		[
-			{
-				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise",
+				"name": "Gebackene Brokkoli-Nuggets an Kräuterquark",
 				"attributes": [
 					"F",
 					"30",
 					"32",
+					"35",
 					"36",
 					"38"
 				],
@@ -137,17 +170,21 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hausgemachtes Hacksteak auf Zwiebeljus",
+				"name": "Nudelpfanne mit Salami, Schinken und Ei",
 				"attributes": [
+					"2",
+					"3",
+					"8",
 					"30",
 					"32",
-					"39",
+					"36",
+					"R",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
