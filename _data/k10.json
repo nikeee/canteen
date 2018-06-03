@@ -7,47 +7,47 @@
 		}
 	},
 	"validity": {
-		"from": "2018-05-28T00:00:00.000Z",
-		"until": "2018-06-02T00:00:00.000Z"
+		"from": "2018-06-04T00:00:00.000Z",
+		"until": "2018-06-09T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Mit Tomate und Mozzarella gefülltes Putenbruststeak an leichter Tomaten-Sahnesauce",
+				"name": "Grillfrische Bratwurst mit Curry-Ketchupsauce",
 				"attributes": [
-					"30",
-					"36"
+					"3",
+					"8",
+					"38",
+					"39",
+					"S"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Rindergeschnetzeltes mit Paprika und Pilzen in kräftiger Rotweinjus",
+				"name": "Ungarische Gulaschsuppe vom Schwein mit Kartoffelwürfeln",
 				"attributes": [
 					"30",
-					"36",
-					"R"
+					"S"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Hähnchenschnitzel mit Panko-Panierung auf fruchtig-scharfer Honig-Sesamsauce",
+				"name": "Goldgelb gebackenes Putenschnitzel an cremigem Ajvardip",
 				"attributes": [
 					"30",
 					"32",
-					"35",
-					"39",
-					"40"
+					"36"
 				],
 				"price": {
 					"student": 3.5,
@@ -57,50 +57,43 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
+				"name": "Hamburger mit Rindfleisch, Salaten und Dip",
+				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
+					"36",
+					"39",
+					"40",
+					"R"
+				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gebratene Krakauer auf Zwiebeljus",
+				"name": "Mit Hirsch gefüllte Ravioli in Preiselbeerrahmsauce",
 				"attributes": [
-					"2",
-					"3",
 					"30",
-					"S"
+					"32",
+					"36",
+					"38"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null
 			}
 		},
 		"Angebot 2": {
 			"1": {
-				"name": "Geschöpfte Wellenbandnudeln in Karotten-Ingwersauce geschwenkt mit frischer Minze und Kürbiskernen",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Italienische Kartoffelgnocchi in Gorgonzolasauce mit Käse überbacken",
+				"name": "Schwäbische Spätzle mit Röstzwiebeln und Käsesauce",
 				"attributes": [
 					"F",
 					"1",
@@ -115,30 +108,62 @@
 				},
 				"vitalInfo": null
 			},
+			"2": {
+				"name": "Backfrischer Pfannkuchen an Apfelmus",
+				"attributes": [
+					"F",
+					"1",
+					"3",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
 			"3": {
-				"name": "Gegrillte Tofuschnitte auf Wokgemüse",
+				"name": "Tortellini mit veganer Bolognesefüllung in fruchtiger Basilikum-Tomatensauce",
 				"attributes": [
 					"V",
 					"30",
 					"35",
-					"38",
-					"39"
+					"38"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null
 			},
-			"4": null,
-			"5": {
-				"name": "Brörekschnecke mit Spinat gefüllt an Tomatensalsa",
+			"4": {
+				"name": "Fleischlos gefüllte Maultaschen in Gemüsebouillon",
 				"attributes": [
-					"V",
-					"1",
-					"3",
-					"30"
+					"F",
+					"30",
+					"32",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachter griechischer Reistaler mit Knoblauchdip",
+				"attributes": [
+					"F",
+					"6",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 3,
