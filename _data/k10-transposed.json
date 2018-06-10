@@ -8,41 +8,40 @@
 		}
 	},
 	"validity": {
-		"from": "2018-06-04T00:00:00.000Z",
-		"until": "2018-06-09T00:00:00.000Z"
+		"from": "2018-06-11T00:00:00.000Z",
+		"until": "2018-06-16T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Grillfrische Bratwurst mit Curry-Ketchupsauce",
+				"name": "Mini Hackfleischbällchen auf Jalapeno-Rahmsauce",
 				"attributes": [
-					"3",
-					"8",
-					"38",
-					"39",
+					"30",
+					"32",
+					"36",
+					"R",
 					"S"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Schwäbische Spätzle mit Röstzwiebeln und Käsesauce",
+				"name": "Hausgemachter Spinatpfannkuchen an Kräuterdip",
 				"attributes": [
 					"F",
-					"1",
 					"30",
 					"32",
 					"36"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -50,66 +49,30 @@
 		],
 		[
 			{
-				"name": "Ungarische Gulaschsuppe vom Schwein mit Kartoffelwürfeln",
+				"name": "Hähnchenbrust in einer würzigen Marinade von tasmanischem Pfeffer mit Portweinjus",
 				"attributes": [
 					"30",
-					"S"
+					"36"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Backfrischer Pfannkuchen an Apfelmus",
-				"attributes": [
-					"F",
-					"1",
-					"3",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Goldgelb gebackenes Putenschnitzel an cremigem Ajvardip",
-				"attributes": [
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Tortellini mit veganer Bolognesefüllung in fruchtiger Basilikum-Tomatensauce",
+				"name": "Gebackene Gemüsekroketten mit fruchtiger Basilikum-Tomatensauce",
 				"attributes": [
 					"V",
 					"30",
-					"35",
 					"38"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -117,38 +80,67 @@
 		],
 		[
 			{
-				"name": "Hamburger mit Rindfleisch, Salaten und Dip",
+				"name": "Goldgelb gebackenes Schweineschnitzel an hausgemachtem Kürbis-Chutney",
 				"attributes": [
 					"3",
-					"9",
 					"30",
 					"32",
-					"36",
-					"39",
-					"40",
+					"S"
+				],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Spaghetti geschwenkt mit feinen Tomatenpesto und grünen Oliven",
+				"attributes": [
+					"V",
+					"30",
+					"37"
+				],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Zarter Braumeister Gulasch vom Rind",
+				"attributes": [
+					"A",
+					"30",
 					"R"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Fleischlos gefüllte Maultaschen in Gemüsebouillon",
+				"name": "Großer Salatteller mit feinem Spargelsalat und Himbeer-Balsamico-Vinaigrette und Baguette als Beilage",
 				"attributes": [
-					"F",
+					"V",
+					"1",
+					"3",
 					"30",
-					"32",
-					"36",
-					"38"
+					"39",
+					"41"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -156,34 +148,33 @@
 		],
 		[
 			{
-				"name": "Mit Hirsch gefüllte Ravioli in Preiselbeerrahmsauce",
+				"name": "Nürnberger Rostbratwürstchen auf milden Sauerkraut",
 				"attributes": [
-					"30",
-					"32",
-					"36",
-					"38"
+					"1",
+					"S"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Hausgemachter griechischer Reistaler mit Knoblauchdip",
+				"name": "Klassischer Linseneintopf mit Wurzelgemüsen",
 				"attributes": [
-					"F",
-					"6",
+					"V",
+					"1",
 					"30",
-					"32",
-					"36"
+					"35",
+					"38",
+					"39"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
