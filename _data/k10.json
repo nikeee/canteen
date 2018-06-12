@@ -14,7 +14,7 @@
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Mini Hackfleischbällchen auf Jalapeno-Rahmsauce",
+				"name": "Mini Hackfleischbällchen auf Jalapeño-Rahmsauce",
 				"attributes": [
 					"30",
 					"32",
@@ -23,22 +23,22 @@
 					"S"
 				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hähnchenbrust in einer würzigen Marinade von tasmanischem Pfeffer mit Portweinjus",
+				"name": "Hähnchenbrust in einer würzigen Marinade von tasmanischem Pfeffer an Portweinjus",
 				"attributes": [
 					"30",
 					"36"
 				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
@@ -51,36 +51,36 @@
 					"S"
 				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Zarter Braumeister Gulasch vom Rind",
+				"name": "Braumeister Gulasch vom Rind",
 				"attributes": [
 					"A",
 					"30",
 					"R"
 				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Nürnberger Rostbratwürstchen auf milden Sauerkraut",
+				"name": "Nürnberger Rostbratwürstchen auf Sauerkraut",
 				"attributes": [
 					"1",
 					"S"
 				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null
 			}
@@ -95,9 +95,9 @@
 					"36"
 				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null
 			},
@@ -109,28 +109,28 @@
 					"38"
 				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Spaghetti geschwenkt mit feinen Tomatenpesto und grünen Oliven",
+				"name": "Spaghetti geschwenkt mit feinem Tomatenpesto und grünen Oliven",
 				"attributes": [
 					"V",
 					"30",
 					"37"
 				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Großer Salatteller mit feinem Spargelsalat und Himbeer-Balsamico-Vinaigrette und Baguette als Beilage",
+				"name": "Großer Salatteller mit Spargel und Himbeer-Balsamico-Vinaigrette, dazu Baguette",
 				"attributes": [
 					"V",
 					"1",
@@ -140,14 +140,14 @@
 					"41"
 				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Klassischer Linseneintopf mit Wurzelgemüsen",
+				"name": "Klassischer Linseneintopf mit Wurzelgemüse",
 				"attributes": [
 					"V",
 					"1",
@@ -157,9 +157,9 @@
 					"39"
 				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			}
