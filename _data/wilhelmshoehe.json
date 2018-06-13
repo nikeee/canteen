@@ -32,10 +32,12 @@
 			"2": {
 				"name": "Frisch gebackene Kartoffelecken mit Currydip",
 				"attributes": [
-					"V",
+					"1",
 					"3",
+					"9",
 					"30",
-					"35"
+					"35",
+					"S"
 				],
 				"price": {
 					"student": 2.1,
