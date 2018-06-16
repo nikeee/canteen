@@ -7,34 +7,33 @@
 		}
 	},
 	"validity": {
-		"from": "2018-06-11T00:00:00.000Z",
-		"until": "2018-06-15T00:00:00.000Z"
+		"from": "2018-06-18T00:00:00.000Z",
+		"until": "2018-06-22T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Asia-Kokossuppe mit Paprika und Koriander",
+				"name": "Gemüsebällchen auf Cranberrieschmand",
 				"attributes": [
-					"V",
-					"1",
-					"3",
-					"35"
+					"F",
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Frisch gebackene Kartoffelecken mit Currydip",
+				"name": "Berner Riesenrösti mit buntem Béchamelgemüse",
 				"attributes": [
-					"V",
+					"F",
+					"1",
 					"30",
-					"35",
-					"39"
+					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -44,11 +43,10 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Dattel-Aprikosen-Pilaw",
+				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
 				"attributes": [
 					"V",
-					"3",
-					"41"
+					"30"
 				],
 				"price": {
 					"student": 2,
@@ -58,12 +56,15 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hausgemachter Spinatpfannkuchen auf Knoblauchdip",
+				"name": "Backfrischer Amarena-Kirsch-Pfannkuchen an Mascarpone-Vanilledip",
 				"attributes": [
 					"F",
+					"1",
+					"2",
 					"30",
 					"32",
-					"36"
+					"36",
+					"41"
 				],
 				"price": {
 					"student": 2,
@@ -73,14 +74,10 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Orientalische Linsenpfanne mit buntem Gemüse und Quinoa",
+				"name": "Gazpacho - Kalte spanische Gemüsesuppe mit Tomate, Gurke und Paprika",
 				"attributes": [
 					"V",
-					"2",
-					"38",
-					"39",
-					"40",
-					"41"
+					"30"
 				],
 				"price": {
 					"student": 2,
@@ -92,13 +89,10 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Klassische Currywurst",
+				"name": "Spaghetti in Sauce all'amatriciana",
 				"attributes": [
-					"1",
-					"3",
-					"8",
-					"38",
-					"39",
+					"2",
+					"30",
 					"S"
 				],
 				"price": {
@@ -109,25 +103,12 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gnocchi in Béchamelsauce mit Putenhackfleisch",
+				"name": "Hähnchenbrust mit Pesto Rosso mariniert auf Ricottacreme",
 				"attributes": [
 					"1",
 					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Gebackener Knusperfisch an Schnittlauchdip",
-				"attributes": [
-					"30",
-					"33",
-					"36"
+					"36",
+					"37"
 				],
 				"price": {
 					"student": 2.6,
@@ -136,13 +117,12 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Hähnchenbrust mit Sauce Café de Paris",
+			"3": {
+				"name": "Wellenbandnudeln mit Chili con Carne",
 				"attributes": [
-					"1",
 					"30",
 					"32",
-					"36"
+					"R"
 				],
 				"price": {
 					"student": 2.5,
@@ -151,19 +131,32 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Hausgemachte Hackfleischpizza mit Paprika, Tomaten und Mais",
+			"4": {
+				"name": "Asia-Schweinefleischstreifen in Red-Thaicurrysauce",
 				"attributes": [
+					"1",
 					"30",
-					"32",
 					"36",
-					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hähnchenbrust im Reismehlmantel an lauwarmen Pak Choi Salat",
+				"attributes": [
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			}
