@@ -8,35 +8,142 @@
 		}
 	},
 	"validity": {
-		"from": "2018-06-11T00:00:00.000Z",
-		"until": "2018-06-16T00:00:00.000Z"
+		"from": "2018-06-18T00:00:00.000Z",
+		"until": "2018-06-23T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Mini Hackfleischbällchen auf Jalapeño-Rahmsauce",
+				"name": "Hähnchenbrust mit Zitrone und Thymian auf Joghurtdip mit Schnittlauch und Radieschen",
 				"attributes": [
-					"30",
-					"32",
-					"36",
-					"R",
-					"S"
+					"36"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Hausgemachter Spinatpfannkuchen an Kräuterdip",
+				"name": "Backfrischer Kirsch- Pfannkuchen an Vanillesauce",
 				"attributes": [
 					"F",
+					"1",
 					"30",
 					"32",
 					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Zarter Kalbsrahmgulasch mit Sherry",
+				"attributes": [
+					"A",
+					"30",
+					"36",
+					"41",
+					"R"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Asiatische Gemüsepfanne mit Nudeln",
+				"attributes": [
+					"F",
+					"3",
+					"30",
+					"32",
+					"39"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Goldgelb gebackenes Putenschnitzel an Guacamole-Sauerrahmdip",
+				"attributes": [
+					"1",
+					"3",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Mini-Fladenbrot mit Tomaten und Mozzarella überbacken an buntem Salat mit Kräuterdressing und Petersilienpesto",
+				"attributes": [
+					"F",
+					"1",
+					"2",
+					"30",
+					"35",
+					"36",
+					"37",
+					"39"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Chili con Carne mit Rinderhack",
+				"attributes": [
+					"30",
+					"R"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Geschöpfte Wellenbandnudeln mit Tomaten, Zucchiniwürfeln und Pesto",
+				"attributes": [
+					"F",
+					"1",
+					"2",
+					"30",
+					"32",
+					"36",
+					"37"
 				],
 				"price": {
 					"student": 2.7,
@@ -49,134 +156,35 @@
 		],
 		[
 			{
-				"name": "Hähnchenbrust in einer würzigen Marinade von tasmanischem Pfeffer an Portweinjus",
+				"name": "Pochiertes Lachsfilet aus dem Weißweinsud auf Rieslingsauce",
 				"attributes": [
+					"A",
+					"1",
+					"30",
+					"33",
+					"36",
+					"38",
+					"41"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Enchilada mit Spinat und Hirtenkäse an scharfem Tomatendip",
+				"attributes": [
+					"F",
 					"30",
 					"36"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Gebackene Gemüsekroketten mit fruchtiger Basilikum-Tomatensauce",
-				"attributes": [
-					"V",
-					"30",
-					"38"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Goldgelb gebackenes Schweineschnitzel an hausgemachtem Kürbis-Chutney",
-				"attributes": [
-					"3",
-					"30",
-					"32",
-					"36",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Spaghetti geschwenkt mit feinem Tomatenpesto und grünen Oliven",
-				"attributes": [
-					"V",
-					"30",
-					"37"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Braumeister Gulasch vom Rind",
-				"attributes": [
-					"A",
-					"30",
-					"R"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Großer Salatteller mit Spargel und Himbeer-Balsamico-Vinaigrette, dazu Baguette",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"30",
-					"39",
-					"41"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Nürnberger Rostbratwürstchen auf Sauerkraut",
-				"attributes": [
-					"1",
-					"S"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Klassischer Linseneintopf mit Wurzelgemüse",
-				"attributes": [
-					"V",
-					"1",
-					"30",
-					"35",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
