@@ -7,46 +7,16 @@
 		}
 	},
 	"validity": {
-		"from": "2018-06-18T00:00:00.000Z",
-		"until": "2018-06-22T00:00:00.000Z"
+		"from": "2018-06-25T00:00:00.000Z",
+		"until": "2018-06-29T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Gemüsebällchen auf Cranberrieschmand",
+				"name": "Pfannenfrische Gemüsepaella",
 				"attributes": [
-					"F",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Berner Riesenrösti mit buntem Béchamelgemüse",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
-				"attributes": [
-					"V",
-					"30"
+					"V"
 				],
 				"price": {
 					"student": 2,
@@ -55,16 +25,40 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Backfrischer Amarena-Kirsch-Pfannkuchen an Mascarpone-Vanilledip",
+			"2": {
+				"name": "Backfrischer Armer Ritter auf fruchtigem Heidelbeer-Ragout",
 				"attributes": [
 					"F",
-					"1",
-					"2",
+					"3",
 					"30",
 					"32",
-					"36",
-					"41"
+					"36"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Pastasotto mit Strauchtomaten und Rucola",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Indisch Aloo Matar mit Kartoffeln und Erbsen",
+				"attributes": [
+					"V",
+					"39"
 				],
 				"price": {
 					"student": 2,
@@ -74,9 +68,10 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gazpacho - Kalte spanische Gemüsesuppe mit Tomate, Gurke und Paprika",
+				"name": "Schupfnudelpfanne mit Spitzkohl",
 				"attributes": [
 					"V",
+					"1",
 					"30"
 				],
 				"price": {
@@ -89,26 +84,12 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Spaghetti in Sauce all'amatriciana",
+				"name": "Ofenfrischer Spießbraten an griechischem Zaziki",
 				"attributes": [
 					"2",
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Hähnchenbrust mit Pesto Rosso mariniert auf Ricottacreme",
-				"attributes": [
-					"1",
-					"30",
+					"3",
 					"36",
-					"37"
+					"S"
 				],
 				"price": {
 					"student": 2.6,
@@ -117,12 +98,30 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Wellenbandnudeln mit Chili con Carne",
+			"2": {
+				"name": "Fischstäbchen mit Remouladensauce",
 				"attributes": [
+					"3",
+					"9",
 					"30",
 					"32",
-					"R"
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gegrilltes Schweinekotelett mit Schwarzbierjus",
+				"attributes": [
+					"A",
+					"30",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -132,26 +131,28 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Asia-Schweinefleischstreifen in Red-Thaicurrysauce",
+				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
 				"attributes": [
 					"1",
+					"2",
 					"30",
 					"36",
+					"38",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hähnchenbrust im Reismehlmantel an lauwarmen Pak Choi Salat",
+				"name": "Hähnchenbrust in Green-Thaicurrysauce",
 				"attributes": [
+					"1",
 					"30",
-					"35",
-					"39"
+					"36"
 				],
 				"price": {
 					"student": 2.6,
