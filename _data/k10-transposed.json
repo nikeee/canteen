@@ -8,26 +8,27 @@
 		}
 	},
 	"validity": {
-		"from": "2018-06-18T00:00:00.000Z",
-		"until": "2018-06-23T00:00:00.000Z"
+		"from": "2018-06-25T00:00:00.000Z",
+		"until": "2018-06-30T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Hähnchenbrust mit Zitrone und Thymian auf Joghurtdip mit Schnittlauch und Radieschen",
+				"name": "Geschnetzeltes vom Rind mit Mango-Currysauce",
 				"attributes": [
-					"36"
+					"36",
+					"R"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Backfrischer Kirsch- Pfannkuchen an Vanillesauce",
+				"name": "Italienische Kartoffelgnocchi in Champignonsahnesauce",
 				"attributes": [
 					"F",
 					"1",
@@ -36,9 +37,9 @@
 					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -46,30 +47,29 @@
 		],
 		[
 			{
-				"name": "Zarter Kalbsrahmgulasch mit Sherry",
+				"name": "Ofenfrischer Spießbraten auf Bratenjus",
 				"attributes": [
-					"A",
+					"2",
+					"3",
 					"30",
-					"36",
-					"41",
-					"R"
+					"S"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Asiatische Gemüsepfanne mit Nudeln",
+				"name": "Hausgemachter Spinatpfannkuchen auf Béchamelsauce",
 				"attributes": [
 					"F",
-					"3",
+					"1",
 					"30",
 					"32",
-					"39"
+					"36"
 				],
 				"price": {
 					"student": 3,
@@ -82,13 +82,10 @@
 		],
 		[
 			{
-				"name": "Goldgelb gebackenes Putenschnitzel an Guacamole-Sauerrahmdip",
+				"name": "Hähnchenschnitzel im Cornflakesmantel auf fruchtiger Basilikum-Tomatensauce",
 				"attributes": [
-					"1",
-					"3",
 					"30",
-					"32",
-					"36"
+					"32"
 				],
 				"price": {
 					"student": 3.5,
@@ -99,21 +96,18 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Mini-Fladenbrot mit Tomaten und Mozzarella überbacken an buntem Salat mit Kräuterdressing und Petersilienpesto",
+				"name": "Schwäbische Spätzle mit Röstzwiebeln und Käsesauce überbacken",
 				"attributes": [
 					"F",
 					"1",
-					"2",
 					"30",
-					"35",
-					"36",
-					"37",
-					"39"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -121,10 +115,14 @@
 		],
 		[
 			{
-				"name": "Chili con Carne mit Rinderhack",
+				"name": "Gegrilltes Steak von der Putenbrust mit asiatischer Chilisauce",
 				"attributes": [
+					"2",
+					"3",
 					"30",
-					"R"
+					"35",
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 3.5,
@@ -135,15 +133,14 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Geschöpfte Wellenbandnudeln mit Tomaten, Zucchiniwürfeln und Pesto",
+				"name": "Gebackenes Gemüseschnitzel an Kräutersauce",
 				"attributes": [
 					"F",
 					"1",
-					"2",
 					"30",
-					"32",
+					"35",
 					"36",
-					"37"
+					"38"
 				],
 				"price": {
 					"student": 2.7,
@@ -156,35 +153,35 @@
 		],
 		[
 			{
-				"name": "Pochiertes Lachsfilet aus dem Weißweinsud auf Rieslingsauce",
+				"name": "Gebackener Alaska-Seelachs an Remouladensauce",
 				"attributes": [
-					"A",
-					"1",
+					"3",
+					"9",
 					"30",
+					"32",
 					"33",
 					"36",
-					"38",
-					"41"
+					"39"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Enchilada mit Spinat und Hirtenkäse an scharfem Tomatendip",
+				"name": "Flammkuchen mit Chili, Paprika, Tomaten und roten Zwiebeln",
 				"attributes": [
 					"F",
 					"30",
 					"36"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
