@@ -155,8 +155,11 @@
 			{
 				"name": "Pastasotto mit Strauchtomaten und Rucola",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"1",
+					"2",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.1,
