@@ -320,26 +320,6 @@
 				"categoryName": "Essen 3 oder 4"
 			},
 			{
-				"name": "Hähnchenbrust mit Dip, Honigmöhren und Kräuter-Kartoffeln",
-				"attributes": [
-					"MV",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 69,
-					"protein": 38,
-					"calories": 632
-				},
-				"categoryName": "Angebot des Tages"
-			},
-			{
 				"name": "Mediterraner Veggi-Burger mit Süßkartoffel-Amaranth-Patty, Parmesandip und Antipasti-Gemüse",
 				"attributes": [
 					"F",
