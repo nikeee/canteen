@@ -7,32 +7,33 @@
 		}
 	},
 	"validity": {
-		"from": "2018-06-25T00:00:00.000Z",
-		"until": "2018-06-29T00:00:00.000Z"
+		"from": "2018-07-02T00:00:00.000Z",
+		"until": "2018-07-06T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Pfannenfrische Gemüsepaella",
+				"name": "Kartoffelpfannkuchen auf veganem Dip",
 				"attributes": [
-					"V"
+					"V",
+					"30",
+					"35",
+					"39"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Backfrischer Armer Ritter auf fruchtigem Heidelbeer-Ragout",
+				"name": "Kritharakisalat mit buntem Gemüse, dazu Baguette",
 				"attributes": [
-					"F",
-					"3",
-					"30",
-					"32",
-					"36"
+					"V",
+					"6",
+					"30"
 				],
 				"price": {
 					"student": 2,
@@ -42,10 +43,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Pastasotto mit Strauchtomaten und Rucola",
+				"name": "Ofenfrisches Hirtenkäsesteak mit Rahmspinat",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"1",
+					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -55,10 +57,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Indisch Aloo Matar mit Kartoffeln und Erbsen",
+				"name": "Hausgemachte Polenta à la Crème auf tomatisierter Bratzucchini",
 				"attributes": [
 					"V",
-					"39"
+					"1",
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 2,
@@ -68,46 +72,28 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Schupfnudelpfanne mit Spitzkohl",
+				"name": "Grünkernpfanne mit knackigem Gemüse und Balsamico an fruchtigem Tomatendip",
 				"attributes": [
 					"V",
 					"1",
-					"30"
+					"3",
+					"30",
+					"41"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Ofenfrischer Spießbraten an griechischem Zaziki",
+				"name": "Texanisches feuriges Chili con Carne",
 				"attributes": [
-					"2",
-					"3",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Fischstäbchen mit Remouladensauce",
-				"attributes": [
-					"3",
-					"9",
 					"30",
-					"32",
-					"33",
-					"36",
-					"39"
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -116,11 +102,28 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Gegrilltes Schweinekotelett mit Schwarzbierjus",
+			"2": {
+				"name": "Hähnchenbrust mit Béchamelkartoffeln",
 				"attributes": [
-					"A",
+					"1",
 					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Süd Tiroler Bauerngröstel",
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"30",
+					"R",
 					"S"
 				],
 				"price": {
@@ -131,33 +134,34 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
+				"name": "Gebratene Asianudeln mit Pute und Gemüse",
 				"attributes": [
-					"1",
-					"2",
 					"30",
-					"36",
+					"35",
 					"38",
+					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hähnchenbrust in Green-Thaicurrysauce",
+				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
 				"attributes": [
 					"1",
-					"30",
-					"36"
+					"36",
+					"38",
+					"39",
+					"R"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}

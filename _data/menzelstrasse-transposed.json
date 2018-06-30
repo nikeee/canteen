@@ -8,69 +8,32 @@
 		}
 	},
 	"validity": {
-		"from": "2018-06-25T00:00:00.000Z",
-		"until": "2018-06-29T00:00:00.000Z"
+		"from": "2018-07-02T00:00:00.000Z",
+		"until": "2018-07-06T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Pfannenfrische Gemüsepaella",
+				"name": "Kartoffelpfannkuchen auf veganem Dip",
 				"attributes": [
-					"V"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Ofenfrischer Spießbraten an griechischem Zaziki",
-				"attributes": [
-					"2",
-					"3",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Backfrischer Armer Ritter auf fruchtigem Heidelbeer-Ragout",
-				"attributes": [
-					"F",
-					"3",
+					"V",
 					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Fischstäbchen mit Remouladensauce",
-				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
-					"33",
-					"36",
+					"35",
 					"39"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Texanisches feuriges Chili con Carne",
+				"attributes": [
+					"30",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -83,10 +46,43 @@
 		],
 		[
 			{
-				"name": "Pastasotto mit Strauchtomaten und Rucola",
+				"name": "Kritharakisalat mit buntem Gemüse, dazu Baguette",
 				"attributes": [
 					"V",
+					"6",
 					"30"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hähnchenbrust mit Béchamelkartoffeln",
+				"attributes": [
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Ofenfrisches Hirtenkäsesteak mit Rahmspinat",
+				"attributes": [
+					"F",
+					"1",
+					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -97,10 +93,13 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gegrilltes Schweinekotelett mit Schwarzbierjus",
+				"name": "Süd Tiroler Bauerngröstel",
 				"attributes": [
-					"A",
+					"2",
+					"3",
+					"8",
 					"30",
+					"R",
 					"S"
 				],
 				"price": {
@@ -114,10 +113,12 @@
 		],
 		[
 			{
-				"name": "Indisch Aloo Matar mit Kartoffeln und Erbsen",
+				"name": "Hausgemachte Polenta à la Crème auf tomatisierter Bratzucchini",
 				"attributes": [
 					"V",
-					"39"
+					"1",
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 2,
@@ -128,51 +129,54 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
+				"name": "Gebratene Asianudeln mit Pute und Gemüse",
+				"attributes": [
+					"30",
+					"35",
+					"38",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Grünkernpfanne mit knackigem Gemüse und Balsamico an fruchtigem Tomatendip",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"30",
+					"41"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
 				"attributes": [
 					"1",
-					"2",
-					"30",
 					"36",
 					"38",
-					"S"
+					"39",
+					"R"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Schupfnudelpfanne mit Spitzkohl",
-				"attributes": [
-					"V",
-					"1",
-					"30"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hähnchenbrust in Green-Thaicurrysauce",
-				"attributes": [
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
