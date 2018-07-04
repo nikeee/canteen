@@ -134,7 +134,7 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gebratene Asianudeln mit Pute und Gemüse",
+				"name": "Gebratene Asianudeln mit Schweinefleisch und Gemüse",
 				"attributes": [
 					"30",
 					"35",
@@ -328,6 +328,7 @@
 				"attributes": [
 					"A",
 					"MV",
+					"1",
 					"30",
 					"32",
 					"33",
