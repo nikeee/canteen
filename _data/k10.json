@@ -7,64 +7,62 @@
 		}
 	},
 	"validity": {
-		"from": "2018-07-02T00:00:00.000Z",
-		"until": "2018-07-07T00:00:00.000Z"
+		"from": "2018-07-09T00:00:00.000Z",
+		"until": "2018-07-14T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Zartes Hähnchenbrustfilet in asiatischer Ananassauce",
+				"name": "Gegrillter Fleischkäse auf kräftiger Kräuterjus",
 				"attributes": [
+					"2",
 					"3",
+					"8",
 					"30",
-					"35",
-					"39"
+					"R",
+					"S"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Grillfrische Bratwurst mit Curry-Ketchupsauce",
+				"name": "Geschnetzeltes von der Putenbrust in Rahmsauce",
 				"attributes": [
-					"3",
-					"8",
-					"38",
-					"39",
-					"S"
+					"30",
+					"36"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Goldgelb gebackenes Putenschnitzel mit Kirsch-Rahmsauce",
+				"name": "Goldgelb gebackenes Schweineschnitzel an scharfem Barbecuedip",
 				"attributes": [
 					"30",
 					"32",
-					"36"
+					"38",
+					"S"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hausgemachtes Rinderhacksteak mit fruchtiger Tomaten-Paprikasauce",
+				"name": "Putensteak mit Spinat-Tomatenhaube an kräftiger Bratenjus",
 				"attributes": [
 					"30",
-					"32",
-					"39",
-					"R"
+					"36"
 				],
 				"price": {
 					"student": 4,
@@ -74,11 +72,18 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gedämpftes Seehechtfilet auf Fenchel-Karottenbett",
+				"name": ">>>> Burger Day << << Burger mit Beef, Dips und Salat",
 				"attributes": [
-					"1",
+					"2",
+					"3",
+					"9",
 					"30",
-					"33"
+					"32",
+					"36",
+					"38",
+					"39",
+					"40",
+					"R"
 				],
 				"price": {
 					"student": 3.5,
@@ -90,28 +95,49 @@
 		},
 		"Angebot 2": {
 			"1": {
-				"name": "Geschöpfte Tortellini mit Soja-Bolognesefüllung in feiner Tomatensauce",
+				"name": "Auflauf von Brokkoli, Blumenkohl, Kartoffeln und Gorgonzola",
 				"attributes": [
-					"V",
+					"F",
+					"1",
+					"3",
 					"30",
-					"35",
-					"38"
+					"36",
+					"41"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Berner Riesenrösti mit buntem Gemüseragout",
+				"name": "Hausgemachter griechischer Reistaler mit Knoblauchdip",
+				"attributes": [
+					"F",
+					"6",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Großer, bunter Salatteller, dazu rustikales Baguette Caprese mit Petersilienpesto",
 				"attributes": [
 					"F",
 					"1",
+					"2",
+					"3",
 					"30",
 					"36",
-					"38"
+					"37",
+					"41"
 				],
 				"price": {
 					"student": 2.8,
@@ -120,15 +146,15 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Ofenfrischer Gemüsestrudel auf Béchamelsauce",
+			"4": {
+				"name": "Burrito Mexiko mit Mais und Bohnen gefüllt an Avocado-Limettendip",
 				"attributes": [
 					"F",
 					"1",
+					"2",
+					"3",
 					"30",
-					"32",
-					"36",
-					"38"
+					"36"
 				],
 				"price": {
 					"student": 3.3,
@@ -137,35 +163,25 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Ofenfrisches Pizzarad mit Tomaten, frischen Champignons, Sauce Hollandaise und Käse",
+			"5": {
+				"name": "Burger mit Gemüsepatty, Dips und Salat",
 				"attributes": [
 					"F",
+					"2",
+					"3",
+					"9",
 					"30",
 					"32",
 					"35",
-					"36"
+					"36",
+					"38",
+					"39",
+					"40"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Backfrischer Apfel-Pfannkuchen an warmer Mohn-Vanillesauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null
 			}
