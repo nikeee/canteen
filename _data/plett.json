@@ -64,9 +64,9 @@
 			"4": {
 				"name": "Ofenkartoffel mit hessischem Ratatouille",
 				"attributes": [
-					"V",
 					"30",
-					"38"
+					"38",
+					"S"
 				],
 				"price": {
 					"student": 2.1,
