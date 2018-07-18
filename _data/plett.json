@@ -32,12 +32,13 @@
 			"2": {
 				"name": "Fleischlos gefüllte Kohlroulade an Béchamelsauce",
 				"attributes": [
-					"F",
 					"1",
 					"30",
 					"32",
 					"35",
-					"36"
+					"36",
+					"R",
+					"S"
 				],
 				"price": {
 					"student": 2,
