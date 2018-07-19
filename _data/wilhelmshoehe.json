@@ -49,7 +49,11 @@
 			"3": {
 				"name": "Grillfrische Zucchini auf fruchtiger Tomatensauce",
 				"attributes": [
-					"V",
+					"F",
+					"1",
+					"30",
+					"32",
+					"35",
 					"40"
 				],
 				"price": {
@@ -121,12 +125,14 @@
 			"3": {
 				"name": "Gebackene Fisch Nuggets an cremigem Dill-Senfdip",
 				"attributes": [
+					"1",
 					"3",
 					"30",
 					"32",
 					"33",
 					"36",
-					"39"
+					"39",
+					"43"
 				],
 				"price": {
 					"student": 2.6,

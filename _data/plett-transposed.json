@@ -118,8 +118,11 @@
 			{
 				"name": "Grillfrische Zucchini auf fruchtiger Tomatensauce",
 				"attributes": [
-					"V",
-					"40"
+					"30",
+					"32",
+					"40",
+					"R",
+					"S"
 				],
 				"price": {
 					"student": 2,
@@ -152,7 +155,9 @@
 				"attributes": [
 					"MV",
 					"30",
+					"35",
 					"36",
+					"38",
 					"39"
 				],
 				"price": {
