@@ -47,16 +47,18 @@
 		],
 		[
 			{
-				"name": "Zartes Hähnchenbrustfilet in Champignon-Rahmsauce",
+				"name": "Grillteller von Schwein und Pute an Chili-Quarkdip",
 				"attributes": [
-					"1",
 					"30",
-					"36"
+					"32",
+					"36",
+					"R",
+					"S"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
