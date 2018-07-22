@@ -7,111 +7,20 @@
 		}
 	},
 	"validity": {
-		"from": "2018-07-16T00:00:00.000Z",
-		"until": "2018-07-21T00:00:00.000Z"
+		"from": "2018-07-23T00:00:00.000Z",
+		"until": "2018-07-28T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Zartes Hähnchenbrustfilet in Champignon-Rahmsauce",
+				"name": "Asia-Putenstreifen in Red-Thaicurrysauce",
 				"attributes": [
 					"1",
 					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Zartes Hähnchenbrustfilet in Champignon-Rahmsauce",
-				"attributes": [
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Zartes Putensteak in Käse-Eihülle auf fruchtiger Tomatensauce",
-				"attributes": [
-					"1",
-					"2",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Rindfleischstreifen in Erdnuss-Zwiebelsauce",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"34",
+					"35",
 					"36",
-					"R"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Goldgelb gebackenes Schollenfilet an cremigem Dill-Senfdip",
-				"attributes": [
-					"30",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			}
-		},
-		"Angebot 2": {
-			"1": {
-				"name": "Rahmspinat mit Rührei",
-				"attributes": [
-					"F",
-					"1",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Gebackener marinierter Hirtenkäse auf Ratatouille-Gemüse",
-				"attributes": [
-					"F",
-					"30",
-					"36"
+					"38"
 				],
 				"price": {
 					"student": 3.4,
@@ -120,30 +29,14 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Tortellini mit Spinat-Ricotta-Füllung in Schnittlauchsauce mit Käse überbacken",
+			"2": {
+				"name": "Grillfrische Bratwurst mit Curry-Ketchupsauce",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Feines Gemüsecurry in pikanter Haratisauce mit Kokos im Reisrand",
-				"attributes": [
-					"V",
-					"1",
-					"30",
-					"35",
-					"39"
+					"3",
+					"8",
+					"38",
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 3,
@@ -152,19 +45,127 @@
 				},
 				"vitalInfo": null
 			},
+			"3": {
+				"name": "Hähnchenschnitzel im Cornflakesmantel auf fruchtiger Basilikum-Tomatensauce",
+				"attributes": [
+					"30",
+					"32"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Italienische Radinudeln mit Rindfleischbolognese und Käse überbacken",
+				"attributes": [
+					"30",
+					"32",
+					"36",
+					"38",
+					"R"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null
+			},
 			"5": {
-				"name": "Hausgemachter Kürbis-Rote-Beete-Pfannkuchen an Kräuterdip",
+				"name": "Gegrilltes Seelachsfilet in Rieslingsauce",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"33",
+					"36",
+					"41"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			}
+		},
+		"Angebot 2": {
+			"1": {
+				"name": "Lahmacun mit Salat, Tomate, Gurke und Joghurtsauce gefüllt",
 				"attributes": [
 					"F",
-					"9",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Kartoffeltaschen mit Frischkäse gefüllt an Kräuterdip",
+				"attributes": [
+					"F",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Buntes Béchamelgemüse an Röstitalern",
+				"attributes": [
+					"F",
+					"1",
 					"30",
 					"32",
 					"36"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Backfrischer Kirsch-Pfannkuchen an Vanillesauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.2,
+					"employee": 3.5,
+					"visitor": 4.4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Bulgurpfanne mit Nüssen und Trockenfrüchten an fruchtigem Birnendip",
+				"attributes": [
+					"V",
+					"3",
+					"30",
+					"37",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null
 			}
