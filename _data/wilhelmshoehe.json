@@ -41,7 +41,21 @@
 				},
 				"vitalInfo": null
 			},
-			"3": null,
+			"3": {
+				"name": "Gnocchi in Béchamelsauce mit frischem Rucola",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
 			"4": {
 				"name": "Grilltomate an cremigem Graupen-Gemüse-Risotto",
 				"attributes": [
@@ -111,7 +125,18 @@
 				},
 				"vitalInfo": null
 			},
-			"3": null,
+			"3": {
+				"name": "Ofenfrischer Hähnchenschenkel auf Bratenjus",
+				"attributes": [
+					"30"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
 			"4": {
 				"name": "Balkan-Reisgericht mit Schweinefleisch",
 				"attributes": [
@@ -216,7 +241,26 @@
 				},
 				"vitalInfo": null
 			},
-			"3": null,
+			"3": {
+				"name": "Kritharaki mit Tomate und Zwiebelgyros, dazu Weißkrautsalat",
+				"attributes": [
+					"MV",
+					"30",
+					"32",
+					"S"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 89,
+					"protein": 44,
+					"calories": 725
+				}
+			},
 			"4": {
 				"name": "Provenzalischer Seelachs auf grünen Bandnudeln an Blattsalat",
 				"attributes": [
