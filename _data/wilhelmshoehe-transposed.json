@@ -99,8 +99,11 @@
 			{
 				"name": "Chili sin Carne",
 				"attributes": [
-					"V",
-					"35"
+					"F",
+					"30",
+					"35",
+					"36",
+					"42"
 				],
 				"price": {
 					"student": 2,
@@ -181,7 +184,7 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Kritharaki mit Tomate und Zwiebelgyros, dazu Weißkrautsalat",
+				"name": "Reispfanne mit Tomate und Zwiebelgyros, dazu Weißkrautsalat",
 				"attributes": [
 					"MV",
 					"30",
