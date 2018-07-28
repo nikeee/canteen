@@ -150,19 +150,18 @@
 		],
 		[
 			{
-				"name": "Gegrilltes Seelachsfilet in Rieslingsauce",
+				"name": "Italienische Radinudeln mit Rindfleischbolognese und Käse überbacken",
 				"attributes": [
-					"A",
-					"1",
 					"30",
-					"33",
+					"32",
 					"36",
-					"41"
+					"38",
+					"R"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"

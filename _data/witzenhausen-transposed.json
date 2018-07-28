@@ -8,83 +8,34 @@
 		}
 	},
 	"validity": {
-		"from": "2018-07-23T00:00:00.000Z",
-		"until": "2018-07-27T00:00:00.000Z"
+		"from": "2018-07-30T00:00:00.000Z",
+		"until": "2018-08-03T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Ofenfrische Gemüsefrikadellen mit Sauerrahmdip",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Curry-Hähnchen Madras",
-				"attributes": [
-					"3",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Arabische Reispfanne",
+				"name": "Hausgemachter Süßkartoffelstampf auf Balsamico-Linsen",
 				"attributes": [
 					"V",
-					"Ö",
-					"37"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Chili sin Carne",
-				"attributes": [
-					"V",
-					"35"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gegrilltes Steak vom Schweinerücken auf Marsala-Rahmsauce",
-				"attributes": [
-					"A",
 					"1",
-					"2",
 					"3",
-					"30",
+					"35",
+					"41"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gegrillte, nordhessische Kartoffelbratwurst an Schmanddip",
+				"attributes": [
+					"2",
+					"8",
 					"36",
-					"41",
 					"S"
 				],
 				"price": {
@@ -96,11 +47,11 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Rosmarinkartoffeln mit Kräuterdip",
+				"name": "Spaghetti aglio, olio e peperoncino",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"36"
+					"30"
 				],
 				"price": {
 					"student": 2.9,
@@ -113,40 +64,37 @@
 		],
 		[
 			{
-				"name": "Gnocchi in Béchamelsauce mit frischem Rucola",
+				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
 				"attributes": [
-					"F",
-					"1",
+					"V",
 					"30",
-					"36"
+					"38"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Ofenfrischer Hähnchenschenkel auf Bratenjus",
-				"attributes": [
-					"30"
-				],
+				"name": "Mediterranes Schmorgemüse mit Hähnchenstreifen",
+				"attributes": [],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Reis-Gemüsetopf mit Grünkern",
+				"name": "Backkartoffeln mit Kräuterquark",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"30"
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -159,25 +107,29 @@
 		],
 		[
 			{
-				"name": "Grilltomate an cremigem Graupen-Gemüse-Risotto",
+				"name": "Bunter, marinierter Pennesalat mit Balsamicocreme und Baguette",
 				"attributes": [
 					"V",
 					"1",
+					"3",
+					"6",
 					"30",
-					"35",
-					"38"
+					"41"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Balkan-Reisgericht mit Schweinefleisch",
+				"name": "Geschnetzeltes nach Züricher Art",
 				"attributes": [
+					"1",
+					"30",
+					"36",
 					"S"
 				],
 				"price": {
@@ -189,13 +141,11 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Drei halbe Eier in Senfsauce",
+				"name": "Indisches Zucchini-Curry",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"30",
-					"32",
-					"36",
+					"35",
 					"39"
 				],
 				"price": {
@@ -209,45 +159,93 @@
 		],
 		[
 			{
-				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
+				"name": "Gebratenes Curry-Quinoa mit Karotten und Brokkoli",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36",
-					"37"
+					"V",
+					"3"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
+				"name": "Semmelknödel auf Speck-Schmandstippe",
 				"attributes": [
+					"2",
+					"3",
+					"30",
 					"32",
 					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Kichererbsen-Linsenpfanne mit Gemüse",
+				"name": "Indisches Dal aus roten Linsen auf Reis",
 				"attributes": [
 					"V",
 					"Ö",
 					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Asia-Sojastreifen in Thai-Gemüsesauce",
+				"attributes": [
+					"V",
+					"35",
 					"38",
+					"40"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Cevapcici vom Schweinefleisch an Curry-Ketchupdip",
+				"attributes": [
+					"32",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Bunte Spirelli mit Zucchini-Currysauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35",
 					"39"
 				],
 				"price": {
