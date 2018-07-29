@@ -8,19 +8,16 @@
 		}
 	},
 	"validity": {
-		"from": "2018-07-23T00:00:00.000Z",
-		"until": "2018-07-28T00:00:00.000Z"
+		"from": "2018-07-30T00:00:00.000Z",
+		"until": "2018-08-04T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Asia-Putenstreifen in Red-Thaicurrysauce",
+				"name": "Zartes Hähnchenbrustfilet in Limettenmarinade an Kräuterdip",
 				"attributes": [
-					"1",
-					"30",
-					"35",
-					"36",
-					"38"
+					"2",
+					"36"
 				],
 				"price": {
 					"student": 3.4,
@@ -31,16 +28,19 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Lahmacun mit Salat, Tomate, Gurke und Joghurtsauce gefüllt",
+				"name": "Wellenbandnudeln in feiner Brokkoli-Walnusssauce",
 				"attributes": [
 					"F",
+					"1",
 					"30",
-					"36"
+					"32",
+					"36",
+					"37"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -48,13 +48,31 @@
 		],
 		[
 			{
-				"name": "Grillfrische Bratwurst mit Curry-Ketchupsauce",
+				"name": "Spaghetti Bolognese mit Schweinehackfleisch und Parmesan",
 				"attributes": [
-					"3",
-					"8",
+					"1",
+					"2",
+					"30",
+					"36",
 					"38",
-					"39",
 					"S"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Mie-Nudelpfanne mit Red-Thai-Curry-Kokossauce",
+				"attributes": [
+					"F",
+					"30",
+					"35",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 3,
@@ -62,65 +80,17 @@
 					"visitor": 5.2
 				},
 				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Kartoffeltaschen mit Frischkäse gefüllt an Kräuterdip",
-				"attributes": [
-					"F",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
 				"categoryName": "Angebot 2"
 			}
 		],
 		[
 			{
-				"name": "Hähnchenschnitzel im Cornflakesmantel auf fruchtiger Basilikum-Tomatensauce",
-				"attributes": [
-					"30",
-					"32"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Buntes Béchamelgemüse an Röstitalern",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Italienische Radinudeln mit Rindfleischbolognese und Käse überbacken",
+				"name": "Goldgelb gebackenes Schweineschnitzel an hessischer Kräuter-Schmandsauce",
 				"attributes": [
 					"30",
 					"32",
 					"36",
-					"38",
-					"R"
+					"S"
 				],
 				"price": {
 					"student": 3.3,
@@ -131,7 +101,7 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Backfrischer Kirsch-Pfannkuchen an Vanillesauce",
+				"name": "Tortellini mit Spinat-Füllung in Steinpilz-Rahmsauce mit Käse überbacken",
 				"attributes": [
 					"F",
 					"1",
@@ -140,9 +110,9 @@
 					"36"
 				],
 				"price": {
-					"student": 2.2,
-					"employee": 3.5,
-					"visitor": 4.4
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -150,31 +120,61 @@
 		],
 		[
 			{
-				"name": "Italienische Radinudeln mit Rindfleischbolognese und Käse überbacken",
+				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen, dazu Zaziki",
 				"attributes": [
-					"30",
-					"32",
-					"36",
-					"38",
-					"R"
+					"36"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Bulgurpfanne mit Nüssen und Trockenfrüchten an fruchtigem Birnendip",
+				"name": "Frisch gegrillte, marinierte Zucchini auf Tomaten-Chimichurri",
 				"attributes": [
-					"V",
+					"V"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Fish and Chips mit Remouladensauce",
+				"attributes": [
 					"3",
+					"9",
 					"30",
-					"37",
-					"38",
+					"32",
+					"33",
+					"36",
 					"39"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Schupfnudelauflauf in feiner Spinatcreme mit Käse überbacken",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 3.2,
