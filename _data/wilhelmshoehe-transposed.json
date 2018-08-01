@@ -34,7 +34,8 @@
 				"name": "Gegrillte, nordhessische Kartoffelbratwurst an Schmanddip",
 				"attributes": [
 					"2",
-					"8",
+					"3",
+					"30",
 					"36",
 					"S"
 				],
@@ -88,8 +89,9 @@
 			{
 				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
 				"attributes": [
-					"V",
+					"F",
 					"30",
+					"32",
 					"38"
 				],
 				"price": {
@@ -119,6 +121,7 @@
 					"9",
 					"30",
 					"36",
+					"38",
 					"39",
 					"R",
 					"S"

@@ -48,19 +48,15 @@
 		],
 		[
 			{
-				"name": "Spaghetti Bolognese mit Schweinehackfleisch und Parmesan",
+				"name": "Zartes Hähnchenbrustfilet in Limettenmarinade an Kräuterdip",
 				"attributes": [
-					"1",
 					"2",
-					"30",
-					"36",
-					"38",
-					"S"
+					"36"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
