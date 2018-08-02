@@ -27,15 +27,19 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Zartes Hähnchenbrustfilet in Limettenmarinade an Kräuterdip",
+				"name": "Spaghetti Bolognese mit Schweinehackfleisch und Parmesan",
 				"attributes": [
+					"1",
 					"2",
-					"36"
+					"30",
+					"36",
+					"38",
+					"S"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null
 			},
