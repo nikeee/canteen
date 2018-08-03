@@ -85,17 +85,19 @@
 		],
 		[
 			{
-				"name": "Goldgelb gebackenes Schweineschnitzel an hessischer Kräuter-Schmandsauce",
+				"name": "Spaghetti Bolognese mit Schweinehackfleisch und Parmesan",
 				"attributes": [
+					"1",
+					"2",
 					"30",
-					"32",
 					"36",
+					"38",
 					"S"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
