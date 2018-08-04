@@ -8,19 +8,19 @@
 		}
 	},
 	"validity": {
-		"from": "2018-07-30T00:00:00.000Z",
-		"until": "2018-08-03T00:00:00.000Z"
+		"from": "2018-08-06T00:00:00.000Z",
+		"until": "2018-08-10T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Hausgemachter Süßkartoffelstampf auf Balsamico-Linsen",
+				"name": "Curry von zweierlei Kartoffeln mit Spinat",
 				"attributes": [
 					"V",
-					"1",
 					"3",
+					"30",
 					"35",
-					"41"
+					"39"
 				],
 				"price": {
 					"student": 2.1,
@@ -31,10 +31,80 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gegrillte, nordhessische Kartoffelbratwurst an Schmanddip",
+				"name": "Hühnerfrikassee mit Erbsen und Spargel",
 				"attributes": [
-					"2",
+					"A",
+					"1",
+					"30",
+					"36",
+					"41"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Italienische Gabelspaghetti mit fruchtiger Tomatensauce",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
+				"attributes": [
 					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Deftiger Kichererbsen Pfannkuchen mit Gemüsewürfeln an hausgemachtem Karottenhummus",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36",
+					"38",
+					"40"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
+				"attributes": [
+					"8",
 					"30",
 					"36",
 					"S"
@@ -50,47 +120,14 @@
 		],
 		[
 			{
-				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
+				"name": "Indisch Aloo Gobi mit Kartoffeln und Blumenkohl",
 				"attributes": [
-					"V",
-					"30",
-					"38"
+					"V"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Mediterranes Schmorgemüse mit Hähnchenstreifen",
-				"attributes": [],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Bunter, marinierter Pennesalat mit Balsamicocreme und Baguette",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"6",
-					"30",
-					"41"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
@@ -104,9 +141,9 @@
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
@@ -114,67 +151,37 @@
 		],
 		[
 			{
-				"name": "Gebratenes Curry-Quinoa mit Karotten und Brokkoli",
+				"name": "Schupfnudeln in Kürbissauce",
 				"attributes": [
-					"V",
-					"3"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Semmelknödel auf Speck-Schmandstippe",
-				"attributes": [
-					"2",
-					"3",
+					"F",
+					"1",
 					"30",
 					"32",
 					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Asia-Sojastreifen in Thai-Gemüsesauce",
-				"attributes": [
-					"V",
-					"35",
 					"38",
-					"40"
+					"39",
+					"41"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Cevapcici vom Schweinefleisch an Curry-Ketchupdip",
+				"name": "Orientalische Hackfleisch-Couscouspfanne",
 				"attributes": [
+					"3",
 					"30",
-					"32",
-					"39",
-					"S"
+					"38",
+					"R"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"

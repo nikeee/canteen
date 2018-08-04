@@ -8,20 +8,20 @@
 		}
 	},
 	"validity": {
-		"from": "2018-07-30T00:00:00.000Z",
-		"until": "2018-08-03T00:00:00.000Z"
+		"from": "2018-08-06T00:00:00.000Z",
+		"until": "2018-08-10T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Hausgemachter Süßkartoffelstampf auf Balsamico-Linsen",
+				"name": "Curry von zweierlei Kartoffeln mit Spinat",
 				"attributes": [
 					"V",
-					"1",
 					"3",
+					"30",
 					"35",
-					"41"
+					"39"
 				],
 				"price": {
 					"student": 2.1,
@@ -31,74 +31,76 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
+				"name": "Italienische Gabelspaghetti mit fruchtiger Tomatensauce",
 				"attributes": [
 					"V",
-					"30",
-					"38"
+					"30"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Bunter, marinierter Pennesalat mit Balsamicocreme und Baguette",
+				"name": "Deftiger Kichererbsen Pfannkuchen mit Gemüsewürfeln an hausgemachtem Karottenhummus",
 				"attributes": [
-					"V",
-					"1",
-					"3",
-					"6",
+					"F",
 					"30",
-					"41"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Gebratenes Curry-Quinoa mit Karotten und Brokkoli",
-				"attributes": [
-					"V",
-					"3"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Asia-Sojastreifen in Thai-Gemüsesauce",
-				"attributes": [
-					"V",
-					"35",
+					"32",
+					"36",
 					"38",
 					"40"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Indisch Aloo Gobi mit Kartoffeln und Blumenkohl",
+				"attributes": [
+					"V"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Schupfnudeln in Kürbissauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
+					"38",
+					"39",
+					"41"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Gegrillte, nordhessische Kartoffelbratwurst an Schmanddip",
+				"name": "Hühnerfrikassee mit Erbsen und Spargel",
 				"attributes": [
-					"2",
-					"3",
+					"A",
+					"1",
 					"30",
 					"36",
-					"S"
+					"41"
 				],
 				"price": {
 					"student": 2.5,
@@ -108,39 +110,14 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Mediterranes Schmorgemüse mit Hähnchenstreifen",
-				"attributes": [],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Geschnetzeltes nach Züricher Art",
+				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
 				"attributes": [
-					"1",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Semmelknödel auf Speck-Schmandstippe",
-				"attributes": [
-					"2",
 					"3",
 					"30",
 					"32",
+					"33",
 					"36",
-					"S"
+					"39"
 				],
 				"price": {
 					"student": 2.3,
@@ -149,18 +126,48 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Cevapcici vom Schweinefleisch an Curry-Ketchupdip",
+			"3": {
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
 				"attributes": [
+					"8",
 					"30",
-					"32",
-					"39",
+					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Geschnetzeltes nach Züricher Art",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Orientalische Hackfleisch-Couscouspfanne",
+				"attributes": [
+					"3",
+					"30",
+					"38",
+					"R"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			}
@@ -169,99 +176,49 @@
 			"1": null,
 			"2": null,
 			"3": {
-				"name": "Gebratenes Putenschnitzel auf Currysauce",
+				"name": "Gebratenes Putenschnitzel auf Pfeffer-Rahmsauce",
 				"attributes": [
 					"1",
-					"3",
 					"30",
 					"32",
-					"36",
-					"39"
+					"36"
 				],
 				"price": {
-					"student": 3.6,
-					"employee": 4.9,
-					"visitor": 5.8
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null
 			},
 			"4": null,
-			"5": null
+			"5": {
+				"name": "Hausgemachter Wrap mit Tomatencreme, Antipasti-Gemüse und Baby Spinat",
+				"attributes": [
+					"V",
+					"1",
+					"2",
+					"3",
+					"30",
+					"41"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null
+			}
 		},
 		"Angebot des Tages": {
 			"1": {
-				"name": "Spaghetti-Pfanne mit Ratatouille-Gemüse und Hirtenkäse",
+				"name": "Feine Gemüsemaultaschen auf Zwiebelschmelze",
 				"attributes": [
 					"F",
-					"MV",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": {
-					"fat": 25,
-					"carbohydrate": 96,
-					"protein": 27,
-					"calories": 714
-				}
-			},
-			"2": null,
-			"3": null,
-			"4": {
-				"name": "Putenragout mit Mango, Tomaten und grünen Bandnudeln",
-				"attributes": [
-					"MV",
+					"1",
 					"30",
 					"32",
 					"36",
-					"39"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": {
-					"fat": 22,
-					"carbohydrate": 90,
-					"protein": 42,
-					"calories": 723
-				}
-			},
-			"5": {
-				"name": "Gedünsteter Seelachs mit Apfel-Meerrettichdip auf Karotten und Dillkartoffeln",
-				"attributes": [
-					"MV",
-					"3",
-					"9",
-					"33",
-					"36"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": {
-					"fat": 15,
-					"carbohydrate": 69,
-					"protein": 38,
-					"calories": 614
-				}
-			}
-		},
-		"Wok/Grill": {
-			"1": {
-				"name": "Hähnchenbrust im Reismehlmantel an buntem Asia-Gemüse in süßscharfer Sauce",
-				"attributes": [
-					"35",
-					"38",
-					"39",
-					"40"
+					"38"
 				],
 				"price": {
 					"student": 3.5,
@@ -271,29 +228,58 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hessischer Burger mit Beef, Ahle Wurscht Crumble und Senfcreme",
+				"name": "Schweinegeschnetzeltes mit Balsamico-Senfbohnen und Reis",
 				"attributes": [
-					"2",
+					"MV",
+					"1",
 					"3",
-					"9",
-					"30",
 					"36",
 					"39",
-					"R",
+					"41",
 					"S"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
-				"vitalInfo": null
+				"vitalInfo": {
+					"fat": 19,
+					"carbohydrate": 92,
+					"protein": 42,
+					"calories": 707
+				}
 			},
 			"3": {
-				"name": "Gebratenes Filet vom roten Knurrhahn auf Rote Bete-Melissen-Gemüse und griechischem Joghurtgitter",
+				"name": "Gemüsepaella mit Vollkornreis und Walnüssen",
 				"attributes": [
-					"1",
-					"8",
+					"V",
+					"A",
+					"MV",
+					"30",
+					"35",
+					"37",
+					"39",
+					"40",
+					"41"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 78,
+					"protein": 21,
+					"calories": 601
+				}
+			},
+			"4": {
+				"name": "Pochierter Wildlachs mit Basilikumsauce und buntem Gemüse",
+				"attributes": [
+					"MV",
+					"30",
 					"33",
 					"36"
 				],
@@ -302,19 +288,45 @@
 					"employee": 5.8,
 					"visitor": 6.7
 				},
-				"vitalInfo": null
+				"vitalInfo": {
+					"fat": 26,
+					"carbohydrate": 84,
+					"protein": 44,
+					"calories": 748
+				}
 			},
-			"4": null,
-			"5": {
-				"name": "Apfelringe im Weinteig-Kleid auf warmer Vanillesauce",
+			"5": null
+		},
+		"Wok/Grill": {
+			"1": {
+				"name": "Cheeseburger mit Beef, Käse, zweierlei Dips und Salat",
 				"attributes": [
-					"F",
-					"A",
 					"1",
+					"3",
+					"9",
 					"30",
 					"32",
 					"36",
-					"41"
+					"39",
+					"40",
+					"R"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Backfrischer Buttermilch-Chiapfannkuchen an exotischem Früchteragout und Vanilleeis",
+				"attributes": [
+					"F",
+					"1",
+					"3",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.8,
@@ -322,32 +334,37 @@
 					"visitor": 5
 				},
 				"vitalInfo": null
+			},
+			"3": null,
+			"4": null,
+			"5": {
+				"name": "Zwei gegrillte Minutensteaks vom Schweinerücken auf Marsalajus",
+				"attributes": [
+					"A",
+					"30",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
 			}
 		},
 		"Pizza/Pasta": {
 			"1": null,
-			"2": {
-				"name": "Flammkuchen mit dreierlei Pilzen und Gouda",
-				"attributes": [
-					"F",
-					"30",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": null,
 			"4": {
-				"name": "Hausgemachte Lasagne al forno",
+				"name": "Flammkuchen mit Rahmspinat, Kartoffelwürfeln und Spiegeleiern",
 				"attributes": [
+					"F",
+					"1",
 					"30",
-					"36",
-					"R"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 4.5,
