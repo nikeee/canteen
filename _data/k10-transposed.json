@@ -8,15 +8,50 @@
 		}
 	},
 	"validity": {
-		"from": "2018-07-30T00:00:00.000Z",
-		"until": "2018-08-04T00:00:00.000Z"
+		"from": "2018-08-06T00:00:00.000Z",
+		"until": "2018-08-11T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Zartes Hähnchenbrustfilet in Limettenmarinade an Kräuterdip",
+				"name": "Zartes Hähnchenbrustfilet in Sherry-Perlzwiebeljus",
 				"attributes": [
-					"2",
+					"3",
+					"9",
+					"30"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Auflauf von Brokkoli, Blumenkohl, Kartoffeln und Gorgonzola",
+				"attributes": [
+					"F",
+					"1",
+					"3",
+					"30",
+					"36",
+					"41"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Geschnetzeltes von der Putenbrust in Rahmsauce",
+				"attributes": [
+					"30",
 					"36"
 				],
 				"price": {
@@ -28,14 +63,49 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Wellenbandnudeln in feiner Brokkoli-Walnusssauce",
+				"name": "Indisches Zucchini-Curry",
+				"attributes": [
+					"V",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Goldgelb gebackenes Schweineschnitzel an scharfem Barbecuedip",
+				"attributes": [
+					"30",
+					"32",
+					"38",
+					"S"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Großer, bunter Salatteller mit Tomaten, Mozzarella und Petersilienpesto, dazu Baguette",
 				"attributes": [
 					"F",
 					"1",
+					"2",
+					"3",
 					"30",
-					"32",
 					"36",
-					"37"
+					"37",
+					"41"
 				],
 				"price": {
 					"student": 2.8,
@@ -48,31 +118,26 @@
 		],
 		[
 			{
-				"name": "Spaghetti Bolognese mit Schweinehackfleisch und Parmesan",
+				"name": "Putensteak mit Spinat-Tomatenhaube an kräftiger Bratenjus",
 				"attributes": [
-					"1",
-					"2",
 					"30",
-					"36",
-					"38",
-					"S"
+					"36"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Mie-Nudelpfanne mit Red-Thai-Curry-Kokossauce",
+				"name": "Rahmspinat mit Eieromlette",
 				"attributes": [
 					"F",
-					"30",
-					"35",
-					"36",
-					"38"
+					"1",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 3,
@@ -85,103 +150,34 @@
 		],
 		[
 			{
-				"name": "Spaghetti Bolognese mit Schweinehackfleisch und Parmesan",
+				"name": "Matjesfilet nach Hausfrauenart mit Äpfeln, Gurken und Zwiebeln",
 				"attributes": [
-					"1",
 					"2",
-					"30",
-					"36",
-					"38",
-					"S"
-				],
-				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Tortellini mit Spinat-Füllung in Steinpilz-Rahmsauce mit Käse überbacken",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen, dazu Zaziki",
-				"attributes": [
-					"36"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Frisch gegrillte, marinierte Zucchini auf Tomaten-Chimichurri",
-				"attributes": [
-					"V"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Fish and Chips mit Remouladensauce",
-				"attributes": [
-					"3",
 					"9",
-					"30",
-					"32",
 					"33",
-					"36",
-					"39"
+					"36"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Schupfnudelauflauf in feiner Spinatcreme mit Käse überbacken",
+				"name": "Tortellini in Kokos-Currycremesauce",
 				"attributes": [
-					"F",
-					"1",
+					"V",
+					"3",
 					"30",
-					"32",
-					"36",
+					"35",
 					"38"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
