@@ -95,11 +95,8 @@
 			"1": {
 				"name": "Hühnerfrikassee mit Erbsen und Spargel",
 				"attributes": [
-					"A",
-					"1",
 					"30",
-					"36",
-					"41"
+					"36"
 				],
 				"price": {
 					"student": 2.5,
