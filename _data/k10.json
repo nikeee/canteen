@@ -7,18 +7,38 @@
 		}
 	},
 	"validity": {
-		"from": "2018-08-06T00:00:00.000Z",
-		"until": "2018-08-11T00:00:00.000Z"
+		"from": "2018-08-13T00:00:00.000Z",
+		"until": "2018-08-18T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Zartes Hähnchenbrustfilet in Sherry-Perlzwiebeljus",
+				"name": "Geflügelgulasch in Curry-Maracujasauce",
 				"attributes": [
+					"1",
+					"30",
+					"32",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Tranchen vom gebratenen Schweinerücken mit Rotkohlgemüse an Calvadossauce",
+				"attributes": [
+					"A",
 					"3",
 					"9",
-					"30"
+					"30",
+					"36",
+					"41",
+					"S"
 				],
 				"price": {
 					"student": 3.5,
@@ -27,26 +47,90 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Geschnetzeltes von der Putenbrust in Rahmsauce",
+			"3": {
+				"name": "Frisch gebratenes Hähnchenbrustschnitzel auf Pfefferrahmsauce",
 				"attributes": [
 					"30",
+					"32",
 					"36"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Pasta in der Bowl mit tomatisierter Gorgonzolasauce und Tranchen vom Schweinefilet",
+				"attributes": [
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Flammkuchen mit Räucherlachs und Lauch",
+				"attributes": [
+					"1",
+					"30",
+					"33",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null
+			}
+		},
+		"Angebot 2": {
+			"1": {
+				"name": "Hausgemachter Spinatpfannkuchen auf Béchamelsauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Original hessische grüne Sauce mit gehacktem Ei",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Goldgelb gebackenes Schweineschnitzel an scharfem Barbecuedip",
+				"name": "Asiatische Gemüsepfanne mit Tofu im Basmatireis-Rand",
 				"attributes": [
+					"V",
+					"2",
 					"30",
-					"32",
-					"38",
-					"S"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 3.3,
@@ -56,113 +140,34 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Putensteak mit Spinat-Tomatenhaube an kräftiger Bratenjus",
+				"name": "Pasta in der Bowl mit Petersilienpesto und Kirschtomaten",
 				"attributes": [
+					"F",
+					"1",
+					"2",
 					"30",
-					"36"
+					"36",
+					"37"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Matjesfilet nach Hausfrauenart mit Äpfeln, Gurken und Zwiebeln",
+				"name": "Flammkuchen mit Lauch, Zwiebeln und Tomaten",
 				"attributes": [
-					"2",
-					"9",
-					"33",
-					"36"
+					"F",
+					"30",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 4,
 					"employee": 5.3,
 					"visitor": 6.2
-				},
-				"vitalInfo": null
-			}
-		},
-		"Angebot 2": {
-			"1": {
-				"name": "Auflauf von Brokkoli, Blumenkohl, Kartoffeln und Gorgonzola",
-				"attributes": [
-					"F",
-					"1",
-					"3",
-					"30",
-					"36",
-					"41"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Indisches Zucchini-Curry",
-				"attributes": [
-					"V",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Großer, bunter Salatteller mit Tomaten, Mozzarella und Petersilienpesto, dazu Baguette",
-				"attributes": [
-					"F",
-					"1",
-					"2",
-					"3",
-					"30",
-					"36",
-					"37",
-					"41"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Rahmspinat mit Eieromlette",
-				"attributes": [
-					"F",
-					"1",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Tortellini in Kokos-Currycremesauce",
-				"attributes": [
-					"V",
-					"3",
-					"30",
-					"35",
-					"38"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
 				},
 				"vitalInfo": null
 			}
