@@ -142,7 +142,7 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gebackenes Fleischkäseschnitzel auf Malzjus",
+				"name": "Gebackenes Fleischkäseschnitzel auf Schnitzel in Tacco panierung Malzjus",
 				"attributes": [
 					"2",
 					"3",
@@ -241,6 +241,7 @@
 				"name": "Tropischer Salat mit Hähnchenstreifen und Himbeer-Dressing",
 				"attributes": [
 					"MV",
+					"1",
 					"3",
 					"30",
 					"35",
@@ -361,9 +362,10 @@
 			"3": {
 				"name": "Ofenfrische Pizza mit Tomaten, Schmorchampignons und Artischocken",
 				"attributes": [
-					"V",
+					"F",
 					"1",
 					"30",
+					"32",
 					"35"
 				],
 				"price": {
