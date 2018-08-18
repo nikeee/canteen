@@ -7,57 +7,49 @@
 		}
 	},
 	"validity": {
-		"from": "2018-08-13T00:00:00.000Z",
-		"until": "2018-08-17T00:00:00.000Z"
+		"from": "2018-08-20T00:00:00.000Z",
+		"until": "2018-08-24T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Hessische Kartoffelsuppe mit Gemüse und Petersilienöl",
+				"name": "Tortellini mit Spinat-Ricotta-Füllung in Gorgonzolasauce",
 				"attributes": [
-					"V",
+					"F",
 					"1",
 					"30",
-					"35",
-					"38"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Zwei Kartoffelklöße mit Spinatsauce",
+				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
 					"F",
-					"1",
 					"3",
 					"30",
-					"36",
-					"41"
+					"32"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Goldgelb gebackenes Möhrenschnitzel auf Passionsfruchtsahne",
+				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
 				"attributes": [
 					"F",
-					"1",
-					"3",
-					"30",
 					"32",
-					"36",
-					"38",
-					"39",
-					"40"
+					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -67,25 +59,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Couscous mit knackigem Gemüse an Creme von roten Linsen",
-				"attributes": [
-					"V",
-					"3",
-					"30",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Hessische Kartoffelpfanne mit Kräutern und Pilzen an Schmanddip",
+				"name": "Ofenfrisches Omelette an Béchamelgemüse",
 				"attributes": [
 					"F",
+					"1",
+					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -94,18 +73,31 @@
 					"visitor": 4.3
 				},
 				"vitalInfo": null
+			},
+			"5": {
+				"name": "Geschmortes Ratatouille-Gemüse im gelben Reisrand",
+				"attributes": [
+					"V"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Feine Knackwurst mit Senf und hausgemachtem Kartoffelsalat",
+				"name": "Paniertes Kassler mit Honig-Senfdip",
 				"attributes": [
 					"2",
 					"3",
-					"8",
-					"9",
+					"4",
+					"30",
 					"32",
 					"36",
+					"38",
 					"39",
 					"S"
 				],
@@ -117,20 +109,38 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
-				"attributes": [],
+				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
+				"attributes": [
+					"36"
+				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Bami Goreng mit Geflügelstreifen",
+				"name": "Penne mit Blattspinat und Hackfleisch",
 				"attributes": [
+					"1",
 					"30",
-					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Geflügelgulasch in Curry-Ananassauce",
+				"attributes": [
+					"1",
+					"30",
+					"36",
 					"39"
 				],
 				"price": {
@@ -140,33 +150,15 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Gebackenes Fleischkäseschnitzel auf Malzjus",
-				"attributes": [
-					"2",
-					"3",
-					"8",
-					"30",
-					"32",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Griechisches Hacksteak auf Knoblauchjus",
+				"name": "Gebackener Alaska-Seelachs an Joghurtaioli",
 				"attributes": [
-					"6",
+					"3",
 					"30",
 					"32",
+					"33",
 					"36",
-					"39",
-					"S"
+					"39"
 				],
 				"price": {
 					"student": 2.4,
