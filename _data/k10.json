@@ -7,20 +7,35 @@
 		}
 	},
 	"validity": {
-		"from": "2018-08-13T00:00:00.000Z",
-		"until": "2018-08-18T00:00:00.000Z"
+		"from": "2018-08-20T00:00:00.000Z",
+		"until": "2018-08-25T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Geflügelgulasch in Curry-Maracujasauce",
+				"name": "Zartes Hähnchenbrustfilet auf geschmortem Ratatouille-Gemüse",
+				"attributes": [
+					"30"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Kassler-Nackensteak auf mildem Sauerkraut, dazu kräftiger Bratenjus",
 				"attributes": [
 					"1",
+					"2",
+					"3",
+					"4",
 					"30",
-					"32",
 					"36",
-					"39"
+					"38",
+					"S"
 				],
 				"price": {
 					"student": 3.2,
@@ -29,72 +44,74 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Tranchen vom gebratenen Schweinerücken mit Rotkohlgemüse an Calvadossauce",
-				"attributes": [
-					"A",
-					"3",
-					"9",
-					"30",
-					"36",
-					"41",
-					"S"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Frisch gebratenes Hähnchenbrustschnitzel auf Pfefferrahmsauce",
+				"name": "Goldgelb gebackenes Putenschnitzel an hausgemachtem Ananas-Chutney",
 				"attributes": [
 					"30",
-					"32",
-					"36"
+					"32"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Pasta in der Bowl mit tomatisierter Gorgonzolasauce und Tranchen vom Schweinefilet",
+				"name": "Nudelpfanne mit Salami, Schinken und Ei",
 				"attributes": [
+					"2",
+					"3",
+					"8",
 					"30",
+					"32",
 					"36",
+					"R",
 					"S"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Flammkuchen mit Räucherlachs und Lauch scharfem BBQ-Dip",
+				"name": "Sesamburger mit Teriyaki-Chicken, Dip und Salaten",
 				"attributes": [
 					"1",
+					"3",
 					"30",
-					"33",
-					"36",
-					"38"
+					"35",
+					"39",
+					"40",
+					"41"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			}
 		},
 		"Angebot 2": {
 			"1": {
-				"name": "Hausgemachter Spinatpfannkuchen auf Béchamelsauce",
+				"name": "Vegetarischer Lahmacun mit Salaten und leichtem Knoblauch-Dip",
+				"attributes": [
+					"F",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Buntes Béchamelgemüse an Röstitalern",
 				"attributes": [
 					"F",
 					"1",
@@ -103,16 +120,17 @@
 					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Original hessische grüne Sauce mit gehacktem Ei",
+			"3": {
+				"name": "Italienische Kartoffelgnocchi mit Steinpilzrahmsauce und Käse überbacken",
 				"attributes": [
 					"F",
+					"30",
 					"32",
 					"36"
 				],
@@ -123,31 +141,13 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Asiatische Gemüsepfanne mit Tofu im Basmatireis-Rand",
-				"attributes": [
-					"V",
-					"2",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null
-			},
 			"4": {
-				"name": "Pasta in der Bowl mit Petersilienpesto und Kirschtomaten",
+				"name": "Tortellini mit Spinat-Ricotta-Füllung in fruchtiger Basilikum-Tomatensauce",
 				"attributes": [
 					"F",
-					"1",
-					"2",
 					"30",
-					"36",
-					"37"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.7,
@@ -157,17 +157,22 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Flammkuchen mit Lauch, Zwiebeln und Tomaten",
+				"name": "Veggie-Burger mit Kichererbsenpatty, Salaten und Dip",
 				"attributes": [
 					"F",
+					"1",
+					"3",
 					"30",
+					"32",
 					"36",
-					"38"
+					"38",
+					"39",
+					"40"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			}
