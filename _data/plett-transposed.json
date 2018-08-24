@@ -201,9 +201,13 @@
 				"name": "Geflügelgulasch in Curry-Ananassauce",
 				"attributes": [
 					"1",
+					"3",
+					"9",
 					"30",
+					"32",
 					"36",
-					"39"
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 2.6,

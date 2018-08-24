@@ -13,18 +13,7 @@
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
-			"1": {
-				"name": "Zartes Hähnchenbrustfilet auf geschmortem Ratatouille-Gemüse",
-				"attributes": [
-					"30"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
 				"name": "Kassler-Nackensteak auf mildem Sauerkraut, dazu kräftiger Bratenjus",
 				"attributes": [
@@ -97,20 +86,7 @@
 			}
 		},
 		"Angebot 2": {
-			"1": {
-				"name": "Vegetarischer Lahmacun mit Salaten und leichtem Knoblauch-Dip",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
 				"name": "Buntes Béchamelgemüse an Röstitalern",
 				"attributes": [
