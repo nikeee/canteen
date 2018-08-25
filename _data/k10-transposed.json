@@ -12,7 +12,36 @@
 		"until": "2018-08-25T00:00:00.000Z"
 	},
 	"days": [
-		[],
+		[
+			{
+				"name": "Zartes Hähnchenbrustfilet auf geschmortem Ratatouille-Gemüse",
+				"attributes": [
+					"30"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Vegetarischer Lahmacun mit Salaten und leichtem Knoblauch-Dip",
+				"attributes": [
+					"F",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
 		[
 			{
 				"name": "Kassler-Nackensteak auf mildem Sauerkraut, dazu kräftiger Bratenjus",

@@ -7,20 +7,20 @@
 		}
 	},
 	"validity": {
-		"from": "2018-08-20T00:00:00.000Z",
-		"until": "2018-08-24T00:00:00.000Z"
+		"from": "2018-08-27T00:00:00.000Z",
+		"until": "2018-08-31T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Tortellini mit Spinat-Ricotta-Füllung in Gorgonzolasauce",
+				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise",
 				"attributes": [
 					"F",
-					"1",
 					"30",
 					"32",
-					"36"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.1,
@@ -30,26 +30,23 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kartoffelpuffer mit Apfelmus",
+				"name": "Farfalle Tricolore mit tomatisiertem Grünkernragout",
 				"attributes": [
-					"F",
-					"3",
-					"30",
-					"32"
+					"V",
+					"30"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
+				"name": "Gebackene Potato Dippers an Curry-Ketchupdip",
 				"attributes": [
-					"F",
-					"32",
-					"36"
+					"V",
+					"1"
 				],
 				"price": {
 					"student": 2.1,
@@ -59,11 +56,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Ofenfrisches Omelette an Béchamelgemüse",
+				"name": "Rahmspinat mit Rührei",
 				"attributes": [
 					"F",
 					"1",
-					"30",
 					"32",
 					"36"
 				],
@@ -75,9 +71,15 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Geschmortes Ratatouille-Gemüse im gelben Reisrand",
+				"name": "Orientalische Linsenpfanne mit buntem Gemüsen",
 				"attributes": [
-					"V"
+					"V",
+					"2",
+					"3",
+					"38",
+					"39",
+					"40",
+					"41"
 				],
 				"price": {
 					"student": 2,
@@ -89,17 +91,12 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Paniertes Kassler mit Honig-Senfdip",
+				"name": "Bami Goreng mit Hähnchenstreifen",
 				"attributes": [
-					"2",
-					"3",
-					"4",
 					"30",
 					"32",
-					"36",
-					"38",
-					"39",
-					"S"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.6,
@@ -109,9 +106,12 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
+				"name": "Schweinesteak vom Nacken an hausgemachter Kräuterbutter",
 				"attributes": [
-					"36"
+					"A",
+					"36",
+					"38",
+					"S"
 				],
 				"price": {
 					"student": 2.6,
@@ -121,27 +121,9 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Penne mit Blattspinat und Hackfleisch",
+				"name": "Hähnchenbrust mit Chili mariniert auf rotem Linsendip",
 				"attributes": [
-					"1",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Geflügelgulasch in Curry-Ananassauce",
-				"attributes": [
-					"1",
-					"30",
-					"36",
-					"39"
+					"40"
 				],
 				"price": {
 					"student": 2.6,
@@ -150,15 +132,26 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Gebackener Alaska-Seelachs an Joghurtaioli",
+			"4": {
+				"name": "Gulasch von der Putenoberkeule mit Pfefferrahm",
 				"attributes": [
-					"3",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachtes Hacksteak auf Jalapeño-Tomatensauce",
+				"attributes": [
 					"30",
 					"32",
-					"33",
-					"36",
-					"39"
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
