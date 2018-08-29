@@ -32,8 +32,11 @@
 			"2": {
 				"name": "Farfalle Tricolore mit tomatisiertem Grünkernragout",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"1",
+					"2",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2,
@@ -187,6 +190,7 @@
 				"name": "Buntbarsch mit Tomaten-Champignonkruste und Estragonsauce",
 				"attributes": [
 					"MV",
+					"1",
 					"2",
 					"30",
 					"33",
