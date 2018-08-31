@@ -206,21 +206,7 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Karotten-Pfannkuchen mit Petersiliensauce",
-				"attributes": [
-					"V",
-					"Ö",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
+			"4": null,
 			"5": {
 				"name": "Pochierte Eier mit Senf-Joghurtdip",
 				"attributes": [
