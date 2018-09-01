@@ -7,18 +7,77 @@
 		}
 	},
 	"validity": {
-		"from": "2018-08-27T00:00:00.000Z",
-		"until": "2018-08-31T00:00:00.000Z"
+		"from": "2018-09-03T00:00:00.000Z",
+		"until": "2018-09-07T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise",
+				"name": "Zwei Hefeklöße mit Ragout von roten Beeren",
+				"attributes": [
+					"F",
+					"1",
+					"3",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Feine Süßkartoffel-Gnocchi in fruchtiger Tomatensauce",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Rosmarinkartoffeln mit Tomatencreme",
+				"attributes": [
+					"V",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Gebackene Brokkoli-Nuggets an Kräuterquark",
 				"attributes": [
 					"F",
 					"30",
 					"32",
+					"35",
 					"36",
 					"38"
 				],
@@ -28,118 +87,31 @@
 					"visitor": 4.3
 				},
 				"vitalInfo": null
-			},
-			"2": {
-				"name": "Farfalle Tricolore mit tomatisiertem Grünkernragout",
-				"attributes": [
-					"F",
-					"1",
-					"2",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Gebackene Potato Dippers an Curry-Ketchupdip",
-				"attributes": [
-					"V",
-					"1"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Rahmspinat mit Rührei",
-				"attributes": [
-					"F",
-					"1",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Orientalische Linsenpfanne mit buntem Gemüse",
-				"attributes": [
-					"V",
-					"2",
-					"3",
-					"38",
-					"39",
-					"40",
-					"41"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Bami Goreng mit Hähnchenstreifen",
+				"name": "Hausgemachter Speckpfannkuchen auf Schmanddip",
 				"attributes": [
+					"2",
+					"3",
 					"30",
 					"32",
-					"35",
-					"38",
-					"39"
+					"36",
+					"S"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Schweinesteak vom Nacken an hausgemachter Kräuterbutter",
-				"attributes": [
-					"A",
-					"36",
-					"38",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Hähnchenbrust mit Chili mariniert auf rotem Linsendip",
-				"attributes": [
-					"40"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Gulasch von der Putenoberkeule mit Pfefferrahm",
+				"name": "Geschnetzeltes aus der Putenoberkeule in Bärlauchrahm",
 				"attributes": [
 					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -149,18 +121,54 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Hausgemachtes Hacksteak auf Jalapeño-Tomatensauce",
+			"3": {
+				"name": "Gegrilltes Steak vom Schweinerücken auf Portwein-Rahmsauce",
 				"attributes": [
+					"A",
+					"1",
 					"30",
-					"32",
-					"39",
+					"36",
+					"41",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Karibisches Mango-Hühnchen",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Nudelpfanne mit Salami, Schinken und Ei",
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"30",
+					"32",
+					"36",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null
 			}
@@ -174,82 +182,72 @@
 		},
 		"Angebot des Tages I": {
 			"1": {
-				"name": "Ofenfrische Spare Ribs an Barbecuedip",
+				"name": "Burger mit Beef, Thaimayonnaise, Chilidip und frischem Wokgemüse",
 				"attributes": [
 					"3",
-					"S"
+					"30",
+					"32",
+					"35",
+					"36",
+					"38",
+					"39",
+					"40",
+					"R"
 				],
 				"price": {
-					"student": 6,
-					"employee": 7.3,
-					"visitor": 8.2
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Buntbarsch mit Tomaten-Champignonkruste und Estragonsauce",
+				"name": "Kichererbsen-Kokos-Korma mit Mandelreis",
 				"attributes": [
+					"V",
 					"MV",
+					"37"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 88,
+					"protein": 25,
+					"calories": 652
+				}
+			},
+			"3": {
+				"name": "Großer, bunter Salatteller mit Gouda Streifen, pochiertem Ei, Croûtons und Thousand Island Dressing",
+				"attributes": [
+					"F",
 					"1",
 					"2",
+					"3",
 					"30",
-					"33",
-					"36"
+					"32",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 4,
 					"employee": 5.3,
 					"visitor": 6.2
 				},
-				"vitalInfo": {
-					"fat": 26,
-					"carbohydrate": 84,
-					"protein": 46,
-					"calories": 749
-				}
-			},
-			"3": {
-				"name": "Schaschlikspieß vom Schwein",
-				"attributes": [
-					"2",
-					"3",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Szegediner Tofugulasch mit Kräuterkartoffeln, dazu ein Apfel",
-				"attributes": [
-					"V",
-					"A",
-					"MV",
-					"30",
-					"35",
-					"41"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": {
-					"fat": 22,
-					"carbohydrate": 74,
-					"protein": 29,
-					"calories": 654
-				}
-			},
-			"5": {
-				"name": "Chicken Tikka Masala mit Paprikagemüse und Basmatireis",
+				"name": "Seehecht auf Balsamicolinsen und Meerrettichstampf",
 				"attributes": [
 					"MV",
+					"3",
+					"9",
 					"30",
+					"32",
+					"33",
 					"36",
 					"39"
 				],
@@ -259,10 +257,32 @@
 					"visitor": 5.4
 				},
 				"vitalInfo": {
-					"fat": 17,
-					"carbohydrate": 79,
-					"protein": 40,
-					"calories": 637
+					"fat": 19,
+					"carbohydrate": 86,
+					"protein": 44,
+					"calories": 698
+				}
+			},
+			"5": {
+				"name": "Hähnchenbrust in Sesamkruste mit Basilikumsauce und Gnocchi",
+				"attributes": [
+					"MV",
+					"30",
+					"32",
+					"36",
+					"38",
+					"40"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": {
+					"fat": 25,
+					"carbohydrate": 82,
+					"protein": 44,
+					"calories": 745
 				}
 			}
 		}

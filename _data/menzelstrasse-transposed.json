@@ -8,112 +8,53 @@
 		}
 	},
 	"validity": {
-		"from": "2018-08-27T00:00:00.000Z",
-		"until": "2018-08-31T00:00:00.000Z"
+		"from": "2018-09-03T00:00:00.000Z",
+		"until": "2018-09-07T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Bami Goreng mit Hähnchenstreifen",
-				"attributes": [
-					"30",
-					"32",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Farfalle Tricolore mit tomatisiertem Grünkernragout",
-				"attributes": [
-					"V",
-					"30"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Schweinesteak vom Nacken an hausgemachter Kräuterbutter",
-				"attributes": [
-					"A",
-					"36",
-					"38",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Gebackene Potato Dippers an Curry-Ketchupdip",
-				"attributes": [
-					"V",
-					"1"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hähnchenbrust mit Chili mariniert auf rotem Linsendip",
-				"attributes": [
-					"40"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Rahmspinat mit Rührei",
+				"name": "Zwei Hefeklöße mit Ragout von roten Beeren",
 				"attributes": [
 					"F",
 					"1",
+					"3",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hausgemachter Speckpfannkuchen auf Schmanddip",
+				"attributes": [
+					"2",
+					"3",
+					"30",
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"attributes": [
+					"F",
 					"32",
 					"36"
 				],
@@ -126,9 +67,10 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gulasch von der Putenoberkeule mit Pfefferrahm",
+				"name": "Geschnetzeltes aus der Putenoberkeule in Bärlauchrahm",
 				"attributes": [
 					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -142,36 +84,106 @@
 		],
 		[
 			{
-				"name": "Orientalische Linsenpfanne mit buntem Gemüsen",
+				"name": "Feine Süßkartoffel-Gnocchi in fruchtiger Tomatensauce",
 				"attributes": [
 					"V",
-					"2",
-					"3",
-					"38",
-					"39",
-					"40",
-					"41"
+					"30"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hausgemachtes Hacksteak auf Jalapeño-Tomatensauce",
+				"name": "Gegrilltes Steak vom Schweinerücken auf Portwein-Rahmsauce",
 				"attributes": [
+					"A",
+					"1",
 					"30",
-					"32",
-					"39",
+					"36",
+					"41",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Rosmarinkartoffeln mit Tomatencreme",
+				"attributes": [
+					"V",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Karibisches Mango-Hühnchen",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Gebackene Brokkoli-Nuggets an Kräuterquark",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"35",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Nudelpfanne mit Salami, Schinken und Ei",
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"30",
+					"32",
+					"36",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
