@@ -90,6 +90,7 @@
 			{
 				"name": "Geschnetzeltes aus der Putenoberkeule in Bärlauchrahm",
 				"attributes": [
+					"1",
 					"30",
 					"32",
 					"36"
@@ -107,6 +108,7 @@
 				"attributes": [
 					"V",
 					"MV",
+					"1",
 					"37"
 				],
 				"price": {
