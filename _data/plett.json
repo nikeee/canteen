@@ -61,6 +61,7 @@
 				"name": "Rosmarinkartoffeln mit Tomatencreme",
 				"attributes": [
 					"V",
+					"1",
 					"35",
 					"39"
 				],
@@ -143,7 +144,10 @@
 				"name": "Karibisches Mango-Hühnchen",
 				"attributes": [
 					"1",
+					"3",
+					"9",
 					"30",
+					"35",
 					"36",
 					"39"
 				],
@@ -245,6 +249,7 @@
 				"name": "Seehecht auf Balsamicolinsen und Meerrettichstampf",
 				"attributes": [
 					"MV",
+					"1",
 					"3",
 					"9",
 					"30",

@@ -97,21 +97,7 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Tortellini mit Spinat-Ricotta-Füllung in fruchtiger Basilikum-Tomatensauce",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": {
 				"name": "Asiatische Gemüsebowl mit Nudeln an milder Chilisauce",
 				"attributes": [

@@ -59,22 +59,6 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Tortellini mit Spinat-Ricotta-Füllung in fruchtiger Basilikum-Tomatensauce",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
 			}
 		],
 		[
