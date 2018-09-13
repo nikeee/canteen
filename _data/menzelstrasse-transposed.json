@@ -113,40 +113,7 @@
 				"categoryName": "Essen 2"
 			}
 		],
-		[
-			{
-				"name": "Hausgemachter Spinatpfannkuchen auf Knoblauchdip",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hähnchenbrust mit Sauce Café de Paris",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
+		[],
 		[
 			{
 				"name": "Orientalische Linsenpfanne mit buntem Gemüse und Quinoa",

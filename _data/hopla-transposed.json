@@ -170,8 +170,11 @@
 				"name": "Knusperfisch an Schnittlauchdip",
 				"attributes": [
 					"30",
+					"32",
 					"33",
-					"36"
+					"36",
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 2.5,
