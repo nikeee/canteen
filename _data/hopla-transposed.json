@@ -167,19 +167,17 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Knusperfisch an Schnittlauchdip",
+				"name": "Gnocchi in Béchamelsauce mit Kräutern und Putenhackfleisch",
 				"attributes": [
+					"1",
 					"30",
 					"32",
-					"33",
-					"36",
-					"39",
-					"40"
+					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
