@@ -7,33 +7,34 @@
 		}
 	},
 	"validity": {
-		"from": "2018-09-10T00:00:00.000Z",
-		"until": "2018-09-14T00:00:00.000Z"
+		"from": "2018-09-17T00:00:00.000Z",
+		"until": "2018-09-21T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Dattel-Aprikosen-Pilaw",
+				"name": "Gemüsebällchen auf Preiselbeerschmand",
 				"attributes": [
-					"V",
-					"3",
-					"41"
+					"F",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Frisch gebackene Kartoffelecken mit Currydip",
+				"name": "Berner Riesenrösti mit buntem Béchamelgemüse",
 				"attributes": [
-					"V",
+					"F",
+					"1",
 					"30",
-					"35",
-					"39"
+					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -43,7 +44,37 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Asia-Kokossuppe mit Paprika und Koriander",
+				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Backfrischer Amarena-Kirsch-Pfannkuchen an Vanilledip",
+				"attributes": [
+					"V",
+					"1",
+					"2",
+					"30",
+					"35",
+					"41"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Feine Cremesuppe von der Süßkartoffel mit Rote Bete",
 				"attributes": [
 					"V",
 					"1",
@@ -56,35 +87,15 @@
 					"visitor": 4.3
 				},
 				"vitalInfo": null
-			},
-			"4": null,
-			"5": {
-				"name": "Orientalische Linsenpfanne mit buntem Gemüse und Quinoa",
-				"attributes": [
-					"V",
-					"2",
-					"38",
-					"39",
-					"40",
-					"41"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Klassische Currywurst",
+				"name": "Spaghetti in Sauce all'amatriciana",
 				"attributes": [
-					"1",
+					"2",
 					"3",
-					"8",
-					"38",
-					"39",
+					"30",
 					"S"
 				],
 				"price": {
@@ -95,11 +106,41 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gnocchi in Béchamelsauce mit Kräutern und Putenhackfleisch",
+				"name": "Hähnchenbrust mit Pesto Rosso mariniert auf Ricottacreme",
 				"attributes": [
 					"1",
 					"30",
-					"36"
+					"36",
+					"37"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Wellenbandnudeln mit Chili con Carne",
+				"attributes": [
+					"30",
+					"32",
+					"R"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Asia-Schweinefleischstreifen in Red-Thaicurrysauce",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -108,24 +149,10 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Gebackener Alaska-Seelachs an Schnittlauchdip",
-				"attributes": [
-					"30",
-					"33",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"4": null,
 			"5": {
-				"name": "Hausgemachte Hackfleischpizza mit Paprika, Tomaten und Mais",
+				"name": "Gefülltes Kraut auf Béchamelsauce",
 				"attributes": [
+					"1",
 					"30",
 					"32",
 					"36",
