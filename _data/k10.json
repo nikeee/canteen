@@ -13,22 +13,7 @@
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
-			"1": {
-				"name": "Grillfrische Bratwurst mit Curry-Ketchupsauce",
-				"attributes": [
-					"3",
-					"8",
-					"38",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
 				"name": "Zartes Hähnchenbrustfilet in asiatischer Ananassauce",
 				"attributes": [
@@ -90,20 +75,7 @@
 			}
 		},
 		"Angebot 2": {
-			"1": {
-				"name": "Tortellini mit Soja-Bolognesefüllung in Tomatensauce",
-				"attributes": [
-					"V",
-					"30",
-					"38"
-				],
-				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
 				"name": "Berner Riesenrösti mit buntem Gemüseragout",
 				"attributes": [

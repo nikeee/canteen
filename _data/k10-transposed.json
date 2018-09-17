@@ -12,40 +12,7 @@
 		"until": "2018-09-22T00:00:00.000Z"
 	},
 	"days": [
-		[
-			{
-				"name": "Grillfrische Bratwurst mit Curry-Ketchupsauce",
-				"attributes": [
-					"3",
-					"8",
-					"38",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Tortellini mit Soja-Bolognesefüllung in Tomatensauce",
-				"attributes": [
-					"V",
-					"30",
-					"38"
-				],
-				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
+		[],
 		[
 			{
 				"name": "Zartes Hähnchenbrustfilet in asiatischer Ananassauce",
