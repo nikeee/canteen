@@ -16,10 +16,11 @@
 			{
 				"name": "Gemüsebällchen auf Preiselbeerschmand",
 				"attributes": [
-					"F",
 					"30",
 					"32",
-					"36"
+					"36",
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 2.1,

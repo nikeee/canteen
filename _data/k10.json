@@ -13,7 +13,25 @@
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
-			"1": null,
+			"1": {
+				"name": "Feines Ragout von Meeresfrüchten mit Brokkoli und Paprika",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"31",
+					"33",
+					"36",
+					"41",
+					"43"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
 			"2": {
 				"name": "Zartes Hähnchenbrustfilet in asiatischer Ananassauce",
 				"attributes": [
@@ -75,7 +93,19 @@
 			}
 		},
 		"Angebot 2": {
-			"1": null,
+			"1": {
+				"name": "Geschwenktes Curry mit Linsen, Apfel und Vollkornreis",
+				"attributes": [
+					"V",
+					"3"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
 			"2": {
 				"name": "Berner Riesenrösti mit buntem Gemüseragout",
 				"attributes": [

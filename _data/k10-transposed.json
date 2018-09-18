@@ -12,7 +12,42 @@
 		"until": "2018-09-22T00:00:00.000Z"
 	},
 	"days": [
-		[],
+		[
+			{
+				"name": "Feines Ragout von Meeresfrüchten mit Brokkoli und Paprika",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"31",
+					"33",
+					"36",
+					"41",
+					"43"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Geschwenktes Curry mit Linsen, Apfel und Vollkornreis",
+				"attributes": [
+					"V",
+					"3"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
 		[
 			{
 				"name": "Zartes Hähnchenbrustfilet in asiatischer Ananassauce",
