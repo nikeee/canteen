@@ -119,10 +119,10 @@
 					"visitor": 6.7
 				},
 				"vitalInfo": {
-					"fat": 22,
-					"carbohydrate": 83,
-					"protein": 46,
-					"calories": 737
+					"fat": 0,
+					"carbohydrate": 0,
+					"protein": 0,
+					"calories": 0
 				},
 				"categoryName": "Angebot des Tages I"
 			}

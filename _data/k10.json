@@ -14,21 +14,18 @@
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Feines Ragout von Meeresfrüchten mit Brokkoli und Paprika",
+				"name": "Grillfrische Bratwurst mit Curry-Ketchupsauce",
 				"attributes": [
-					"A",
-					"1",
-					"30",
-					"31",
-					"33",
-					"36",
-					"41",
-					"43"
+					"3",
+					"8",
+					"38",
+					"39",
+					"S"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
 			},
@@ -107,18 +104,16 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Berner Riesenrösti mit buntem Gemüseragout",
+				"name": "Tortellini mit Soja-Bolognesefüllung in Tomatensauce",
 				"attributes": [
-					"F",
-					"1",
+					"V",
 					"30",
-					"36",
 					"38"
 				],
 				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null
 			},
