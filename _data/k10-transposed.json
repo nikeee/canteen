@@ -31,10 +31,11 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Geschwenktes Curry mit Linsen, Apfel und Vollkornreis",
+				"name": "Tortellini mit Soja-Bolognesefüllung in Tomatensauce",
 				"attributes": [
 					"V",
-					"3"
+					"30",
+					"38"
 				],
 				"price": {
 					"student": 2.7,
@@ -63,16 +64,18 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Tortellini mit Soja-Bolognesefüllung in Tomatensauce",
+				"name": "Berner Riesenrösti mit buntem Gemüseragout",
 				"attributes": [
-					"V",
+					"F",
+					"1",
 					"30",
+					"36",
 					"38"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
