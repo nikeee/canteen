@@ -31,11 +31,10 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Tortellini mit Soja-Bolognesefüllung in Tomatensauce",
+				"name": "Geschwenktes Curry mit Linsen, Apfel und Vollkornreis",
 				"attributes": [
 					"V",
-					"30",
-					"38"
+					"3"
 				],
 				"price": {
 					"student": 2.7,
@@ -64,18 +63,16 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Berner Riesenrösti mit buntem Gemüseragout",
+				"name": "Tortellini mit Soja-Bolognesefüllung in Tomatensauce",
 				"attributes": [
-					"F",
-					"1",
+					"V",
 					"30",
-					"36",
 					"38"
 				],
 				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -132,17 +129,17 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Backfrischer Apfel-Pfannkuchen an warmer Mohn-Vanillesauce",
+				"name": "Hausgemachte Lasagne mit geschmortem Ratatouille-Gemüse",
 				"attributes": [
 					"F",
-					"1",
 					"30",
+					"32",
 					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -150,12 +147,12 @@
 		],
 		[
 			{
-				"name": "Gedämpftes Fischfilet auf Fenchel-Karottenbett und Kräutersauce",
+				"name": "Rindfleischgulasch in Marsalajus",
 				"attributes": [
-					"1",
+					"A",
 					"30",
-					"33",
-					"36"
+					"41",
+					"R"
 				],
 				"price": {
 					"student": 3.5,

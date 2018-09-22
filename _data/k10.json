@@ -74,12 +74,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gedämpftes Fischfilet auf Fenchel-Karottenbett und Kräutersauce",
+				"name": "Rindfleischgulasch in Marsalajus",
 				"attributes": [
-					"1",
+					"A",
 					"30",
-					"33",
-					"36"
+					"41",
+					"R"
 				],
 				"price": {
 					"student": 3.5,
@@ -91,6 +91,19 @@
 		},
 		"Angebot 2": {
 			"1": {
+				"name": "Geschwenktes Curry mit Linsen, Apfel und Vollkornreis",
+				"attributes": [
+					"V",
+					"3"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"2": {
 				"name": "Tortellini mit Soja-Bolognesefüllung in Tomatensauce",
 				"attributes": [
 					"V",
@@ -101,22 +114,6 @@
 					"student": 2.7,
 					"employee": 4,
 					"visitor": 4.9
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Berner Riesenrösti mit buntem Gemüseragout",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
 				},
 				"vitalInfo": null
 			},
@@ -136,17 +133,17 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Backfrischer Apfel-Pfannkuchen an warmer Mohn-Vanillesauce",
+				"name": "Hausgemachte Lasagne mit geschmortem Ratatouille-Gemüse",
 				"attributes": [
 					"F",
-					"1",
 					"30",
+					"32",
 					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
