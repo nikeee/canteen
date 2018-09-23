@@ -8,38 +8,78 @@
 		}
 	},
 	"validity": {
-		"from": "2018-09-17T00:00:00.000Z",
-		"until": "2018-09-22T00:00:00.000Z"
+		"from": "2018-09-24T00:00:00.000Z",
+		"until": "2018-09-29T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Grillfrische Bratwurst mit Curry-Ketchupsauce",
+				"name": "Asiatische Putenfleischstreifen in süß-saurer Sauce",
 				"attributes": [
+					"1",
 					"3",
-					"8",
-					"38",
+					"30",
+					"35",
+					"39",
+					"41"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Bandnudeln mit feinem Basilikumpesto und geschwenkten Kirschtomaten",
+				"attributes": [
+					"F",
+					"1",
+					"2",
+					"30",
+					"36",
+					"37"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Deftige gebratene Krakauer mit Grünkohl an kräftiger Bratenjus",
+				"attributes": [
+					"2",
+					"3",
+					"30",
 					"39",
 					"S"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Geschwenktes Curry mit Linsen, Apfel und Vollkornreis",
+				"name": "Rahmspinat mit Eieromelette",
 				"attributes": [
-					"V",
-					"3"
+					"F",
+					"1",
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -47,12 +87,12 @@
 		],
 		[
 			{
-				"name": "Zartes Hähnchenbrustfilet in asiatischer Ananassauce",
+				"name": "Gebratenes Putenschnitzel auf Kräutersauce",
 				"attributes": [
-					"3",
+					"1",
 					"30",
-					"35",
-					"39"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 4,
@@ -63,16 +103,50 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Tortellini mit Soja-Bolognesefüllung in Tomatensauce",
+				"name": "Gebackener marinierter Hirtenkäse auf Ratatouille-Gemüse",
 				"attributes": [
-					"V",
+					"F",
 					"30",
+					"36"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Ghanaisches Hähnchen in Erdnuss-Tomatensauce",
+				"attributes": [
+					"30",
+					"32",
+					"34"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Blumenkohl-Käse-Medaillon auf Sauce Hollandaise",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36",
 					"38"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -80,101 +154,40 @@
 		],
 		[
 			{
-				"name": "Zartes Hähnchenbrustfilet in asiatischer Ananassauce",
+				"name": "Goldgelb gebackenes Schollenfilet an Remouladensauce",
 				"attributes": [
+					"1",
 					"3",
+					"9",
 					"30",
+					"32",
+					"33",
 					"35",
-					"39"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Hausgemachte Lasagne mit geschmortem Ratatouille-Gemüse",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Paniertes Schnitzel vom Schwein auf Kirsch-Rahmsauce",
-				"attributes": [
-					"30",
-					"32",
-					"S"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Hausgemachte Lasagne mit geschmortem Ratatouille-Gemüse",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Rindfleischgulasch in Marsalajus",
-				"attributes": [
-					"A",
-					"30",
-					"41",
-					"R"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Bulgurpfanne mit knackigem Gemüse an Joghurt-Minzdip",
-				"attributes": [
-					"F",
-					"3",
-					"30",
 					"36",
 					"39"
 				],
 				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Linseneintopf mit Wurzelgemüse",
+				"attributes": [
+					"V",
+					"1",
+					"30",
+					"35",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
