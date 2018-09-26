@@ -16,12 +16,12 @@
 			"1": {
 				"name": "Curry von Brokkoli und Lauch in Erdnusssauce mit Kokos",
 				"attributes": [
-					"V",
 					"1",
 					"30",
 					"34",
 					"35",
-					"39"
+					"39",
+					"R"
 				],
 				"price": {
 					"student": 2.1,
@@ -89,6 +89,9 @@
 			"1": {
 				"name": "Mini-Hackfleischbällchen in Tomaten-Fenchelsauce",
 				"attributes": [
+					"2",
+					"3",
+					"8",
 					"30",
 					"32",
 					"R",
