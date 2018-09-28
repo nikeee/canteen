@@ -58,10 +58,14 @@
 			"4": {
 				"name": "Cremesuppe von roten Linsen mit schwarzen Bohnen und Korianderstreifen",
 				"attributes": [
-					"V",
+					"1",
+					"2",
 					"30",
 					"35",
-					"40"
+					"36",
+					"38",
+					"40",
+					"S"
 				],
 				"price": {
 					"student": 2,
@@ -122,6 +126,7 @@
 					"1",
 					"2",
 					"30",
+					"32",
 					"36",
 					"38",
 					"S"
@@ -138,7 +143,9 @@
 				"attributes": [
 					"1",
 					"30",
-					"36"
+					"36",
+					"39",
+					"41"
 				],
 				"price": {
 					"student": 2.6,
