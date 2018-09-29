@@ -9,18 +9,16 @@
 		}
 	},
 	"validity": {
-		"from": "2018-09-24T00:00:00.000Z",
-		"until": "2018-09-28T00:00:00.000Z"
+		"from": "2018-10-01T00:00:00.000Z",
+		"until": "2018-10-05T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Curry von Brokkoli und Lauch in Erdnusssauce mit Kokos",
+				"name": "Kartoffel-Kürbispfannkuchen mit Soja-Joghurtdip",
 				"attributes": [
 					"V",
-					"1",
 					"30",
-					"34",
 					"35",
 					"39"
 				],
@@ -33,13 +31,9 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Mini-Hackfleischbällchen in Tomaten-Fenchelsauce",
+				"name": "Texanisches feuriges Chili con Carne",
 				"attributes": [
 					"30",
-					"32",
-					"38",
-					"39",
-					"R",
 					"S"
 				],
 				"price": {
@@ -51,37 +45,104 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Gemüse-Nudel-Gratin Griechische Art",
+				"name": "Gado Gado - Indonesisches Gemüsegericht in Erdnusssauce mit 2/2 gekochten Eiern",
 				"attributes": [
 					"F",
-					"MV",
-					"30",
 					"32",
+					"34"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 3 oder 4"
+			},
+			{
+				"name": "Gekochtes Rindfleisch aus dem Wurzelsud an Meerrettich-Sahnesauce",
+				"attributes": [
+					"1",
+					"3",
+					"9",
+					"30",
+					"36",
+					"38",
+					"R"
+				],
+				"price": {
+					"student": 5,
+					"employee": 6.3,
+					"visitor": 7.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot des Tages"
+			}
+		],
+		[
+			{
+				"name": "Kritharakisalat mit buntem Gemüse, dazu Baguette",
+				"attributes": [
+					"V",
+					"3",
+					"6",
+					"30",
+					"41"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hähnchenbrust auf Béchamelkartoffeln",
+				"attributes": [
+					"1",
+					"30",
 					"36"
 				],
 				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Gnocchiauflauf mit Blattspinat und Seelachs",
+				"attributes": [
+					"A",
+					"MV",
+					"30",
+					"32",
+					"33",
+					"36",
+					"41"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": {
-					"fat": 25,
-					"carbohydrate": 94,
-					"protein": 27,
-					"calories": 710
+					"fat": 23,
+					"carbohydrate": 92,
+					"protein": 37,
+					"calories": 724
 				},
 				"categoryName": "Angebot des Tages"
 			},
 			{
-				"name": "Ofenfrische Pizza mit Pulled Turkey und rauchiger Sauce",
+				"name": "Flammkuchen mit Kichererbsencreme und Kräuterseitlingen",
 				"attributes": [
+					"V",
 					"1",
-					"3",
 					"30",
-					"35",
-					"36",
-					"39",
-					"41"
+					"35"
 				],
 				"price": {
 					"student": 5,
@@ -94,9 +155,25 @@
 		],
 		[
 			{
-				"name": "Pfannenfrische Gemüsepaella",
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			}
+		],
+		[
+			{
+				"name": "Hausgemachte Polenta à la Crème auf tomatisierter Bratzucchini",
 				"attributes": [
-					"V"
+					"V",
+					"1",
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 2,
@@ -107,9 +184,13 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Frisch geschwenktes Pfannengemüse mit Hähnchenbrust",
+				"name": "Mie-Nudelpfanne mit Sesam-Schweinefleisch und Gemüse",
 				"attributes": [
-					"1"
+					"30",
+					"35",
+					"39",
+					"40",
+					"S"
 				],
 				"price": {
 					"student": 2.6,
@@ -120,34 +201,39 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Paniertes Schweineschnitzel Münchner Art an Schwarzbierjus",
-				"attributes": [
-					"A",
-					"30",
-					"32",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 3 oder 4"
-			},
-			{
-				"name": "Ziegenkäse-Burger mit knackigen Salaten, Rote Bete Creme und Pinienkernen",
+				"name": "Pilzpfanne mit Paprika, dazu Couscous und Limettenjoghurt",
 				"attributes": [
 					"F",
+					"MV",
+					"1",
 					"30",
 					"36",
-					"39"
+					"37"
 				],
 				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": {
+					"fat": 21,
+					"carbohydrate": 87,
+					"protein": 25,
+					"calories": 639
+				},
+				"categoryName": "Angebot des Tages"
+			},
+			{
+				"name": "Frisch gegrillte Merguez auf Ajvarjus",
+				"attributes": [
+					"3",
+					"30",
+					"R"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Wok/Grill"
@@ -155,10 +241,13 @@
 		],
 		[
 			{
-				"name": "Pastasotto mit Strauchtomaten und Rucola",
+				"name": "Grünkernpfanne mit knackigem Gemüse und Balsamico abgelöscht, dazu Tomatendip",
 				"attributes": [
 					"V",
-					"30"
+					"1",
+					"3",
+					"30",
+					"41"
 				],
 				"price": {
 					"student": 2.1,
@@ -169,28 +258,26 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
+				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
 				"attributes": [
 					"1",
-					"2",
-					"30",
 					"36",
-					"38",
-					"S"
+					"39"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Gegrilltes Steak von der Putenbrust auf Zwetschgen-Rahmsauce",
+				"name": "Nordhessischer Schmandhering mit Äpfeln, Gurken und Zwiebeln",
 				"attributes": [
-					"1",
-					"30",
+					"2",
+					"9",
+					"33",
 					"36"
 				],
 				"price": {
@@ -202,164 +289,21 @@
 				"categoryName": "Essen 3 oder 4"
 			},
 			{
-				"name": "Warmer Taco Fladen mit Salat, Limetten-Sauerrahmgitter und gegrillten Garnelen",
+				"name": "Süß-sauer-scharfes Paprika-Zwiebel-Ananasgemüse auf Basmatireis",
 				"attributes": [
-					"2",
-					"8",
+					"V",
+					"1",
+					"3",
 					"30",
-					"31",
-					"36",
+					"35",
+					"38",
+					"39",
 					"41"
 				],
 				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Wok/Grill"
-			}
-		],
-		[
-			{
-				"name": "Cremesuppe von roten Linsen mit schwarzen Bohnen und Korianderstreifen",
-				"attributes": [
-					"V",
-					"30",
-					"35",
-					"40"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hähnchenbrust in Green Thaicurrysauce",
-				"attributes": [
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Armer Ritter Sandwich mit Currydip, gartenfrischem Salat, Avocado, Bacon und Sprossen",
-				"attributes": [
-					"2",
-					"3",
-					"30",
-					"32",
-					"36",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null,
-				"categoryName": "Wok/Grill"
-			},
-			{
-				"name": "Flammkuchen mit Feigen und roten Zwiebeln",
-				"attributes": [
-					"F",
-					"30",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Pizza/Pasta"
-			}
-		],
-		[
-			{
-				"name": "Gelbe Penne mit Zucchini und Radicchio geschwenkt an Tomaten-Oangensauce",
-				"attributes": [
-					"V",
-					"3",
-					"30"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Fischstäbchen mit Remouladensauce",
-				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Sauerbraten mit Apfelrotkohl und Kartoffelklößen",
-				"attributes": [
-					"A",
-					"MV",
-					"3",
-					"30",
-					"36",
-					"38",
-					"41",
-					"R"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 77,
-					"protein": 39,
-					"calories": 641
-				},
-				"categoryName": "Angebot des Tages"
-			},
-			{
-				"name": "Gegrillte Medaillons vom Schweinefilet auf Pfifferling-Rahmsauce",
-				"attributes": [
-					"1",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Wok/Grill"

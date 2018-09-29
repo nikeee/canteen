@@ -7,21 +7,19 @@
 		}
 	},
 	"validity": {
-		"from": "2018-09-24T00:00:00.000Z",
-		"until": "2018-09-28T00:00:00.000Z"
+		"from": "2018-10-01T00:00:00.000Z",
+		"until": "2018-10-05T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Curry von Brokkoli und Lauch in Erdnusssauce mit Kokos",
+				"name": "Kartoffel-Kürbispfannkuchen mit Soja-Joghurtdip",
 				"attributes": [
-					"1",
+					"V",
 					"30",
-					"34",
 					"35",
-					"39",
-					"R"
+					"39"
 				],
 				"price": {
 					"student": 2.1,
@@ -31,9 +29,13 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Pfannenfrische Gemüsepaella",
+				"name": "Kritharakisalat mit buntem Gemüse, dazu Baguette",
 				"attributes": [
-					"V"
+					"V",
+					"3",
+					"6",
+					"30",
+					"41"
 				],
 				"price": {
 					"student": 2,
@@ -43,29 +45,22 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Pastasotto mit Strauchtomaten und Rucola",
-				"attributes": [
-					"V",
-					"30"
-				],
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Cremesuppe von roten Linsen mit schwarzen Bohnen und Korianderstreifen",
+				"name": "Hausgemachte Polenta à la Crème auf tomatisierter Bratzucchini",
 				"attributes": [
+					"V",
 					"1",
-					"2",
-					"30",
 					"35",
-					"36",
-					"38",
-					"40",
-					"S"
+					"38"
 				],
 				"price": {
 					"student": 2,
@@ -75,30 +70,27 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gelbe Penne mit Zucchini und Radicchio geschwenkt an Tomaten-Oangensauce",
+				"name": "Grünkernpfanne mit knackigem Gemüse und Balsamico abgelöscht, dazu Tomatendip",
 				"attributes": [
 					"V",
+					"1",
 					"3",
-					"30"
+					"30",
+					"41"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Mini-Hackfleischbällchen in Tomaten-Fenchelsauce",
+				"name": "Texanisches feuriges Chili con Carne",
 				"attributes": [
-					"2",
-					"3",
-					"8",
 					"30",
-					"32",
-					"R",
 					"S"
 				],
 				"price": {
@@ -109,27 +101,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Frisch geschwenktes Pfannengemüse mit Hähnchenbrust",
-				"attributes": [
-					"1"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Spaghetti in Bolognese mit Schweinehackfleisch und Parmesan",
+				"name": "Hähnchenbrust auf Béchamelkartoffeln",
 				"attributes": [
 					"1",
-					"2",
 					"30",
-					"32",
-					"36",
-					"38",
-					"S"
+					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -138,14 +114,15 @@
 				},
 				"vitalInfo": null
 			},
+			"3": null,
 			"4": {
-				"name": "Hähnchenbrust in Green Thaicurrysauce",
+				"name": "Mie-Nudelpfanne mit Sesam-Schweinefleisch und Gemüse",
 				"attributes": [
-					"1",
 					"30",
-					"36",
+					"35",
 					"39",
-					"41"
+					"40",
+					"S"
 				],
 				"price": {
 					"student": 2.6,
@@ -155,13 +132,9 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Fischstäbchen mit Remouladensauce",
+				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
 				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
-					"33",
+					"1",
 					"36",
 					"39"
 				],
@@ -174,28 +147,29 @@
 			}
 		},
 		"Essen 3 oder 4": {
-			"1": null,
-			"2": {
-				"name": "Paniertes Schweineschnitzel Münchner Art an Schwarzbierjus",
+			"1": {
+				"name": "Gado Gado - Indonesisches Gemüsegericht in Erdnusssauce mit 2/2 gekochten Eiern",
 				"attributes": [
-					"A",
-					"30",
+					"F",
 					"32",
-					"39",
-					"S"
+					"34"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Gegrilltes Steak von der Putenbrust auf Zwetschgen-Rahmsauce",
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": {
+				"name": "Nordhessischer Schmandhering mit Äpfeln, Gurken und Zwiebeln",
 				"attributes": [
-					"1",
-					"30",
+					"2",
+					"9",
+					"33",
 					"36"
 				],
 				"price": {
@@ -204,73 +178,57 @@
 					"visitor": 5.6
 				},
 				"vitalInfo": null
-			},
-			"4": null,
-			"5": null
+			}
 		},
 		"Angebot des Tages I": {
-			"1": {
-				"name": "Gemüse-Nudel-Gratin Griechische Art",
-				"attributes": [
-					"F",
-					"MV",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
-				},
-				"vitalInfo": {
-					"fat": 25,
-					"carbohydrate": 94,
-					"protein": 27,
-					"calories": 710
-				}
-			},
-			"2": null,
-			"3": null,
-			"4": {
-				"name": "Flammkuchen mit Feigen und roten Zwiebeln",
-				"attributes": [
-					"F",
-					"30",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Sauerbraten mit Apfelrotkohl und Kartoffelklößen",
+			"1": null,
+			"2": {
+				"name": "Gnocchiauflauf mit Blattspinat und Seelachs",
 				"attributes": [
 					"A",
 					"MV",
-					"3",
 					"30",
+					"32",
+					"33",
 					"36",
-					"38",
-					"41",
-					"R"
+					"41"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": {
+					"fat": 23,
+					"carbohydrate": 92,
+					"protein": 37,
+					"calories": 724
+				}
+			},
+			"3": null,
+			"4": {
+				"name": "Pilzpfanne mit Paprika, dazu Couscous und Limettenjoghurt",
+				"attributes": [
+					"F",
+					"MV",
+					"1",
+					"30",
+					"36",
+					"37"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": {
 					"fat": 21,
-					"carbohydrate": 77,
-					"protein": 39,
-					"calories": 641
+					"carbohydrate": 87,
+					"protein": 25,
+					"calories": 639
 				}
-			}
+			},
+			"5": null
 		}
 	}
 }
