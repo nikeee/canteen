@@ -8,91 +8,18 @@
 		}
 	},
 	"validity": {
-		"from": "2018-09-24T00:00:00.000Z",
-		"until": "2018-09-29T00:00:00.000Z"
+		"from": "2018-10-01T00:00:00.000Z",
+		"until": "2018-10-06T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Asiatische Putenfleischstreifen in süß-saurer Sauce",
+				"name": "Geschnetzeltes vom Rind mit Kürbis und Rote Bete",
 				"attributes": [
 					"1",
-					"3",
-					"30",
-					"35",
-					"39",
-					"41"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Bandnudeln mit feinem Basilikumpesto und geschwenkten Kirschtomaten",
-				"attributes": [
-					"F",
-					"1",
-					"2",
 					"30",
 					"36",
-					"37"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Deftige gebratene Krakauer mit Grünkohl an kräftiger Bratenjus",
-				"attributes": [
-					"2",
-					"3",
-					"30",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Rahmspinat mit Eieromelette",
-				"attributes": [
-					"F",
-					"1",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Gebratenes Putenschnitzel auf Kräutersauce",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36"
+					"R"
 				],
 				"price": {
 					"student": 4,
@@ -103,44 +30,10 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Gebackener marinierter Hirtenkäse auf Ratatouille-Gemüse",
+				"name": "Geschöpfte Tortellini mit Gemüsefüllung in fruchtiger Tomatensauce",
 				"attributes": [
-					"F",
+					"V",
 					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Ghanaisches Hähnchen in Erdnuss-Tomatensauce",
-				"attributes": [
-					"30",
-					"32",
-					"34"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Blumenkohl-Käse-Medaillon auf Sauce Hollandaise",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36",
 					"38"
 				],
 				"price": {
@@ -154,17 +47,14 @@
 		],
 		[
 			{
-				"name": "Goldgelb gebackenes Schollenfilet an Remouladensauce",
+				"name": "Gebratenes Puten-Cordon bleu mit Rahmsauce",
 				"attributes": [
-					"1",
+					"2",
 					"3",
-					"9",
+					"8",
 					"30",
 					"32",
-					"33",
-					"35",
-					"36",
-					"39"
+					"36"
 				],
 				"price": {
 					"student": 4,
@@ -175,19 +65,99 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Linseneintopf mit Wurzelgemüse",
+				"name": "Geschwenkte Eblypfanne mit Paprika und Spitzkohl an Pesto Rosso",
 				"attributes": [
 					"V",
-					"1",
 					"30",
-					"35",
-					"38",
+					"37"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			}
+		],
+		[
+			{
+				"name": "Ofenfrischer Spießbraten an hausgemachtem Bayrisch Kraut",
+				"attributes": [
+					"1",
+					"2",
+					"3",
+					"30",
+					"S"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Goldgelb gebackener Camembert mit Preiselbeeren",
+				"attributes": [
+					"F",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Fish and Chips an Kräuterdip",
+				"attributes": [
+					"30",
+					"32",
+					"33",
+					"36",
 					"39"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Italienische Kartoffelgnocchi in Gorgonzolasauce mit Käse überbacken",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
