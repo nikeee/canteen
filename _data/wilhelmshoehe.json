@@ -204,6 +204,7 @@
 				"attributes": [
 					"A",
 					"MV",
+					"1",
 					"30",
 					"32",
 					"33",
@@ -249,7 +250,24 @@
 		},
 		"Angebot des Tages II": {
 			"1": null,
-			"2": null,
+			"2": {
+				"name": "Gekochtes Rindfleisch aus dem Wurzelsud an Meerrettich-Sahnesauce",
+				"attributes": [
+					"1",
+					"3",
+					"9",
+					"30",
+					"36",
+					"38",
+					"R"
+				],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null
+			},
 			"3": null,
 			"4": {
 				"name": "Frisch gegrillte Merguez auf Ajvarjus",
