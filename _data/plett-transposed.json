@@ -8,15 +8,74 @@
 		}
 	},
 	"validity": {
-		"from": "2018-10-01T00:00:00.000Z",
-		"until": "2018-10-05T00:00:00.000Z"
+		"from": "2018-10-08T00:00:00.000Z",
+		"until": "2018-10-12T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Kartoffel-Kürbispfannkuchen mit Soja-Joghurtdip",
+				"name": "Backfrischer Mohn-Pfannkuchen an hausgemachtem Birnenragout",
 				"attributes": [
 					"V",
+					"1",
+					"3",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Ofenfrische Geflügelfrikadelle an Pfeffer-Rahmsauce",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Seelachs mit Ingwerrotkraut, Orangensauce und Dillkartoffeln",
+				"attributes": [
+					"MV",
+					"3",
+					"30",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": {
+					"fat": 21,
+					"carbohydrate": 73,
+					"protein": 39,
+					"calories": 643
+				},
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Mexikanische Couscous Pfanne an scharfen veganem Dip",
+				"attributes": [
+					"V",
+					"3",
 					"30",
 					"35",
 					"39"
@@ -30,61 +89,10 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Texanisches feuriges Chili con Carne",
+				"name": "Geschwenkte Schweinefleischstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
-					"30",
-					"32",
 					"36",
 					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Gado Gado - Indonesisches Gemüsegericht in Erdnusssauce mit 2/2 gekochten Eiern",
-				"attributes": [
-					"F",
-					"32",
-					"34"
-				],
-				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 3 oder 4"
-			}
-		],
-		[
-			{
-				"name": "Kritharakisalat mit buntem Gemüse, dazu Baguette",
-				"attributes": [
-					"V",
-					"3",
-					"6",
-					"30",
-					"41"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hähnchenbrust auf Béchamelkartoffeln",
-				"attributes": [
-					"1",
-					"30",
-					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -95,51 +103,33 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Gnocchiauflauf mit Blattspinat und Seelachs",
+				"name": "Griechischer Veggi-Burger mit Oliven-Mayonnaise, Hirtenkäse in Panko-Panierung und Krautsalat",
 				"attributes": [
-					"A",
-					"MV",
+					"F",
+					"3",
 					"30",
 					"32",
-					"33",
 					"36",
-					"41"
+					"39"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
 				},
-				"vitalInfo": {
-					"fat": 23,
-					"carbohydrate": 92,
-					"protein": 37,
-					"calories": 724
-				},
+				"vitalInfo": null,
 				"categoryName": "Angebot des Tages I"
 			}
 		],
 		[
 			{
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			}
-		],
-		[
-			{
-				"name": "Hausgemachte Polenta à la Crème auf tomatisierter Bratzucchini",
+				"name": "Italienische Radinudeln mit Steinpilz-Rahmsauce",
 				"attributes": [
-					"V",
+					"F",
 					"1",
-					"35",
-					"38"
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2,
@@ -150,12 +140,11 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Mie-Nudelpfanne mit Sesam-Schweinefleisch und Gemüse",
+				"name": "Schweinesteak vom Nacken an Chili-Quarkdip",
 				"attributes": [
-					"30",
-					"35",
+					"2",
+					"36",
 					"39",
-					"40",
 					"S"
 				],
 				"price": {
@@ -167,38 +156,34 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Pilzpfanne mit Paprika, dazu Couscous und Limettenjoghurt",
+				"name": "Gratinierte Schupfnudeln mit Chinakohl und Rindfleischstreifen",
 				"attributes": [
-					"F",
 					"MV",
-					"1",
 					"30",
+					"32",
 					"36",
-					"37"
+					"R"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 87,
-					"protein": 25,
-					"calories": 639
+					"fat": 22,
+					"carbohydrate": 69,
+					"protein": 38,
+					"calories": 617
 				},
 				"categoryName": "Angebot des Tages I"
 			}
 		],
 		[
 			{
-				"name": "Grünkernpfanne mit knackigem Gemüse und Balsamico abgelöscht, dazu Tomatendip",
+				"name": "Ofenkartoffel mit hessischem Ratatouille",
 				"attributes": [
 					"V",
-					"1",
-					"3",
-					"30",
-					"41"
+					"38"
 				],
 				"price": {
 					"student": 2.1,
@@ -209,11 +194,59 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
+				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
+				"attributes": [],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Ofenfrische Churros von der Süßkartoffel an Chestercreme mit Jalapeños",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 3 oder 4"
+			}
+		],
+		[
+			{
+				"name": "Lauchkuchen mit Schmand und roten Zwiebeln",
+				"attributes": [
+					"F",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Käse-Spätzlepfanne mit Speck",
 				"attributes": [
 					"1",
+					"2",
+					"3",
+					"30",
+					"32",
 					"36",
-					"39"
+					"S"
 				],
 				"price": {
 					"student": 2.4,
@@ -224,20 +257,27 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Nordhessischer Schmandhering mit Äpfeln, Gurken und Zwiebeln",
+				"name": "Steckrüben-Bohnen-Paprika-Curry mit Chilikartoffeln",
 				"attributes": [
-					"2",
-					"9",
-					"33",
-					"36"
+					"V",
+					"MV",
+					"3",
+					"30",
+					"35",
+					"39"
 				],
 				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
 				},
-				"vitalInfo": null,
-				"categoryName": "Essen 3 oder 4"
+				"vitalInfo": {
+					"fat": 23,
+					"carbohydrate": 81,
+					"protein": 22,
+					"calories": 623
+				},
+				"categoryName": "Angebot des Tages I"
 			}
 		]
 	]
