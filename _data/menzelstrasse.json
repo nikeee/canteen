@@ -34,6 +34,7 @@
 				"attributes": [
 					"V",
 					"3",
+					"KN",
 					"30",
 					"35",
 					"39"
@@ -65,6 +66,7 @@
 				"name": "Ofenkartoffel mit hessischem Ratatouille",
 				"attributes": [
 					"V",
+					"KN",
 					"38"
 				],
 				"price": {
@@ -109,6 +111,7 @@
 			"2": {
 				"name": "Geschwenkte Schweinefleischstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
+					"KN",
 					"36",
 					"S"
 				],
@@ -123,6 +126,7 @@
 				"name": "Schweinesteak vom Nacken an Chili-Quarkdip",
 				"attributes": [
 					"2",
+					"KN",
 					"36",
 					"39",
 					"S"
@@ -136,7 +140,9 @@
 			},
 			"4": {
 				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
-				"attributes": [],
+				"attributes": [
+					"KN"
+				],
 				"price": {
 					"student": 2.5,
 					"employee": 3.8,

@@ -34,6 +34,7 @@
 				"attributes": [
 					"V",
 					"3",
+					"KN",
 					"30",
 					"35",
 					"39"
@@ -48,11 +49,11 @@
 			"3": {
 				"name": "Italienische Radinudeln mit Steinpilz-Rahmsauce",
 				"attributes": [
-					"F",
 					"1",
 					"30",
 					"32",
-					"36"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2,
@@ -65,6 +66,7 @@
 				"name": "Ofenkartoffel mit hessischem Ratatouille",
 				"attributes": [
 					"V",
+					"KN",
 					"38"
 				],
 				"price": {
@@ -109,6 +111,7 @@
 			"2": {
 				"name": "Geschwenkte Schweinefleischstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
+					"KN",
 					"36",
 					"38",
 					"39",
@@ -125,6 +128,7 @@
 				"name": "Schweinesteak vom Nacken an Chili-Quarkdip",
 				"attributes": [
 					"2",
+					"KN",
 					"36",
 					"39",
 					"S"
@@ -138,7 +142,9 @@
 			},
 			"4": {
 				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
-				"attributes": [],
+				"attributes": [
+					"KN"
+				],
 				"price": {
 					"student": 2.5,
 					"employee": 3.8,
@@ -170,6 +176,7 @@
 			"2": {
 				"name": "Gebratenes Putenschnitzel auf fruchtiger Tomaten-Basilikumsauce",
 				"attributes": [
+					"KN",
 					"30",
 					"32"
 				],
@@ -184,9 +191,9 @@
 			"4": {
 				"name": "Ofenfrische Churros von der Süßkartoffel an Chestercreme mit Jalapeños",
 				"attributes": [
-					"F",
 					"1",
 					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -250,6 +257,7 @@
 					"MV",
 					"1",
 					"2",
+					"KN",
 					"30",
 					"32",
 					"36",
@@ -313,6 +321,7 @@
 					"MV",
 					"3",
 					"9",
+					"KN",
 					"30",
 					"33",
 					"36"
