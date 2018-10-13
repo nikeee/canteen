@@ -77,8 +77,15 @@
 				"name": "Enchilada mit scharfem Hühnchen, Paprika, Linsen und Mango",
 				"attributes": [
 					"2",
+					"3",
+					"9",
 					"KN",
-					"30"
+					"30",
+					"32",
+					"36",
+					"39",
+					"40",
+					"R"
 				],
 				"price": {
 					"student": 3.5,
@@ -123,17 +130,18 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Lahmacun mit Salaten und Knoblauchsauce",
+				"name": "Hausgemachter Spinatpfannkuchen an Kräuterdip",
 				"attributes": [
 					"F",
 					"KN",
 					"30",
+					"32",
 					"36"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
@@ -144,8 +152,7 @@
 					"1",
 					"KN",
 					"30",
-					"36",
-					"38"
+					"36"
 				],
 				"price": {
 					"student": 2.6,
