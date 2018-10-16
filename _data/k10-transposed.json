@@ -47,42 +47,7 @@
 				"categoryName": "Angebot 2"
 			}
 		],
-		[
-			{
-				"name": "Grillfrische Bratwurst mit Curry-Ketchupsauce",
-				"attributes": [
-					"3",
-					"8",
-					"38",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Berner Riesenrösti mit buntem Gemüseragout",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
+		[],
 		[
 			{
 				"name": "Goldgelb gebackenes Putenschnitzel mit Kirsch-Rahmsauce",
