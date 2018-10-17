@@ -89,10 +89,10 @@
 			{
 				"name": "Spaghetti mit Karottenpesto und gerösteten Kürbiskernen",
 				"attributes": [
-					"V",
 					"3",
 					"30",
-					"37"
+					"37",
+					"S"
 				],
 				"price": {
 					"student": 2,
