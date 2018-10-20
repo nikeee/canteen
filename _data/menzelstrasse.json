@@ -7,20 +7,18 @@
 		}
 	},
 	"validity": {
-		"from": "2018-10-15T00:00:00.000Z",
-		"until": "2018-10-19T00:00:00.000Z"
+		"from": "2018-10-22T00:00:00.000Z",
+		"until": "2018-10-26T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Fleischlos gefüllte Kohlroulade an Béchamelsauce",
+				"name": "Ofenfrische Gemüsefrikadellen mit Sauerrahmdip",
 				"attributes": [
 					"F",
-					"1",
 					"30",
 					"32",
-					"35",
 					"36"
 				],
 				"price": {
@@ -31,11 +29,59 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Spaghetti mit Karottenpesto und gerösteten Kürbiskernen",
+				"name": "Chili sin Carne",
 				"attributes": [
 					"V",
-					"3",
+					"KN",
+					"35"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gnocchi in Béchamelsauce mit Rucola",
+				"attributes": [
+					"F",
+					"1",
 					"30",
+					"36"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Grilltomate auf Graupen-Gemüse-Risotto",
+				"attributes": [
+					"V",
+					"1",
+					"KN",
+					"30",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
 					"37"
 				],
 				"price": {
@@ -44,61 +90,16 @@
 					"visitor": 4.2
 				},
 				"vitalInfo": null
-			},
-			"3": {
-				"name": "Grillfrische Zucchini auf Tomatensauce",
-				"attributes": [
-					"V",
-					"KN",
-					"40"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Kartoffelpfanne mit Gewürzgurke",
-				"attributes": [
-					"F",
-					"9",
-					"32",
-					"39"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Griechische Nudelecke mit Spinat und Hirtenkäse an Zaziki",
-				"attributes": [
-					"F",
-					"KN",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Geflügel Wiener Würstchen auf hausgemachtem Kartoffelsalat mit Grüne Sauce Kräutern und Senf",
+				"name": "Curry-Hähnchen Madras",
 				"attributes": [
-					"2",
-					"3",
-					"38",
-					"39",
-					"R"
+					"1",
+					"KN",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.4,
@@ -108,43 +109,13 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Ofenkartoffel mit Kräuterquark und Hähnchenbruststreifen",
-				"attributes": [
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Hausgemachter Shrimpspfannkuchen an cremigem Dill-Senfdip",
-				"attributes": [
-					"3",
-					"KN",
-					"30",
-					"31",
-					"32",
-					"36",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Braten vom Schweinerücken auf Whisky-Rahmsauce",
+				"name": "Gegrilltes Steak vom Schweinerücken auf Marsala-Rahmsauce",
 				"attributes": [
 					"A",
 					"1",
 					"30",
 					"36",
+					"41",
 					"S"
 				],
 				"price": {
@@ -154,13 +125,36 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Hackbraten mit kräftiger Pusztasauce",
+			"3": {
+				"name": "Ofenfrischer Hähnchenschenkel auf Bratenjus",
+				"attributes": [
+					"30"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Balkan-Reisgericht mit Schweinefleisch",
 				"attributes": [
 					"KN",
-					"30",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
+				"attributes": [
 					"32",
-					"39",
+					"36",
 					"S"
 				],
 				"price": {

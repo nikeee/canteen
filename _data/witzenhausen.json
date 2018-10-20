@@ -7,20 +7,18 @@
 		}
 	},
 	"validity": {
-		"from": "2018-10-15T00:00:00.000Z",
-		"until": "2018-10-19T00:00:00.000Z"
+		"from": "2018-10-22T00:00:00.000Z",
+		"until": "2018-10-26T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Fleischlos gefüllte Kohlroulade an Béchamelsauce",
+				"name": "Ofenfrische Gemüsefrikadellen mit Sauerrahmdip",
 				"attributes": [
 					"F",
-					"1",
 					"30",
 					"32",
-					"35",
 					"36"
 				],
 				"price": {
@@ -31,11 +29,60 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Spaghetti mit Karottenpesto und gerösteten Kürbiskernen",
+				"name": "Chili sin Carne",
 				"attributes": [
 					"V",
-					"3",
+					"KN",
+					"35"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gnocchi in Béchamelsauce mit Rucola",
+				"attributes": [
+					"F",
+					"1",
 					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Grilltomate auf Graupen-Gemüse-Risotto",
+				"attributes": [
+					"V",
+					"1",
+					"KN",
+					"30",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
 					"37"
 				],
 				"price": {
@@ -44,61 +91,16 @@
 					"visitor": 4.2
 				},
 				"vitalInfo": null
-			},
-			"3": {
-				"name": "Grillfrische Zucchini auf Tomatensauce",
-				"attributes": [
-					"V",
-					"KN",
-					"40"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Kartoffelpfanne mit Gewürzgurke",
-				"attributes": [
-					"F",
-					"9",
-					"32",
-					"39"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Griechische Nudelecke mit Spinat und Hirtenkäse an Zaziki",
-				"attributes": [
-					"F",
-					"KN",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Geflügel Wiener Würstchen auf hausgemachtem Kartoffelsalat mit Senf",
+				"name": "Curry-Hähnchen Madras",
 				"attributes": [
-					"2",
-					"3",
-					"38",
-					"39",
-					"R"
+					"1",
+					"KN",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.4,
@@ -108,43 +110,13 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Ofenkartoffel mit Kräuterquark und Hähnchenbruststreifen",
-				"attributes": [
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Hausgemachter Shrimpspfannkuchen an Dill-Senfdip",
-				"attributes": [
-					"3",
-					"KN",
-					"30",
-					"31",
-					"32",
-					"36",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Braten vom Schweinerücken auf Whisky-Rahmsauce",
+				"name": "Gegrilltes Steak vom Schweinerücken auf Marsala-Rahmsauce",
 				"attributes": [
 					"A",
 					"1",
 					"30",
 					"36",
+					"41",
 					"S"
 				],
 				"price": {
@@ -154,13 +126,36 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Hackbraten mit kräftiger Pusztasauce",
+			"3": {
+				"name": "Ofenfrischer Hähnchenschenkel auf Bratenjus",
+				"attributes": [
+					"30"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Balkan-Reisgericht mit Schweinefleisch",
 				"attributes": [
 					"KN",
-					"30",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
+				"attributes": [
 					"32",
-					"39",
+					"36",
 					"S"
 				],
 				"price": {
@@ -173,12 +168,13 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Spaghetti aglio olio e peperoncino",
+				"name": "Griechische Nudelpfanne mit Oliven und Tofu",
 				"attributes": [
 					"V",
 					"Ö",
 					"KN",
-					"30"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -188,11 +184,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Asiatische Reis-Gemüsepfanne",
+				"name": "Gegrillte Zucchini mit buntem Quinoasalat",
 				"attributes": [
 					"V",
 					"Ö",
-					"35",
 					"39"
 				],
 				"price": {
@@ -203,11 +198,27 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Rührei mit Spinat",
+				"name": "Kartoffel-Spinatcurry",
+				"attributes": [
+					"V",
+					"Ö",
+					"KN",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Arabisch-marokkanische Kartoffelpuffer mit Joghurtdip",
 				"attributes": [
 					"F",
 					"Ö",
 					"KN",
+					"30",
 					"32",
 					"36"
 				],
@@ -218,25 +229,13 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Ägyptischer Kichererbseneintopf mit Weißkohl, Paprika und Tomate",
+			"5": {
+				"name": "Kürbis-Steckrübenpfanne mit Kokos und Curry im Reisrand",
 				"attributes": [
 					"V",
 					"Ö",
+					"KN",
 					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Sabee Sabee Kumala - Australisches Kürbisgulasch",
-				"attributes": [
-					"V",
-					"Ö"
 				],
 				"price": {
 					"student": 2.9,
@@ -248,31 +247,12 @@
 		},
 		"Aktions-Essen": {
 			"1": {
-				"name": "Elsässer Hackfleischauflauf mit Sauerkraut",
+				"name": "Paniertes Schweineschnitzel an hessischer Schmandsauce mit Kräutern und krossen Speckwürfeln",
 				"attributes": [
-					"32",
-					"35",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Riesen Currywurst Berliner Art",
-				"attributes": [
-					"1",
 					"2",
-					"3",
-					"4",
-					"8",
-					"38",
-					"39",
-					"R",
+					"30",
+					"32",
+					"36",
 					"S"
 				],
 				"price": {
@@ -282,14 +262,27 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Kürbis-Rindfleischpfanne mit Zwiebeln und Knoblauch",
+			"2": {
+				"name": "Rindergeschnetzeltes China Art",
 				"attributes": [
-					"4",
-					"KN",
-					"30",
+					"39",
+					"R"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Südafrikanischer Bobotie Auflauf",
+				"attributes": [
+					"3",
+					"32",
 					"36",
-					"38",
+					"37",
+					"41",
 					"R"
 				],
 				"price": {
@@ -300,36 +293,33 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hähnchen-Pfanne mit Gemüse, Aprikosen und Cashewkernen",
-				"attributes": [
-					"3",
-					"37",
-					"38",
-					"39",
-					"40",
-					"41"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Feines Fischragout in cremiger Currysauce",
+				"name": "Frisch gebratenes Hähnchenbrustschnitzel auf Champignon-Rahmsauce",
 				"attributes": [
 					"1",
+					"KN",
 					"30",
-					"33",
-					"36",
-					"38",
-					"39"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 3.5,
 					"employee": 4.8,
 					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Matjesfilet nach Hausfrauen Art mit Äpfeln, Gurken und Zwiebeln",
+				"attributes": [
+					"2",
+					"9",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			}

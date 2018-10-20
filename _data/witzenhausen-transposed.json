@@ -8,19 +8,17 @@
 		}
 	},
 	"validity": {
-		"from": "2018-10-15T00:00:00.000Z",
-		"until": "2018-10-19T00:00:00.000Z"
+		"from": "2018-10-22T00:00:00.000Z",
+		"until": "2018-10-26T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Fleischlos gefüllte Kohlroulade an Béchamelsauce",
+				"name": "Ofenfrische Gemüsefrikadellen mit Sauerrahmdip",
 				"attributes": [
 					"F",
-					"1",
 					"30",
 					"32",
-					"35",
 					"36"
 				],
 				"price": {
@@ -32,13 +30,12 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Geflügel Wiener Würstchen auf hausgemachtem Kartoffelsalat mit Senf",
+				"name": "Curry-Hähnchen Madras",
 				"attributes": [
-					"2",
-					"3",
-					"38",
-					"39",
-					"R"
+					"1",
+					"KN",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.4,
@@ -49,12 +46,13 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Spaghetti aglio olio e peperoncino",
+				"name": "Griechische Nudelpfanne mit Oliven und Tofu",
 				"attributes": [
 					"V",
 					"Ö",
 					"KN",
-					"30"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -65,12 +63,77 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Elsässer Hackfleischauflauf mit Sauerkraut",
+				"name": "Paniertes Schweineschnitzel an hessischer Schmandsauce mit Kräutern und krossen Speckwürfeln",
 				"attributes": [
+					"2",
+					"30",
 					"32",
-					"35",
 					"36",
 					"S"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Chili sin Carne",
+				"attributes": [
+					"V",
+					"KN",
+					"35"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gegrilltes Steak vom Schweinerücken auf Marsala-Rahmsauce",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"36",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Gegrillte Zucchini mit buntem Quinoasalat",
+				"attributes": [
+					"V",
+					"Ö",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Rindergeschnetzeltes China Art",
+				"attributes": [
+					"39",
+					"R"
 				],
 				"price": {
 					"student": 3.5,
@@ -83,11 +146,148 @@
 		],
 		[
 			{
-				"name": "Spaghetti mit Karottenpesto und gerösteten Kürbiskernen",
+				"name": "Gnocchi in Béchamelsauce mit Rucola",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Ofenfrischer Hähnchenschenkel auf Bratenjus",
+				"attributes": [
+					"30"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Kartoffel-Spinatcurry",
 				"attributes": [
 					"V",
+					"Ö",
+					"KN",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Südafrikanischer Bobotie Auflauf",
+				"attributes": [
 					"3",
+					"32",
+					"36",
+					"37",
+					"41",
+					"R"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Grilltomate auf Graupen-Gemüse-Risotto",
+				"attributes": [
+					"V",
+					"1",
+					"KN",
 					"30",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Balkan-Reisgericht mit Schweinefleisch",
+				"attributes": [
+					"KN",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Arabisch-marokkanische Kartoffelpuffer mit Joghurtdip",
+				"attributes": [
+					"F",
+					"Ö",
+					"KN",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Frisch gebratenes Hähnchenbrustschnitzel auf Champignon-Rahmsauce",
+				"attributes": [
+					"1",
+					"KN",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
 					"37"
 				],
 				"price": {
@@ -99,24 +299,26 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Ofenkartoffel mit Kräuterquark und Hähnchenbruststreifen",
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln",
 				"attributes": [
-					"36"
+					"32",
+					"36",
+					"S"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Asiatische Reis-Gemüsepfanne",
+				"name": "Kürbis-Steckrübenpfanne mit Kokos und Curry im Reisrand",
 				"attributes": [
 					"V",
 					"Ö",
-					"35",
+					"KN",
 					"39"
 				],
 				"price": {
@@ -128,229 +330,17 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Riesen Currywurst Berliner Art",
+				"name": "Matjesfilet nach Hausfrauen Art mit Äpfeln, Gurken und Zwiebeln",
 				"attributes": [
-					"1",
 					"2",
-					"3",
-					"4",
-					"8",
-					"38",
-					"39",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Grillfrische Zucchini auf Tomatensauce",
-				"attributes": [
-					"V",
-					"KN",
-					"40"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hausgemachter Shrimpspfannkuchen an Dill-Senfdip",
-				"attributes": [
-					"3",
-					"KN",
-					"30",
-					"31",
-					"32",
-					"36",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Rührei mit Spinat",
-				"attributes": [
-					"F",
-					"Ö",
-					"KN",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Kürbis-Rindfleischpfanne mit Zwiebeln und Knoblauch",
-				"attributes": [
-					"4",
-					"KN",
-					"30",
-					"36",
-					"38",
-					"R"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Kartoffelpfanne mit Gewürzgurke",
-				"attributes": [
-					"F",
 					"9",
-					"32",
-					"39"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Braten vom Schweinerücken auf Whisky-Rahmsauce",
-				"attributes": [
-					"A",
-					"1",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Ägyptischer Kichererbseneintopf mit Weißkohl, Paprika und Tomate",
-				"attributes": [
-					"V",
-					"Ö",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Hähnchen-Pfanne mit Gemüse, Aprikosen und Cashewkernen",
-				"attributes": [
-					"3",
-					"37",
-					"38",
-					"39",
-					"40",
-					"41"
+					"33",
+					"36"
 				],
 				"price": {
 					"student": 4,
 					"employee": 5.3,
 					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Griechische Nudelecke mit Spinat und Hirtenkäse an Zaziki",
-				"attributes": [
-					"F",
-					"KN",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hackbraten mit kräftiger Pusztasauce",
-				"attributes": [
-					"KN",
-					"30",
-					"32",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Sabee Sabee Kumala - Australisches Kürbisgulasch",
-				"attributes": [
-					"V",
-					"Ö"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Feines Fischragout in cremiger Currysauce",
-				"attributes": [
-					"1",
-					"30",
-					"33",
-					"36",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Aktions-Essen"
