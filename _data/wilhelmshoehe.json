@@ -32,8 +32,10 @@
 			"2": {
 				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
 				"attributes": [
-					"V",
+					"F",
 					"30",
+					"32",
+					"36",
 					"38"
 				],
 				"price": {
@@ -205,7 +207,6 @@
 				"name": "Gegrillter Wildfleischkäse auf Rosmarinjus",
 				"attributes": [
 					"3",
-					"30",
 					"36",
 					"39",
 					"S"

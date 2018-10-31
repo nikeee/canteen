@@ -31,7 +31,7 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
+				"name": "Gebackene Gemüsekroketten mit fruchtiger Gemüse-Tomatensauce",
 				"attributes": [
 					"V",
 					"30",
@@ -175,6 +175,7 @@
 				"name": "Rotbarschfilet im Kokos-Backteig an hausgemachtem Mango-Chutney",
 				"attributes": [
 					"3",
+					"8",
 					"30",
 					"32",
 					"33"
@@ -204,7 +205,6 @@
 				"name": "Gegrillter Wildfleischkäse auf Rosmarinjus",
 				"attributes": [
 					"3",
-					"30",
 					"36",
 					"39",
 					"S"

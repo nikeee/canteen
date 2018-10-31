@@ -122,6 +122,8 @@
 				"name": "Mediterrane Kartoffelpfanne mit Kapern, Artischocken, Oliven und Paprika an Feta-Quarkdip",
 				"attributes": [
 					"F",
+					"1",
+					"6",
 					"KN",
 					"36"
 				],
@@ -137,6 +139,7 @@
 				"name": "Seehechtfilet auf Gurkengemüse und Kräuterkartoffeln, Himbeerjoghurt",
 				"attributes": [
 					"MV",
+					"1",
 					"30",
 					"33",
 					"36"
@@ -194,7 +197,6 @@
 				"name": "Gegrillter Wildfleischkäse auf Rosmarinjus",
 				"attributes": [
 					"3",
-					"30",
 					"36",
 					"39",
 					"S"
