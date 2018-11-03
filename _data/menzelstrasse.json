@@ -7,20 +7,20 @@
 		}
 	},
 	"validity": {
-		"from": "2018-10-29T00:00:00.000Z",
-		"until": "2018-11-02T00:00:00.000Z"
+		"from": "2018-11-05T00:00:00.000Z",
+		"until": "2018-11-09T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Hausgemachter Süßkartoffelstampf auf Balsamico-Linsen",
+				"name": "Curry von zweierlei Kartoffeln mit Spinat",
 				"attributes": [
 					"V",
-					"1",
 					"3",
+					"30",
 					"35",
-					"41"
+					"39"
 				],
 				"price": {
 					"student": 2.1,
@@ -30,73 +30,92 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
+				"name": "Italienische Gabelspaghetti in fruchtiger Tomatensauce",
 				"attributes": [
 					"V",
-					"30",
-					"38"
+					"KN",
+					"30"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Bunter, marinierter Penne-Salat mit Balsamicocreme, dazu Baguette",
+				"name": "Hausgemachte Kichererbsen-Pfannkuchen mit Brunoise an Karottenhummus",
 				"attributes": [
-					"V",
-					"1",
-					"3",
-					"6",
+					"F",
+					"KN",
 					"30",
-					"41"
+					"32",
+					"36",
+					"38",
+					"40"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gebratenes Curry-Quinoa mit Karotten und Brokkoli an fruchtigem Tomatendip",
+				"name": "Indisch Aloo Gobi mit Kartoffeln und Blumenkohl",
 				"attributes": [
 					"V",
-					"3",
-					"KN"
+					"KN",
+					"39"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Asia-Sojastreifen in süßscharfer Sauce",
+				"name": "Schupfnudeln in Kürbissauce",
 				"attributes": [
-					"V",
-					"35",
-					"38",
+					"F",
+					"1",
+					"KN",
+					"30",
+					"32",
+					"36",
 					"39",
-					"40"
+					"41"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Gegrillte, nordhessische Kartoffelbratwurst an Schmanddip",
+				"name": "Hühnerfrikassee mit Erbsen und Spargel",
 				"attributes": [
-					"2",
-					"3",
+					"A",
+					"1",
+					"30",
+					"36",
+					"41"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Geschnetzeltes nach Züricher Art",
+				"attributes": [
+					"1",
 					"30",
 					"36",
 					"S"
@@ -108,42 +127,29 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Geschmortes Ratatouille-Gemüse mit Hähnchenstreifen",
-				"attributes": [
-					"KN"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Geschnetzeltes nach Züricher Art",
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
 				"attributes": [
-					"1",
-					"30",
+					"8",
 					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Semmelknödel auf Speck-Schmandstippe",
+				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
 				"attributes": [
-					"2",
 					"3",
 					"30",
 					"32",
+					"33",
 					"36",
-					"S"
+					"39"
 				],
 				"price": {
 					"student": 2.3,
@@ -153,18 +159,17 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Cevapcici vom Schweinefleisch an Curry-Ketchupdip",
+				"name": "Orientalische Hackfleisch-Bulgurpfanne",
 				"attributes": [
-					"KN",
+					"3",
 					"30",
-					"32",
-					"39",
-					"S"
+					"38",
+					"R"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			}
