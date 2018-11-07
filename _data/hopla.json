@@ -193,12 +193,18 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Lassen Sie sich überraschen",
-				"attributes": [],
+				"name": "Mie-Nudelpfanne mit Shrimps, Garnelen und Gemüsen",
+				"attributes": [
+					"KN",
+					"30",
+					"31",
+					"35",
+					"39"
+				],
 				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null
 			},
@@ -229,7 +235,8 @@
 					"KN",
 					"30",
 					"32",
-					"36"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 3.5,
