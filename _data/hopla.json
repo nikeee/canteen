@@ -33,9 +33,10 @@
 			"2": {
 				"name": "Italienische Gabelspaghetti in fruchtiger Tomatensauce",
 				"attributes": [
-					"V",
+					"F",
 					"KN",
-					"30"
+					"30",
+					"32"
 				],
 				"price": {
 					"student": 2,
@@ -198,6 +199,7 @@
 					"KN",
 					"30",
 					"31",
+					"33",
 					"35",
 					"39"
 				],
