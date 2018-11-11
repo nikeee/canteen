@@ -8,82 +8,16 @@
 		}
 	},
 	"validity": {
-		"from": "2018-11-05T00:00:00.000Z",
-		"until": "2018-11-10T00:00:00.000Z"
+		"from": "2018-11-12T00:00:00.000Z",
+		"until": "2018-11-17T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Gegrilltes Steak von der Putenbrust mit Röstzwiebel-Bratenjus",
+				"name": "Gegrillte Hähnchenbrust an Cranberry-Rahmsauce",
 				"attributes": [
-					"30"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Asiatische Gemüsepfanne mit Vollkornreis und Chilisauce",
-				"attributes": [
-					"V",
-					"2",
 					"3",
 					"30",
-					"35",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Gulasch vom Schwein nach Braumeister Art",
-				"attributes": [
-					"A",
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Sabee Sabee Kumala - Australisches Kürbisgulasch",
-				"attributes": [
-					"V",
-					"5",
-					"41"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Frisch gebratenes Hähnchenschnitzel im Kokoskleid auf Ananasrahmsauce",
-				"attributes": [
-					"30",
-					"32",
 					"36"
 				],
 				"price": {
@@ -95,19 +29,23 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Tortellini mit Gemüsefüllung in Kräutersauce",
+				"name": "Geschöpfte Wellenbandnudeln in Kürbissahnesauce mit Walnüssen getoppt",
 				"attributes": [
 					"F",
 					"1",
+					"3",
+					"KN",
 					"30",
 					"32",
 					"36",
-					"38"
+					"37",
+					"39",
+					"41"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -115,12 +53,11 @@
 		],
 		[
 			{
-				"name": "Rindergeschnetzeltes Mediterrane Art",
+				"name": "Putengeschnetzeltes in Karotten-Ingwersauce",
 				"attributes": [
-					"KN",
-					"30",
+					"1",
 					"36",
-					"R"
+					"39"
 				],
 				"price": {
 					"student": 3.5,
@@ -131,19 +68,19 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Hausgemachter Griechischer Reistaler mit Knoblauchdip",
+				"name": "Ragout von Waldpilzen mit Serviettenknödeln",
 				"attributes": [
 					"F",
-					"6",
+					"1",
+					"3",
 					"KN",
-					"30",
-					"32",
-					"36"
+					"36",
+					"41"
 				],
 				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -151,36 +88,105 @@
 		],
 		[
 			{
-				"name": "Pasta-Bowl mit Bolognesesauce aus Schweinefleisch",
+				"name": "Schweinefleischstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
-					"1",
-					"2",
 					"KN",
-					"30",
 					"36",
-					"38",
 					"S"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Pasta-Bowl mit Pesto Rosso",
+				"name": "Tortellini mit Soja Bolognese gefüllt in fruchtiger Tomatensauce",
 				"attributes": [
 					"V",
 					"KN",
 					"30",
-					"37"
+					"35",
+					"38"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Gebratene Krakauer auf Grünkohlgemüse",
+				"attributes": [
+					"2",
+					"3",
+					"30",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Blumenkohlröschen in Kräuter-Béchamelsauce",
+				"attributes": [
+					"V",
+					"1",
+					"KN",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Hähnchenschnitzel im Cornflakesmantel auf kräftiger Paprikasauce",
+				"attributes": [
+					"KN",
+					"30",
+					"32"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Gebackenes Gemüseschnitzel an fruchtiger Basilikum-Tomatensauce",
+				"attributes": [
+					"F",
+					"3",
+					"KN",
+					"30",
+					"35",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
