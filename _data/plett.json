@@ -37,12 +37,14 @@
 			"2": {
 				"name": "Hessische Kartoffelsuppe mit Gemüse und Petersilienpesto",
 				"attributes": [
-					"V",
+					"F",
 					"1",
 					"KN",
 					"30",
 					"35",
-					"38"
+					"36",
+					"38",
+					"42"
 				],
 				"price": {
 					"student": 2,
