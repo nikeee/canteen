@@ -7,25 +7,20 @@
 		}
 	},
 	"validity": {
-		"from": "2018-11-12T00:00:00.000Z",
-		"until": "2018-11-16T00:00:00.000Z"
+		"from": "2018-11-19T00:00:00.000Z",
+		"until": "2018-11-23T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Goldgelb gebackenes Möhrenschnitzel auf Passionsfruchtsahne",
+				"name": "Tortellini mit Spinat-Ricotta-Füllung in Gorgonzolasauce",
 				"attributes": [
 					"F",
 					"1",
-					"3",
-					"9",
 					"30",
 					"32",
-					"36",
-					"38",
-					"39",
-					"40"
+					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -35,29 +30,27 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hessische Kartoffelsuppe mit Gemüse und Petersilienpesto",
+				"name": "Ofenfrisches Omelette an Tomatenragout",
 				"attributes": [
-					"V",
-					"1",
+					"F",
 					"KN",
-					"30",
-					"35",
-					"38"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Rote Bete Gnocchi in Béchamelsauce",
+				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
 					"F",
-					"1",
+					"3",
 					"30",
-					"36"
+					"32"
 				],
 				"price": {
 					"student": 2.1,
@@ -67,9 +60,23 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hessische Kartoffelpfanne mit Kräutern und Pilzen an Schmanddip",
+				"name": "Geschmortes Ratatouille-Gemüse im gelben Reisrand",
+				"attributes": [
+					"V",
+					"KN"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
 				"attributes": [
 					"F",
+					"32",
 					"36"
 				],
 				"price": {
@@ -78,34 +85,32 @@
 					"visitor": 4.3
 				},
 				"vitalInfo": null
-			},
-			"5": {
-				"name": "Grüner Couscous an Aprikosendip",
-				"attributes": [
-					"V",
-					"3",
-					"30"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Feine Knackwurst auf hausgemachtem Kartoffelsalat",
+				"name": "Gebackener Alaska-Seelachs an Joghurt-Aioli",
 				"attributes": [
-					"2",
 					"3",
-					"8",
-					"9",
+					"KN",
+					"30",
 					"32",
+					"33",
 					"36",
-					"39",
-					"S"
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
+				"attributes": [
+					"KN",
+					"36"
 				],
 				"price": {
 					"student": 2.6,
@@ -114,10 +119,14 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
+			"3": {
+				"name": "Penne mit Blattspinat und Hackfleisch",
 				"attributes": [
-					"KN"
+					"1",
+					"KN",
+					"30",
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -126,11 +135,12 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Bami Goreng mit Geflügelstreifen",
+			"4": {
+				"name": "Geflügelgulasch in Curry-Maracujasauce",
 				"attributes": [
+					"1",
 					"30",
-					"32",
+					"36",
 					"39"
 				],
 				"price": {
@@ -140,39 +150,21 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Gebackenes Fleischkäseschnitzel auf Malzjus",
+			"5": {
+				"name": "Kassler-Nackenbraten auf Calvadosjus",
 				"attributes": [
+					"A",
 					"2",
 					"3",
-					"8",
-					"30",
-					"32",
-					"R",
+					"4",
+					"36",
+					"38",
 					"S"
 				],
 				"price": {
 					"student": 2.5,
 					"employee": 3.8,
 					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Griechisches Hacksteak auf Knoblauch-Bratenjus",
-				"attributes": [
-					"6",
-					"KN",
-					"30",
-					"32",
-					"36",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}

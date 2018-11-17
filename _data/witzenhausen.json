@@ -7,24 +7,19 @@
 		}
 	},
 	"validity": {
-		"from": "2018-11-12T00:00:00.000Z",
-		"until": "2018-11-16T00:00:00.000Z"
+		"from": "2018-11-19T00:00:00.000Z",
+		"until": "2018-11-23T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Goldgelb gebackenes Möhrenschnitzel auf Passionsfruchtsahne",
+				"name": "Ofenfrisches Omelette an Tomatenragout",
 				"attributes": [
 					"F",
-					"1",
-					"3",
-					"30",
+					"KN",
 					"32",
-					"36",
-					"38",
-					"39",
-					"40"
+					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -34,29 +29,28 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hessische Kartoffelsuppe mit Gemüse und Petersilienpesto",
-				"attributes": [
-					"V",
-					"1",
-					"KN",
-					"30",
-					"35",
-					"38"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Rote Bete Gnocchi in Béchamelsauce",
+				"name": "Tortellini mit Spinat-Ricotta-Füllung in Gorgonzolasauce",
 				"attributes": [
 					"F",
 					"1",
 					"30",
+					"32",
 					"36"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Kartoffelpuffer mit Apfelmus",
+				"attributes": [
+					"F",
+					"3",
+					"30",
+					"32"
 				],
 				"price": {
 					"student": 2.1,
@@ -66,9 +60,23 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hessische Kartoffelpfanne mit Kräutern und Pilzen an Schmanddip",
+				"name": "Geschmortes Ratatouille-Gemüse im gelben Reisrand",
+				"attributes": [
+					"V",
+					"KN"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
 				"attributes": [
 					"F",
+					"32",
 					"36"
 				],
 				"price": {
@@ -77,46 +85,19 @@
 					"visitor": 4.3
 				},
 				"vitalInfo": null
-			},
-			"5": {
-				"name": "Grüner Couscous an Aprikosendip",
-				"attributes": [
-					"V",
-					"3",
-					"30"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Feine Knackwurst auf hausgemachtem Kartoffelsalat",
+				"name": "Kassler-Nackenbraten auf Calvadosjus",
 				"attributes": [
+					"A",
 					"2",
 					"3",
-					"8",
-					"9",
-					"32",
+					"4",
 					"36",
-					"39",
+					"38",
 					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
-				"attributes": [
-					"KN"
 				],
 				"price": {
 					"student": 2.5,
@@ -125,11 +106,41 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Bami Goreng mit Geflügelstreifen",
+			"2": {
+				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
+					"KN",
+					"36"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Penne mit Blattspinat und Hackfleisch",
+				"attributes": [
+					"1",
+					"KN",
 					"30",
-					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Geflügelgulasch in Curry-Maracujasauce",
+				"attributes": [
+					"1",
+					"30",
+					"36",
 					"39"
 				],
 				"price": {
@@ -139,34 +150,16 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Gebackenes Fleischkäseschnitzel auf Malzjus",
-				"attributes": [
-					"2",
-					"3",
-					"8",
-					"30",
-					"32",
-					"R",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Griechisches Hacksteak auf Knoblauch-Bratenjus",
+				"name": "Gebackener Alaska-Seelachs an Joghurtaioli",
 				"attributes": [
-					"6",
+					"3",
 					"KN",
 					"30",
 					"32",
+					"33",
 					"36",
-					"39",
-					"S"
+					"39"
 				],
 				"price": {
 					"student": 2.4,
@@ -178,7 +171,36 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Asiatische Gemüsepfanne mit Tofu",
+				"name": "Herbstlicher Gemüseeintopf",
+				"attributes": [
+					"V",
+					"Ö"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Spaghetti in Linsen-Zitronensauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"KN",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Thailändisches Tofu-Mangold-Curry mit Kokosmilch",
 				"attributes": [
 					"V",
 					"Ö",
@@ -192,11 +214,12 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Herbstlicher Nudelkuchen",
+			"4": {
+				"name": "Maispuffer mit Thymian und Kräuerquarkdip",
 				"attributes": [
 					"F",
 					"Ö",
+					"KN",
 					"30",
 					"32",
 					"36"
@@ -208,43 +231,13 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Indisches Dal aus roten Linsen auf Reis",
+			"5": {
+				"name": "Gnocchi mit Champignon-Rahmsauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"KN",
 					"30",
 					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Arabische Reispfanne",
-				"attributes": [
-					"V",
-					"Ö",
-					"37"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Ungarische Kartoffelpfanne mit Paprika, Zwiebeln und Saurer Sahne",
-				"attributes": [
-					"F",
-					"Ö",
-					"KN",
-					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -256,31 +249,31 @@
 		},
 		"Aktions-Essen": {
 			"1": {
-				"name": "Rindfleisch mit Sesam, Shiitake und Zwiebeln",
+				"name": "Französisches Rindfleischragout mit Möhren",
 				"attributes": [
-					"3",
+					"A",
 					"30",
-					"35",
-					"39",
-					"40",
+					"41",
 					"R"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Paniertes Schweineschnitzel an Champignon-Rahmsauce",
+				"name": "Burger mit Beef, Ananas, Salaten und Currydip",
 				"attributes": [
-					"1",
+					"3",
 					"KN",
 					"30",
 					"32",
 					"36",
-					"S"
+					"39",
+					"40",
+					"R"
 				],
 				"price": {
 					"student": 4,
@@ -290,30 +283,13 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Klassischer Burger mit Gemüseschnitzel, zweierlei Dips und Salat, dazu Süßkartoffel-Pommes",
+				"name": "Gebratenes Putenschnitzel mit Parmesanpanierung auf Sauce Hollandaise",
 				"attributes": [
-					"F",
-					"3",
-					"9",
+					"1",
+					"2",
 					"30",
 					"32",
 					"35",
-					"36",
-					"38",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Geschwenkte Geflügelstreifen Gyros Art",
-				"attributes": [
-					"KN",
 					"36"
 				],
 				"price": {
@@ -323,20 +299,33 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Fish and Chips an Cocktaildip",
+			"4": {
+				"name": "Hessisches Weckewerk mit Backkartoffeln und Gurke",
 				"attributes": [
-					"3",
+					"2",
+					"9",
 					"30",
-					"32",
-					"33",
-					"36",
-					"39"
+					"38",
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 3.5,
 					"employee": 4.8,
 					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Indonesischer Hähnchenreis mit Gemüse, Ingwer und Kokos",
+				"attributes": [
+					"KN",
+					"39"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			}
