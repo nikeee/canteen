@@ -214,7 +214,7 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Ofenfrischer Rinderschmorbraten in Rotweinjus",
+				"name": "Ofenfrischer Schweineschmorbraten in Rotweinjus",
 				"attributes": [
 					"A",
 					"KN",
@@ -238,6 +238,7 @@
 				"attributes": [
 					"MV",
 					"30",
+					"32",
 					"36",
 					"S"
 				],
