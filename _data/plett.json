@@ -32,10 +32,14 @@
 			"2": {
 				"name": "Ofenfrisches Omelette an Tomatenragout",
 				"attributes": [
-					"F",
+					"2",
+					"3",
+					"8",
 					"KN",
 					"32",
-					"36"
+					"36",
+					"R",
+					"S"
 				],
 				"price": {
 					"student": 2.1,
