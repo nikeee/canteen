@@ -234,7 +234,8 @@
 				"name": "Geschmortes Ratatouille-Gemüse im gelben Reisrand",
 				"attributes": [
 					"V",
-					"KN"
+					"KN",
+					"38"
 				],
 				"price": {
 					"student": 2,
@@ -248,7 +249,9 @@
 				"name": "Geflügelgulasch in Curry-Maracujasauce",
 				"attributes": [
 					"1",
+					"KN",
 					"30",
+					"35",
 					"36",
 					"39"
 				],
