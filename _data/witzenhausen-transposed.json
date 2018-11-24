@@ -8,157 +8,21 @@
 		}
 	},
 	"validity": {
-		"from": "2018-11-19T00:00:00.000Z",
-		"until": "2018-11-23T00:00:00.000Z"
+		"from": "2018-11-26T00:00:00.000Z",
+		"until": "2018-11-30T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Ofenfrisches Omelette an Tomatenragout",
+				"name": "Blumenkohl-Käse-Medaillon an Sauce Béarnaise",
 				"attributes": [
 					"F",
-					"KN",
+					"30",
 					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Kassler-Nackenbraten auf Calvadosjus",
-				"attributes": [
-					"A",
-					"2",
-					"3",
-					"4",
 					"36",
-					"38",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Herbstlicher Gemüseeintopf",
-				"attributes": [
-					"V",
-					"Ö"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Französisches Rindfleischragout mit Möhren",
-				"attributes": [
-					"A",
-					"30",
-					"41",
-					"R"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Tortellini mit Spinat-Ricotta-Füllung in Gorgonzolasauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
-				"attributes": [
-					"KN",
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Spaghetti in Linsen-Zitronensauce",
-				"attributes": [
-					"V",
-					"Ö",
-					"KN",
-					"30",
 					"38"
 				],
 				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Burger mit Beef, Ananas, Salaten und Currydip",
-				"attributes": [
-					"3",
-					"KN",
-					"30",
-					"32",
-					"36",
-					"39",
-					"40",
-					"R"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Kartoffelpuffer mit Apfelmus",
-				"attributes": [
-					"F",
-					"3",
-					"30",
-					"32"
-				],
-				"price": {
 					"student": 2.1,
 					"employee": 3.4,
 					"visitor": 4.3
@@ -167,13 +31,11 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Penne mit Blattspinat und Hackfleisch",
+				"name": "Bami Goreng mit Hähnchenstreifen",
 				"attributes": [
-					"1",
-					"KN",
 					"30",
-					"36",
-					"S"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -184,11 +46,11 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Thailändisches Tofu-Mangold-Curry mit Kokosmilch",
+				"name": "Nepalesische Dal Bhat Tarkari",
 				"attributes": [
 					"V",
 					"Ö",
-					"35",
+					"KN",
 					"39"
 				],
 				"price": {
@@ -200,13 +62,11 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Gebratenes Putenschnitzel mit Parmesanpanierung auf Sauce Hollandaise",
+				"name": "Gebratener Seelachs mit Kürbis-Kartoffelpüree",
 				"attributes": [
 					"1",
-					"2",
 					"30",
-					"32",
-					"35",
+					"33",
 					"36"
 				],
 				"price": {
@@ -220,10 +80,11 @@
 		],
 		[
 			{
-				"name": "Geschmortes Ratatouille-Gemüse im gelben Reisrand",
+				"name": "Pasta mit tomatisiertem Grünkernragout",
 				"attributes": [
 					"V",
-					"KN"
+					"KN",
+					"30"
 				],
 				"price": {
 					"student": 2,
@@ -234,12 +95,10 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Geflügelgulasch in Curry-Maracujasauce",
+				"name": "Hähnchenbrust mit Chili mariniert an rotem Linsendip",
 				"attributes": [
-					"1",
-					"30",
-					"36",
-					"39"
+					"KN",
+					"40"
 				],
 				"price": {
 					"student": 2.6,
@@ -250,14 +109,14 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Maispuffer mit Thymian und Kräuerquarkdip",
+				"name": "Mangoldpfanne mit Mandeln",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
 					"KN",
-					"30",
-					"32",
-					"36"
+					"35",
+					"37",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -268,13 +127,10 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Hessisches Weckewerk mit Backkartoffeln und Gurke",
+				"name": "Szegediner Gulasch aus der Schweinekeule mit Sauerkraut und Parika",
 				"attributes": [
-					"2",
-					"9",
-					"30",
-					"38",
-					"39",
+					"KN",
+					"36",
 					"S"
 				],
 				"price": {
@@ -288,9 +144,68 @@
 		],
 		[
 			{
-				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
+				"name": "Linseneintopf mit Wurzelgemüse",
+				"attributes": [
+					"V",
+					"38"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Schweinesteak vom Nacken an Röstzwiebeln und Champignons",
+				"attributes": [
+					"S"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Spaghetti mit Tomatensauce Napoli",
+				"attributes": [
+					"V",
+					"Ö",
+					"30"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Putengeschnetzeltes mit toskanischem Gemüse",
+				"attributes": [
+					"30"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Rahmspinat mit Rührei",
 				"attributes": [
 					"F",
+					"1",
+					"KN",
 					"32",
 					"36"
 				],
@@ -303,31 +218,25 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gebackener Alaska-Seelachs an Joghurtaioli",
+				"name": "Gulasch von der Putenoberkeule mit Pfefferrahm",
 				"attributes": [
-					"3",
-					"KN",
 					"30",
-					"32",
-					"33",
-					"36",
-					"39"
+					"36"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Gnocchi mit Champignon-Rahmsauce",
+				"name": "Pilz-Gemüsepaella",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
-					"35"
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -338,18 +247,78 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Indonesischer Hähnchenreis mit Gemüse, Ingwer und Kokos",
+				"name": "Schweinekoteletts al`berdouille aus der Wallonnie",
 				"attributes": [
-					"KN",
-					"39"
+					"A",
+					"9",
+					"30",
+					"36",
+					"39",
+					"41",
+					"S"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Hessisches Ratatouille",
+				"attributes": [
+					"V",
+					"KN",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hausgemachtes Hacksteak auf Rahmkohlrabi",
+				"attributes": [
+					"1",
+					"KN",
+					"30",
+					"32",
+					"36",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Mediterrane Gemüse-Lasagne",
+				"attributes": [
+					"F",
+					"Ö",
+					"KN",
+					"30",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
 			}
 		]
 	]

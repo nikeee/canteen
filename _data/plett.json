@@ -7,20 +7,20 @@
 		}
 	},
 	"validity": {
-		"from": "2018-11-19T00:00:00.000Z",
-		"until": "2018-11-23T00:00:00.000Z"
+		"from": "2018-11-26T00:00:00.000Z",
+		"until": "2018-11-30T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Tortellini mit Spinat-Ricotta-Füllung in Gorgonzolasauce",
+				"name": "Blumenkohl-Käse-Medaillon an Sauce Bérnaise",
 				"attributes": [
 					"F",
-					"1",
 					"30",
 					"32",
-					"36"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.1,
@@ -30,44 +30,23 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Ofenfrisches Omelette an Tomatenragout",
+				"name": "Pasta mit tomatisiertem Grünkernragout",
 				"attributes": [
-					"2",
-					"3",
-					"8",
+					"V",
 					"KN",
-					"32",
-					"36",
-					"R",
-					"S"
+					"30"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Kartoffelpuffer mit Apfelmus",
-				"attributes": [
-					"F",
-					"3",
-					"30",
-					"32"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Geschmortes Ratatouille-Gemüse im gelben Reisrand",
+				"name": "Linseneintopf mit Wurzelgemüse",
 				"attributes": [
 					"V",
-					"KN",
 					"38"
 				],
 				"price": {
@@ -77,10 +56,12 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
+			"4": {
+				"name": "Rahmspinat mit Rührei",
 				"attributes": [
 					"F",
+					"1",
+					"KN",
 					"32",
 					"36"
 				],
@@ -90,32 +71,43 @@
 					"visitor": 4.3
 				},
 				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hessisches Ratatouille",
+				"attributes": [
+					"V",
+					"KN",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Gebackener Alaska-Seelachs an Joghurt-Aioli",
+				"name": "Bami Goreng mit Hähnchenstreifen",
 				"attributes": [
-					"3",
-					"KN",
 					"30",
-					"32",
-					"33",
-					"36",
+					"35",
 					"39"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
+				"name": "Hähnchenbrust mit Chili mariniert an rotem Linsendip",
 				"attributes": [
 					"KN",
-					"36"
+					"40"
 				],
 				"price": {
 					"student": 2.6,
@@ -125,30 +117,9 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Penne mit Blattspinat und Hackfleisch",
+				"name": "Schweinesteak vom Nacken an Röstzwiebeln und Champignons",
 				"attributes": [
-					"1",
-					"KN",
-					"30",
-					"36",
 					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Geflügelgulasch in Curry-Maracujasauce",
-				"attributes": [
-					"1",
-					"KN",
-					"30",
-					"35",
-					"36",
-					"39"
 				],
 				"price": {
 					"student": 2.6,
@@ -157,16 +128,11 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Kassler-Nackenbraten auf Calvadosjus",
+			"4": {
+				"name": "Gulasch von der Putenoberkeule mit Pfefferrahm",
 				"attributes": [
-					"A",
-					"2",
-					"3",
-					"4",
-					"36",
-					"38",
-					"S"
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -174,15 +140,47 @@
 					"visitor": 4.7
 				},
 				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachtes Hacksteak auf Rahmkohlrabi",
+				"attributes": [
+					"1",
+					"KN",
+					"30",
+					"32",
+					"36",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
 			}
 		},
 		"Essen 3 oder 4": {
 			"1": {
-				"name": "Kokos-Soja-Milchreis mit fruchtigem Zwetschgen-Zimtragout",
+				"name": "Wildbratwurst auf Schwenk-Spitzkohl und Rosmarinjus",
 				"attributes": [
-					"V",
-					"3",
-					"35"
+					"1",
+					"8",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Goldgelb gebackene Kartoffeltaschen mit Frischkäsefüllung an Basilikum-Zitronendip",
+				"attributes": [
+					"F",
+					"36"
 				],
 				"price": {
 					"student": 3,
@@ -191,14 +189,24 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Paniertes Schnitzel vom Schwein auf Champignon-Rahmsauce",
+			"3": {
+				"name": "Gebratenes Hähnchenbrustschnitzel an Sauce Choron",
 				"attributes": [
-					"1",
-					"KN",
 					"30",
 					"32",
-					"36",
+					"36"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Ofenfrischer Krustenbraten mit Kümmeljus",
+				"attributes": [
+					"KN",
 					"S"
 				],
 				"price": {
@@ -208,68 +216,77 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Gebratene Hähnchenbrust auf schwarzer Johannisbeerjus",
+			"5": {
+				"name": "Putenschnitzel im Cornflakesmantel auf Käsecreme mit Jalapeños",
 				"attributes": [
-					"3"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Ofenfrischer Schweineschmorbraten in Rotweinjus",
-				"attributes": [
-					"A",
-					"KN",
+					"1",
 					"30",
-					"38",
-					"41",
-					"S"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 3.6,
+					"employee": 4.9,
+					"visitor": 5.8
 				},
 				"vitalInfo": null
-			},
-			"5": null
+			}
 		},
 		"Angebot des Tages I": {
 			"1": {
-				"name": "Schweinegeschnetzeltes mit Brokkoli und Mohnschupfnudeln",
+				"name": "Kichererbsen-Ananas-Spinatcurry mit Kartoffeln",
 				"attributes": [
+					"V",
 					"MV",
-					"30",
-					"32",
-					"36",
-					"S"
+					"3",
+					"KN",
+					"34",
+					"39"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": {
-					"fat": 25,
-					"carbohydrate": 87,
-					"protein": 40,
-					"calories": 670
+					"fat": 22,
+					"carbohydrate": 98,
+					"protein": 28,
+					"calories": 718
 				}
 			},
 			"2": {
-				"name": "Hausgemachte Kürbislasagne",
+				"name": "Brasilianisches Geschnetzeltes mit Vollkornreis",
 				"attributes": [
-					"V",
+					"MV",
+					"3",
+					"36",
+					"37",
+					"S"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
+				},
+				"vitalInfo": {
+					"fat": 24,
+					"carbohydrate": 82,
+					"protein": 43,
+					"calories": 725
+				}
+			},
+			"3": {
+				"name": "Quiche mit Tomaten, Paprika und Zucchini an gartenfrischen Salaten mit Balsamicocreme",
+				"attributes": [
+					"F",
 					"1",
+					"3",
 					"KN",
 					"30",
-					"35",
-					"38"
+					"32",
+					"36",
+					"41"
 				],
 				"price": {
 					"student": 4,
@@ -278,63 +295,42 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Asiatische Gemüsepfanne mit Tofu und Duftreis",
+			"4": {
+				"name": "Gnocchi in fruchtiger Tomatensauce mit Wildkräutern",
 				"attributes": [
 					"V",
-					"MV",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
-				},
-				"vitalInfo": {
-					"fat": 23,
-					"carbohydrate": 73,
-					"protein": 28,
-					"calories": 620
-				}
-			},
-			"4": {
-				"name": "Schmorgurken mit Kräuterkartoffeln, dazu Erdbeerpudding",
-				"attributes": [
-					"F",
-					"MV",
-					"1",
-					"36"
-				],
-				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
-				},
-				"vitalInfo": {
-					"fat": 24,
-					"carbohydrate": 79,
-					"protein": 23,
-					"calories": 629
-				}
-			},
-			"5": {
-				"name": "Amerikanische Platte mit Chicken-Fingers, gebackenen Zwiebelringen, und Chicken-Drumsticks in Cola-Marinade an Sour Cream",
-				"attributes": [
-					"A",
-					"1",
 					"KN",
-					"30",
-					"36",
-					"39"
+					"30"
 				],
 				"price": {
-					"student": 5,
-					"employee": 6.3,
-					"visitor": 7.2
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
+			},
+			"5": {
+				"name": "Seehechtfilet auf Schwarzwurzel-Möhren-Ragout mit Pasta",
+				"attributes": [
+					"A",
+					"MV",
+					"30",
+					"32",
+					"33",
+					"36",
+					"41"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": {
+					"fat": 25,
+					"carbohydrate": 94,
+					"protein": 45,
+					"calories": 744
+				}
 			}
 		}
 	}

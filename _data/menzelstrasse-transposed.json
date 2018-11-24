@@ -8,19 +8,19 @@
 		}
 	},
 	"validity": {
-		"from": "2018-11-19T00:00:00.000Z",
-		"until": "2018-11-23T00:00:00.000Z"
+		"from": "2018-11-26T00:00:00.000Z",
+		"until": "2018-11-30T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Tortellini mit Spinat-Ricotta-Füllung in Gorgonzolasauce",
+				"name": "Blumenkohl-Käse-Medaillon an Sauce Bérnaise",
 				"attributes": [
 					"F",
-					"1",
 					"30",
 					"32",
-					"36"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.1,
@@ -31,82 +31,11 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gebackener Alaska-Seelachs an Joghurt-Aioli",
+				"name": "Bami Goreng mit Hähnchenstreifen",
 				"attributes": [
-					"3",
-					"KN",
 					"30",
-					"32",
-					"33",
-					"36",
+					"35",
 					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Ofenfrisches Omelette an Tomatenragout",
-				"attributes": [
-					"F",
-					"KN",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
-				"attributes": [
-					"KN",
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Kartoffelpuffer mit Apfelmus",
-				"attributes": [
-					"F",
-					"3",
-					"30",
-					"32"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Penne mit Blattspinat und Hackfleisch",
-				"attributes": [
-					"1",
-					"KN",
-					"30",
-					"36",
-					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -119,10 +48,11 @@
 		],
 		[
 			{
-				"name": "Geschmortes Ratatouille-Gemüse im gelben Reisrand",
+				"name": "Pasta mit tomatisiertem Grünkernragout",
 				"attributes": [
 					"V",
-					"KN"
+					"KN",
+					"30"
 				],
 				"price": {
 					"student": 2,
@@ -133,12 +63,10 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Geflügelgulasch in Curry-Maracujasauce",
+				"name": "Hähnchenbrust mit Chili mariniert an rotem Linsendip",
 				"attributes": [
-					"1",
-					"30",
-					"36",
-					"39"
+					"KN",
+					"40"
 				],
 				"price": {
 					"student": 2.6,
@@ -151,9 +79,40 @@
 		],
 		[
 			{
-				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
+				"name": "Linseneintopf mit Wurzelgemüse",
+				"attributes": [
+					"V",
+					"38"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Schweinesteak vom Nacken an Röstzwiebeln und Champignons",
+				"attributes": [
+					"S"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Rahmspinat mit Rührei",
 				"attributes": [
 					"F",
+					"1",
+					"KN",
 					"32",
 					"36"
 				],
@@ -166,20 +125,52 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Kassler-Nackenbraten auf Calvadosjus",
+				"name": "Gulasch von der Putenoberkeule mit Pfefferrahm",
 				"attributes": [
-					"A",
-					"2",
-					"3",
-					"4",
-					"36",
-					"38",
-					"S"
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.5,
 					"employee": 3.8,
 					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Hessisches Ratatouille",
+				"attributes": [
+					"V",
+					"KN",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hausgemachtes Hacksteak auf Rahmkohlrabi",
+				"attributes": [
+					"1",
+					"KN",
+					"30",
+					"32",
+					"36",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
