@@ -7,34 +7,103 @@
 		}
 	},
 	"validity": {
-		"from": "2018-11-19T00:00:00.000Z",
-		"until": "2018-11-24T00:00:00.000Z"
+		"from": "2018-11-26T00:00:00.000Z",
+		"until": "2018-12-01T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Geschwenktes Hähnchenfleisch in süßsauer Gemüsesauce",
+				"name": "Bolognese mit Putenfleisch auf dem Spaghetti-Nest",
 				"attributes": [
 					"1",
-					"3",
+					"2",
 					"KN",
 					"30",
-					"35",
-					"39",
-					"41"
+					"36"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Orientalische Hackfleischpfanne mit Linsen und Kichererbsen",
+				"name": "Goldgelb gebackenes Schweineschnitzel auf Rahmkohlrabi",
 				"attributes": [
+					"1",
+					"30",
+					"32",
+					"36",
 					"S"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Zartes Hähnchenbrustfilet mit Zwiebelsauce",
+				"attributes": [
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Kassler-Steak auf mildem Weinsauerkraut",
+				"attributes": [
+					"A",
+					"1",
+					"2",
+					"3",
+					"4",
+					"36",
+					"38",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Goldgelbe Fischstäbchen mit Dillsauce",
+				"attributes": [
+					"1",
+					"KN",
+					"30",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null
+			}
+		},
+		"Angebot 2": {
+			"1": {
+				"name": "Schwäbische Spätzle mit Röstzwiebeln und Käsesauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 3,
@@ -43,14 +112,33 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Gebratenes Putenschnitzel mit Parmesanpanade an Tomaten-Sahnesauce",
+			"2": {
+				"name": "Ofenfrisches Pizzarad mit Pestotomaten und Mozzarella",
 				"attributes": [
+					"F",
 					"1",
 					"2",
+					"3",
 					"KN",
 					"30",
-					"32",
+					"36",
+					"37",
+					"41"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Hausgemachte Spinatlasagne in milder Knoblauchcreme",
+				"attributes": [
+					"F",
+					"1",
+					"KN",
+					"30",
 					"36"
 				],
 				"price": {
@@ -61,43 +149,29 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Wildragout in kräftiger Preiselbeer-Rotweinsauce",
+				"name": "Fruchtig gefüllter Germknödel auf warmer Vanillesauce",
 				"attributes": [
-					"A",
-					"41"
+					"F",
+					"1",
+					"2",
+					"30",
+					"36"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Grillfrische Bratwurst mit Curry-Ketchupsauce",
-				"attributes": [
-					"3",
-					"8",
-					"38",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null
-			}
-		},
-		"Angebot 2": {
-			"1": {
-				"name": "Tortellini mit Germüsefüllung in arabischer Tomatensauce",
+				"name": "Geschöpfte Tortellini mit Gemüsefüllung in Béchamelsauce",
 				"attributes": [
 					"F",
-					"3",
+					"1",
 					"KN",
 					"30",
+					"35",
 					"36",
 					"38"
 				],
@@ -105,70 +179,6 @@
 					"student": 2.7,
 					"employee": 4,
 					"visitor": 4.9
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Shakshuka israelisches Gericht aus Spinat und Eiern",
-				"attributes": [
-					"F",
-					"KN",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Eier in Senfsauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Ebly mit grünem Spargel und Pesto Rosso",
-				"attributes": [
-					"V",
-					"KN",
-					"30",
-					"37"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
-				"attributes": [
-					"1",
-					"36",
-					"38",
-					"39",
-					"R"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
 				},
 				"vitalInfo": null
 			}
