@@ -16,7 +16,6 @@
 			"1": {
 				"name": "Blumenkohl-Käse-Medaillon an Sauce Bérnaise",
 				"attributes": [
-					"F",
 					"30",
 					"32",
 					"36",
@@ -164,9 +163,11 @@
 			"1": {
 				"name": "Wildbratwurst auf Schwenk-Spitzkohl und Rosmarinjus",
 				"attributes": [
+					"A",
 					"1",
 					"8",
 					"39",
+					"41",
 					"S"
 				],
 				"price": {
