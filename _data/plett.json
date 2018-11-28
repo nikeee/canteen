@@ -31,9 +31,12 @@
 			"2": {
 				"name": "Pasta mit tomatisiertem Grünkernragout",
 				"attributes": [
-					"V",
+					"F",
+					"1",
+					"2",
 					"KN",
-					"30"
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2,

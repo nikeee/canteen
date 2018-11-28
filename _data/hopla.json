@@ -95,6 +95,7 @@
 				"attributes": [
 					"30",
 					"35",
+					"38",
 					"39"
 				],
 				"price": {
@@ -348,6 +349,7 @@
 					"36",
 					"37",
 					"39",
+					"40",
 					"R"
 				],
 				"price": {
@@ -357,26 +359,7 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Spaghetti in Petersilienpesto geschwenkt mit Meeresfrüchten",
-				"attributes": [
-					"1",
-					"2",
-					"8",
-					"KN",
-					"30",
-					"31",
-					"36",
-					"37",
-					"43"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": {
 				"name": "Quiche mit Tomaten, Paprika und Zucchini an gartenfrischen Salaten mit Balsamicocreme",
 				"attributes": [
