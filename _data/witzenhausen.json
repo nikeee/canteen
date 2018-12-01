@@ -7,61 +7,18 @@
 		}
 	},
 	"validity": {
-		"from": "2018-11-26T00:00:00.000Z",
-		"until": "2018-11-30T00:00:00.000Z"
+		"from": "2018-12-03T00:00:00.000Z",
+		"until": "2018-12-07T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Blumenkohl-Käse-Medaillon an Sauce Béarnaise",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Pasta mit tomatisiertem Grünkernragout",
-				"attributes": [
-					"V",
-					"KN",
-					"30"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Linseneintopf mit Wurzelgemüse",
-				"attributes": [
-					"V",
-					"38"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Rahmspinat mit Rührei",
+				"name": "Ofenfrischer Apfelstrudel auf Vanillesauce mit Puderzucker",
 				"attributes": [
 					"F",
 					"1",
-					"KN",
+					"30",
 					"32",
 					"36"
 				],
@@ -72,84 +29,79 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Hessisches Ratatouille",
+			"2": {
+				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Tortellini mit Soja Bolognese gefüllt in Tomatensauce",
 				"attributes": [
 					"V",
 					"KN",
-					"35",
-					"38"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2,
 					"employee": 3.3,
 					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Rosmarinkartoffeln mit Tomatencreme",
+				"attributes": [
+					"V",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Gebackene Brokkoli-Nuggets an Kräuterquark",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"35",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Bami Goreng mit Hähnchenstreifen",
+				"name": "Nudelpfanne mit Salami, Schinken und Ei",
 				"attributes": [
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Hähnchenbrust mit Chili mariniert an rotem Linsendip",
-				"attributes": [
-					"KN",
-					"40"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Schweinesteak vom Nacken an Röstzwiebeln und Champignons",
-				"attributes": [
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Gulasch von der Putenoberkeule mit Pfefferrahm",
-				"attributes": [
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Hausgemachtes Hacksteak auf Rahmkohlrabi",
-				"attributes": [
-					"1",
+					"2",
+					"3",
+					"8",
 					"KN",
 					"30",
 					"32",
 					"36",
-					"39",
+					"R",
 					"S"
 				],
 				"price": {
@@ -158,43 +110,67 @@
 					"visitor": 4.6
 				},
 				"vitalInfo": null
-			}
-		},
-		"Bio-Essen": {
-			"1": {
-				"name": "Nepalesische Dal Bhat Tarkari",
-				"attributes": [
-					"V",
-					"Ö",
-					"KN",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
 			},
 			"2": {
-				"name": "Mangoldpfanne mit Mandeln",
+				"name": "Geschnetzeltes aus der Putenoberkeule in Zwiebelrahm",
 				"attributes": [
-					"V",
-					"Ö",
-					"KN",
-					"35",
-					"37",
-					"39"
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Spaghetti mit Tomatensauce Napoli",
+				"name": "Gegrilltes Steak vom Schweinerücken auf Portweinjus",
+				"attributes": [
+					"A",
+					"30",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gegrillte Hähnchenbrust auf Curry-Spitzkohl",
+				"attributes": [
+					"1",
+					"3",
+					"KN"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Ungarische Gulaschsuppe",
+				"attributes": [
+					"KN",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			}
+		},
+		"Bio-Essen": {
+			"1": {
+				"name": "Türkischer warmer Bulgursalat",
 				"attributes": [
 					"V",
 					"Ö",
@@ -207,11 +183,12 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Pilz-Gemüsepaella",
+			"2": {
+				"name": "Pekingsuppe mit Tofu",
 				"attributes": [
 					"V",
 					"Ö",
+					"35",
 					"39"
 				],
 				"price": {
@@ -221,15 +198,44 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Mediterrane Gemüse-Lasagne",
+			"3": {
+				"name": "Spinach Eggs",
 				"attributes": [
 					"F",
 					"Ö",
 					"KN",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Kartoffelpuffer mit Apfelkompott",
+				"attributes": [
+					"F",
+					"Ö",
 					"30",
-					"36",
-					"38"
+					"32"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Spaghetti in Tomatensauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -241,12 +247,10 @@
 		},
 		"Aktions-Essen": {
 			"1": {
-				"name": "Gebratener Seelachs mit Kürbis-Kartoffelpüree",
+				"name": "Ghanaisches Hähnchen in Erdnuss-Tomatensauce",
 				"attributes": [
-					"1",
 					"30",
-					"33",
-					"36"
+					"34"
 				],
 				"price": {
 					"student": 4,
@@ -256,23 +260,32 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Szegediner Gulasch aus der Schweinekeule mit Sauerkraut und Parika",
+				"name": "Paniertes Schweineschnitzel an Pfeffer-Rahmsauce",
 				"attributes": [
-					"KN",
+					"1",
+					"30",
+					"32",
 					"36",
 					"S"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Putengeschnetzeltes mit toskanischem Gemüse",
+				"name": "Amerikanischer Veggie Hot Dog mit Dip, Zwiebeln und Gurke, dazu Pommes frites",
 				"attributes": [
-					"30"
+					"F",
+					"2",
+					"3",
+					"9",
+					"30",
+					"32",
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 3.5,
@@ -282,14 +295,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Schweinekoteletts al`berdouille aus der Wallonnie",
+				"name": "Braumeister Gulasch",
 				"attributes": [
 					"A",
-					"9",
 					"30",
-					"36",
-					"39",
-					"41",
 					"S"
 				],
 				"price": {
@@ -299,7 +308,21 @@
 				},
 				"vitalInfo": null
 			},
-			"5": null
+			"5": {
+				"name": "Matjesfilet mit Zwiebeln und Rote Bete",
+				"attributes": [
+					"2",
+					"9",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			}
 		}
 	}
 }

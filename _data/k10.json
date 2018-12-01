@@ -136,10 +136,13 @@
 				"name": "Hausgemachte Spinatlasagne in milder Knoblauchcreme",
 				"attributes": [
 					"F",
+					"A",
 					"1",
 					"KN",
 					"30",
-					"36"
+					"32",
+					"36",
+					"41"
 				],
 				"price": {
 					"student": 3.5,
