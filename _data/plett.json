@@ -46,10 +46,13 @@
 			"3": {
 				"name": "Tortellini mit Soja Bolognese gefüllt in Tomatensauce",
 				"attributes": [
-					"V",
+					"F",
+					"1",
+					"2",
 					"KN",
 					"30",
 					"35",
+					"36",
 					"38"
 				],
 				"price": {
@@ -132,6 +135,7 @@
 				"attributes": [
 					"A",
 					"30",
+					"32",
 					"41",
 					"S"
 				],
