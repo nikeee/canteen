@@ -8,19 +8,19 @@
 		}
 	},
 	"validity": {
-		"from": "2018-12-03T00:00:00.000Z",
-		"until": "2018-12-07T00:00:00.000Z"
+		"from": "2018-12-10T00:00:00.000Z",
+		"until": "2018-12-14T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Ofenfrischer Apfelstrudel auf Vanillesauce mit Puderzucker",
+				"name": "Asia-Kokossuppe mit Paprika und Koriander",
 				"attributes": [
-					"F",
+					"V",
 					"1",
-					"30",
-					"32",
-					"36"
+					"3",
+					"KN",
+					"35"
 				],
 				"price": {
 					"student": 2.1,
@@ -31,16 +31,13 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Nudelpfanne mit Salami, Schinken und Ei",
+				"name": "Klassische Currywurst",
 				"attributes": [
-					"2",
+					"1",
 					"3",
 					"8",
-					"KN",
-					"30",
-					"32",
-					"36",
-					"R",
+					"38",
+					"39",
 					"S"
 				],
 				"price": {
@@ -54,76 +51,10 @@
 		],
 		[
 			{
-				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
-				"attributes": [
-					"F",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Geschnetzeltes aus der Putenoberkeule in Zwiebelrahm",
-				"attributes": [
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Tortellini mit Soja Bolognese gefüllt in Tomatensauce",
+				"name": "Frisch gebackene Kartoffelecken mit Currydip",
 				"attributes": [
 					"V",
-					"KN",
 					"30",
-					"35",
-					"38"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gegrilltes Steak vom Schweinerücken auf Portweinjus",
-				"attributes": [
-					"A",
-					"30",
-					"41",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Rosmarinkartoffeln mit Tomatencreme",
-				"attributes": [
-					"V",
 					"35",
 					"39"
 				],
@@ -136,11 +67,49 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gegrillte Hähnchenbrust auf Curry-Spitzkohl",
+				"name": "Italienische Radinudeln in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
 				"attributes": [
 					"1",
-					"3",
-					"KN"
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Gnocchi in Rote-Bete-Sauce mit gehackten Walnüssen und Pinienkernen",
+				"attributes": [
+					"V",
+					"1",
+					"KN",
+					"30",
+					"35",
+					"37"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Weihnachtlich mariniertes Schweinefilet auf Majoran-Rahmsauce",
+				"attributes": [
+					"1",
+					"KN",
+					"30",
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.6,
@@ -153,28 +122,64 @@
 		],
 		[
 			{
-				"name": "Gebackene Brokkoli-Nuggets an Kräuterquark",
+				"name": "Hausgemachter Spinatpfannkuchen auf Knoblauchdip",
 				"attributes": [
 					"F",
+					"KN",
 					"30",
 					"32",
-					"35",
-					"36",
-					"38"
+					"36"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Ungarische Gulaschsuppe",
+				"name": "Hähnchenbrust mit Birnen-Rahmsauce",
 				"attributes": [
-					"KN",
-					"S"
+					"1",
+					"3",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Orientalische Linsenpfanne mit Quinoa und buntem Gemüse",
+				"attributes": [
+					"V",
+					"2",
+					"38",
+					"39",
+					"40",
+					"41"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gebackener Alaska-Seelachs an Schnittlauchdip",
+				"attributes": [
+					"30",
+					"33",
+					"36"
 				],
 				"price": {
 					"student": 2.5,

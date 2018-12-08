@@ -8,19 +8,18 @@
 		}
 	},
 	"validity": {
-		"from": "2018-12-03T00:00:00.000Z",
-		"until": "2018-12-07T00:00:00.000Z"
+		"from": "2018-12-10T00:00:00.000Z",
+		"until": "2018-12-14T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Ofenfrischer Apfelstrudel auf Vanillesauce mit Puderzucker",
+				"name": "Asia-Kokossuppe mit Paprika und Koriander",
 				"attributes": [
-					"F",
+					"V",
 					"1",
-					"30",
-					"32",
-					"36"
+					"3",
+					"KN"
 				],
 				"price": {
 					"student": 2.1,
@@ -31,16 +30,13 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Nudelpfanne mit Salami, Schinken und Ei",
+				"name": "Klassische Currywurst",
 				"attributes": [
-					"2",
+					"1",
 					"3",
 					"8",
-					"KN",
-					"30",
-					"32",
-					"36",
-					"R",
+					"38",
+					"39",
 					"S"
 				],
 				"price": {
@@ -52,10 +48,78 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Türkischer warmer Bulgursalat",
+				"name": "Polenta-Käseschnitte an Spinatcremesauce",
+				"attributes": [
+					"F",
+					"Ö",
+					"KN",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Geschwenkte Putenstreifen in Lila-Curry-Kokossauce mit Karotten und Zuckerschoten",
+				"attributes": [
+					"30",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Frisch gebackene Kartoffelecken mit Currydip",
+				"attributes": [
+					"V",
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Italienische Radinudeln in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
+				"attributes": [
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Spaghetti alla Puttanesca",
 				"attributes": [
 					"V",
 					"Ö",
+					"KN",
 					"30"
 				],
 				"price": {
@@ -67,73 +131,10 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Ghanaisches Hähnchen in Erdnuss-Tomatensauce",
-				"attributes": [
-					"30",
-					"34"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
-				"attributes": [
-					"F",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Geschnetzeltes aus der Putenoberkeule in Zwiebelrahm",
-				"attributes": [
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Pekingsuppe mit Tofu",
-				"attributes": [
-					"V",
-					"Ö",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Paniertes Schweineschnitzel an Pfeffer-Rahmsauce",
+				"name": "Bangers and Mash - Bratwürstchen mit Kartoffelstampf und Röstzwiebeln",
 				"attributes": [
 					"1",
-					"30",
-					"32",
+					"3",
 					"36",
 					"S"
 				],
@@ -148,12 +149,80 @@
 		],
 		[
 			{
-				"name": "Tortellini mit Soja Bolognese gefüllt in Tomatensauce",
+				"name": "Gnocchi in Rote-Bete-Sauce mit gehackten Walnüssen und Pinienkernen",
 				"attributes": [
-					"V",
+					"F",
+					"1",
 					"KN",
 					"30",
-					"35"
+					"32",
+					"35",
+					"37"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Weihnachtlich mariniertes Schweinefilet auf Lebkuchensauce",
+				"attributes": [
+					"1",
+					"KN",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Kartoffelpuffer mit Maronen, dazu Birnenragout",
+				"attributes": [
+					"V",
+					"Ö",
+					"30"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Seelachsfilet auf Fenchel-Orangen-Apfelbett",
+				"attributes": [
+					"1",
+					"33"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Hausgemachter Spinatpfannkuchen auf Knoblauchdip",
+				"attributes": [
+					"F",
+					"KN",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2,
@@ -164,81 +233,12 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gegrilltes Steak vom Schweinerücken auf Portweinjus",
-				"attributes": [
-					"A",
-					"30",
-					"41",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Spinach Eggs",
-				"attributes": [
-					"F",
-					"Ö",
-					"KN",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Amerikanischer Veggie Hot Dog mit Dip, Zwiebeln und Gurke, dazu Pommes frites",
-				"attributes": [
-					"F",
-					"2",
-					"3",
-					"9",
-					"30",
-					"32",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Rosmarinkartoffeln mit Tomatencreme",
-				"attributes": [
-					"V",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gegrillte Hähnchenbrust auf Curry-Spitzkohl",
+				"name": "Hähnchenbrust mit Birnen-Rahmsauce",
 				"attributes": [
 					"1",
 					"3",
-					"KN"
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.6,
@@ -249,12 +249,12 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Kartoffelpuffer mit Apfelkompott",
+				"name": "Rotes Thai-Blumenkohlcurry mit Paprika und Zwiebeln",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"30",
-					"32"
+					"KN",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -265,16 +265,14 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Braumeister Gulasch",
+				"name": "Stifado - Griechisches Rinderragout mit Gemüse und Zimt",
 				"attributes": [
-					"A",
-					"30",
-					"S"
+					"R"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Aktions-Essen"
@@ -282,28 +280,29 @@
 		],
 		[
 			{
-				"name": "Gebackene Brokkoli-Nuggets an Kräuterquark",
+				"name": "Orientalische Linsenpfanne mit Quinoa und buntem Gemüse",
 				"attributes": [
-					"F",
-					"30",
-					"32",
-					"35",
-					"36",
-					"38"
+					"V",
+					"2",
+					"38",
+					"39",
+					"40",
+					"41"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Ungarische Gulaschsuppe",
+				"name": "Gebackener Alaska-Seelachs an Schnittlauchdip",
 				"attributes": [
-					"KN",
-					"S"
+					"30",
+					"33",
+					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -314,12 +313,12 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Spaghetti in Tomatensauce",
+				"name": "Pellkartoffeln mit türkischem Hummus",
 				"attributes": [
 					"V",
 					"Ö",
-					"30",
-					"35"
+					"KN",
+					"40"
 				],
 				"price": {
 					"student": 2.9,
@@ -330,17 +329,17 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Matjesfilet mit Zwiebeln und Rote Bete",
+				"name": "Ungarisches Schweinefleischgulasch",
 				"attributes": [
-					"2",
-					"9",
-					"33",
-					"36"
+					"A",
+					"30",
+					"41",
+					"S"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Aktions-Essen"
