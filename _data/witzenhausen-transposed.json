@@ -151,11 +151,10 @@
 			{
 				"name": "Gnocchi in Rote-Bete-Sauce mit gehackten Walnüssen und Pinienkernen",
 				"attributes": [
-					"F",
+					"V",
 					"1",
 					"KN",
 					"30",
-					"32",
 					"35",
 					"37"
 				],
@@ -187,9 +186,10 @@
 			{
 				"name": "Kartoffelpuffer mit Maronen, dazu Birnenragout",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"30"
+					"30",
+					"32"
 				],
 				"price": {
 					"student": 2.6,
