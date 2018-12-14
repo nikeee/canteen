@@ -248,6 +248,7 @@
 				"name": "Gebratenes Filet vom Wildlachs mit hausgemachtem Spitzkohl-Kartoffelstampf und grober Senfsauce",
 				"attributes": [
 					"1",
+					"3",
 					"30",
 					"33",
 					"36",
@@ -326,22 +327,6 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 3 oder 4"
-			},
-			{
-				"name": "Weihnachtsburger mit Beef, Feldsalat Granatapfel und Cranberry-Schmand",
-				"attributes": [
-					"30",
-					"36",
-					"39",
-					"R"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Wok/Grill"
 			},
 			{
 				"name": "Flammkuchen mit Chili sin Carne",
