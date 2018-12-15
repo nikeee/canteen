@@ -7,19 +7,18 @@
 		}
 	},
 	"validity": {
-		"from": "2018-12-10T00:00:00.000Z",
-		"until": "2018-12-14T00:00:00.000Z"
+		"from": "2018-12-17T00:00:00.000Z",
+		"until": "2018-12-21T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Asia-Kokossuppe mit Paprika und Koriander",
+				"name": "Gemüsebällchen auf Preiselbeer-Cremedip",
 				"attributes": [
-					"V",
-					"1",
-					"3",
-					"KN"
+					"F",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -29,12 +28,43 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Frisch gebackene Kartoffelecken mit Currydip",
+				"name": "Backfrischer Pfannkuchen an weihnachtlichen Zimt-Kirschen und Schlagsahne",
+				"attributes": [
+					"F",
+					"1",
+					"3",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
 				"attributes": [
 					"V",
+					"KN",
+					"30"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Berner Riesenrösti mit buntem Béchamelgemüse",
+				"attributes": [
+					"F",
+					"1",
 					"30",
-					"35",
-					"39"
+					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -43,14 +73,47 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Gnocchi in Rote-Bete-Sauce mit gehackten Walnüssen und Pinienkernen",
+			"5": {
+				"name": "Schupfnudelpfanne mit Spitzkohl",
 				"attributes": [
 					"V",
 					"1",
 					"KN",
+					"30"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			}
+		},
+		"Essen 2": {
+			"1": {
+				"name": "Ofenfrischer Spießbraten an griechischem Zaziki",
+				"attributes": [
+					"2",
+					"3",
+					"KN",
+					"36",
+					"38",
+					"S"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Hähnchenbrust mit Pesto Rosso auf Béchamelsauce",
+				"attributes": [
+					"1",
+					"KN",
 					"30",
-					"35",
+					"36",
 					"37"
 				],
 				"price": {
@@ -60,75 +123,23 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Hausgemachter Spinatpfannkuchen auf Knoblauchdip",
+			"3": {
+				"name": "Wellenbandnudeln mit feurigem Chili con Carne",
 				"attributes": [
-					"F",
 					"KN",
 					"30",
 					"32",
-					"36"
+					"R"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Orientalische Linsenpfanne mit Quinoa und buntem Gemüse",
-				"attributes": [
-					"V",
-					"2",
-					"38",
-					"39",
-					"40",
-					"41"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
-			}
-		},
-		"Essen 2": {
-			"1": {
-				"name": "Klassische Currywurst",
-				"attributes": [
-					"1",
-					"3",
-					"8",
-					"38",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Italienische Radinudeln in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Weihnachtlich mariniertes Schweinefilet auf Lebkuchensauce",
+			"4": {
+				"name": "Asia-Schweinefleischstreifen in Red-Thaicurry-Sauce",
 				"attributes": [
 					"1",
 					"KN",
@@ -137,33 +148,22 @@
 					"S"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Hähnchenbrust mit Birnen-Rahmsauce",
-				"attributes": [
-					"1",
-					"3",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gebackener Alaska-Seelachs an Schnittlauchdip",
+				"name": "Fischstäbchen mit Remouladensauce",
 				"attributes": [
+					"3",
+					"9",
 					"30",
+					"32",
 					"33",
-					"36"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -175,12 +175,39 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Polenta-Käseschnitte an Spinatcremesauce",
+				"name": "Thailändischer Kürbis-Möhreneintopf mit Kokosmilch",
+				"attributes": [
+					"V",
+					"Ö"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Nudelpfanne mit Pilzen, Zwiebeln, Tomaten und Tofu",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Spanischer Tortilla Kartoffel-Auflauf",
 				"attributes": [
 					"F",
 					"Ö",
 					"KN",
-					"30",
 					"32",
 					"36"
 				],
@@ -191,42 +218,11 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Spaghetti alla Puttanesca",
-				"attributes": [
-					"V",
-					"Ö",
-					"KN",
-					"30"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Kartoffelpuffer mit Maronen, dazu Birnenragout",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"32"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
 			"4": {
-				"name": "Rotes Thai-Blumenkohlcurry mit Paprika und Zwiebeln",
+				"name": "Asiatische Reis-Krautpfanne mit Paprika",
 				"attributes": [
 					"V",
 					"Ö",
-					"KN",
 					"39"
 				],
 				"price": {
@@ -237,12 +233,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Pellkartoffeln mit türkischem Hummus",
+				"name": "Frisches Gemüsegulasch mit Tomatensauce",
 				"attributes": [
 					"V",
 					"Ö",
-					"KN",
-					"40"
+					"KN"
 				],
 				"price": {
 					"student": 2.9,
@@ -254,24 +249,26 @@
 		},
 		"Aktions-Essen": {
 			"1": {
-				"name": "Geschwenkte Putenstreifen in Lila-Curry-Kokossauce mit Karotten und Zuckerschoten",
+				"name": "Hähnchengeschnetzeltes Stroganoff",
 				"attributes": [
+					"1",
+					"9",
+					"KN",
 					"30",
 					"36",
 					"39"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Bangers and Mash - Bratwürstchen mit Kartoffelstampf und Röstzwiebeln",
+				"name": "Spanisch Fricco",
 				"attributes": [
-					"1",
-					"3",
+					"32",
 					"36",
 					"S"
 				],
@@ -283,36 +280,15 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Seelachsfilet auf Fenchel-Orangen-Apfelbett",
+				"name": "Griechisches Hacksteak auf Djuvec-Reis",
 				"attributes": [
 					"1",
-					"33"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Stifado - Griechisches Rinderragout mit Gemüse und Zimt",
-				"attributes": [
-					"R"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Ungarisches Schweinefleischgulasch",
-				"attributes": [
-					"A",
+					"6",
+					"KN",
 					"30",
-					"41",
+					"32",
+					"36",
+					"39",
 					"S"
 				],
 				"price": {
@@ -321,7 +297,26 @@
 					"visitor": 5.7
 				},
 				"vitalInfo": null
-			}
+			},
+			"4": {
+				"name": "Gekochtes Rindfleisch aus dem Wurzelsud an Apfel-Meerrettich-Sahnesauce",
+				"attributes": [
+					"1",
+					"3",
+					"9",
+					"30",
+					"36",
+					"38",
+					"R"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null
+			},
+			"5": null
 		}
 	}
 }

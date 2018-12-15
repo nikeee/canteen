@@ -7,20 +7,18 @@
 		}
 	},
 	"validity": {
-		"from": "2018-12-10T00:00:00.000Z",
-		"until": "2018-12-14T00:00:00.000Z"
+		"from": "2018-12-17T00:00:00.000Z",
+		"until": "2018-12-21T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Asia-Kokossuppe mit Paprika und Koriander",
+				"name": "Gemüsebällchen auf Preiselbeerschmand",
 				"attributes": [
-					"V",
-					"1",
-					"3",
-					"KN",
-					"35"
+					"F",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -30,12 +28,42 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Frisch gebackene Kartoffelecken mit Currydip",
+				"name": "Pfannkuchen auf weihnachtlichen Zimt-Kirschen und Schlagcreme",
 				"attributes": [
 					"V",
+					"1",
+					"3",
 					"30",
-					"35",
-					"39"
+					"35"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
+				"attributes": [
+					"V",
+					"KN",
+					"30"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Berner Riesenrösti mit buntem Béchamelgemüse",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -44,15 +72,47 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Gnocchi in Rote-Bete-Sauce mit gehackten Walnüssen und Pinienkernen",
+			"5": {
+				"name": "Schupfnudelpfanne mit Spitzkohl",
 				"attributes": [
 					"V",
 					"1",
+					"KN",
+					"30"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			}
+		},
+		"Essen 2": {
+			"1": {
+				"name": "Ofenfrischer Spießbraten mit griechischem Zaziki",
+				"attributes": [
+					"2",
 					"3",
 					"KN",
+					"36",
+					"38",
+					"S"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Hähnchenbrust mit Pesto Rosso auf Béchamelsauce",
+				"attributes": [
+					"1",
+					"KN",
 					"30",
-					"35",
+					"36",
 					"37"
 				],
 				"price": {
@@ -62,75 +122,23 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Hausgemachter Spinatpfannkuchen auf Knoblauchdip",
+			"3": {
+				"name": "Wellenbandnudeln mit feurigem Chili con Carne",
 				"attributes": [
-					"F",
 					"KN",
 					"30",
 					"32",
-					"36"
+					"R"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Orientalische Linsenpfanne mit Quinoa und buntem Gemüse",
-				"attributes": [
-					"V",
-					"2",
-					"38",
-					"39",
-					"40",
-					"41"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
-			}
-		},
-		"Essen 2": {
-			"1": {
-				"name": "Klassische Currywurst",
-				"attributes": [
-					"1",
-					"3",
-					"8",
-					"38",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Italienische Radinudeln in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Weihnachtlich mariniertes Schweinefilet auf Majoran-Rahmsauce",
+			"4": {
+				"name": "Asia-Schweinefleischstreifen in Red-Thaicurry-Sauce",
 				"attributes": [
 					"1",
 					"KN",
@@ -139,33 +147,22 @@
 					"S"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Hähnchenbrust mit Birnen-Rahmsauce",
-				"attributes": [
-					"1",
-					"3",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gebackener Alaska-Seelachs an Schnittlauchdip",
+				"name": "Fischstäbchen mit Remouladensauce",
 				"attributes": [
+					"3",
+					"9",
 					"30",
+					"32",
 					"33",
-					"36"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -177,28 +174,27 @@
 		},
 		"Essen 3 oder 4": {
 			"1": {
-				"name": "Gefülltes Kartoffel-Cordon-bleu an Ziegenkäse-Quarkdip",
+				"name": "Frisch gegrillte Merguez auf Honig-Paprikaragout",
 				"attributes": [
-					"F",
-					"30",
-					"36"
+					"3",
+					"KN",
+					"R"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 3.6,
+					"employee": 4.9,
+					"visitor": 5.8
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Paniertes Schweineschnitzel im Nusskleid an Portweinjus",
+				"name": "Paniertes Schnitzel vom Schwein auf Schmanddip mit Speck und Zwiebeln",
 				"attributes": [
-					"A",
+					"2",
+					"3",
 					"30",
 					"32",
-					"34",
-					"37",
-					"41",
+					"36",
 					"S"
 				],
 				"price": {
@@ -208,45 +204,98 @@
 				},
 				"vitalInfo": null
 			},
-			"3": null,
-			"4": {
-				"name": "Gegrilltes Steak vom Schweinerücken auf Maronen-Schlagbutter",
+			"3": {
+				"name": "Deftige gebratene Krakauer mit Grünkohl",
 				"attributes": [
-					"36",
+					"2",
+					"3",
+					"30",
+					"39",
 					"S"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
 			},
+			"4": null,
 			"5": {
-				"name": "Hausgemachter Kartoffelgratin mit Schmortomaten und Paprika",
+				"name": "Frisch gebratenes Hähnchenbrustschnitzel auf fruchtiger Tomatensauce",
 				"attributes": [
-					"F",
-					"1",
+					"KN",
 					"30",
-					"36"
+					"32"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
 			}
 		},
 		"Angebot des Tages I": {
 			"1": {
-				"name": "Cannelloni mit Rind und Aubergine gefüllt in Tomatensauce",
+				"name": "Mediterraner Gemüsegulasch mit Räuchertofu und Sommerweizen",
 				"attributes": [
-					"KN",
+					"V",
+					"MV",
 					"30",
 					"35",
-					"36",
-					"R"
+					"38"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": {
+					"fat": 23,
+					"carbohydrate": 88,
+					"protein": 26,
+					"calories": 659
+				}
+			},
+			"2": {
+				"name": "Champignon-Erbsen-Tomatengratin mit Sonnenblumenkernen, Kräuterreis und Koriandersauce",
+				"attributes": [
+					"F",
+					"MV",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": {
+					"fat": 23,
+					"carbohydrate": 91,
+					"protein": 25,
+					"calories": 665
+				}
+			},
+			"3": {
+				"name": "Lassen Sie sich überraschen",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Hausgemachter Wrap mit veganem Dip, scharfen Linsen und Ofenkartoffeln",
+				"attributes": [
+					"V",
+					"2",
+					"30",
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 4,
@@ -255,84 +304,7 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Französische Fischsuppe mit Tomaten-Endivien-Salat",
-				"attributes": [
-					"MV",
-					"30",
-					"31",
-					"33",
-					"35",
-					"36",
-					"38",
-					"40",
-					"43"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": {
-					"fat": 19,
-					"carbohydrate": 81,
-					"protein": 44,
-					"calories": 722
-				}
-			},
-			"3": {
-				"name": "Rinderroulade mit Bratapfel-Maronen-Füllung in Johannisbeerjus",
-				"attributes": [
-					"3",
-					"37",
-					"38",
-					"R"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Weihnachtsburger mit Beef, Feldsalat Granatapfel und Cranberry-Schmand",
-				"attributes": [
-					"30",
-					"36",
-					"39",
-					"R"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Glühweingulasch mit Mandelrosenkohl und Semmelknödeln",
-				"attributes": [
-					"A",
-					"MV",
-					"30",
-					"32",
-					"37",
-					"41",
-					"R"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 79,
-					"protein": 43,
-					"calories": 682
-				}
-			}
+			"5": null
 		}
 	}
 }

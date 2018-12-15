@@ -8,76 +8,40 @@
 		}
 	},
 	"validity": {
-		"from": "2018-12-10T00:00:00.000Z",
-		"until": "2018-12-14T00:00:00.000Z"
+		"from": "2018-12-17T00:00:00.000Z",
+		"until": "2018-12-21T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Asia-Kokossuppe mit Paprika und Koriander",
+				"name": "Gemüsebällchen auf Preiselbeerschmand",
 				"attributes": [
-					"V",
-					"1",
-					"3",
-					"KN",
-					"35"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Klassische Currywurst",
-				"attributes": [
-					"1",
-					"3",
-					"8",
-					"38",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Frisch gebackene Kartoffelecken mit Currydip",
-				"attributes": [
-					"V",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Italienische Radinudeln in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
-				"attributes": [
-					"1",
-					"30",
+					"F",
 					"32",
 					"36"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Ofenfrischer Spießbraten mit griechischem Zaziki",
+				"attributes": [
+					"2",
+					"3",
+					"KN",
+					"36",
+					"38",
+					"S"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
@@ -85,13 +49,29 @@
 		],
 		[
 			{
-				"name": "Gnocchi in Rote-Bete-Sauce mit gehackten Walnüssen und Pinienkernen",
+				"name": "Pfannkuchen auf weihnachtlichen Zimt-Kirschen und Schlagcreme",
 				"attributes": [
 					"V",
 					"1",
+					"3",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hähnchenbrust mit Pesto Rosso auf Béchamelsauce",
+				"attributes": [
+					"1",
 					"KN",
 					"30",
-					"35",
+					"36",
 					"37"
 				],
 				"price": {
@@ -100,10 +80,61 @@
 					"visitor": 4.8
 				},
 				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
+				"attributes": [
+					"V",
+					"KN",
+					"30"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Weihnachtlich mariniertes Schweinefilet auf Majoran-Rahmsauce",
+				"name": "Wellenbandnudeln mit feurigem Chili con Carne",
+				"attributes": [
+					"KN",
+					"30",
+					"32",
+					"R"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Berner Riesenrösti mit buntem Béchamelgemüse",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Asia-Schweinefleischstreifen in Red-Thaicurry-Sauce",
 				"attributes": [
 					"1",
 					"KN",
@@ -112,9 +143,9 @@
 					"S"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
@@ -122,64 +153,31 @@
 		],
 		[
 			{
-				"name": "Hausgemachter Spinatpfannkuchen auf Knoblauchdip",
-				"attributes": [
-					"F",
-					"KN",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hähnchenbrust mit Birnen-Rahmsauce",
-				"attributes": [
-					"1",
-					"3",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Orientalische Linsenpfanne mit Quinoa und buntem Gemüse",
+				"name": "Schupfnudelpfanne mit Spitzkohl",
 				"attributes": [
 					"V",
-					"2",
-					"38",
-					"39",
-					"40",
-					"41"
+					"1",
+					"KN",
+					"30"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gebackener Alaska-Seelachs an Schnittlauchdip",
+				"name": "Fischstäbchen mit Remouladensauce",
 				"attributes": [
+					"3",
+					"9",
 					"30",
+					"32",
 					"33",
-					"36"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.5,
