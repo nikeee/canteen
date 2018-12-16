@@ -7,49 +7,17 @@
 		}
 	},
 	"validity": {
-		"from": "2018-12-10T00:00:00.000Z",
-		"until": "2018-12-15T00:00:00.000Z"
+		"from": "2018-12-17T00:00:00.000Z",
+		"until": "2018-12-22T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Rindergeschnetzeltes Stroganoff",
+				"name": "Zartes Hähnchenbrustfilet in Pfifferlingrahmsauce",
 				"attributes": [
-					"1",
-					"9",
 					"30",
-					"36",
-					"R"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Saltimbocca vom Schweinerücken mit Calvadosjus",
-				"attributes": [
-					"A",
-					"2",
-					"3",
-					"S"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Hähnchenschnitzel im Cornflakesmantel auf Tomatensauce",
-				"attributes": [
-					"KN",
-					"30",
-					"32"
+					"36"
 				],
 				"price": {
 					"student": 3.5,
@@ -58,51 +26,112 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Fish and Chips mit Remouladensauce",
+			"2": {
+				"name": "Goldgelb gebackenes Putenschnitzel mit Rahmsauce",
 				"attributes": [
-					"3",
-					"9",
 					"30",
 					"32",
-					"33",
-					"36",
-					"39"
+					"36"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Ofenfrischer Sauerbraten vom Schweinerücken auf Bratenjus",
+				"attributes": [
+					"A",
+					"3",
+					"37",
+					"38",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Hessische Lauch-Käse-Suppe mit Hackfleisch vom Schwein",
+				"attributes": [
+					"1",
+					"KN",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Burrito Mexiko mit Hackfleisch und Gemüse gefüllt an Guacamole-Sauerrahmdip",
+				"name": "Ofenfrische Frikadelle an scharfer Paprika-Tomatensauce",
 				"attributes": [
-					"1",
-					"2",
-					"3",
 					"KN",
 					"30",
-					"36",
-					"R"
+					"32",
+					"R",
+					"S"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null
 			}
 		},
 		"Angebot 2": {
 			"1": {
-				"name": "Tortellini mit Germüsefüllung in Linsen-Bolognese",
+				"name": "Backfrischer Pfannkuchen an fruchtigem Zwetschgenragout",
+				"attributes": [
+					"F",
+					"A",
+					"1",
+					"3",
+					"30",
+					"32",
+					"36",
+					"41"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Tomatisiertes Grünkernragout auf Spaghetti",
 				"attributes": [
 					"V",
 					"KN",
+					"30"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gemüsecurry in scharfer Haratisauce mit Kokos im Reisbett",
+				"attributes": [
+					"V",
+					"1",
 					"30",
-					"38"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -111,45 +140,15 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Shakshuka - Gericht aus Paprika, Zwiebeln und Ei",
+			"4": {
+				"name": "Gebackene Gemüsekroketten mit Kräutersauce",
 				"attributes": [
 					"F",
-					"KN",
-					"32"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Gemüsespieß an veganer Kräuterbéchamel, dazu Reis",
-				"attributes": [
-					"V",
 					"1",
 					"KN",
 					"30",
-					"35"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Frisch gebratene Süßkartoffel-Reibekuchen an Kräuterschmand",
-				"attributes": [
-					"F",
-					"2",
-					"3",
-					"30",
 					"36",
-					"41"
+					"38"
 				],
 				"price": {
 					"student": 2.7,
@@ -159,17 +158,18 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Orientalische Orangen-Couscous-Pfanne mit fruchtigem Korianderdip",
+				"name": "Ofenfrischer Kartoffelauflauf mit buntem Gemüse",
 				"attributes": [
-					"V",
-					"3",
+					"F",
+					"1",
 					"30",
-					"38"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
 			}
