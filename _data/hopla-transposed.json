@@ -127,13 +127,16 @@
 				"name": "Hähnchenbrust mit Pesto Rosso auf Béchamelsauce",
 				"attributes": [
 					"1",
+					"3",
+					"8",
 					"KN",
 					"30",
 					"32",
 					"36",
 					"37",
 					"38",
-					"39"
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 2.6,
@@ -254,9 +257,11 @@
 			{
 				"name": "Gnocchi von dreierlei Kartoffeln in fruchtiger Tomaten-Gemüsesauce",
 				"attributes": [
-					"V",
+					"F",
 					"KN",
-					"30"
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 3,
@@ -290,6 +295,7 @@
 					"F",
 					"1",
 					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -306,7 +312,9 @@
 					"1",
 					"KN",
 					"30",
+					"35",
 					"36",
+					"38",
 					"S"
 				],
 				"price": {
