@@ -7,170 +7,24 @@
 		}
 	},
 	"validity": {
-		"from": "2018-12-17T00:00:00.000Z",
-		"until": "2018-12-21T00:00:00.000Z"
+		"from": "2018-12-24T00:00:00.000Z",
+		"until": "2018-12-28T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
-			"1": {
-				"name": "Gemüsebällchen auf Preiselbeerschmand",
-				"attributes": [
-					"F",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Pfannkuchen auf weihnachtlichen Zimt-Kirschen und Schlagcreme",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Nocken von tomatisiertem Bulgur auf Paprika-Zwiebel-Confit",
-				"attributes": [
-					"V",
-					"KN",
-					"30"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Berner Riesenrösti mit buntem Béchamelgemüse",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Schupfnudelpfanne mit Spitzkohl",
-				"attributes": [
-					"V",
-					"1",
-					"KN",
-					"30"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			}
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null
 		},
 		"Essen 2": {
-			"1": {
-				"name": "Ofenfrischer Spießbraten mit griechischem Zaziki",
-				"attributes": [
-					"2",
-					"3",
-					"KN",
-					"36",
-					"38",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Hähnchenbrust mit Pesto Rosso auf Béchamelsauce",
-				"attributes": [
-					"1",
-					"KN",
-					"30",
-					"36",
-					"37"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Wellenbandnudeln mit feurigem Chili con Carne",
-				"attributes": [
-					"KN",
-					"30",
-					"32",
-					"R"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Asia-Schweinefleischstreifen in Red-Thaicurry-Sauce",
-				"attributes": [
-					"1",
-					"KN",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Fischstäbchen mit Remouladensauce",
-				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			}
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null
 		}
 	}
 }
