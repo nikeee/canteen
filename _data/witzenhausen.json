@@ -7,31 +7,164 @@
 		}
 	},
 	"validity": {
-		"from": "2018-12-24T00:00:00.000Z",
-		"until": "2018-12-28T00:00:00.000Z"
+		"from": "2019-12-31T00:00:00.000Z",
+		"until": "2019-01-04T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": null,
-			"2": null,
-			"3": null,
-			"4": null,
-			"5": null
+			"2": {
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.3,
+					"visitor": 2.2
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Gebackene Brokkoli-Nuggets an Pfeffer-Sauerrahmdip",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"35",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Backfrische Ofenkartoffel mit buntem Gemüseragout",
+				"attributes": [
+					"V",
+					"KN",
+					"38"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Zucchinipfanne mit schwarzen Bohnen",
+				"attributes": [
+					"V",
+					"38",
+					"39",
+					"40"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			}
 		},
 		"Essen 2": {
 			"1": null,
 			"2": null,
-			"3": null,
-			"4": null,
-			"5": null
+			"3": {
+				"name": "Schweinegeschnetzeltes in Zwiebelrahm",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Bami Goreng mit Geflügelstreifen",
+				"attributes": [
+					"30",
+					"32",
+					"39"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Putengulasch in Balkan-Tomatensauce",
+				"attributes": [
+					"KN"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			}
 		},
 		"Bio-Essen": {
 			"1": null,
 			"2": null,
-			"3": null,
-			"4": null,
-			"5": null
+			"3": {
+				"name": "Spaghetti in Paprikasauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"KN",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Tofu-Curry-Ragout mit Tomatenwürfeln und Erbsen",
+				"attributes": [
+					"V",
+					"Ö",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Jugoslawische Bohnensuppe",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			}
 		},
 		"Aktions-Essen": {
 			"1": null,
