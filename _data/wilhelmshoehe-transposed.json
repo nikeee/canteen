@@ -12,7 +12,6 @@
 		"until": "2019-01-04T00:00:00.000Z"
 	},
 	"days": [
-		[],
 		[
 			{
 				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
@@ -28,47 +27,33 @@
 		],
 		[
 			{
-				"name": "Gebackene Brokkoli-Nuggets an Pfeffer-Sauerrahmdip",
+				"name": "Kritharakisalat mit buntem Gemüse, dazu Baguette",
 				"attributes": [
-					"F",
-					"30",
-					"32",
-					"35",
-					"36",
-					"38"
+					"V"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Schweinegeschnetzeltes in Zwiebelrahm",
-				"attributes": [
-					"1",
-					"30",
-					"36",
-					"S"
-				],
+				"name": "Geflügelwürfel in Red-Thaicurrysauce",
+				"attributes": [],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Tortelloni all'arrabbiata in veganer Kräuter-Béchamel",
+				"name": "Gnocchi in fruchtiger Tomatensauce",
 				"attributes": [
-					"V",
-					"1",
-					"KN",
-					"30",
-					"35"
+					"F"
 				],
 				"price": {
 					"student": 3,
@@ -76,16 +61,14 @@
 					"visitor": 5.2
 				},
 				"vitalInfo": null,
-				"categoryName": "Essen 3 oder 4"
+				"categoryName": "Angebot des Tages I"
 			}
 		],
 		[
 			{
-				"name": "Backfrische Ofenkartoffel mit buntem Gemüseragout",
+				"name": "Ofenfrisches Hirtenkäsesteak mit Rahmspinat",
 				"attributes": [
-					"V",
-					"KN",
-					"38"
+					"F"
 				],
 				"price": {
 					"student": 2.1,
@@ -96,12 +79,53 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Bami Goreng mit Geflügelstreifen",
+				"name": "Texanisches feuriges Chili con Carne",
+				"attributes": [],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Sojageschnetzeltes mit Waldpilzen, dazu Rotkohl und Klöße",
 				"attributes": [
-					"30",
-					"32",
-					"39"
+					"V",
+					"MV"
 				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 72,
+					"protein": 31,
+					"calories": 611
+				},
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Hausgemachte Polenta à la Crème auf tomatisierter Bratzucchini",
+				"attributes": [
+					"F"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gebratene Hähnchenbrust auf cremigen Béchamelkartoffeln",
+				"attributes": [],
 				"price": {
 					"student": 2.6,
 					"employee": 3.9,
@@ -111,71 +135,64 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Paniertes Schweineschnitzel an schwarzer Johannisbeerjus",
+				"name": "Gratinierte Schupfnudeln mit Chinakohl und Rindfleischstreifen",
 				"attributes": [
-					"3",
-					"30",
-					"32",
-					"S"
+					"MV"
 				],
 				"price": {
 					"student": 3.2,
 					"employee": 4.5,
 					"visitor": 5.4
 				},
-				"vitalInfo": null,
-				"categoryName": "Essen 3 oder 4"
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 69,
+					"protein": 38,
+					"calories": 617
+				},
+				"categoryName": "Angebot des Tages I"
 			}
 		],
 		[
 			{
-				"name": "Zucchinipfanne mit schwarzen Bohnen",
+				"name": "Hausgemachter Kürbis-Pfannkuchen auf Sojajoghurtdip",
 				"attributes": [
-					"V",
-					"38",
-					"39",
-					"40"
+					"V"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 1.9,
+					"employee": 3.2,
+					"visitor": 4.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Putengulasch in Balkan-Tomatensauce",
-				"attributes": [
-					"KN"
-				],
+				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
+				"attributes": [],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.3,
+					"employee": 3.6,
+					"visitor": 4.5
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Seelachs mit Spinat, Mozzarella und Mandeln an Vollkornreis",
+				"name": "Buntbarsch mit Kürbis, Zitronensauce und Lauchreis",
 				"attributes": [
-					"MV",
-					"30",
-					"33",
-					"36",
-					"37"
+					"MV"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
 				},
 				"vitalInfo": {
-					"fat": 23,
-					"carbohydrate": 82,
-					"protein": 45,
-					"calories": 718
+					"fat": 22,
+					"carbohydrate": 96,
+					"protein": 42,
+					"calories": 748
 				},
 				"categoryName": "Angebot des Tages I"
 			}
