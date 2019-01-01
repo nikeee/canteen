@@ -13,8 +13,9 @@
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
-			"1": {
-				"name": "Heute bleiben unsere Einrichtungen geschlossen",
+			"1": null,
+			"2": {
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
 				"attributes": [],
 				"price": {
 					"student": 0,
@@ -23,22 +24,15 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Kritharakisalat mit buntem Gemüse, dazu Baguette",
-				"attributes": [
-					"V"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Ofenfrisches Hirtenkäsesteak mit Rahmspinat",
+				"name": "Gebackene Brokkoli-Nuggets an Pfeffer-Sauerrahmdip",
 				"attributes": [
-					"F"
+					"F",
+					"30",
+					"32",
+					"35",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.1,
@@ -48,55 +42,60 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hausgemachte Polenta à la Crème auf tomatisierter Bratzucchini",
+				"name": "Backfrische Ofenkartoffel mit buntem Gemüseragout",
 				"attributes": [
-					"V"
+					"V",
+					"KN",
+					"38"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachter Kürbis-Pfannkuchen auf Sojajoghurtdip",
+				"name": "Zucchinipfanne mit schwarzen Bohnen",
 				"attributes": [
-					"V"
+					"V",
+					"38",
+					"39",
+					"40"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.2,
-					"visitor": 4.1
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": null,
-			"2": {
-				"name": "Geflügelwürfel in Red-Thaicurrysauce",
-				"attributes": [],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": {
-				"name": "Texanisches feuriges Chili con Carne",
-				"attributes": [],
+				"name": "Schweinegeschnetzeltes in Zwiebelrahm",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"S"
+				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gebratene Hähnchenbrust auf Béchamelkartoffeln",
-				"attributes": [],
+				"name": "Bami Goreng mit Geflügelstreifen",
+				"attributes": [
+					"30",
+					"32",
+					"39"
+				],
 				"price": {
 					"student": 2.6,
 					"employee": 3.9,
@@ -105,35 +104,29 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
-				"attributes": [],
+				"name": "Putengulasch in Balkan-Tomatensauce",
+				"attributes": [
+					"KN"
+				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.6,
-					"visitor": 4.5
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": null,
-			"2": {
-				"name": "Spaghetti mit Paprikasauce und Kartoffelcroûtons",
+			"2": null,
+			"3": {
+				"name": "Spaghetti in Paprikasauce",
 				"attributes": [
 					"V",
-					"Ö"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Kartoffel-Spinatcurry",
-				"attributes": [
-					"V"
+					"Ö",
+					"KN",
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -143,10 +136,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Mangoldpfanne mit Mandeln",
+				"name": "Tofu-Curry-Ragout mit Tomatenwürfeln und Erbsen",
 				"attributes": [
 					"V",
-					"Ö"
+					"Ö",
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -156,10 +151,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Rührei mit Spinat",
+				"name": "Jugoslawische Bohnensuppe",
 				"attributes": [
 					"F",
-					"Ö"
+					"Ö",
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
