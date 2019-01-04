@@ -99,9 +99,13 @@
 			{
 				"name": "Bami Goreng mit Geflügelstreifen",
 				"attributes": [
+					"2",
+					"3",
 					"30",
 					"32",
-					"39"
+					"38",
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 2.6,
