@@ -8,34 +8,17 @@
 		}
 	},
 	"validity": {
-		"from": "2019-12-31T00:00:00.000Z",
-		"until": "2019-01-04T00:00:00.000Z"
+		"from": "2019-01-07T00:00:00.000Z",
+		"until": "2019-01-11T00:00:00.000Z"
 	},
 	"days": [
-		[],
 		[
 			{
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			}
-		],
-		[
-			{
-				"name": "Gebackene Brokkoli-Nuggets an Pfeffer-Sauerrahmdip",
+				"name": "Süßkartoffel-Gnocchi in Tomatensauce",
 				"attributes": [
-					"F",
-					"30",
-					"32",
-					"35",
-					"36",
-					"38"
+					"V",
+					"KN",
+					"30"
 				],
 				"price": {
 					"student": 2.1,
@@ -46,23 +29,27 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Schweinegeschnetzeltes in Zwiebelrahm",
+				"name": "Knackwurstauf hausgemachtem Kartoffelsalat",
 				"attributes": [
-					"1",
-					"30",
+					"2",
+					"3",
+					"8",
+					"9",
+					"32",
 					"36",
+					"39",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Spaghetti in Paprikasauce",
+				"name": "Tagliatelle mit Lauch-Sojasauce und Tofu",
 				"attributes": [
 					"V",
 					"Ö",
@@ -81,25 +68,31 @@
 		],
 		[
 			{
-				"name": "Backfrische Ofenkartoffel mit buntem Gemüseragout",
+				"name": "Backfrischer Nutella Pfannkuchen an cremiger Eierlikörsauce",
 				"attributes": [
-					"V",
-					"KN",
-					"38"
+					"F",
+					"A",
+					"1",
+					"30",
+					"32",
+					"35",
+					"36",
+					"37"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Bami Goreng mit Geflügelstreifen",
+				"name": "Hähnchenbrust mit Ingwer mariniert auf asiatischer Sojasauce",
 				"attributes": [
+					"KN",
 					"30",
-					"32",
+					"35",
 					"39"
 				],
 				"price": {
@@ -111,7 +104,56 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Tofu-Curry-Ragout mit Tomatenwürfeln und Erbsen",
+				"name": "Veganer Borschtsch",
+				"attributes": [
+					"V",
+					"Ö"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Rahmspinat mit Rührei",
+				"attributes": [
+					"F",
+					"1",
+					"KN",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hausgemachtes Hacksteak auf Zwiebeljus",
+				"attributes": [
+					"KN",
+					"32",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Indisches Zucchini-Curry",
 				"attributes": [
 					"V",
 					"Ö",
@@ -129,9 +171,59 @@
 		],
 		[
 			{
-				"name": "Zucchinipfanne mit schwarzen Bohnen",
+				"name": "Ofenfrische Gemüsetaler mit Sauerrahmdip",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Geschmortes Tomatengemüse mit Hähnchenstreifen",
+				"attributes": [
+					"KN"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Sesamnudeln mit asiatischem Gemüse",
 				"attributes": [
 					"V",
+					"Ö",
+					"30",
+					"35",
+					"39",
+					"40"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Asia-Sojastreifen in süßscharfer Sauce",
+				"attributes": [
+					"V",
+					"35",
 					"38",
 					"39",
 					"40"
@@ -145,24 +237,31 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Putengulasch in Balkan-Tomatensauce",
+				"name": "Gegrilltes Steak vom Schweinerücken auf cremiger Portwein-Rahmsauce",
 				"attributes": [
-					"KN"
+					"A",
+					"1",
+					"30",
+					"36",
+					"41",
+					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Jugoslawische Bohnensuppe",
+				"name": "Berner Röstiauflauf mit Käsesauce",
 				"attributes": [
 					"F",
 					"Ö",
+					"KN",
 					"30",
+					"32",
 					"36"
 				],
 				"price": {

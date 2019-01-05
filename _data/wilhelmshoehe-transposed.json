@@ -8,35 +8,17 @@
 		}
 	},
 	"validity": {
-		"from": "2019-12-31T00:00:00.000Z",
-		"until": "2019-01-04T00:00:00.000Z"
+		"from": "2019-01-07T00:00:00.000Z",
+		"until": "2019-01-11T00:00:00.000Z"
 	},
 	"days": [
-		[],
 		[
 			{
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 0,
-					"employee": 1.3,
-					"visitor": 2.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			}
-		],
-		[
-			{
-				"name": "Gebackene Brokkoli-Nuggets an Pfeffer-Sauerrahmdip",
+				"name": "Süßkartoffel-Gnocchi in Tomatensauce",
 				"attributes": [
-					"F",
-					"30",
-					"32",
-					"35",
-					"36",
-					"38",
-					"39"
+					"V",
+					"KN",
+					"30"
 				],
 				"price": {
 					"student": 2.1,
@@ -47,63 +29,14 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Schweinegeschnetzeltes in Zwiebelrahm",
-				"attributes": [
-					"1",
-					"30",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Tortelloni all'arrabbiata in veganer Kräuter-Béchamel",
-				"attributes": [
-					"V",
-					"1",
-					"KN",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 3 oder 4"
-			}
-		],
-		[
-			{
-				"name": "Backfrische Ofenkartoffel mit buntem Gemüseragout",
-				"attributes": [
-					"V",
-					"KN",
-					"38"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Bami Goreng mit Geflügelstreifen",
+				"name": "Knackwurst auf hausgemachtem Kartoffelsalat",
 				"attributes": [
 					"2",
 					"3",
-					"30",
+					"8",
+					"9",
 					"32",
-					"38",
+					"36",
 					"39",
 					"S"
 				],
@@ -116,17 +49,75 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Paniertes Schweineschnitzel an schwarzer Johannisbeerjus",
+				"name": "Klassischer Burger mit Beef, zweierlei Dips und Wildkräutersalat, dazu Steakhouse Pommes frites",
 				"attributes": [
 					"3",
+					"9",
 					"30",
 					"32",
-					"S"
+					"36",
+					"39",
+					"40",
+					"R"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Backfrischer Pfannkuchen an Nutellasauce mit Eierlikör",
+				"attributes": [
+					"F",
+					"A",
+					"1",
+					"30",
+					"32",
+					"35",
+					"36",
+					"37"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hähnchenbrust mit Ingwer mariniert auf asiatischer Sojasauce",
+				"attributes": [
+					"1",
+					"KN",
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Marokkanische Pasta mit Nüssen, Kichererbsen und Rosinen",
+				"attributes": [
+					"V",
+					"30",
+					"37"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 3 oder 4"
@@ -134,9 +125,118 @@
 		],
 		[
 			{
-				"name": "Zucchinipfanne mit schwarzen Bohnen",
+				"name": "Rahmspinat mit Rührei",
+				"attributes": [
+					"F",
+					"1",
+					"KN",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hausgemachtes Hacksteak auf Zwiebeljus",
+				"attributes": [
+					"KN",
+					"30",
+					"32",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Ofenfrische Pizza mit Tomaten und geschmorten Champignons",
 				"attributes": [
 					"V",
+					"1",
+					"3",
+					"KN",
+					"30",
+					"35",
+					"41"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Ofenfrische Gemüsetaler mit Sauerrahmdip",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Geschmortes Tomatengemüse mit Hähnchenstreifen",
+				"attributes": [
+					"KN"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Spaghetti mit Kürbis-Soja-Bolognese",
+				"attributes": [
+					"V",
+					"MV",
+					"KN",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": {
+					"fat": 21,
+					"carbohydrate": 98,
+					"protein": 39,
+					"calories": 749
+				},
+				"categoryName": "Angebot des Tages I"
+			}
+		],
+		[
+			{
+				"name": "Asia-Sojastreifen in süßscharfer Sauce",
+				"attributes": [
+					"V",
+					"35",
 					"38",
 					"39",
 					"40"
@@ -150,26 +250,31 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Putengulasch in Balkan-Tomatensauce",
+				"name": "Gegrilltes Steak vom Schweinerücken auf Portwein-Rahmsauce",
 				"attributes": [
-					"KN"
+					"A",
+					"1",
+					"30",
+					"36",
+					"41",
+					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Seelachs mit Spinat, Mozzarella und Mandeln an Vollkornreis",
+				"name": "Gedünsteter Seelachs mit Apfel-Meerrettichdip auf Karotten und Dillkartoffeln",
 				"attributes": [
 					"MV",
-					"30",
+					"3",
+					"9",
 					"33",
-					"36",
-					"37"
+					"36"
 				],
 				"price": {
 					"student": 4,
@@ -177,10 +282,10 @@
 					"visitor": 6.2
 				},
 				"vitalInfo": {
-					"fat": 23,
-					"carbohydrate": 82,
-					"protein": 45,
-					"calories": 718
+					"fat": 15,
+					"carbohydrate": 69,
+					"protein": 38,
+					"calories": 614
 				},
 				"categoryName": "Angebot des Tages I"
 			}
