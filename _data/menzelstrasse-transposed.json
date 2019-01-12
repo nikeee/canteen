@@ -8,17 +8,20 @@
 		}
 	},
 	"validity": {
-		"from": "2019-01-07T00:00:00.000Z",
-		"until": "2019-01-11T00:00:00.000Z"
+		"from": "2019-01-14T00:00:00.000Z",
+		"until": "2019-01-18T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Süßkartoffel-Gnocchi in Tomatensauce",
+				"name": "Hausgemachte Grilltomate auf cremigem Eblysotto",
 				"attributes": [
 					"V",
+					"1",
 					"KN",
-					"30"
+					"30",
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 2.1,
@@ -29,21 +32,18 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Knackwurst auf hausgemachtem Kartoffelsalat",
+				"name": "Hühnerfrikassee mit Erbsen und Spargel",
 				"attributes": [
-					"2",
-					"3",
-					"8",
-					"9",
-					"32",
+					"A",
+					"1",
+					"30",
 					"36",
-					"39",
-					"S"
+					"41"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
@@ -51,16 +51,11 @@
 		],
 		[
 			{
-				"name": "Backfrischer Nutella Pfannkuchen an cremiger Eierlikörsauce",
+				"name": "Boccolottipfanne mit Radicchio und Kirschtomaten",
 				"attributes": [
-					"F",
-					"A",
-					"1",
-					"30",
-					"32",
-					"35",
-					"36",
-					"37"
+					"V",
+					"KN",
+					"30"
 				],
 				"price": {
 					"student": 2,
@@ -71,34 +66,107 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hähnchenbrust mit Ingwer mariniert auf asiatischer Sojasauce",
+				"name": "Fischstäbchen mit Remouladensauce",
+				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Rote Kokoslinsen in gelber Thai-Currysauce mit Gemüse",
+				"attributes": [
+					"V",
+					"3",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Steak vom Schweinerücken in Barbecue-Marinade an Zitronenbutter",
 				"attributes": [
 					"1",
+					"2",
+					"36",
+					"38",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
+				"attributes": [
+					"F",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gegrillte, nordhessische Kartoffelbratwurst an Schmanddip",
+				"attributes": [
+					"2",
+					"3",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Mexikanische Couscous-Pfanne an scharfen veganem Dip",
+				"attributes": [
+					"V",
+					"3",
 					"KN",
 					"30",
 					"35",
 					"39"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Rahmspinat mit Rührei",
-				"attributes": [
-					"F",
-					"1",
-					"KN",
-					"32",
-					"36"
-				],
-				"price": {
 					"student": 2.1,
 					"employee": 3.4,
 					"visitor": 4.3
@@ -107,86 +175,16 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hausgemachtes Hacksteak auf Zwiebeljus",
+				"name": "Szegediner Gulasch aus der Schweinekeule mit Kraut und Paprika",
 				"attributes": [
 					"KN",
-					"30",
-					"32",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Ofenfrische Gemüsetaler mit Sauerrahmdip",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Geschmortes Tomatengemüse mit Hähnchenstreifen",
-				"attributes": [
-					"KN"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Asia-Sojastreifen in süßscharfer Sauce",
-				"attributes": [
-					"V",
-					"35",
-					"38",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gegrilltes Steak vom Schweinerücken auf Portwein-Rahmsauce",
-				"attributes": [
-					"A",
-					"1",
-					"30",
 					"36",
-					"41",
 					"S"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"

@@ -7,18 +7,21 @@
 		}
 	},
 	"validity": {
-		"from": "2019-01-07T00:00:00.000Z",
-		"until": "2019-01-11T00:00:00.000Z"
+		"from": "2019-01-14T00:00:00.000Z",
+		"until": "2019-01-18T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Süßkartoffel-Gnocchi in Tomatensauce",
+				"name": "Hausgemachte Grilltomate auf cremigem Eblysotto",
 				"attributes": [
 					"V",
+					"1",
 					"KN",
-					"30"
+					"30",
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 2.1,
@@ -28,16 +31,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Backfrischer Nutella Pfannkuchen an cremiger Eierlikörsauce",
+				"name": "Boccolottipfanne mit Radicchio und Kirschtomaten",
 				"attributes": [
-					"F",
-					"A",
-					"1",
-					"30",
-					"32",
-					"35",
-					"36",
-					"37"
+					"V",
+					"KN",
+					"30"
 				],
 				"price": {
 					"student": 2,
@@ -47,13 +45,12 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Rahmspinat mit Rührei",
+				"name": "Rote Kokoslinsen in gelber Thai-Currysauce mit Gemüse",
 				"attributes": [
-					"F",
-					"1",
-					"KN",
-					"32",
-					"36"
+					"V",
+					"3",
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.1,
@@ -63,10 +60,9 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Ofenfrische Gemüsetaler mit Sauerrahmdip",
+				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
 				"attributes": [
 					"F",
-					"30",
 					"32",
 					"36"
 				],
@@ -78,13 +74,14 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Asia-Sojastreifen in süßscharfer Sauce",
+				"name": "Mexikanische Couscous-Pfanne an scharfen veganem Dip",
 				"attributes": [
 					"V",
+					"3",
+					"KN",
+					"30",
 					"35",
-					"38",
-					"39",
-					"40"
+					"39"
 				],
 				"price": {
 					"student": 2.1,
@@ -96,82 +93,83 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Knackwurst auf hausgemachtem Kartoffelsalat",
-				"attributes": [
-					"2",
-					"3",
-					"8",
-					"9",
-					"32",
-					"36",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Hähnchenbrust mit Ingwer mariniert auf asiatischer Sojasauce",
-				"attributes": [
-					"1",
-					"KN",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Hausgemachtes Hacksteak auf Zwiebeljus",
-				"attributes": [
-					"KN",
-					"30",
-					"32",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Geschmortes Tomatengemüse mit Hähnchenstreifen",
-				"attributes": [
-					"KN"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Gegrilltes Steak vom Schweinerücken auf Portwein-Rahmsauce",
+				"name": "Hühnerfrikassee mit Erbsen und Spargel",
 				"attributes": [
 					"A",
 					"1",
 					"30",
 					"36",
-					"41",
+					"41"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Fischstäbchen mit Remouladensauce",
+				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Steak vom Schweinerücken in Barbecue-Marinade an Zitronenbutter",
+				"attributes": [
+					"1",
+					"2",
+					"36",
+					"38",
+					"39",
 					"S"
 				],
 				"price": {
 					"student": 2.6,
 					"employee": 3.9,
 					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gegrillte, nordhessische Kartoffelbratwurst an Schmanddip",
+				"attributes": [
+					"2",
+					"3",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Szegediner Gulasch aus der Schweinekeule mit Kraut und Paprika",
+				"attributes": [
+					"KN",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			}
