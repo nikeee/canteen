@@ -7,24 +7,167 @@
 		}
 	},
 	"validity": {
-		"from": "2019-01-07T00:00:00.000Z",
-		"until": "2019-01-12T00:00:00.000Z"
+		"from": "2019-01-14T00:00:00.000Z",
+		"until": "2019-01-19T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
-			"1": null,
-			"2": null,
-			"3": null,
-			"4": null,
-			"5": null
+			"1": {
+				"name": "Hähnchenbrustfilet in Tomaten-Rahmsauce",
+				"attributes": [
+					"KN",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Rindergeschnetzeltes Mediterrane Art",
+				"attributes": [
+					"KN",
+					"30",
+					"36",
+					"R"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Paniertes Schweineschnitzel an kräftiger Zwiebeljus",
+				"attributes": [
+					"30",
+					"32",
+					"S"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Geschnetzeltes von der Putenoberkeule mit Champignons",
+				"attributes": [
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Grillfrische Bratwurst mit Curry-Ketchupsauce",
+				"attributes": [
+					"3",
+					"8",
+					"38",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null
+			}
 		},
 		"Angebot 2": {
-			"1": null,
-			"2": null,
-			"3": null,
-			"4": null,
-			"5": null
+			"1": {
+				"name": "Geschöpfte Wellenbandnudeln mit hausgemachtem Pesto",
+				"attributes": [
+					"F",
+					"1",
+					"2",
+					"KN",
+					"30",
+					"32",
+					"36",
+					"37"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Kartoffeltaschen mit Frischkäse gefüllt an fruchtiger Basilikum-Tomatensauce",
+				"attributes": [
+					"F",
+					"KN",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Italienische Kartoffelgnocchi in Steinpilz-Rahmsauce mit Käse überbacken",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Orientalische Orangen-Couscous-Pfanne an Paprikarelish",
+				"attributes": [
+					"V",
+					"KN",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachte Lasagne mit Ratatouille",
+				"attributes": [
+					"F",
+					"KN",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			}
 		},
 		"": {
 			"1": null,
