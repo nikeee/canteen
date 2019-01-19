@@ -7,20 +7,17 @@
 		}
 	},
 	"validity": {
-		"from": "2019-01-14T00:00:00.000Z",
-		"until": "2019-01-18T00:00:00.000Z"
+		"from": "2019-01-21T00:00:00.000Z",
+		"until": "2019-01-25T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Hausgemachte Grilltomate auf cremigem Eblysotto",
+				"name": "Gebratenes Curry-Quinoa mit Retro-Gemüse",
 				"attributes": [
 					"V",
-					"1",
-					"KN",
-					"30",
-					"35",
+					"3",
 					"38"
 				],
 				"price": {
@@ -31,26 +28,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Boccolottipfanne mit Radicchio und Kirschtomaten",
+				"name": "Berner Riesenrösti auf Paprika-Zwiebel-Ragout",
 				"attributes": [
 					"V",
-					"KN",
-					"30"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Rote Kokoslinsen in gelber Thai-Currysauce mit Gemüse",
-				"attributes": [
-					"V",
-					"3",
-					"35",
-					"39"
+					"KN"
 				],
 				"price": {
 					"student": 2.1,
@@ -59,11 +40,12 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
+			"3": {
+				"name": "Gnocchi in Béchamelsauce mit frischem Rucola",
 				"attributes": [
 					"F",
-					"32",
+					"1",
+					"30",
 					"36"
 				],
 				"price": {
@@ -73,15 +55,28 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Mexikanische Couscous-Pfanne an scharfen veganem Dip",
+			"4": {
+				"name": "Curry von Brokkoli und Lauch in Erdnusssauce mit Kokos",
 				"attributes": [
 					"V",
-					"3",
-					"KN",
+					"1",
 					"30",
+					"34",
 					"35",
 					"39"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Pfannenfrische Gemüsepaella",
+				"attributes": [
+					"V",
+					"KN"
 				],
 				"price": {
 					"student": 2.1,
@@ -93,13 +88,14 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Hühnerfrikassee mit Erbsen und Spargel",
+				"name": "Semmelknödel mit Speck-Schmandstippe",
 				"attributes": [
-					"A",
-					"1",
+					"2",
+					"3",
 					"30",
+					"32",
 					"36",
-					"41"
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -109,32 +105,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Fischstäbchen mit Remouladensauce",
+				"name": "Geschwenkte Geflügelstreifen Gyros Art an griechischem Zaziki",
 				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Steak vom Schweinerücken in Barbecue-Marinade an Zitronenbutter",
-				"attributes": [
-					"1",
-					"2",
-					"36",
-					"38",
-					"39",
-					"S"
+					"KN",
+					"36"
 				],
 				"price": {
 					"student": 2.6,
@@ -143,12 +117,10 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Gegrillte, nordhessische Kartoffelbratwurst an Schmanddip",
+			"3": {
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
 				"attributes": [
-					"2",
-					"3",
-					"30",
+					"8",
 					"36",
 					"S"
 				],
@@ -159,17 +131,31 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Szegediner Gulasch aus der Schweinekeule mit Kraut und Paprika",
+			"4": {
+				"name": "Hähnchenbrust auf Béchamelkartoffeln",
 				"attributes": [
-					"KN",
-					"36",
-					"S"
+					"1",
+					"30",
+					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Orientalische Hackfleisch-Reispfanne",
+				"attributes": [
+					"3",
+					"38",
+					"R"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null
 			}
