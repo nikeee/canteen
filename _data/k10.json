@@ -7,113 +7,35 @@
 		}
 	},
 	"validity": {
-		"from": "2019-01-14T00:00:00.000Z",
-		"until": "2019-01-19T00:00:00.000Z"
+		"from": "2019-01-21T00:00:00.000Z",
+		"until": "2019-01-26T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Hähnchenbrustfilet in Tomaten-Rahmsauce",
+				"name": "Hähnchenbrust mit Ingwer mariniert an cremiger Kürbissahnesauce",
 				"attributes": [
-					"KN",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Rindergeschnetzeltes Mediterrane Art",
-				"attributes": [
-					"KN",
-					"30",
-					"36",
-					"R"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Paniertes Schweineschnitzel an kräftiger Zwiebeljus",
-				"attributes": [
-					"30",
-					"32",
-					"S"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Geschnetzeltes von der Putenoberkeule mit Champignons",
-				"attributes": [
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Grillfrische Bratwurst mit Curry-Ketchupsauce",
-				"attributes": [
-					"3",
-					"8",
-					"38",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
-			}
-		},
-		"Angebot 2": {
-			"1": {
-				"name": "Geschöpfte Wellenbandnudeln mit hausgemachtem Pesto",
-				"attributes": [
-					"F",
 					"1",
-					"2",
 					"KN",
-					"30",
-					"32",
 					"36",
-					"37"
+					"39",
+					"41"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kartoffeltaschen mit Frischkäse gefüllt an fruchtiger Basilikum-Tomatensauce",
+				"name": "Geschnetzeltes vom Schwein nach Züricher Art",
 				"attributes": [
-					"F",
-					"KN",
+					"1",
 					"30",
-					"32",
-					"36"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 3.1,
@@ -123,7 +45,95 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Italienische Kartoffelgnocchi in Steinpilz-Rahmsauce mit Käse überbacken",
+				"name": "Putenschnitzel in Pankopanierung auf fruchtig-scharfer Honig-Sesamsauce",
+				"attributes": [
+					"30",
+					"32",
+					"35",
+					"39",
+					"40"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Ofenfrischer Spießbraten an Schwarzbierjus",
+				"attributes": [
+					"A",
+					"2",
+					"3",
+					"30",
+					"38",
+					"S"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Klassischer Burger mit Beef, zweierlei Dips und Salat",
+				"attributes": [
+					"3",
+					"9",
+					"30",
+					"32",
+					"36",
+					"39",
+					"40",
+					"R"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			}
+		},
+		"Angebot 2": {
+			"1": {
+				"name": "Tortellini mit Soja-Bolognese in Tomatensauce mit Mango",
+				"attributes": [
+					"V",
+					"3",
+					"KN",
+					"30",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Cremiges Graupen-Risotto mit Gemüse",
+				"attributes": [
+					"V",
+					"1",
+					"KN",
+					"30",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Schwäbische Spätzle mit Röstzwiebeln und Käsesauce",
 				"attributes": [
 					"F",
 					"1",
@@ -132,40 +142,50 @@
 					"36"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Orientalische Orangen-Couscous-Pfanne an Paprikarelish",
+				"name": "Gebackene Brokkoli-Nuggets an Kräuter-Béchamelsauce",
 				"attributes": [
-					"V",
+					"F",
+					"1",
 					"KN",
 					"30",
+					"32",
+					"35",
+					"36",
 					"38"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachte Lasagne mit Ratatouille",
+				"name": "Burger mit Gemüsepatty, Dips und Salat",
 				"attributes": [
 					"F",
-					"KN",
+					"2",
+					"3",
+					"9",
 					"30",
 					"32",
-					"36"
+					"35",
+					"36",
+					"38",
+					"39",
+					"40"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null
 			}
