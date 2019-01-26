@@ -8,50 +8,48 @@
 		}
 	},
 	"validity": {
-		"from": "2019-01-21T00:00:00.000Z",
-		"until": "2019-01-25T00:00:00.000Z"
+		"from": "2019-01-28T00:00:00.000Z",
+		"until": "2019-02-01T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Gebratenes Curry-Quinoa mit Retro-Gemüse",
+				"name": "Tortellini in fruchtiger Tomatensauce",
 				"attributes": [
 					"V",
-					"3",
+					"KN",
+					"30",
 					"38"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Semmelknödel mit Speck-Schmandstippe",
+				"name": "Ofenfrische Geflügelfrikadelle an Jus mit grünen Pfefferbeeren",
 				"attributes": [
-					"2",
-					"3",
 					"30",
-					"32",
-					"36",
-					"S"
+					"38",
+					"39"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Huevos Mexicanos - Rührei mexikanisch mit Tomaten, Zwiebeln und Chili",
+				"name": "Tofuragout Mexikanische Art",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"32",
+					"9",
 					"35"
 				],
 				"price": {
@@ -63,12 +61,10 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Karibischer Fischtopf mit Kokosmilch und Süßkartoffeln",
+				"name": "Französisches Schweineragout mit weißen Bohnen und Karotten",
 				"attributes": [
-					"KN",
-					"31",
-					"33",
-					"35"
+					"3",
+					"S"
 				],
 				"price": {
 					"student": 4,
@@ -81,12 +77,15 @@
 		],
 		[
 			{
-				"name": "Gebackene Kartoffelpuffer an Paprika-Zwiebel-Ragout",
+				"name": "Hausgebackener Kichererbsen-Pfannkuchen mit Brunoise an hausgemachtem Karottenhummus",
 				"attributes": [
 					"F",
 					"KN",
 					"30",
-					"32"
+					"32",
+					"36",
+					"38",
+					"40"
 				],
 				"price": {
 					"student": 2.1,
@@ -97,24 +96,30 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Geschwenkte Geflügelstreifen Gyros Art an griechischem Zaziki",
+				"name": "Cevapcici vom Schweinefleisch an Hot-Salsadip",
 				"attributes": [
+					"3",
 					"KN",
-					"36"
+					"30",
+					"32",
+					"39",
+					"S"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Orientalische Linsensuppe mit Kürbis und Birnen",
+				"name": "Ofenkartoffeln mit arabischem Möhrenpüree",
 				"attributes": [
 					"V",
-					"Ö"
+					"Ö",
+					"KN",
+					"30"
 				],
 				"price": {
 					"student": 2.9,
@@ -125,13 +130,12 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Grünkohl-Hanf-Burger mit Dips und knackigen Salaten",
+				"name": "Burger mit Gemüsefrikadelle, zweierlei Dips und Salat",
 				"attributes": [
-					"V",
-					"9",
+					"F",
 					"30",
-					"35",
-					"39",
+					"32",
+					"36",
 					"40"
 				],
 				"price": {
@@ -145,81 +149,14 @@
 		],
 		[
 			{
-				"name": "Gnocchi in Béchamelsauce mit frischem Rucola",
+				"name": "Goldgelb gebackene griechische Nudelecke an Joghurtaioli",
 				"attributes": [
 					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
-				"attributes": [
-					"8",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Griechische Nudelpfanne mit Oliven und Tofu",
-				"attributes": [
-					"V",
-					"Ö",
+					"3",
 					"KN",
 					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Moussaka mit Ei gestockt",
-				"attributes": [
-					"1",
-					"30",
 					"32",
 					"36",
-					"R"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Curry von Brokkoli und Lauch in Erdnusssauce mit Kokos",
-				"attributes": [
-					"V",
-					"1",
-					"30",
-					"34",
-					"35",
 					"39"
 				],
 				"price": {
@@ -231,27 +168,27 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hähnchenbrust auf Béchamelkartoffeln",
+				"name": "Zwiebel-Roststeak vom Schweinenacken",
 				"attributes": [
-					"1",
-					"30",
-					"36"
+					"A",
+					"41",
+					"S"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Kirsch-Quark-Auflauf mit Vanillesauce",
+				"name": "Gado Gado - Indonesiches Gemüsegericht in Erdnusssauce",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"32",
-					"36"
+					"KN",
+					"34"
 				],
 				"price": {
 					"student": 2.9,
@@ -262,15 +199,12 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Bandnudeln mit cremiger Thunfischsauce",
+				"name": "Hähnchenragout in Rahmsauce mit Austernpilzen",
 				"attributes": [
 					"A",
 					"1",
-					"KN",
 					"30",
-					"33",
 					"36",
-					"38",
 					"41"
 				],
 				"price": {
@@ -284,41 +218,48 @@
 		],
 		[
 			{
-				"name": "Pfannenfrische Gemüsepaella",
+				"name": "Asia-Kokossuppe mit Paprika und Koriander",
 				"attributes": [
 					"V",
+					"1",
+					"3",
 					"KN"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Orientalische Hackfleisch-Reispfanne",
+				"name": "Süd Tiroler Bauerngröstl",
 				"attributes": [
+					"2",
 					"3",
-					"38",
-					"R"
+					"8",
+					"R",
+					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Chili sin Carne mit Tofu",
+				"name": "Gekochte Eier in Curry-Gemüsesauce",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"KN",
-					"35"
+					"30",
+					"32",
+					"35",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -329,17 +270,82 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Bratheringsfilets mit frischen Zwiebeln und Essiggurke, dazu Bratkartoffeln",
+				"name": "Gebratenes Putenschnitzel Hawaii auf Currysauce",
 				"attributes": [
-					"9",
+					"1",
 					"30",
-					"33",
+					"32",
+					"36",
 					"39"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Aktions-Essen"
+			}
+		],
+		[
+			{
+				"name": "Schupfnudeln in Salbei-Kürbissauce",
+				"attributes": [
+					"F",
+					"1",
+					"KN",
+					"30",
+					"32",
+					"36",
+					"39",
+					"41"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Backfrisches Knusperfischfilet auf Schnittlauchdip",
+				"attributes": [
+					"30",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Orientalischer Kartoffelsalat mit Minze",
+				"attributes": [
+					"V",
+					"Ö"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			},
+			{
+				"name": "Kameruner Pfeffereintopf mit Hänchenfleisch",
+				"attributes": [
+					"34"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Aktions-Essen"

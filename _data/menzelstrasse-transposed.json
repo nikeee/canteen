@@ -8,16 +8,17 @@
 		}
 	},
 	"validity": {
-		"from": "2019-01-21T00:00:00.000Z",
-		"until": "2019-01-25T00:00:00.000Z"
+		"from": "2019-01-28T00:00:00.000Z",
+		"until": "2019-02-01T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Gebratenes Curry-Quinoa mit Retro-Gemüse",
+				"name": "Tortellini in fruchtiger Tomatensauce",
 				"attributes": [
 					"V",
-					"3",
+					"KN",
+					"30",
 					"38"
 				],
 				"price": {
@@ -29,96 +30,66 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Semmelknödel mit Speck-Schmandstippe",
+				"name": "Ofenfrische Geflügelfrikadelle an Jus mit grünen Pfefferbeeren",
 				"attributes": [
-					"2",
+					"30",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Kichererbsen-Pfannkuchen mit Brunoise an hausgemachtem Karottenhummus",
+				"attributes": [
+					"V",
+					"KN",
+					"30",
+					"35",
+					"38",
+					"40"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Backfrisches Knusperfischfilet auf Schnittlauchdip",
+				"attributes": [
+					"30",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Gebackene Rucola-Süßkartoffel-Schnitte auf Joghurtaioli",
+				"attributes": [
+					"F",
 					"3",
+					"KN",
 					"30",
 					"32",
 					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Berner Riesenrösti auf Paprika-Zwiebel-Ragout",
-				"attributes": [
-					"V",
-					"KN"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Geschwenkte Geflügelstreifen Gyros Art an griechischem Zaziki",
-				"attributes": [
-					"KN",
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Gnocchi in Béchamelsauce mit frischem Rucola",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
-				"attributes": [
-					"8",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Curry von Brokkoli und Lauch in Erdnusssauce mit Kokos",
-				"attributes": [
-					"V",
-					"1",
-					"30",
-					"34",
-					"35",
 					"39"
 				],
 				"price": {
@@ -130,16 +101,16 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hähnchenbrust auf Béchamelkartoffeln",
+				"name": "Zwiebel-Roststeak vom Schweinenacken",
 				"attributes": [
-					"1",
-					"30",
-					"36"
+					"A",
+					"41",
+					"S"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
@@ -147,10 +118,52 @@
 		],
 		[
 			{
-				"name": "Pfannenfrische Gemüsepaella",
+				"name": "Asia-Kokossuppe mit Paprika und Koriander",
 				"attributes": [
 					"V",
-					"KN"
+					"1",
+					"3",
+					"KN",
+					"35"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Süd Tiroler Bauerngröstel",
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Schupfnudeln in Salbei-Kürbissauce",
+				"attributes": [
+					"F",
+					"1",
+					"KN",
+					"30",
+					"32",
+					"36",
+					"39",
+					"41"
 				],
 				"price": {
 					"student": 2.1,
@@ -161,16 +174,19 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Orientalische Hackfleisch-Reispfanne",
+				"name": "Cevapcici vom Schweinefleisch an Hot-Salsadip",
 				"attributes": [
 					"3",
-					"38",
-					"R"
+					"KN",
+					"30",
+					"32",
+					"39",
+					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"

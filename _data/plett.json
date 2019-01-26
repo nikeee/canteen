@@ -7,17 +7,18 @@
 		}
 	},
 	"validity": {
-		"from": "2019-01-21T00:00:00.000Z",
-		"until": "2019-01-25T00:00:00.000Z"
+		"from": "2019-01-28T00:00:00.000Z",
+		"until": "2019-02-01T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Gebratenes Curry-Quinoa mit Retro-Gemüse",
+				"name": "Tortellini in fruchtiger Tomatensauce",
 				"attributes": [
 					"V",
-					"3",
+					"KN",
+					"30",
 					"38"
 				],
 				"price": {
@@ -28,10 +29,14 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Berner Riesenrösti auf Paprika-Zwiebel-Ragout",
+				"name": "Kichererbsen-Pfannkuchen mit Brunoise an hausgemachtem Karottenhummus",
 				"attributes": [
 					"V",
-					"KN"
+					"KN",
+					"30",
+					"35",
+					"38",
+					"40"
 				],
 				"price": {
 					"student": 2.1,
@@ -41,29 +46,14 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gnocchi in Béchamelsauce mit frischem Rucola",
+				"name": "Gebackene Rucola-Süßkartoffel-Schnitte auf Joghurtaioli",
 				"attributes": [
 					"F",
-					"1",
-					"2",
+					"3",
+					"KN",
 					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Curry von Brokkoli und Lauch in Erdnusssauce mit Kokos",
-				"attributes": [
-					"V",
-					"1",
-					"30",
-					"34",
-					"35",
+					"32",
+					"36",
 					"39"
 				],
 				"price": {
@@ -73,11 +63,33 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Pfannenfrische Gemüsepaella",
+			"4": {
+				"name": "Asia-Kokossuppe mit Paprika und Koriander",
 				"attributes": [
 					"V",
-					"KN"
+					"1",
+					"3",
+					"KN",
+					"35"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Schupfnudeln in Salbei-Kürbissauce",
+				"attributes": [
+					"F",
+					"1",
+					"KN",
+					"30",
+					"32",
+					"36",
+					"39",
+					"41"
 				],
 				"price": {
 					"student": 2.1,
@@ -89,14 +101,25 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Semmelknödel mit Speck-Schmandstippe",
+				"name": "Ofenfrische Geflügelfrikadelle an Jus mit grünen Pfefferbeeren",
 				"attributes": [
-					"2",
-					"3",
 					"30",
-					"32",
-					"36",
-					"S"
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.7,
+					"visitor": 4.6
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Backfrisches Knusperfischfilet auf Schnittlauchdip",
+				"attributes": [
+					"30",
+					"33",
+					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -105,24 +128,11 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Geschwenkte Geflügelstreifen Gyros Art an griechischem Zaziki",
-				"attributes": [
-					"KN",
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
+				"name": "Zwiebel-Roststeak vom Schweinenacken",
 				"attributes": [
-					"8",
-					"36",
+					"A",
+					"41",
 					"S"
 				],
 				"price": {
@@ -133,81 +143,65 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hähnchenbrust auf Béchamelkartoffeln",
+				"name": "Süd Tiroler Bauerngröstel",
 				"attributes": [
-					"1",
-					"30",
-					"36"
+					"2",
+					"3",
+					"8",
+					"R",
+					"S"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Orientalische Hackfleisch-Reispfanne",
+				"name": "Cevapcici vom Schweinefleisch an Hot-Salsadip",
 				"attributes": [
 					"3",
-					"38",
-					"R"
+					"KN",
+					"30",
+					"32",
+					"39",
+					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 3 oder 4": {
-			"1": null,
-			"2": {
-				"name": "Brasilianisches Geschnetzeltes mit Vollkornreis",
+			"1": {
+				"name": "Hirtenkäseschnitzel paniert mit Sesam und Chia auf Ragout von Kirschtomaten",
 				"attributes": [
-					"MV",
-					"3",
-					"36",
-					"37",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": {
-					"fat": 24,
-					"carbohydrate": 82,
-					"protein": 43,
-					"calories": 725
-				}
-			},
-			"3": {
-				"name": "Gegrilltes Steak von der Putenbrust auf Green-Thaicurrysauce mit Mango",
-				"attributes": [
-					"1",
-					"3",
+					"F",
 					"KN",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"4": null,
-			"5": {
-				"name": "Paniertes Schnitzel vom Schwein auf Sauce Choron",
-				"attributes": [
-					"A",
 					"30",
 					"32",
 					"36",
+					"40"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Schmorbraten aus der Schweinekeule in Rotweinjus auf Blaukraut",
+				"attributes": [
+					"A",
+					"3",
+					"9",
+					"KN",
+					"38",
 					"41",
 					"S"
 				],
@@ -217,17 +211,62 @@
 					"visitor": 5.4
 				},
 				"vitalInfo": null
+			},
+			"3": {
+				"name": "Kokos-Erdnuss-Soja-Milchreis mit Mangogrütze",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"34",
+					"35"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gebratenes Putenschnitzel auf tomatisierter Béchamelsauce",
+				"attributes": [
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Bratheringsfilets mit frischen Zwiebeln und Essiggurke an Bratkartoffeln",
+				"attributes": [
+					"9",
+					"30",
+					"33",
+					"39"
+				],
+				"price": {
+					"student": 3.6,
+					"employee": 4.9,
+					"visitor": 5.8
+				},
+				"vitalInfo": null
 			}
 		},
 		"Angebot des Tages I": {
 			"1": {
-				"name": "Hausgemachter Back-Camembert auf Tomaten-Basilikumsauce",
+				"name": "Schweinefilet in Tandoori-Joghurtmarinade auf Kurkuma-Kokossauce",
 				"attributes": [
-					"F",
+					"1",
 					"KN",
-					"30",
-					"32",
-					"36"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 4,
@@ -237,12 +276,37 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Wellenbandnudeln mit Räucherlachsstreifen in Mascarpone-Schnittlauchsauce",
+				"name": "Kartoffel-Apfel-Lauchgratin mit Meerrettich-Dillsauce",
 				"attributes": [
-					"1",
+					"F",
+					"MV",
+					"3",
+					"9",
 					"30",
 					"32",
-					"33",
+					"36"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": {
+					"fat": 24,
+					"carbohydrate": 80,
+					"protein": 28,
+					"calories": 649
+				}
+			},
+			"3": {
+				"name": "Gebratenes Puten-Cordon bleu auf Kräuter-Sahnesauce",
+				"attributes": [
+					"1",
+					"2",
+					"3",
+					"8",
+					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -252,38 +316,15 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Hirschragout mit Birnen, dazu Rosenkohlgemüse und Klöße",
+			"4": {
+				"name": "Sauerkraut-Paprika-Eintopf mit Rind, dazu ein Vollkornbrötchen und Erdbeerkompott mit Basilikum",
 				"attributes": [
-					"A",
 					"MV",
 					"3",
-					"KN",
 					"30",
+					"35",
 					"36",
-					"41"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
-				},
-				"vitalInfo": {
-					"fat": 26,
-					"carbohydrate": 88,
-					"protein": 44,
-					"calories": 741
-				}
-			},
-			"4": {
-				"name": "Süßkartoffel-Puffer mit Mango-Senfdip",
-				"attributes": [
-					"F",
-					"MV",
-					"KN",
-					"32",
-					"36",
-					"39"
+					"R"
 				],
 				"price": {
 					"student": 4,
@@ -291,13 +332,32 @@
 					"visitor": 6.2
 				},
 				"vitalInfo": {
-					"fat": 26,
-					"carbohydrate": 91,
-					"protein": 27,
-					"calories": 727
+					"fat": 24,
+					"carbohydrate": 77,
+					"protein": 36,
+					"calories": 639
 				}
 			},
-			"5": null
+			"5": {
+				"name": "Sojafrikassee mit buntem Gemüse und Vollkornreis",
+				"attributes": [
+					"V",
+					"MV",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 92,
+					"protein": 34,
+					"calories": 690
+				}
+			}
 		}
 	}
 }
