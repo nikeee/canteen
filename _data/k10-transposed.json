@@ -8,73 +8,32 @@
 		}
 	},
 	"validity": {
-		"from": "2019-01-21T00:00:00.000Z",
-		"until": "2019-01-26T00:00:00.000Z"
+		"from": "2019-01-28T00:00:00.000Z",
+		"until": "2019-02-02T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Hähnchenbrust mit Ingwer mariniert an cremiger Kürbissahnesauce",
+				"name": "Gegrilltes Steak von der Putenbrust mit Röstzwiebel-Bratenjus",
 				"attributes": [
-					"1",
-					"KN",
-					"36",
-					"39",
-					"41"
+					"30"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Tortellini mit Soja-Bolognese in Tomatensauce mit Mango",
+				"name": "Backfrischer Kirsch-Pfannkuchen an Schokoladensauce",
 				"attributes": [
-					"V",
-					"3",
-					"KN",
-					"30",
-					"35",
-					"38"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Züricher Kalbsrahmgulasch mit Champignons und dem Hauch Estragon",
-				"attributes": [
+					"F",
 					"1",
 					"30",
-					"36",
-					"R"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Cremiges Graupen-Risotto mit Gemüse",
-				"attributes": [
-					"V",
-					"1",
-					"KN",
-					"30",
-					"35",
-					"38"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -87,13 +46,45 @@
 		],
 		[
 			{
-				"name": "Putenschnitzel in Pankopanierung auf fruchtig-scharfer Honig-Sesamsauce",
+				"name": "Geschwenkte Schweinefleischstreifen Gyros Art an Zaziki",
+				"attributes": [
+					"KN",
+					"36",
+					"38",
+					"S"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Gebackene Gemüsekroketten mit fruchtiger Basilikum-Tomatensauce",
+				"attributes": [
+					"V",
+					"KN",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Frisch gebratenes Hähnchenschnitzel auf Ananasrahmsauce",
 				"attributes": [
 					"30",
 					"32",
-					"35",
-					"39",
-					"40"
+					"36"
 				],
 				"price": {
 					"student": 4,
@@ -104,58 +95,18 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Schwäbische Spätzle mit Röstzwiebeln und Käsesauce",
+				"name": "Tortellini mit Gemüsefüllung in Kräutersauce",
 				"attributes": [
 					"F",
 					"1",
 					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Ofenfrischer Spießbraten an Schwarzbierjus",
-				"attributes": [
-					"A",
-					"2",
-					"3",
-					"30",
-					"38",
-					"S"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Gebackene Brokkoli-Nuggets an Kräuter-Béchamelsauce",
-				"attributes": [
-					"F",
-					"1",
-					"KN",
-					"30",
-					"32",
-					"35",
 					"36",
 					"38"
 				],
 				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
+					"student": 3,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -163,14 +114,11 @@
 		],
 		[
 			{
-				"name": "Klassischer Burger mit Beef, zweierlei Dips und Salat",
+				"name": "Chili con Carne mit Rinderhack und Fladenbrot",
 				"attributes": [
-					"3",
-					"9",
+					"KN",
 					"30",
-					"32",
 					"36",
-					"39",
 					"40",
 					"R"
 				],
@@ -183,24 +131,56 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Burger mit Gemüsepatty, Dips und Salat",
+				"name": "Hausgemachter griechischer Reistaler mit Knoblauchdip",
 				"attributes": [
 					"F",
-					"2",
-					"3",
-					"9",
+					"6",
+					"KN",
 					"30",
 					"32",
-					"35",
-					"36",
-					"38",
-					"39",
-					"40"
+					"36"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 2.8,
+					"employee": 4.1,
+					"visitor": 5
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Pasta-Bowl mit Bolognesesauce aus Schweinefleisch",
+				"attributes": [
+					"1",
+					"2",
+					"KN",
+					"30",
+					"36",
+					"38",
+					"S"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Pasta-Bowl mit Pesto Rosso",
+				"attributes": [
+					"V",
+					"KN",
+					"30",
+					"37"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
