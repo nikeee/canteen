@@ -16,9 +16,14 @@
 			{
 				"name": "Tortellini in fruchtiger Tomatensauce",
 				"attributes": [
-					"V",
+					"F",
+					"1",
+					"2",
 					"KN",
 					"30",
+					"32",
+					"35",
+					"36",
 					"38"
 				],
 				"price": {
@@ -63,20 +68,17 @@
 				"categoryName": "Essen 3 oder 4"
 			},
 			{
-				"name": "Hausgemachte Lasagne mit Sojabolognese",
+				"name": "Schweinefilet in Tandoori-Joghurtmarinade auf Kurkuma-Kokossauce",
 				"attributes": [
-					"F",
 					"1",
 					"KN",
-					"30",
-					"32",
-					"35",
-					"36"
+					"36",
+					"S"
 				],
 				"price": {
-					"student": 2.2,
-					"employee": 3.5,
-					"visitor": 4.4
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot des Tages I"

@@ -45,12 +45,12 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Tofuragout Mexikanische Art",
+				"name": "Ofenkartoffeln mit arabischem Möhrenpüree",
 				"attributes": [
 					"V",
 					"Ö",
-					"9",
-					"35"
+					"KN",
+					"30"
 				],
 				"price": {
 					"student": 2.9,
@@ -114,12 +114,12 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Ofenkartoffeln mit arabischem Möhrenpüree",
+				"name": "Tofuragout Mexikanische Art",
 				"attributes": [
 					"V",
 					"Ö",
-					"KN",
-					"30"
+					"9",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
