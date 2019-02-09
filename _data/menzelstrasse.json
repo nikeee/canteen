@@ -7,37 +7,34 @@
 		}
 	},
 	"validity": {
-		"from": "2019-02-04T00:00:00.000Z",
-		"until": "2019-02-08T00:00:00.000Z"
+		"from": "2019-02-11T00:00:00.000Z",
+		"until": "2019-02-15T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Hausgemachter Spinatpfannkuchen auf Knoblauchdip",
+				"name": "Fruchtig gefüllter Germknödel auf warmer Vanillesauce",
 				"attributes": [
 					"F",
-					"KN",
+					"1",
+					"2",
 					"30",
-					"32",
 					"36"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Frisch gebackene Kartoffelecken mit Curry-Mayonnaise",
+				"name": "Ofenfrische Churros von der Süßkartoffel an Tomaten-Chimichurri",
 				"attributes": [
 					"V",
-					"3",
 					"KN",
-					"30",
-					"35",
-					"39"
+					"30"
 				],
 				"price": {
 					"student": 2.1,
@@ -47,12 +44,10 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Spaghetti in Rote-Bete-Pesto mit Sonneblumenkernen",
+				"name": "Indisch Aloo Gobi mit Kartoffeln und Blumenkohl",
 				"attributes": [
 					"V",
-					"3",
-					"30",
-					"37"
+					"KN"
 				],
 				"price": {
 					"student": 2.1,
@@ -62,11 +57,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Omelette mit Tomatenragout",
+				"name": "Drei Kartoffelklöße auf Rahmspinat",
 				"attributes": [
 					"F",
+					"1",
 					"KN",
-					"32",
 					"36"
 				],
 				"price": {
@@ -77,36 +72,35 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Orientalische Getreidepfanne mit Orange und Nüssen",
+				"name": "Hausgemachte Polenta à la Crème auf tomatisierter Bratzucchini",
 				"attributes": [
 					"V",
-					"2",
-					"3",
-					"37",
-					"38",
-					"39",
-					"40",
-					"41"
+					"1",
+					"KN",
+					"35",
+					"38"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2,
+					"employee": 3.3,
+					"visitor": 4.2
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Kassler-Nackenbraten auf Süßer-Senfjus",
+				"name": "Geflügel Wiener Würstchen mit Nudelsalat",
 				"attributes": [
 					"2",
 					"3",
-					"4",
+					"9",
+					"30",
+					"32",
 					"36",
 					"38",
 					"39",
-					"S"
+					"R"
 				],
 				"price": {
 					"student": 2.5,
@@ -116,22 +110,27 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gulasch von der Putenoberkeule mit Paprika",
+				"name": "Frisch geschwenktes Pfannengemüse mit gegrillter Hähnchenbrust",
 				"attributes": [
-					"30",
-					"36"
+					"1",
+					"3",
+					"KN"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Schweinesteak vom Nacken an Kräuterbutter",
+				"name": "Braten vom Schweinerücken auf Cognac-Rahmsauce",
 				"attributes": [
+					"A",
+					"1",
+					"30",
 					"36",
+					"41",
 					"S"
 				],
 				"price": {
@@ -142,25 +141,32 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Gnocchi in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
+				"name": "Spaghetti mit Pesto-Béchamelsauce und Hähnchenstreifen",
 				"attributes": [
 					"1",
+					"2",
+					"KN",
 					"30",
-					"36"
+					"36",
+					"37"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Mini-Hackfleischbällchen in Tomatensauce mit Fenchel",
+				"name": "Nudelpfanne mit Salami, Schinken und Ei",
 				"attributes": [
+					"2",
+					"3",
+					"8",
 					"KN",
 					"30",
 					"32",
+					"36",
 					"R",
 					"S"
 				],
