@@ -7,17 +7,19 @@
 		}
 	},
 	"validity": {
-		"from": "2019-02-04T00:00:00.000Z",
-		"until": "2019-02-09T00:00:00.000Z"
+		"from": "2019-02-11T00:00:00.000Z",
+		"until": "2019-02-16T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Zartes Hähnchenbrustfilet in Jalapeño-Tomatensauce",
+				"name": "Zartes Hähnchenbrustfilet in Sauce Café de Paris",
 				"attributes": [
-					"KN",
-					"30"
+					"1",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 3.5,
@@ -27,44 +29,15 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gegrillte, nordhessische Kartoffelbratwurst an Zwiebeljus",
+				"name": "Asiatische Schweinefleischstreifen in süßsaurer Sauce",
 				"attributes": [
-					"2",
+					"1",
 					"3",
 					"30",
+					"35",
+					"39",
+					"41",
 					"S"
-				],
-				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Paniertes Schnitzel vom Schwein auf Pfeffer-Rahmsauce",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Gebackener Alaska Seelachs an Kräuter-Béchamelsauce",
-				"attributes": [
-					"1",
-					"KN",
-					"30",
-					"33",
-					"36"
 				],
 				"price": {
 					"student": 3,
@@ -73,53 +46,60 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Spanische Paella mit buntem Gemüse, Putenstreifen und Meeresfrüchten",
+			"3": {
+				"name": "Gebratenes Putenschnitzel auf Sherry-Perlzwiebeljus",
 				"attributes": [
-					"KN",
-					"38"
+					"3",
+					"9",
+					"30",
+					"32"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Fischstäbchen mit Cocktaildip",
+				"attributes": [
+					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Gekochtes Rindfleisch aus dem Wurzelsud an Meerrettich-Sahnesauce",
+				"attributes": [
+					"1",
+					"3",
+					"9",
+					"30",
+					"36",
+					"38",
+					"R"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.3,
+					"visitor": 6.2
 				},
 				"vitalInfo": null
 			}
 		},
 		"Angebot 2": {
 			"1": {
-				"name": "Blumenkohl-Käse-Medaillon an Sauce Hollandaise",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Shakshuka - Gericht aus Tomaten, Paprika und Eiern",
-				"attributes": [
-					"F",
-					"KN",
-					"32"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Italienische Kartoffelgnocchi in Gorgonzolasauce mit Käse überbacken",
+				"name": "Tortellini Tricolore in Kräuter-Käsecremesauce",
 				"attributes": [
 					"F",
 					"1",
@@ -134,29 +114,59 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Bunte Pasta in würziger Kürbispesto geschwenkt",
+			"2": {
+				"name": "Eieromelette mit Rahmspinat",
 				"attributes": [
 					"F",
 					"1",
-					"2",
 					"KN",
-					"30",
-					"36",
-					"37"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Geschwenkte Penne mit Linsenragout",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"KN",
+					"30",
+					"38",
+					"41"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Mit Reis gefüllte Zucchini an Tomatensauce",
+				"attributes": [
+					"V",
+					"KN",
+					"30"
+				],
+				"price": {
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Vegane Maultaschen",
+				"name": "Steinchampignons mit Kräutern im Basmatireisrand",
 				"attributes": [
 					"V",
-					"30"
+					"KN"
 				],
 				"price": {
 					"student": 2.9,
