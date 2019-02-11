@@ -13,21 +13,7 @@
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
-			"1": {
-				"name": "Zartes Hähnchenbrustfilet in Sauce Café de Paris",
-				"attributes": [
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
 				"name": "Asiatische Schweinefleischstreifen in süßsaurer Sauce",
 				"attributes": [
@@ -98,22 +84,7 @@
 			}
 		},
 		"Angebot 2": {
-			"1": {
-				"name": "Tortellini Tricolore in Kräuter-Käsecremesauce",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
 				"name": "Eieromelette mit Rahmspinat",
 				"attributes": [
