@@ -53,26 +53,6 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Fischroulade auf Hummerbutter-Spinat",
-				"attributes": [
-					"1",
-					"KN",
-					"30",
-					"31",
-					"33",
-					"35",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 3.8,
-					"employee": 5.1,
-					"visitor": 6
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 3 oder 4"
-			},
-			{
 				"name": "Ofenfrische Riesenhaxe auf Wacholder-Sauerkraut",
 				"attributes": [
 					"2",

@@ -180,25 +180,7 @@
 			}
 		},
 		"Essen 3 oder 4": {
-			"1": {
-				"name": "Fischroulade auf Hummerbutter-Spinat",
-				"attributes": [
-					"1",
-					"KN",
-					"30",
-					"31",
-					"33",
-					"35",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 3.8,
-					"employee": 5.1,
-					"visitor": 6
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
 				"name": "Hessisches Weckewerk mit Kartoffeln und Saurer Gurke",
 				"attributes": [
