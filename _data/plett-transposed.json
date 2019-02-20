@@ -83,9 +83,12 @@
 			{
 				"name": "Gabelspaghetti mit Kurkuma an Tomatensauce",
 				"attributes": [
-					"V",
+					"F",
+					"1",
+					"2",
 					"KN",
-					"30"
+					"30",
+					"36"
 				],
 				"price": {
 					"student": 2,
