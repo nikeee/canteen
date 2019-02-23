@@ -8,20 +8,15 @@
 		}
 	},
 	"validity": {
-		"from": "2019-02-18T00:00:00.000Z",
-		"until": "2019-02-22T00:00:00.000Z"
+		"from": "2019-02-25T00:00:00.000Z",
+		"until": "2019-03-01T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Fleischlos gefüllte Kohlroulade an Béchamelsauce",
+				"name": "Tomaten-Olivenreis mit Schmorzwiebeln",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"35",
-					"36"
+					"V"
 				],
 				"price": {
 					"student": 2.1,
@@ -32,111 +27,10 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gebratene, schwäbische Maultaschen auf Bratenjus",
-				"attributes": [
-					"KN",
-					"30",
-					"36",
-					"38",
-					"R"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Gabelspaghetti mit Kurkuma an Tomatensauce",
-				"attributes": [
-					"V",
-					"KN",
-					"30"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gebackener Alaska-Seelachs an asiatischem Thaicurrydip",
-				"attributes": [
-					"KN",
-					"30",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Hessische Kartoffelpfanne mit Kräutern und Pilzen an Schmanddip",
-				"attributes": [
-					"F",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
-				"attributes": [
-					"KN"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Linseneintopf mit Wurzelgemüse",
-				"attributes": [
-					"V",
-					"38"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Schweinesteak in Parmesanhülle auf Tomaten-Basilikumsauce",
+				"name": "Hähnchenbrust mit Jalapeño-Käsesauce",
 				"attributes": [
 					"1",
-					"2",
-					"KN",
-					"30",
-					"32",
-					"36",
-					"S"
+					"36"
 				],
 				"price": {
 					"student": 2.6,
@@ -149,11 +43,10 @@
 		],
 		[
 			{
-				"name": "Ofenfrisches Hirtenkäsesteak mit Rahmspinat",
+				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
 				"attributes": [
 					"F",
-					"1",
-					"KN",
+					"32",
 					"36"
 				],
 				"price": {
@@ -165,18 +58,116 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gebratene Krakauer auf Senfjus",
+				"name": "Ofenfrischer Hähnchenschenkel auf Bratenjus",
+				"attributes": [],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Gelbe Penne mit tomatisiertem Grünkernragout",
+				"attributes": [
+					"V",
+					"KN",
+					"30"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gegrilltes Steak vom Schweinerücken auf Speckjus",
 				"attributes": [
 					"2",
 					"3",
 					"30",
-					"39",
 					"S"
 				],
 				"price": {
 					"student": 2.5,
 					"employee": 3.8,
 					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Gemüse-Bulgurpfanne an rotem Linsendip",
+				"attributes": [
+					"V",
+					"3",
+					"KN",
+					"30",
+					"37",
+					"38",
+					"39",
+					"40"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Geschnetzeltes nach Züricher Art",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Kartoffelpfanne mit Ei und Gewürzgurke",
+				"attributes": [
+					"F",
+					"9",
+					"32",
+					"39"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Zucchini-Hackfleisch-Auflauf mit Kartoffeln, Tomaten und Ei",
+				"attributes": [
+					"32",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"

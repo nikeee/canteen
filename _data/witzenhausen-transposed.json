@@ -8,19 +8,63 @@
 		}
 	},
 	"validity": {
-		"from": "2019-02-18T00:00:00.000Z",
-		"until": "2019-02-22T00:00:00.000Z"
+		"from": "2019-02-25T00:00:00.000Z",
+		"until": "2019-03-01T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Fleischlos gefüllte Kohlroulade an Béchamelsauce",
+				"name": "Tomaten-Olivenreis mit Schmorzwiebeln",
+				"attributes": [
+					"V"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hähnchenbrust mit Jalapeño-Käsesauce",
+				"attributes": [
+					"1",
+					"36"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Käsespätzle mit Röstzwiebeln",
 				"attributes": [
 					"F",
-					"1",
+					"Ö",
 					"30",
 					"32",
 					"35",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"attributes": [
+					"F",
+					"32",
 					"36"
 				],
 				"price": {
@@ -32,12 +76,54 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gebratene Krakauer auf Senfjus",
+				"name": "Ofenfrischer Hähnchenschenkel auf Bratenjus",
+				"attributes": [],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Arabischer Auberginen-Eintopf mit Kichererbsen",
+				"attributes": [
+					"V",
+					"Ö",
+					"KN"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Gelbe Penne mit tomatisiertem Grünkernragout",
+				"attributes": [
+					"V",
+					"KN",
+					"30"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gegrilltes Steak vom Schweinerücken auf Speckjus",
 				"attributes": [
 					"2",
 					"3",
 					"30",
-					"39",
 					"S"
 				],
 				"price": {
@@ -49,12 +135,12 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Kokosmilch-Zitronenreis mit Spinat",
+				"name": "Indisch Aloo Matar mit Kartoffeln und Erbsen",
 				"attributes": [
 					"V",
 					"Ö",
 					"KN",
-					"35"
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -67,62 +153,16 @@
 		],
 		[
 			{
-				"name": "Kurkuma Gabelspaghetti an Tomatensauce",
+				"name": "Gemüse-Bulgurpfanne an rotem Linsendip",
 				"attributes": [
 					"V",
-					"KN",
-					"30"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gebratene, schwäbische Maultaschen auf Bratenjus",
-				"attributes": [
+					"3",
 					"KN",
 					"30",
-					"36",
+					"37",
 					"38",
-					"R"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Shakshuka - Pochierte Eier in Tomatensauce mit Koriander und Chili",
-				"attributes": [
-					"F",
-					"Ö",
-					"30",
-					"32",
-					"35",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Hessische Kartoffelpfanne mit Kräutern und Pilzen an Schmanddip",
-				"attributes": [
-					"F",
-					"36"
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 2.1,
@@ -133,9 +173,12 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
+				"name": "Geschnetzeltes nach Züricher Art",
 				"attributes": [
-					"KN"
+					"1",
+					"30",
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -146,12 +189,14 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Spaghetti aglio olio e peperoncino",
+				"name": "Spinatlasagne",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
 					"KN",
-					"30"
+					"30",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.9,
@@ -164,26 +209,24 @@
 		],
 		[
 			{
-				"name": "Linseneintopf mit Wurzelgemüse",
+				"name": "Kartoffelpfanne mit Ei und Gewürzgurke",
 				"attributes": [
-					"V",
-					"38"
+					"F",
+					"9",
+					"32",
+					"39"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Schweinesteak in Parmesanhülle auf Tomaten-Basilikumsauce",
+				"name": "Zucchini-Hackfleisch-Auflauf mit Kartoffeln, Tomaten und Ei",
 				"attributes": [
-					"1",
-					"2",
-					"KN",
-					"30",
 					"32",
 					"36",
 					"S"
@@ -197,64 +240,11 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Rotes Thai-Blumenkohlcurry mit Paprika und Zwiebeln",
+				"name": "Gemüse-Dinkelpfanne mit Ingwer",
 				"attributes": [
 					"V",
 					"Ö",
-					"KN",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Ofenfrisches Hirtenkäsesteak mit Rahmspinat",
-				"attributes": [
-					"F",
-					"1",
-					"KN",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gebackener Alaska-Seelachs an asiatischem Thaicurrydip",
-				"attributes": [
-					"3",
-					"KN",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Afrikanischer Gemüseeintopf mit Weisskohl, Karotten, Paprika und Erdnussbutter",
-				"attributes": [
-					"V",
-					"Ö",
-					"34"
+					"30"
 				],
 				"price": {
 					"student": 2.9,

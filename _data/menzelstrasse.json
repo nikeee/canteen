@@ -7,21 +7,16 @@
 		}
 	},
 	"validity": {
-		"from": "2019-02-18T00:00:00.000Z",
-		"until": "2019-02-22T00:00:00.000Z"
+		"from": "2019-02-25T00:00:00.000Z",
+		"until": "2019-03-01T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Fleischlos gefüllte Kohlroulade an Béchamelsauce",
+				"name": "Tomaten-Olivenreis mit Schmorzwiebeln",
 				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"35",
-					"36"
+					"V"
 				],
 				"price": {
 					"student": 2.1,
@@ -31,23 +26,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gabelspaghetti mit Kurkuma an Tomatensauce",
-				"attributes": [
-					"V",
-					"KN",
-					"30"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Hessische Kartoffelpfanne mit Kräutern und Pilzen an Schmanddip",
+				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
 				"attributes": [
 					"F",
+					"32",
 					"36"
 				],
 				"price": {
@@ -57,26 +39,46 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Linseneintopf mit Wurzelgemüse",
+			"3": {
+				"name": "Gelbe Penne mit tomatisiertem Grünkernragout",
 				"attributes": [
 					"V",
-					"38"
+					"KN",
+					"30"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gemüse-Bulgurpfanne an rotem Linsendip",
+				"attributes": [
+					"V",
+					"3",
+					"KN",
+					"30",
+					"37",
+					"38",
+					"39",
+					"40"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Ofenfrisches Hirtenkäsesteak mit Rahmspinat",
+				"name": "Kartoffelpfanne mit Ei und Gewürzgurke",
 				"attributes": [
 					"F",
-					"1",
-					"KN",
-					"36"
+					"9",
+					"32",
+					"39"
 				],
 				"price": {
 					"student": 2.1,
@@ -88,30 +90,21 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Gebratene, schwäbische Maultaschen auf Bratenjus",
+				"name": "Hähnchenbrust mit Jalapeño-Käsesauce",
 				"attributes": [
-					"KN",
-					"30",
-					"36",
-					"38",
-					"R"
+					"1",
+					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.6,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebackener Alaska-Seelachs an asiatischem Thaicurrydip",
-				"attributes": [
-					"KN",
-					"30",
-					"33",
-					"36",
-					"39"
-				],
+				"name": "Ofenfrischer Hähnchenschenkel auf Bratenjus",
+				"attributes": [],
 				"price": {
 					"student": 2.5,
 					"employee": 3.8,
@@ -120,9 +113,12 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
+				"name": "Gegrilltes Steak vom Schweinerücken auf Speckjus",
 				"attributes": [
-					"KN"
+					"2",
+					"3",
+					"30",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -132,12 +128,23 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Schweinesteak in Parmesanhülle auf Tomaten-Basilikumsauce",
+				"name": "Geschnetzeltes nach Züricher Art",
 				"attributes": [
 					"1",
-					"2",
-					"KN",
 					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Zucchini-Hackfleisch-Auflauf mit Kartoffeln, Tomaten und Ei",
+				"attributes": [
 					"32",
 					"36",
 					"S"
@@ -146,22 +153,6 @@
 					"student": 2.6,
 					"employee": 3.9,
 					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Gebratene Krakauer auf Senfjus",
-				"attributes": [
-					"2",
-					"3",
-					"30",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
 				},
 				"vitalInfo": null
 			}
