@@ -7,54 +7,55 @@
 		}
 	},
 	"validity": {
-		"from": "2019-02-18T00:00:00.000Z",
-		"until": "2019-02-23T00:00:00.000Z"
+		"from": "2019-02-25T00:00:00.000Z",
+		"until": "2019-03-02T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Mit Tomate und Mozzarella gefülltes Putenbruststeak an Balsamicojus",
+				"name": "Ofenfrisches Schweinerückensteak mit feiner Dijon-Senfsauce",
 				"attributes": [
 					"1",
-					"3",
 					"36",
-					"41"
+					"39",
+					"41",
+					"S"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"student": 2.9,
+					"employee": 4.2,
+					"visitor": 5.1
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Spaghetti Bolognese mit Rinderhackfleisch und Parmesan",
+				"name": "Pizza mit Putensalami und Jalapeños",
+				"attributes": [
+					"1",
+					"2",
+					"3",
+					"KN",
+					"30",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Goldgelb gebackenes Putenschnitzel mit fruchtiger Basilikum-Tomatensauce",
 				"attributes": [
 					"1",
 					"2",
 					"KN",
 					"30",
-					"36",
-					"38",
-					"R"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.7,
-					"visitor": 5.6
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Gebratenes Cordon bleu vom Schweinerücken an Rahmsauce",
-				"attributes": [
-					"2",
-					"3",
-					"30",
 					"32",
-					"36",
-					"S"
+					"36"
 				],
 				"price": {
 					"student": 4,
@@ -64,60 +65,13 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Enchilada mit scharfem Hühnchen, Paprika, Linsen und Ananas",
-				"attributes": [
-					"2",
-					"KN",
-					"30"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Fish and Chips Cocktaildip",
+				"name": "Grillfrische Bratwurst mit Curry-Ketchupsauce",
 				"attributes": [
 					"3",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 3.3,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null
-			}
-		},
-		"Angebot 2": {
-			"1": {
-				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse",
-				"attributes": [
-					"V",
-					"1",
+					"8",
 					"38",
-					"39"
-				],
-				"price": {
-					"student": 2.2,
-					"employee": 3.5,
-					"visitor": 4.4
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Frisch gebackene Reibekuchen an Preiselbeerschmand",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 3,
@@ -126,37 +80,88 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Italienische Kartoffelgnocchi in Tomaten-Ratatouille mit Käse überbacken",
+			"5": {
+				"name": "Hausgemachter Wirsing-Kartoffeleintopf mit Hackbällchen",
+				"attributes": [
+					"KN",
+					"32",
+					"38",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
+				},
+				"vitalInfo": null
+			}
+		},
+		"Angebot 2": {
+			"1": {
+				"name": "Frittata mit Kürbis und Zucchini getoppt mit gerösteten Kernen",
+				"attributes": [
+					"F",
+					"KN",
+					"32"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Pizza mit Oreganotomaten, Blattspinat und Hirtenkäse",
 				"attributes": [
 					"F",
 					"KN",
 					"30",
-					"32"
+					"36"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 4.5,
+					"employee": 5.8,
+					"visitor": 6.7
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Tortellini Tricolore mit Käsefüllung, Oliven und Kirschtomaten an fruchtiger Tomatensauce",
+				"attributes": [
+					"F",
+					"6",
+					"KN",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Sabee Sabee Kumala - Australisches Kürbisgulasch",
+				"name": "Grünes Shakshuka - Gericht aus Spinat, Zwiebeln und Ei",
 				"attributes": [
-					"V",
-					"5",
-					"41"
+					"F",
+					"KN",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2.8,
-					"employee": 4.1,
-					"visitor": 5
+					"student": 3.1,
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Flammkuchen mit Chili, Mango und roten Zwiebeln",
+				"name": "Goldgelb gebackener Camembert an Preiselbeerdip",
 				"attributes": [
 					"F",
 					"30",
