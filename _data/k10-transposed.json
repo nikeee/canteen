@@ -24,8 +24,8 @@
 				],
 				"price": {
 					"student": 2.9,
-					"employee": 4.2,
-					"visitor": 5.1
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
@@ -39,8 +39,8 @@
 				],
 				"price": {
 					"student": 2.5,
-					"employee": 3.8,
-					"visitor": 4.7
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -60,8 +60,8 @@
 				],
 				"price": {
 					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"employee": 5.9,
+					"visitor": 6.8
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
@@ -76,8 +76,8 @@
 				],
 				"price": {
 					"student": 4.5,
-					"employee": 5.8,
-					"visitor": 6.7
+					"employee": 5.9,
+					"visitor": 6.8
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -96,8 +96,8 @@
 				],
 				"price": {
 					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"employee": 5.4,
+					"visitor": 6.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
@@ -114,8 +114,8 @@
 				],
 				"price": {
 					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -133,8 +133,8 @@
 				],
 				"price": {
 					"student": 3,
-					"employee": 4.3,
-					"visitor": 5.2
+					"employee": 4.4,
+					"visitor": 5.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
@@ -150,8 +150,8 @@
 				],
 				"price": {
 					"student": 3.1,
-					"employee": 4.4,
-					"visitor": 5.3
+					"employee": 4.5,
+					"visitor": 5.4
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -169,8 +169,8 @@
 				],
 				"price": {
 					"student": 3.2,
-					"employee": 4.5,
-					"visitor": 5.4
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
@@ -184,8 +184,8 @@
 				],
 				"price": {
 					"student": 4,
-					"employee": 5.3,
-					"visitor": 6.2
+					"employee": 5.4,
+					"visitor": 6.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
