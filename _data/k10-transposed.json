@@ -8,91 +8,91 @@
 		}
 	},
 	"validity": {
-		"from": "2019-02-25T00:00:00.000Z",
-		"until": "2019-03-02T00:00:00.000Z"
+		"from": "2019-03-04T00:00:00.000Z",
+		"until": "2019-03-09T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Ofenfrisches Schweinerückensteak mit feiner Dijon-Senfsauce",
+				"name": "Schweinefleischstreifen in süß-saurer Sauce mit buntem Gemüse und Sojasprossen getoppt",
 				"attributes": [
-					"1",
-					"36",
+					"30",
+					"35",
 					"39",
-					"41",
 					"S"
 				],
 				"price": {
-					"student": 2.9,
-					"employee": 4.3,
-					"visitor": 5.2
+					"student": 3.5,
+					"employee": 4.9,
+					"visitor": 5.8
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Frittata mit Kürbis und Zucchini getoppt mit gerösteten Kernen",
+				"name": "Kartoffelgnocchi in Steinpilz-Rahmsauce",
 				"attributes": [
 					"F",
-					"KN",
-					"32"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Pizza mit Putensalami und Jalapeños",
-				"attributes": [
 					"1",
-					"2",
-					"3",
-					"KN",
-					"30",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.9,
-					"visitor": 6.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Pizza mit Oreganotomaten, Blattspinat und Hirtenkäse",
-				"attributes": [
-					"F",
-					"KN",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.9,
-					"visitor": 6.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Goldgelb gebackenes Putenschnitzel mit fruchtiger Basilikum-Tomatensauce",
-				"attributes": [
-					"1",
-					"2",
-					"KN",
 					"30",
 					"32",
 					"36"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4.1,
+					"visitor": 5
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Fladenbrot mit Schweinehackfleisch, Hirtenkäse, Oliven, Paprika und Peperoni, dazu Zaziki",
+				"attributes": [
+					"6",
+					"9",
+					"KN",
+					"30",
+					"36",
+					"40",
+					"S"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Schupfnudelpfanne mit buntem Grillgemüse an Tomaten-Salsa",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"KN",
+					"30",
+					"41"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.9,
+					"visitor": 5.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Hähnchenschnitzel im Cornflakesmantel an Tomatensauce",
+				"attributes": [
+					"KN",
+					"30",
+					"32"
 				],
 				"price": {
 					"student": 4,
@@ -103,19 +103,17 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Tortellini Tricolore mit Käsefüllung, Oliven und Kirschtomaten an fruchtiger Tomatensauce",
+				"name": "Gebackenes Auberginenschnitzel im Kokoskleid mit hausgemachtem Mango-Chutney",
 				"attributes": [
-					"F",
-					"6",
-					"KN",
+					"V",
+					"3",
 					"30",
-					"32",
-					"36"
+					"35"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 2.9,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -123,13 +121,15 @@
 		],
 		[
 			{
-				"name": "Grillfrische Bratwurst mit Curry-Ketchupsauce",
+				"name": "Fischstäbchen mit Remouladensauce",
 				"attributes": [
 					"3",
-					"8",
-					"38",
-					"39",
-					"S"
+					"9",
+					"30",
+					"32",
+					"33",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 3,
@@ -140,18 +140,18 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Grünes Shakshuka - Gericht aus Spinat, Zwiebeln und Ei",
+				"name": "Bulgurpfanne mit Gemüse, getrockneten Früchten und Nüssen",
 				"attributes": [
-					"F",
-					"KN",
+					"V",
+					"3",
 					"30",
-					"32",
-					"36"
+					"37",
+					"39"
 				],
 				"price": {
-					"student": 3.1,
-					"employee": 4.5,
-					"visitor": 5.4
+					"student": 2.4,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -159,33 +159,41 @@
 		],
 		[
 			{
-				"name": "Hausgemachter Wirsing-Kartoffeleintopf mit Hackbällchen",
+				"name": "Burger mit Beef, Tomate-Mozzarella, Rucola und Dip",
 				"attributes": [
+					"1",
+					"2",
+					"3",
 					"KN",
-					"32",
-					"38",
+					"30",
+					"36",
 					"39",
-					"S"
+					"40",
+					"41",
+					"R"
 				],
 				"price": {
-					"student": 3.2,
-					"employee": 4.6,
-					"visitor": 5.5
+					"student": 4.5,
+					"employee": 5.9,
+					"visitor": 6.8
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Goldgelb gebackener Camembert an Preiselbeerdip",
+				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse",
 				"attributes": [
-					"F",
+					"V",
+					"1",
 					"30",
-					"36"
+					"35",
+					"38",
+					"39"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.4,
-					"visitor": 6.3
+					"student": 2.3,
+					"employee": 3.7,
+					"visitor": 4.6
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
