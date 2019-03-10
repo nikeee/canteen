@@ -7,19 +7,17 @@
 		}
 	},
 	"validity": {
-		"from": "2019-03-04T00:00:00.000Z",
-		"until": "2019-03-09T00:00:00.000Z"
+		"from": "2019-03-11T00:00:00.000Z",
+		"until": "2019-03-16T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Angebot 1": {
 			"1": {
-				"name": "Schweinefleischstreifen in süß-saurer Sauce mit buntem Gemüse und Sojasprossen getoppt",
+				"name": "Zartes Hähnchenbrustfilet in Limettenmarinade auf Fenchel-Karottenbett",
 				"attributes": [
-					"30",
-					"35",
-					"39",
-					"S"
+					"1",
+					"2"
 				],
 				"price": {
 					"student": 3.5,
@@ -29,29 +27,12 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Fladenbrot mit Schweinehackfleisch, Hirtenkäse, Oliven, Paprika und Peperoni, dazu Zaziki",
+				"name": "Gulasch vom Schwein mit bayrischen Serviettenknödeln",
 				"attributes": [
-					"6",
-					"9",
-					"KN",
 					"30",
+					"32",
 					"36",
-					"40",
 					"S"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Hähnchenschnitzel im Cornflakesmantel an Tomatensauce",
-				"attributes": [
-					"KN",
-					"30",
-					"32"
 				],
 				"price": {
 					"student": 4,
@@ -60,37 +41,46 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Fischstäbchen mit Remouladensauce",
+			"3": {
+				"name": "Goldgelb gebackenes Schweineschnitzel an Pfefferrahmsauce",
 				"attributes": [
-					"3",
-					"9",
 					"30",
 					"32",
-					"33",
 					"36",
-					"39"
+					"S"
 				],
 				"price": {
-					"student": 3,
-					"employee": 4.4,
-					"visitor": 5.3
+					"student": 3.3,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Rindfleischstreifen in Erdnuss-Zwiebelsauce",
+				"attributes": [
+					"1",
+					"32",
+					"34",
+					"36",
+					"R"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.4,
+					"visitor": 6.3
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Burger mit Beef, Tomate-Mozzarella, Rucola und Dip",
+				"name": "Flammkuchen mit Lauch, Tomaten und Garnelen",
 				"attributes": [
 					"1",
-					"2",
-					"3",
-					"KN",
+					"8",
 					"30",
+					"31",
 					"36",
-					"39",
-					"40",
-					"41",
-					"R"
+					"38"
 				],
 				"price": {
 					"student": 4.5,
@@ -102,10 +92,29 @@
 		},
 		"Angebot 2": {
 			"1": {
-				"name": "Kartoffelgnocchi in Steinpilz-Rahmsauce",
+				"name": "Penne in fruchtigem Tomatenpesto mit Mozzarellaperlen und Rucola",
 				"attributes": [
 					"F",
 					"1",
+					"2",
+					"KN",
+					"30",
+					"36",
+					"37"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Bunter Reistaler Griechische Art mit Knoblauchdip",
+				"attributes": [
+					"F",
+					"6",
+					"KN",
 					"30",
 					"32",
 					"36"
@@ -117,30 +126,29 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Schupfnudelpfanne mit buntem Grillgemüse an Tomaten-Salsa",
+			"3": {
+				"name": "Schwäbische Spätzle mit Röstzwiebeln und feiner Käsesauce",
 				"attributes": [
-					"V",
+					"F",
 					"1",
-					"3",
-					"KN",
 					"30",
-					"41"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.9,
-					"visitor": 5.8
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Gebackenes Auberginenschnitzel im Kokoskleid mit hausgemachtem Mango-Chutney",
+			"4": {
+				"name": "Geschöpfte Wellenbandnudeln mit Tomatensauce auf geschmortem Ratatouille-Gemüse",
 				"attributes": [
-					"V",
-					"3",
+					"F",
+					"KN",
 					"30",
-					"35"
+					"32"
 				],
 				"price": {
 					"student": 2.9,
@@ -149,36 +157,19 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Bulgurpfanne mit Gemüse, getrockneten Früchten und Nüssen",
-				"attributes": [
-					"V",
-					"3",
-					"30",
-					"37",
-					"39"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
 			"5": {
-				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse",
+				"name": "Kürbis-Kartoffelsuppe mit roten Linsen und Sonnenblumenkernen",
 				"attributes": [
-					"V",
+					"F",
 					"1",
-					"30",
-					"35",
-					"38",
-					"39"
+					"KN",
+					"36",
+					"38"
 				],
 				"price": {
-					"student": 2.3,
-					"employee": 3.7,
-					"visitor": 4.6
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
 				},
 				"vitalInfo": null
 			}
