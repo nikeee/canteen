@@ -158,11 +158,14 @@
 				"name": "Flammkuchen mit Lauch, Tomaten und Garnelen",
 				"attributes": [
 					"1",
+					"2",
+					"3",
 					"8",
 					"30",
 					"31",
 					"36",
-					"38"
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 4.5,
