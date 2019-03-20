@@ -307,12 +307,18 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Lassen Sie sich überraschen - Preisinformationen finden Sie vor Ort.",
-				"attributes": [],
+				"name": "Gegrilltes Seelachsfilet auf Weißwein-Gemüsesauce",
+				"attributes": [
+					"1",
+					"30",
+					"33",
+					"36",
+					"38"
+				],
 				"price": {
-					"student": 0,
-					"employee": 1.4,
-					"visitor": 2.3
+					"student": 4,
+					"employee": 5.4,
+					"visitor": 6.3
 				},
 				"vitalInfo": null
 			},

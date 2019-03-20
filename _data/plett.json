@@ -240,11 +240,14 @@
 			},
 			"2": {
 				"name": "Lassen Sie sich überraschen - Preisinformationen finden Sie vor Ort.",
-				"attributes": [],
+				"attributes": [
+					"36",
+					"R"
+				],
 				"price": {
-					"student": 0,
-					"employee": 1.4,
-					"visitor": 2.3
+					"student": 4,
+					"employee": 5.4,
+					"visitor": 6.3
 				},
 				"vitalInfo": null
 			},
