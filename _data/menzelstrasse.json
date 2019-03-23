@@ -7,37 +7,37 @@
 		}
 	},
 	"validity": {
-		"from": "2019-03-18T00:00:00.000Z",
-		"until": "2019-03-22T00:00:00.000Z"
+		"from": "2019-03-25T00:00:00.000Z",
+		"until": "2019-03-29T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Goldgelb gebackenes Möhrenschnitzel auf fruchtigem Birnendip mit Koriander",
+				"name": "Backfrischer Mohn-Pfannkuchen an hausgemachtem Birnenragout",
 				"attributes": [
 					"F",
+					"1",
+					"3",
 					"30",
 					"32",
-					"36",
-					"38",
-					"40"
+					"36"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
+					"student": 2,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Kritharakisalat mit buntem Gemüse und toskanischem Brötchen",
+				"name": "Curry-Ragout von zweierlei Kartoffeln",
 				"attributes": [
 					"V",
+					"1",
 					"3",
-					"6",
-					"30",
-					"41"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.1,
@@ -47,38 +47,42 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Geschmortes Ratatouille-Gemüse im gelben Reisrand",
+				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
-					"V",
-					"KN"
+					"F",
+					"3",
+					"30",
+					"32"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Hausgemachter Erbseneintopf mit Wurzelgemüse",
+				"name": "Tortellini mit Spinat-Ricotta-Füllung in Gorgonzolasauce",
 				"attributes": [
-					"V",
-					"38",
-					"39"
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Lauchkuchen mit Schmand und roten Zwiebeln",
+				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
 				"attributes": [
-					"F",
+					"V",
 					"30",
-					"36"
+					"38"
 				],
 				"price": {
 					"student": 2.1,
@@ -90,32 +94,30 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Klassische Currywurst",
+				"name": "Käse-Spätzlepfanne mit Speck und Schmorzwiebeln",
 				"attributes": [
 					"1",
+					"2",
 					"3",
-					"8",
-					"38",
-					"39",
+					"30",
+					"32",
+					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.4,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebackenes Fleischkäseschnitzel auf Malzjus",
+				"name": "Hähnchenbrust mit roter Linsensauce",
 				"attributes": [
-					"2",
+					"1",
 					"3",
-					"8",
-					"30",
-					"32",
-					"R",
-					"S"
+					"KN",
+					"39"
 				],
 				"price": {
 					"student": 2.6,
@@ -125,11 +127,11 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Holzfällersteak vom Schweinenacken mit Speckzwiebeln und Bratenjus",
+				"name": "Bami Goreng mit Hähnchenstreifen",
 				"attributes": [
-					"2",
-					"3",
-					"S"
+					"30",
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.6,
@@ -139,9 +141,13 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
+				"name": "Braten vom Schweinerücken an Whisky-Rahmsauce",
 				"attributes": [
-					"KN"
+					"A",
+					"1",
+					"30",
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -151,12 +157,13 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Karibisches Mango-Hühnchen",
+				"name": "Hackbraten mit Pusztasauce",
 				"attributes": [
-					"1",
+					"KN",
 					"30",
-					"36",
-					"39"
+					"32",
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 2.6,
