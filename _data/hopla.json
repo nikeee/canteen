@@ -57,12 +57,10 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Tortellini mit Spinat-Ricotta-Füllung in Gorgonzolasauce",
+				"name": "Lauchkuchen mit Schmand und roten Zwiebeln",
 				"attributes": [
 					"F",
-					"1",
 					"30",
-					"32",
 					"36"
 				],
 				"price": {
@@ -73,11 +71,11 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
+				"name": "Lauchkuchen mit Schmand und roten Zwiebeln",
 				"attributes": [
-					"V",
+					"F",
 					"30",
-					"38"
+					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -134,13 +132,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Braten vom Schweinerücken an Whisky-Rahmsauce",
+				"name": "Karibisches Mango-Hühnchen",
 				"attributes": [
-					"A",
 					"1",
 					"30",
 					"36",
-					"S"
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -150,13 +147,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hackbraten mit Pusztasauce",
+				"name": "Karibisches Mango-Hühnchen",
 				"attributes": [
-					"KN",
+					"1",
 					"30",
-					"32",
-					"39",
-					"S"
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.6,
@@ -314,16 +310,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Großer, bunter Salatteller mit Balsamico-Vinaigrette, Zucchini in Tempurateig und Knochlauchdip",
+				"name": "Gebratenes Schollenfilet Finkenwerder Art",
 				"attributes": [
-					"V",
-					"1",
+					"2",
 					"3",
-					"KN",
-					"30",
-					"35",
-					"39",
-					"41"
+					"33",
+					"S"
 				],
 				"price": {
 					"student": 3.5,
@@ -333,15 +325,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gewokte Pasta mit Pinienkernen, Spinatpesto und geriebenem Käse",
+				"name": "Gebratenes Schollenfilet Finkenwerder Art",
 				"attributes": [
-					"F",
-					"1",
 					"2",
-					"KN",
-					"30",
-					"36",
-					"37"
+					"3",
+					"33",
+					"S"
 				],
 				"price": {
 					"student": 3.2,
