@@ -36,7 +36,6 @@
 					"V",
 					"1",
 					"3",
-					"35",
 					"39"
 				],
 				"price": {
@@ -218,20 +217,7 @@
 					"calories": 723
 				}
 			},
-			"2": {
-				"name": "Flammkuchen mit Tomaten, Paprika, Mais, Peperoni und Pizzaschmelz",
-				"attributes": [
-					"V",
-					"1",
-					"30"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.9,
-					"visitor": 6.8
-				},
-				"vitalInfo": null
-			},
+			"2": null,
 			"3": {
 				"name": "Dorsch in Pankopanierung mit Limettenecke",
 				"attributes": [
