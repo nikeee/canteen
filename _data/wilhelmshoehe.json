@@ -7,21 +7,21 @@
 		}
 	},
 	"validity": {
-		"from": "2019-03-25T00:00:00.000Z",
-		"until": "2019-03-29T00:00:00.000Z"
+		"from": "2019-04-01T00:00:00.000Z",
+		"until": "2019-04-05T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Backfrischer Mohn-Pfannkuchen an hausgemachtem Birnenragout",
+				"name": "Hessische Kartoffelsuppe mit Gemüse und Kräuteröl",
 				"attributes": [
-					"F",
+					"V",
 					"1",
-					"3",
+					"KN",
 					"30",
-					"32",
-					"36"
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 2,
@@ -31,14 +31,14 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Curry-Ragout von zweierlei Kartoffeln",
+				"name": "Gebackene Brokkoli-Nuggets an Pfeffer-Sauerrahmdip",
 				"attributes": [
-					"V",
-					"1",
-					"3",
+					"F",
 					"30",
+					"32",
 					"35",
-					"39"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.1,
@@ -48,13 +48,14 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Kartoffelpuffer mit Apfelmus",
+				"name": "Grünkernpfanne mit knackigem Gemüse und Balsamico an fruchtigem Tomatendip",
 				"attributes": [
-					"F",
+					"V",
+					"1",
 					"3",
-					"4",
+					"KN",
 					"30",
-					"32"
+					"41"
 				],
 				"price": {
 					"student": 2.1,
@@ -64,12 +65,9 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Tortellini mit Spinat-Ricotta-Füllung in Gorgonzolasauce",
+				"name": "Ofenkartoffel mit Grüne-Sauce-Quark",
 				"attributes": [
 					"F",
-					"1",
-					"30",
-					"32",
 					"36"
 				],
 				"price": {
@@ -80,11 +78,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
+				"name": "Zucchinipfanne mit schwarzen Bohnen",
 				"attributes": [
 					"V",
-					"30",
-					"38"
+					"38",
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 2.1,
@@ -96,60 +95,57 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Käse-Spätzlepfanne mit Speck und Schmorzwiebeln",
+				"name": "Geschwenkte Pasta mit Meeresfrüchten, Erbsen und Strauchtomaten",
 				"attributes": [
 					"1",
-					"2",
-					"3",
 					"30",
+					"31",
 					"32",
-					"36",
-					"S"
+					"33",
+					"35",
+					"43"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hähnchenbrust mit roter Linsensauce",
+				"name": "Putengulasch in Balkan-Tomatensauce",
 				"attributes": [
-					"1",
-					"3",
-					"KN",
-					"39"
+					"KN"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Bami Goreng mit Hähnchenstreifen",
+				"name": "Texanisches feuriges Chili con Carne",
 				"attributes": [
-					"30",
-					"35",
-					"39"
+					"KN",
+					"S"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Braten vom Schweinerücken an Whisky-Rahmsauce",
+				"name": "Asiatische Thainudelpfanne mit Hähnchen und Gemüse",
 				"attributes": [
-					"A",
-					"1",
+					"2",
+					"3",
 					"30",
-					"36",
-					"S"
+					"32",
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -159,109 +155,138 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hackbraten mit Pusztasauce",
+				"name": "Hausgemachter Speckschmarrn mit Schmanddip",
 				"attributes": [
+					"2",
 					"KN",
-					"30",
-					"32",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null
-			}
-		},
-		"Essen 3 oder 4": {
-			"1": null,
-			"2": {
-				"name": "Paniertes Schweineschnitzel an Schmanddip",
-				"attributes": [
 					"30",
 					"32",
 					"36",
 					"S"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null
-			},
-			"3": null,
-			"4": null,
-			"5": null
-		},
-		"Angebot des Tages I": {
-			"1": {
-				"name": "Tagliatelle mit Lauch-Sojasauce und gehackten Walnüssen",
-				"attributes": [
-					"V",
-					"MV",
-					"3",
-					"KN",
-					"30",
-					"35",
-					"37"
 				],
 				"price": {
 					"student": 2.5,
 					"employee": 3.9,
 					"visitor": 4.8
 				},
-				"vitalInfo": {
-					"fat": 26,
-					"carbohydrate": 100,
-					"protein": 27,
-					"calories": 723
-				}
-			},
-			"2": null,
-			"3": {
-				"name": "Dorsch in Pankopanierung mit Limettenecke",
+				"vitalInfo": null
+			}
+		},
+		"Essen 3 oder 4": {
+			"1": {
+				"name": "Goldgelb gebackene Chicken-Crossies mit hausgemachtem Gurkenrelish",
 				"attributes": [
 					"30",
-					"32",
-					"33"
+					"39"
 				],
 				"price": {
-					"student": 5,
-					"employee": 6.4,
-					"visitor": 7.3
+					"student": 3.6,
+					"employee": 5,
+					"visitor": 5.9
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Putensteak mit Sesam-Blumenkohl und Kartoffelpüree, dazu eine Banane",
+			"2": null,
+			"3": {
+				"name": "Gebackenes Hähnchenschnitzel im Kokoskleid auf Erdnusssauce",
 				"attributes": [
-					"MV",
-					"36",
-					"40"
+					"1",
+					"30",
+					"32",
+					"34",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.9,
+					"visitor": 5.8
+				},
+				"vitalInfo": null
+			},
+			"4": null,
+			"5": {
+				"name": "Gebackenes Putenschnitzel auf Guacamole-Sauerrahmdip",
+				"attributes": [
+					"1",
+					"3",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.9,
+					"visitor": 5.8
+				},
+				"vitalInfo": null
+			}
+		},
+		"Angebot des Tages I": {
+			"1": {
+				"name": "Nordhessische Bauernbratwurst mit Liebstöckel-Bratenjus",
+				"attributes": [
+					"8",
+					"38",
+					"S"
 				],
 				"price": {
 					"student": 4,
 					"employee": 5.4,
 					"visitor": 6.3
 				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Sojageschnetzeltes mit Waldpilzen, dazu Rotkohl und Klöße",
+				"attributes": [
+					"V",
+					"MV",
+					"3",
+					"KN",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.9,
+					"visitor": 5.8
+				},
 				"vitalInfo": {
-					"fat": 24,
-					"carbohydrate": 82,
-					"protein": 42,
-					"calories": 717
+					"fat": 22,
+					"carbohydrate": 72,
+					"protein": 31,
+					"calories": 611
+				}
+			},
+			"3": null,
+			"4": {
+				"name": "Schweinesteak mit Zwiebel-Sauerrahm und Gemüsereis",
+				"attributes": [
+					"MV",
+					"30",
+					"36",
+					"38",
+					"S"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": {
+					"fat": 27,
+					"carbohydrate": 83,
+					"protein": 38,
+					"calories": 732
 				}
 			},
 			"5": {
-				"name": "Seelachs auf Zwiebelbett und Kartoffel-Gemüsepfanne",
+				"name": "Gebratenes Wildlachsfilet mit Barbecuegemüse und Wildreis",
 				"attributes": [
-					"A",
 					"MV",
+					"9",
 					"30",
-					"33",
-					"41"
+					"33"
 				],
 				"price": {
 					"student": 4.5,
@@ -269,16 +294,17 @@
 					"visitor": 6.8
 				},
 				"vitalInfo": {
-					"fat": 18,
-					"carbohydrate": 72,
-					"protein": 38,
-					"calories": 612
+					"fat": 36,
+					"carbohydrate": 186,
+					"protein": 74,
+					"calories": 1434
 				}
 			}
 		},
 		"Angebot des Tages II": {
-			"1": {
-				"name": "Burger mit Beef, Gorgonzola und Rucola",
+			"1": null,
+			"2": {
+				"name": "Klassischer Burger mit 200 Gramm Angus Beef, zweierlei Dips und Salat",
 				"attributes": [
 					"3",
 					"9",
@@ -286,48 +312,23 @@
 					"32",
 					"36",
 					"39",
+					"40",
 					"R"
 				],
 				"price": {
-					"student": 5,
-					"employee": 6.4,
-					"visitor": 7.3
+					"student": 5.5,
+					"employee": 6.9,
+					"visitor": 7.8
 				},
 				"vitalInfo": null
 			},
-			"2": null,
-			"3": {
-				"name": "Buntes Asia-Gemüse in scharfer Sauce",
-				"attributes": [
-					"V",
-					"1",
-					"3",
-					"KN",
-					"30",
-					"35",
-					"38",
-					"39",
-					"40",
-					"41"
-				],
-				"price": {
-					"student": 3.2,
-					"employee": 4.6,
-					"visitor": 5.5
-				},
-				"vitalInfo": null
-			},
+			"3": null,
 			"4": {
-				"name": "Großer, bunter Salatteller mit Balsamico-Vinaigrette, Zucchini in Tempurateig und Knochlauchdip",
+				"name": "Quinoa Wok mit Bärlauch",
 				"attributes": [
 					"V",
-					"1",
 					"3",
-					"KN",
-					"30",
-					"35",
-					"39",
-					"41"
+					"38"
 				],
 				"price": {
 					"student": 3.5,

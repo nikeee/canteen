@@ -7,21 +7,21 @@
 		}
 	},
 	"validity": {
-		"from": "2019-03-25T00:00:00.000Z",
-		"until": "2019-03-29T00:00:00.000Z"
+		"from": "2019-04-01T00:00:00.000Z",
+		"until": "2019-04-05T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Backfrischer Mohn-Pfannkuchen an hausgemachtem Birnenragout",
+				"name": "Hessische Kartoffelsuppe mit Gemüse und Kräuteröl",
 				"attributes": [
-					"F",
+					"V",
 					"1",
-					"3",
+					"KN",
 					"30",
-					"32",
-					"36"
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 2,
@@ -31,13 +31,14 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Curry-Ragout von zweierlei Kartoffeln",
+				"name": "Gebackene Brokkoli-Nuggets an Pfeffer-Sauerrahmdip",
 				"attributes": [
-					"V",
-					"1",
-					"3",
+					"F",
+					"30",
+					"32",
 					"35",
-					"39"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.1,
@@ -47,12 +48,14 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Kartoffelpuffer mit Apfelmus",
+				"name": "Grünkernpfanne mit knackigem Gemüse und Balsamico an fruchtigem Tomatendip",
 				"attributes": [
-					"F",
+					"V",
+					"1",
 					"3",
+					"KN",
 					"30",
-					"32"
+					"41"
 				],
 				"price": {
 					"student": 2.1,
@@ -62,12 +65,9 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Tortellini mit Spinat-Ricotta-Füllung in Gorgonzolasauce",
+				"name": "Ofenkartoffel mit Grüne-Sauce-Quark",
 				"attributes": [
 					"F",
-					"1",
-					"30",
-					"32",
 					"36"
 				],
 				"price": {
@@ -78,11 +78,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
+				"name": "Zucchinipfanne mit schwarzen Bohnen",
 				"attributes": [
 					"V",
-					"30",
-					"38"
+					"38",
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 2.1,
@@ -94,59 +95,39 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Käse-Spätzlepfanne mit Speck und Schmorzwiebeln",
+				"name": "Geschwenkte Pasta mit Meeresfrüchten, Erbsen und Strauchtomaten",
 				"attributes": [
 					"1",
-					"2",
-					"3",
 					"30",
+					"31",
 					"32",
-					"36",
-					"S"
+					"33",
+					"35",
+					"43"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hähnchenbrust mit roter Linsensauce",
+				"name": "Putengulasch in Balkan-Tomatensauce",
 				"attributes": [
-					"1",
-					"3",
-					"KN",
-					"39"
+					"KN"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Bami Goreng mit Hähnchenstreifen",
+				"name": "Texanisches feuriges Chili con Carne",
 				"attributes": [
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Braten vom Schweinerücken an Whisky-Rahmsauce",
-				"attributes": [
-					"A",
-					"1",
-					"30",
-					"36",
+					"KN",
 					"S"
 				],
 				"price": {
@@ -156,19 +137,37 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Hackbraten mit Pusztasauce",
+			"4": {
+				"name": "Asiatische Thainudelpfanne mit Hähnchen und Gemüse",
 				"attributes": [
+					"2",
+					"3",
+					"30",
+					"32",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachter Speckschmarrn mit Schmanddip",
+				"attributes": [
+					"2",
 					"KN",
 					"30",
 					"32",
-					"39",
+					"36",
 					"S"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			}

@@ -8,20 +8,20 @@
 		}
 	},
 	"validity": {
-		"from": "2019-03-25T00:00:00.000Z",
-		"until": "2019-03-29T00:00:00.000Z"
+		"from": "2019-04-01T00:00:00.000Z",
+		"until": "2019-04-05T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Backfrischer Mohn-Pfannkuchen an hausgemachtem Birnenragout",
+				"name": "Hessische Kartoffelsuppe mit Gemüse und Kräuteröl",
 				"attributes": [
-					"F",
+					"V",
 					"1",
-					"3",
+					"KN",
 					"30",
-					"32",
-					"36"
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 2,
@@ -32,26 +32,176 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Käse-Spätzlepfanne mit Speck und Schmorzwiebeln",
+				"name": "Geschwenkte Pasta mit Meeresfrüchten, Erbsen und Strauchtomaten",
 				"attributes": [
 					"1",
-					"2",
-					"3",
 					"30",
+					"31",
 					"32",
-					"36",
-					"S"
+					"33",
+					"35",
+					"43"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Pellkartoffeln mit hausgemachter Tomaten-Paprika-Salsa",
+				"name": "Polenta-Käseschnitte an Tomatensauce",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"32",
+					"35",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Gebackene Brokkoli-Nuggets an Pfeffer-Sauerrahmdip",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"35",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Putengulasch in Balkan-Tomatensauce",
+				"attributes": [
+					"KN"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Arabische Reispfanne",
+				"attributes": [
+					"V",
+					"Ö",
+					"37"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Grünkernpfanne mit knackigem Gemüse und Balsamico an fruchtigem Tomatendip",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"KN",
+					"30",
+					"41"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Texanisches feuriges Chili con Carne",
+				"attributes": [
+					"KN",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Provenzalischer Kartoffelauflauf",
+				"attributes": [
+					"F",
+					"Ö",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Ofenkartoffel mit Grüne-Sauce-Quark",
+				"attributes": [
+					"F",
+					"36"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Asiatische Thainudelpfanne mit Hähnchen und Gemüse",
+				"attributes": [
+					"2",
+					"3",
+					"30",
+					"32",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Ratatouille-Gemüsepfanne auf Reis",
 				"attributes": [
 					"V",
 					"Ö",
@@ -68,13 +218,12 @@
 		],
 		[
 			{
-				"name": "Curry-Ragout von zweierlei Kartoffeln",
+				"name": "Zucchinipfanne mit schwarzen Bohnen",
 				"attributes": [
 					"V",
-					"1",
-					"3",
-					"35",
-					"39"
+					"38",
+					"39",
+					"40"
 				],
 				"price": {
 					"student": 2.1,
@@ -85,111 +234,12 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hähnchenbrust mit roter Linsensauce",
+				"name": "Hausgemachter Speckschmarrn mit Schmanddip",
 				"attributes": [
-					"1",
-					"3",
+					"2",
 					"KN",
-					"39"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Pasta mit Spinatsauce und Fetawürfeln",
-				"attributes": [
-					"F",
-					"Ö",
-					"KN",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Kartoffelpuffer mit Apfelmus",
-				"attributes": [
-					"F",
-					"3",
-					"30",
-					"32"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Bami Goreng mit Hähnchenstreifen",
-				"attributes": [
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Reispfanne Indische Art mit Gemüse und Kokosmilch",
-				"attributes": [
-					"V",
-					"Ö",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Tortellini mit Spinat-Ricotta-Füllung in Gorgonzolasauce",
-				"attributes": [
-					"F",
-					"1",
 					"30",
 					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Braten vom Schweinerücken an Whisky-Rahmsauce",
-				"attributes": [
-					"A",
-					"1",
-					"30",
 					"36",
 					"S"
 				],
@@ -202,63 +252,11 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Pekingsuppe mit Tofu, dazu Brötchen",
-				"attributes": [
-					"V",
-					"Ö",
-					"30",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			}
-		],
-		[
-			{
-				"name": "Gebackene Gemüsekroketten mit veganer Sauce Hollandaise",
-				"attributes": [
-					"V",
-					"30",
-					"38"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hackbraten mit Pusztasauce",
-				"attributes": [
-					"KN",
-					"30",
-					"32",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Kartoffel-Auflauf mit Bohnen, Paprika, Mais und Ei",
+				"name": "Spaghetti in Champignonrahmsauce",
 				"attributes": [
 					"F",
 					"Ö",
-					"KN",
-					"32",
+					"30",
 					"36"
 				],
 				"price": {
