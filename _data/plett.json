@@ -242,16 +242,7 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Lassen Sie sich überraschen - Preis laut Aushang vor Ort",
-				"attributes": [],
-				"price": {
-					"student": 0,
-					"employee": 1.4,
-					"visitor": 2.3
-				},
-				"vitalInfo": null
-			},
+			"3": null,
 			"4": {
 				"name": "Schweinesteak mit Zwiebel-Sauerrahm und Gemüsereis",
 				"attributes": [

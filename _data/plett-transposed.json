@@ -167,17 +167,6 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 3 oder 4"
-			},
-			{
-				"name": "Lassen Sie sich überraschen - Preis laut Aushang vor Ort",
-				"attributes": [],
-				"price": {
-					"student": 0,
-					"employee": 1.4,
-					"visitor": 2.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot des Tages I"
 			}
 		],
 		[

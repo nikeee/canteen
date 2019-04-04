@@ -208,8 +208,18 @@
 				"categoryName": "Essen 3 oder 4"
 			},
 			{
-				"name": "Lassen Sie sich überraschen - Preis laut Aushang vor Ort",
-				"attributes": [],
+				"name": "Fischroulade mit Gemüsen gefüllt an cremiger Hummer-Buttersauce und Bandnudeln",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"31",
+					"33",
+					"35",
+					"36",
+					"38",
+					"41"
+				],
 				"price": {
 					"student": 0,
 					"employee": 1.4,
