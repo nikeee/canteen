@@ -318,9 +318,9 @@
 					"41"
 				],
 				"price": {
-					"student": 0,
-					"employee": 1.4,
-					"visitor": 2.3
+					"student": 4.5,
+					"employee": 5.9,
+					"visitor": 6.8
 				},
 				"vitalInfo": null
 			},
