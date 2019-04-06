@@ -7,38 +7,18 @@
 		}
 	},
 	"validity": {
-		"from": "2019-04-01T00:00:00.000Z",
-		"until": "2019-04-05T00:00:00.000Z"
+		"from": "2019-04-08T00:00:00.000Z",
+		"until": "2019-04-12T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Hessische Kartoffelsuppe mit Gemüse und Kräuteröl",
+				"name": "Süßkartoffel-Gnocchi in fruchtiger Tomatensauce",
 				"attributes": [
 					"V",
-					"1",
 					"KN",
-					"30",
-					"35",
-					"38"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Gebackene Brokkoli-Nuggets an Pfeffer-Sauerrahmdip",
-				"attributes": [
-					"F",
-					"30",
-					"32",
-					"35",
-					"36",
-					"38"
+					"30"
 				],
 				"price": {
 					"student": 2.1,
@@ -47,15 +27,33 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Grünkernpfanne mit knackigem Gemüse und Balsamico an fruchtigem Tomatendip",
+			"2": {
+				"name": "Backfrischer Nutella Pfannkuchen an cremiger Eierlikörsauce",
 				"attributes": [
-					"V",
+					"F",
+					"A",
 					"1",
-					"3",
-					"KN",
 					"30",
-					"41"
+					"32",
+					"35",
+					"36",
+					"37"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Rahmspinat mit Rührei",
+				"attributes": [
+					"F",
+					"1",
+					"KN",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.1,
@@ -65,9 +63,11 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Ofenkartoffel mit Grüne-Sauce-Quark",
+				"name": "Ofenfrische Gemüsefrikadellen mit Sauerrahmdip",
 				"attributes": [
 					"F",
+					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -78,9 +78,10 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Zucchinipfanne mit schwarzen Bohnen",
+				"name": "Asia-Sojastreifen in süßscharfer Sauce",
 				"attributes": [
 					"V",
+					"35",
 					"38",
 					"39",
 					"40"
@@ -95,15 +96,16 @@
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Geschwenkte Pasta mit Meeresfrüchten, Erbsen und Strauchtomaten",
+				"name": "Knackwurst auf hausgemachtem Kartoffelsalat",
 				"attributes": [
-					"1",
-					"30",
-					"31",
+					"2",
+					"3",
+					"8",
+					"9",
 					"32",
-					"33",
-					"35",
-					"43"
+					"36",
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 2.6,
@@ -113,55 +115,55 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Putengulasch in Balkan-Tomatensauce",
+				"name": "Hähnchenbrust mit Ingwer mariniert auf asiatischer Sojasauce",
 				"attributes": [
-					"KN"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Texanisches feuriges Chili con Carne",
-				"attributes": [
-					"KN",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Asiatische Thainudelpfanne mit Hähnchen und Gemüse",
-				"attributes": [
-					"2",
-					"3",
 					"30",
-					"32",
 					"35",
 					"39"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Hausgemachtes Hacksteak an Zwiebeljus",
+				"attributes": [
+					"KN",
+					"30",
+					"32",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Geschmortes Tomatengemüse mit Hähnchenstreifen",
+				"attributes": [
+					"KN"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachter Speckschmarrn mit Schmanddip",
+				"name": "Gegrilltes Steak vom Schweinerücken auf cremiger Portwein-Rahmsauce",
 				"attributes": [
-					"2",
-					"KN",
+					"A",
+					"1",
 					"30",
-					"32",
 					"36",
+					"41",
 					"S"
 				],
 				"price": {
@@ -174,9 +176,47 @@
 		},
 		"Essen 3 oder 4": {
 			"1": {
-				"name": "Goldgelb gebackene Chicken-Crossies mit hausgemachtem Gurkenrelish",
+				"name": "Panierter Merlan auf fruchtigem Ajvar-Tomatendip",
 				"attributes": [
+					"KN",
 					"30",
+					"33",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Paniertes Schweineschnitzel an Spargel-Sahnesauce",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"32",
+					"36",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.9,
+					"visitor": 5.8
+				},
+				"vitalInfo": null
+			},
+			"3": null,
+			"4": {
+				"name": "Wrap mit Papaya, scharfen Süßkartoffeln, Quinoapops und Currycreme",
+				"attributes": [
+					"V",
+					"2",
+					"30",
+					"35",
 					"39"
 				],
 				"price": {
@@ -186,9 +226,8 @@
 				},
 				"vitalInfo": null
 			},
-			"2": null,
-			"3": {
-				"name": "Gebackenes Hähnchenschnitzel im Kokoskleid auf Erdnusssauce",
+			"5": {
+				"name": "Putensteak im Erdnussbackteig auf Lauchsauce",
 				"attributes": [
 					"1",
 					"30",
@@ -202,88 +241,36 @@
 					"visitor": 5.8
 				},
 				"vitalInfo": null
-			},
-			"4": null,
-			"5": {
-				"name": "Gebackenes Putenschnitzel auf Guacamole-Sauerrahmdip",
+			}
+		},
+		"Angebot des Tages I": {
+			"1": null,
+			"2": null,
+			"3": {
+				"name": "Hähnchenbrust in Sesamkruste mit Basilikumsauce und Gnocchi",
 				"attributes": [
-					"1",
-					"3",
+					"MV",
+					"KN",
 					"30",
 					"32",
-					"36"
+					"36",
+					"38",
+					"40"
 				],
 				"price": {
 					"student": 3.5,
 					"employee": 4.9,
 					"visitor": 5.8
 				},
-				"vitalInfo": null
-			}
-		},
-		"Angebot des Tages I": {
-			"1": null,
-			"2": {
-				"name": "Klassischer Burger mit 200 Gramm Angus Beef, zweierlei Dips und Salat",
-				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
-					"36",
-					"39",
-					"40",
-					"R"
-				],
-				"price": {
-					"student": 5.5,
-					"employee": 6.9,
-					"visitor": 7.8
-				},
-				"vitalInfo": null
-			},
-			"3": null,
-			"4": {
-				"name": "Schweinesteak mit Zwiebel-Sauerrahm und Gemüsereis",
-				"attributes": [
-					"MV",
-					"30",
-					"36",
-					"38",
-					"S"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
 				"vitalInfo": {
-					"fat": 27,
-					"carbohydrate": 83,
-					"protein": 38,
-					"calories": 732
+					"fat": 25,
+					"carbohydrate": 82,
+					"protein": 44,
+					"calories": 745
 				}
 			},
-			"5": {
-				"name": "Gebratenes Wildlachsfilet mit Barbecuegemüse und Wildreis",
-				"attributes": [
-					"MV",
-					"9",
-					"30",
-					"33"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.9,
-					"visitor": 6.8
-				},
-				"vitalInfo": {
-					"fat": 36,
-					"carbohydrate": 186,
-					"protein": 74,
-					"calories": 1434
-				}
-			}
+			"4": null,
+			"5": null
 		}
 	}
 }
