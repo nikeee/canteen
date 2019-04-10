@@ -119,7 +119,9 @@
 				"name": "Hähnchenbrust mit Ingwer mariniert auf asiatischer Sojasauce",
 				"attributes": [
 					"30",
+					"33",
 					"35",
+					"36",
 					"39"
 				],
 				"price": {
@@ -253,6 +255,7 @@
 				"attributes": [
 					"V",
 					"MV",
+					"1",
 					"30",
 					"35"
 				],
