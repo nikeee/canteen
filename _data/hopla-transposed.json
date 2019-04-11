@@ -199,30 +199,6 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Hähnchenbrust in Sesamkruste mit Basilikumsauce und Gnocchi",
-				"attributes": [
-					"MV",
-					"KN",
-					"30",
-					"32",
-					"36",
-					"38",
-					"40"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.9,
-					"visitor": 5.8
-				},
-				"vitalInfo": {
-					"fat": 25,
-					"carbohydrate": 82,
-					"protein": 44,
-					"calories": 745
-				},
-				"categoryName": "Angebot des Tages"
-			},
-			{
 				"name": "Gegrilltes Duett von Aubergine und Zucchini im Pankokleid an Korianderdip",
 				"attributes": [
 					"V",
