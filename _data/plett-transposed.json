@@ -202,7 +202,8 @@
 			{
 				"name": "Geschmortes Tomatengemüse mit Hähnchenstreifen",
 				"attributes": [
-					"KN"
+					"KN",
+					"S"
 				],
 				"price": {
 					"student": 2.6,
