@@ -7,18 +7,21 @@
 		}
 	},
 	"validity": {
-		"from": "2019-04-08T00:00:00.000Z",
-		"until": "2019-04-12T00:00:00.000Z"
+		"from": "2019-04-15T00:00:00.000Z",
+		"until": "2019-04-19T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Süßkartoffel-Gnocchi in fruchtiger Tomatensauce",
+				"name": "Ofenfrische Grilltomate auf cremigem Eblysotto",
 				"attributes": [
 					"V",
+					"1",
 					"KN",
-					"30"
+					"30",
+					"35",
+					"38"
 				],
 				"price": {
 					"student": 2.1,
@@ -28,16 +31,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Backfrischer Nutella Pfannkuchen an cremiger Eierlikörsauce",
+				"name": "Pastapfanne mit Radicchio und Kirschtomaten",
 				"attributes": [
-					"F",
-					"A",
-					"1",
-					"30",
-					"32",
-					"35",
-					"36",
-					"37"
+					"V",
+					"KN",
+					"30"
 				],
 				"price": {
 					"student": 2,
@@ -47,11 +45,9 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Rahmspinat mit Rührei",
+				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
 				"attributes": [
 					"F",
-					"1",
-					"KN",
 					"32",
 					"36"
 				],
@@ -63,12 +59,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Ofenfrische Gemüsefrikadellen mit Sauerrahmdip",
+				"name": "Rote Kokoslinsen in gelber Thai-Currysauce mit Gemüse",
 				"attributes": [
-					"F",
-					"30",
-					"32",
-					"36"
+					"V",
+					"3",
+					"KN",
+					"39"
 				],
 				"price": {
 					"student": 2.1,
@@ -78,63 +74,73 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Asia-Sojastreifen in süßscharfer Sauce",
-				"attributes": [
-					"V",
-					"35",
-					"38",
-					"39",
-					"40"
-				],
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
 				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
+					"student": 0,
+					"employee": 1.4,
+					"visitor": 2.3
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Knackwurst auf hausgemachtem Kartoffelsalat",
+				"name": "Hühnerfrikassee mit Erbsen und Spargel",
 				"attributes": [
-					"2",
-					"3",
-					"8",
-					"9",
-					"32",
+					"A",
+					"1",
+					"30",
 					"36",
-					"39",
-					"S"
+					"41"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hähnchenbrust mit Ingwer mariniert auf asiatischer Sojasauce",
+				"name": "Fischstäbchen mit Remouladensauce",
 				"attributes": [
+					"3",
+					"9",
 					"30",
-					"35",
+					"32",
+					"33",
+					"36",
 					"39"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Hausgemachtes Hacksteak an Zwiebeljus",
+				"name": "Steak vom Schweinerücken in Barbecuemarinade an Zitronenbutter",
 				"attributes": [
+					"1",
 					"KN",
+					"36",
+					"38",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gegrillte, nordhessische Kartoffelbratwurst mit Majoranjus",
+				"attributes": [
+					"2",
+					"3",
 					"30",
-					"32",
-					"39",
 					"S"
 				],
 				"price": {
@@ -144,35 +150,7 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Geschmortes Tomatengemüse mit Hähnchenstreifen",
-				"attributes": [
-					"KN"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Gegrilltes Steak vom Schweinerücken auf cremiger Portwein-Rahmsauce",
-				"attributes": [
-					"A",
-					"1",
-					"30",
-					"36",
-					"41",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			}
+			"5": null
 		}
 	}
 }
