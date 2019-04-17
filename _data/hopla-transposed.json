@@ -33,18 +33,19 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hühnerfrikassee mit Erbsen und Spargel",
+				"name": "Gegrilltes Steak vom Schweinerücken auf cremiger Portwein-Rahmsauce",
 				"attributes": [
 					"A",
 					"1",
 					"30",
 					"36",
-					"41"
+					"41",
+					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 0,
+					"employee": 1.4,
+					"visitor": 2.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
@@ -172,21 +173,6 @@
 					"calories": 694
 				},
 				"categoryName": "Angebot des Tages"
-			},
-			{
-				"name": "Ofenfrischer Flammkuchen mit Lauch, Chili und Hirtenkäse",
-				"attributes": [
-					"F",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.4,
-					"visitor": 6.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Pizza/Pasta"
 			}
 		],
 		[
