@@ -34,9 +34,10 @@
 			"2": {
 				"name": "Pastapfanne mit Radicchio und Kirschtomaten",
 				"attributes": [
-					"V",
+					"F",
 					"KN",
-					"30"
+					"30",
+					"32"
 				],
 				"price": {
 					"student": 2,

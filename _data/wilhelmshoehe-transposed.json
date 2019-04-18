@@ -161,8 +161,11 @@
 				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
 				"attributes": [
 					"F",
+					"30",
 					"32",
-					"36"
+					"35",
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.1,
