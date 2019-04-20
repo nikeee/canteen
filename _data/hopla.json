@@ -8,21 +8,27 @@
 		}
 	},
 	"validity": {
-		"from": "2019-04-15T00:00:00.000Z",
-		"until": "2019-04-19T00:00:00.000Z"
+		"from": "2019-04-22T00:00:00.000Z",
+		"until": "2019-04-26T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Ofenfrische Grilltomate auf cremigem Eblysotto",
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen.",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.4,
+					"visitor": 2.3
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Berner Riesenrösti an Paprika-Zwiebel-Ragout",
 				"attributes": [
 					"V",
-					"1",
-					"KN",
-					"30",
-					"35",
-					"38"
+					"KN"
 				],
 				"price": {
 					"student": 2.1,
@@ -31,26 +37,12 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Pastapfanne mit Radicchio und Kirschtomaten",
-				"attributes": [
-					"F",
-					"KN",
-					"30",
-					"32"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
+				"name": "Gnocchi in Béchamelsauce mit frischem Rucola",
 				"attributes": [
 					"F",
-					"32",
+					"1",
+					"30",
 					"36"
 				],
 				"price": {
@@ -61,11 +53,13 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Rote Kokoslinsen in gelber Thai-Currysauce mit Gemüse",
+				"name": "Curry von Brokkoli und Lauch in Erdnusssauce mit Kokos",
 				"attributes": [
 					"V",
-					"3",
-					"KN",
+					"1",
+					"30",
+					"34",
+					"35",
 					"39"
 				],
 				"price": {
@@ -76,44 +70,27 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
+				"name": "Pfannenfrische Gemüsepaella",
+				"attributes": [
+					"V",
+					"KN"
+				],
 				"price": {
-					"student": 0,
-					"employee": 1.4,
-					"visitor": 2.3
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
-			"1": {
-				"name": "Gegrilltes Steak vom Schweinerücken auf cremiger Portwein-Rahmsauce",
-				"attributes": [
-					"A",
-					"1",
-					"30",
-					"36",
-					"41",
-					"S"
-				],
-				"price": {
-					"student": 0,
-					"employee": 1.4,
-					"visitor": 2.3
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
-				"name": "Fischstäbchen mit Remouladensauce",
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
 				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
-					"33",
+					"8",
 					"36",
-					"39"
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -123,13 +100,38 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Steak vom Schweinerücken in Barbecuemarinade an Zitronenbutter",
+				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
+				"attributes": [
+					"KN",
+					"36"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Hähnchenbrust mit Béchamelkartoffeln",
 				"attributes": [
 					"1",
-					"KN",
-					"36",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Orientalische Hackfleisch-Quinoapfanne",
+				"attributes": [
+					"3",
 					"38",
-					"S"
+					"R"
 				],
 				"price": {
 					"student": 2.5,
@@ -137,30 +139,23 @@
 					"visitor": 4.8
 				},
 				"vitalInfo": null
-			},
-			"4": {
-				"name": "Gegrillte, nordhessische Kartoffelbratwurst mit Majoranjus",
-				"attributes": [
-					"2",
-					"3",
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": null
+			}
 		},
 		"Essen 3 oder 4": {
-			"1": {
-				"name": "Goldgelb gebackene Kartoffeltaschen mit Frischkäsefüllung an Tomaten-Quarkdip",
+			"1": null,
+			"2": {
+				"name": "Crostini Baguette mit Pesto und Thunfischcreme an gartenfrischem Salat",
 				"attributes": [
-					"F",
-					"36"
+					"1",
+					"2",
+					"3",
+					"KN",
+					"30",
+					"32",
+					"33",
+					"36",
+					"37",
+					"39"
 				],
 				"price": {
 					"student": 3.1,
@@ -169,39 +164,16 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Enchilada mit Geflügelgyros, Kraut, Zwiebeln und Zaziki",
+			"3": {
+				"name": "Hausgemachter Wrap mit Thaicurrymayonnaise, Sprossen und Sesam-Brätlingen",
 				"attributes": [
+					"V",
+					"2",
 					"KN",
 					"30",
-					"36"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Hähnchenbrust im Chia-Sesamkleid auf hausgemachtem Mango-Chutney",
-				"attributes": [
-					"3",
+					"35",
+					"39",
 					"40"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.9,
-					"visitor": 5.8
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Gebratenes Putenschnitzel auf hessischem Grüne-Sauce-Schmand",
-				"attributes": [
-					"30",
-					"32",
-					"36"
 				],
 				"price": {
 					"student": 3.6,
@@ -210,54 +182,33 @@
 				},
 				"vitalInfo": null
 			},
-			"5": null
-		},
-		"Angebot des Tages": {
-			"1": {
-				"name": "Rindfleischstreifen in Erdnuss-Green-Thaicurry-Sauce",
+			"4": {
+				"name": "Paniertes Schnitzel vom Schwein auf tomatisierter Bratenjus",
 				"attributes": [
-					"1",
-					"KN",
-					"34",
-					"36",
-					"R"
+					"30",
+					"32",
+					"S"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.4,
-					"visitor": 6.3
+					"student": 3.2,
+					"employee": 4.6,
+					"visitor": 5.5
 				},
 				"vitalInfo": null
 			},
+			"5": null
+		},
+		"Angebot des Tages": {
+			"1": null,
 			"2": {
-				"name": "Mexikanischer Chili-Käse-Maiseintopf mit Rindfleisch",
+				"name": "Nudelpfanne mit Gemüse, Radicchio und geriebenem Käse",
 				"attributes": [
+					"F",
 					"MV",
 					"KN",
 					"30",
 					"36",
-					"R"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": {
-					"fat": 24,
-					"carbohydrate": 84,
-					"protein": 39,
-					"calories": 694
-				}
-			},
-			"3": {
-				"name": "Tofusteak mit Spinat-Tomaten-Kokos-Gemüse und Kurkumareis",
-				"attributes": [
-					"V",
-					"MV",
-					"KN",
-					"30",
-					"35"
+					"38"
 				],
 				"price": {
 					"student": 2.5,
@@ -265,64 +216,52 @@
 					"visitor": 4.8
 				},
 				"vitalInfo": {
-					"fat": 22,
-					"carbohydrate": 74,
-					"protein": 24,
-					"calories": 629
+					"fat": 26,
+					"carbohydrate": 97,
+					"protein": 33,
+					"calories": 735
 				}
 			},
-			"4": {
-				"name": "Pochierter Wildlachs mit Basilikumsauce und buntem Gemüse",
+			"3": {
+				"name": "Schweinerücken in Senfkruste mit Ananaskraut und Perlgraupen",
 				"attributes": [
 					"MV",
 					"30",
-					"33",
-					"36"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.9,
-					"visitor": 6.8
-				},
-				"vitalInfo": {
-					"fat": 26,
-					"carbohydrate": 84,
-					"protein": 44,
-					"calories": 748
-				}
-			},
-			"5": null
-		},
-		"Wok/Grill": {
-			"1": {
-				"name": "Armer Ritter Sandwich mit Currydip, gartenfrischem Salat, Avocado, Bacon, Ananas und Sprossen",
-				"attributes": [
-					"2",
-					"3",
-					"KN",
-					"30",
-					"32",
-					"36",
+					"38",
 					"39",
 					"S"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.9,
-					"visitor": 5.8
+					"student": 2.7,
+					"employee": 4.1,
+					"visitor": 5
+				},
+				"vitalInfo": {
+					"fat": 24,
+					"carbohydrate": 80,
+					"protein": 40,
+					"calories": 680
+				}
+			},
+			"4": {
+				"name": "Lassen Sie sich überraschen - Preis laut Aushang vor Ort.",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.4,
+					"visitor": 2.3
 				},
 				"vitalInfo": null
 			},
-			"2": null,
-			"3": {
-				"name": "Burger mit Beef, Tomate-Mozzarella, Salaten und cremigem Rucola-Senfdip",
+			"5": {
+				"name": "Knusprig gebackene Chicken Drumsticks auf Tomatensalsa",
 				"attributes": [
+					"1",
 					"3",
+					"KN",
 					"30",
 					"32",
-					"36",
-					"39",
-					"R"
+					"41"
 				],
 				"price": {
 					"student": 4.5,
@@ -330,15 +269,20 @@
 					"visitor": 6.8
 				},
 				"vitalInfo": null
-			},
-			"4": {
-				"name": "Riesen Tortellini mit Grüner-Spargel-Füllung in Bärlauchsauce",
+			}
+		},
+		"Wok/Grill": {
+			"1": null,
+			"2": {
+				"name": "Burger mit Beef, Wakame Algen, Eisbergsalat und Guacamole-Sauerrahmdip",
 				"attributes": [
-					"F",
 					"1",
 					"30",
-					"32",
-					"36"
+					"35",
+					"36",
+					"39",
+					"40",
+					"R"
 				],
 				"price": {
 					"student": 4,
@@ -347,14 +291,80 @@
 				},
 				"vitalInfo": null
 			},
-			"5": null
+			"3": null,
+			"4": {
+				"name": "Backfrischer Pancake mit Schokoladensauce und Nüssen an Stracciatella-Eis",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"35",
+					"36",
+					"37"
+				],
+				"price": {
+					"student": 3,
+					"employee": 4.4,
+					"visitor": 5.3
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Buntbarsch mit Kartoffel-Gurkensalat und Beerengrütze",
+				"attributes": [
+					"MV",
+					"30",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.4,
+					"visitor": 6.3
+				},
+				"vitalInfo": {
+					"fat": 22,
+					"carbohydrate": 75,
+					"protein": 38,
+					"calories": 654
+				}
+			}
 		},
 		"Pizza/Pasta": {
 			"1": null,
 			"2": null,
-			"3": null,
+			"3": {
+				"name": "Flammkuchen mit Speck, roten Zwiebeln, Käse und Schmand",
+				"attributes": [
+					"2",
+					"30",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.9,
+					"visitor": 6.8
+				},
+				"vitalInfo": null
+			},
 			"4": null,
-			"5": null
+			"5": {
+				"name": "Flammkuchen mit Lauch, Zwiebeln, Ziegenkäse und Honig",
+				"attributes": [
+					"F",
+					"30",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.9,
+					"visitor": 6.8
+				},
+				"vitalInfo": null
+			}
 		}
 	}
 }

@@ -8,151 +8,10 @@
 		}
 	},
 	"validity": {
-		"from": "2019-04-15T00:00:00.000Z",
-		"until": "2019-04-19T00:00:00.000Z"
+		"from": "2019-04-22T00:00:00.000Z",
+		"until": "2019-04-26T00:00:00.000Z"
 	},
 	"days": [
-		[
-			{
-				"name": "Ofenfrische Grilltomate auf cremigem Eblysotto",
-				"attributes": [
-					"V",
-					"1",
-					"KN",
-					"30",
-					"35",
-					"38"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hühnerfrikassee mit Erbsen und Spargel",
-				"attributes": [
-					"A",
-					"1",
-					"30",
-					"36",
-					"41"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Pastapfanne mit Radicchio und Kirschtomaten",
-				"attributes": [
-					"V",
-					"KN",
-					"30"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Fischstäbchen mit Remouladensauce",
-				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
-				"attributes": [
-					"F",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Steak vom Schweinerücken in Barbecuemarinade an Zitronenbutter",
-				"attributes": [
-					"1",
-					"KN",
-					"36",
-					"38",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Rote Kokoslinsen in gelber Thai-Currysauce mit Gemüse",
-				"attributes": [
-					"V",
-					"3",
-					"KN",
-					"39"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gegrillte, nordhessische Kartoffelbratwurst mit Majoranjus",
-				"attributes": [
-					"2",
-					"3",
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
 		[
 			{
 				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
@@ -164,6 +23,135 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
+			}
+		],
+		[
+			{
+				"name": "Berner Riesenrösti an Paprika-Zwiebel-Ragout",
+				"attributes": [
+					"V",
+					"KN"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
+				"attributes": [
+					"8",
+					"36",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Gnocchi in Béchamelsauce mit frischem Rucola",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
+				"attributes": [
+					"KN",
+					"36"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Curry von Brokkoli und Lauch in Erdnusssauce mit Kokos",
+				"attributes": [
+					"V",
+					"1",
+					"30",
+					"34",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hähnchenbrust mit Béchamelkartoffeln",
+				"attributes": [
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Pfannenfrische Gemüsepaella",
+				"attributes": [
+					"V",
+					"KN"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Orientalische Hackfleisch-Quinoapfanne",
+				"attributes": [
+					"3",
+					"38",
+					"R"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
 			}
 		]
 	]

@@ -7,21 +7,27 @@
 		}
 	},
 	"validity": {
-		"from": "2019-04-15T00:00:00.000Z",
-		"until": "2019-04-19T00:00:00.000Z"
+		"from": "2019-04-22T00:00:00.000Z",
+		"until": "2019-04-26T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Ofenfrische Grilltomate auf cremigem Eblysotto",
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.4,
+					"visitor": 2.3
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Berner Riesenrösti an Paprika-Zwiebel-Ragout",
 				"attributes": [
 					"V",
-					"1",
-					"KN",
-					"30",
-					"35",
-					"38"
+					"KN"
 				],
 				"price": {
 					"student": 2.1,
@@ -30,25 +36,12 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Pastapfanne mit Radicchio und Kirschtomaten",
-				"attributes": [
-					"V",
-					"KN",
-					"30"
-				],
-				"price": {
-					"student": 2,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
 			"3": {
-				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
+				"name": "Gnocchi in Béchamelsauce mit frischem Rucola",
 				"attributes": [
 					"F",
-					"32",
+					"1",
+					"30",
 					"36"
 				],
 				"price": {
@@ -59,11 +52,13 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Rote Kokoslinsen in gelber Thai-Currysauce mit Gemüse",
+				"name": "Curry von Brokkoli und Lauch in Erdnusssauce mit Kokos",
 				"attributes": [
 					"V",
-					"3",
-					"KN",
+					"1",
+					"30",
+					"34",
+					"35",
 					"39"
 				],
 				"price": {
@@ -74,43 +69,27 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
+				"name": "Pfannenfrische Gemüsepaella",
+				"attributes": [
+					"V",
+					"KN"
+				],
 				"price": {
-					"student": 0,
-					"employee": 1.4,
-					"visitor": 2.3
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
-			"1": {
-				"name": "Hühnerfrikassee mit Erbsen und Spargel",
-				"attributes": [
-					"A",
-					"1",
-					"30",
-					"36",
-					"41"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
-				"name": "Fischstäbchen mit Remouladensauce",
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
 				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
-					"33",
+					"8",
 					"36",
-					"39"
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -120,13 +99,38 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Steak vom Schweinerücken in Barbecuemarinade an Zitronenbutter",
+				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
+				"attributes": [
+					"KN",
+					"36"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Hähnchenbrust mit Béchamelkartoffeln",
 				"attributes": [
 					"1",
-					"KN",
-					"36",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Orientalische Hackfleisch-Quinoapfanne",
+				"attributes": [
+					"3",
 					"38",
-					"S"
+					"R"
 				],
 				"price": {
 					"student": 2.5,
@@ -134,23 +138,7 @@
 					"visitor": 4.8
 				},
 				"vitalInfo": null
-			},
-			"4": {
-				"name": "Gegrillte, nordhessische Kartoffelbratwurst mit Majoranjus",
-				"attributes": [
-					"2",
-					"3",
-					"30",
-					"S"
-				],
-				"price": {
-					"student": 2.4,
-					"employee": 3.8,
-					"visitor": 4.7
-				},
-				"vitalInfo": null
-			},
-			"5": null
+			}
 		}
 	}
 }

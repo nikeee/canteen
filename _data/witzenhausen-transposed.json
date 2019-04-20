@@ -8,20 +8,29 @@
 		}
 	},
 	"validity": {
-		"from": "2019-04-15T00:00:00.000Z",
-		"until": "2019-04-19T00:00:00.000Z"
+		"from": "2019-04-22T00:00:00.000Z",
+		"until": "2019-04-26T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Ofenfrische Grilltomate auf cremigem Eblysotto",
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen.",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.4,
+					"visitor": 2.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			}
+		],
+		[
+			{
+				"name": "Berner Riesenrösti an Paprika-Zwiebel-Ragout",
 				"attributes": [
 					"V",
-					"1",
-					"KN",
-					"30",
-					"35",
-					"38"
+					"KN"
 				],
 				"price": {
 					"student": 2.1,
@@ -32,13 +41,11 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hühnerfrikassee mit Erbsen und Spargel",
+				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
 				"attributes": [
-					"A",
-					"1",
-					"30",
+					"8",
 					"36",
-					"41"
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -49,12 +56,11 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Ungarische Kartoffelpfanne mit Paprika, Zwiebeln und Saurer Sahne",
+				"name": "Türkischer Bulgursalat",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"KN",
-					"36"
+					"30"
 				],
 				"price": {
 					"student": 2.9,
@@ -65,13 +71,11 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Schweinebraten in Kräuter-Senfkruste an hausgemachtem Kartoffelstampf",
+				"name": "Südafrikanische Hähnchenpfanne mit Basmatireis",
 				"attributes": [
-					"1",
 					"KN",
-					"36",
-					"39",
-					"S"
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 3.5,
@@ -84,47 +88,43 @@
 		],
 		[
 			{
-				"name": "Pastapfanne mit Radicchio und Kirschtomaten",
+				"name": "Gnocchi in Béchamelsauce mit frischem Rucola",
 				"attributes": [
-					"V",
-					"KN",
-					"30"
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Fischstäbchen mit Remouladensauce",
+				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
-					"3",
-					"9",
-					"30",
-					"32",
-					"33",
-					"36",
-					"39"
+					"KN",
+					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Arabisch-marokkanische Kartoffelpuffer mit Tomaten-Paprikadip",
+				"name": "Thailändisches Tofucurry mit Kokosmilch",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"KN",
-					"30",
-					"32"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -135,9 +135,10 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Paniertes Schweineschnitzel an hessischer Schmandsauce mit Kräutern und Speckwürfeln",
+				"name": "Paniertes Schweineschnitzel an Champignon-Rahmsauce",
 				"attributes": [
-					"2",
+					"1",
+					"KN",
 					"30",
 					"32",
 					"36",
@@ -154,11 +155,14 @@
 		],
 		[
 			{
-				"name": "Kartoffelauflauf provenzalisch mit Käsehaube",
+				"name": "Curry von Brokkoli und Lauch in Erdnusssauce mit Kokos",
 				"attributes": [
-					"F",
-					"32",
-					"36"
+					"V",
+					"1",
+					"30",
+					"34",
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.1,
@@ -169,31 +173,30 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Steak vom Schweinerücken in Barbecuemarinade an Zitronenbutter",
+				"name": "Hähnchenbrust mit Béchamelkartoffeln",
 				"attributes": [
 					"1",
-					"KN",
-					"36",
-					"38",
-					"S"
+					"30",
+					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Sesamnudeln mit asiatischem Gemüse",
+				"name": "Grünkohllasagne mit Béchamelsauce",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
+					"KN",
 					"30",
 					"35",
-					"39",
-					"40"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.9,
@@ -204,12 +207,11 @@
 				"categoryName": "Bio-Essen"
 			},
 			{
-				"name": "Kameruner Pfeffereintopf mit Hähnchenfilet und Kohl, dazu ein Vollkornbrötchen",
+				"name": "Geschnetzeltes aus der Schweinekeule in Spargelrahm",
 				"attributes": [
-					"3",
 					"30",
-					"34",
-					"35"
+					"36",
+					"S"
 				],
 				"price": {
 					"student": 3.5,
@@ -222,12 +224,10 @@
 		],
 		[
 			{
-				"name": "Rote Kokoslinsen in gelber Thai-Currysauce mit Gemüse",
+				"name": "Pfannenfrische Gemüsepaella",
 				"attributes": [
 					"V",
-					"3",
-					"KN",
-					"39"
+					"KN"
 				],
 				"price": {
 					"student": 2.1,
@@ -238,28 +238,30 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Gegrillte, nordhessische Kartoffelbratwurst mit Majoranjus",
+				"name": "Orientalische Hackfleisch-Quinoapfanne",
 				"attributes": [
-					"2",
 					"3",
-					"30",
-					"S"
+					"38",
+					"R"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Grüne Sauce mit 3 1/2 Eiern",
+				"name": "Gekochte Eier in Curry-Gemüsesauce",
 				"attributes": [
 					"F",
 					"Ö",
+					"30",
 					"32",
-					"36"
+					"35",
+					"36",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -268,19 +270,23 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Bio-Essen"
-			}
-		],
-		[
+			},
 			{
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
+				"name": "Sommerliches Matjesfilet mit Gurken, Tomaten und Zwiebeln",
+				"attributes": [
+					"1",
+					"2",
+					"3",
+					"33",
+					"41"
+				],
 				"price": {
-					"student": 0,
-					"employee": 1.4,
-					"visitor": 2.3
+					"student": 3.5,
+					"employee": 4.9,
+					"visitor": 5.8
 				},
 				"vitalInfo": null,
-				"categoryName": "Essen 1"
+				"categoryName": "Aktions-Essen"
 			}
 		]
 	]
