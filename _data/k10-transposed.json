@@ -25,41 +25,7 @@
 				"categoryName": "Angebot 1"
 			}
 		],
-		[
-			{
-				"name": "Ofenfrisches Schweinerückensteak mit feiner Dijon-Senfsauce",
-				"attributes": [
-					"1",
-					"36",
-					"39",
-					"41",
-					"S"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Schupfnudeln mit Wurzelgemüse",
-				"attributes": [
-					"V",
-					"1",
-					"30",
-					"38"
-				],
-				"price": {
-					"student": 3.1,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
+		[],
 		[
 			{
 				"name": "Zartes Putenschnitzel in Parmesan-Eihülle an fruchtiger Basilikum-Tomatensauce",
