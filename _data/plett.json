@@ -42,6 +42,7 @@
 					"F",
 					"1",
 					"30",
+					"32",
 					"36"
 				],
 				"price": {
@@ -101,8 +102,14 @@
 			"3": {
 				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
+					"2",
+					"3",
 					"KN",
-					"36"
+					"30",
+					"32",
+					"36",
+					"38",
+					"R"
 				],
 				"price": {
 					"student": 2.6,
@@ -168,6 +175,7 @@
 				"attributes": [
 					"V",
 					"2",
+					"3",
 					"KN",
 					"30",
 					"35",

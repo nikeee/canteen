@@ -103,7 +103,10 @@
 				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
 					"KN",
-					"36"
+					"30",
+					"36",
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 2.6,
@@ -200,49 +203,8 @@
 		},
 		"Angebot des Tages": {
 			"1": null,
-			"2": {
-				"name": "Nudelpfanne mit Gemüse, Radicchio und geriebenem Käse",
-				"attributes": [
-					"F",
-					"MV",
-					"KN",
-					"30",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": {
-					"fat": 26,
-					"carbohydrate": 97,
-					"protein": 33,
-					"calories": 735
-				}
-			},
-			"3": {
-				"name": "Schweinerücken in Senfkruste mit Ananaskraut und Perlgraupen",
-				"attributes": [
-					"MV",
-					"30",
-					"38",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.7,
-					"employee": 4.1,
-					"visitor": 5
-				},
-				"vitalInfo": {
-					"fat": 24,
-					"carbohydrate": 80,
-					"protein": 40,
-					"calories": 680
-				}
-			},
+			"2": null,
+			"3": null,
 			"4": {
 				"name": "Lassen Sie sich überraschen - Preis laut Aushang vor Ort.",
 				"attributes": [],

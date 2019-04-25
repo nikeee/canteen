@@ -79,29 +79,6 @@
 				"categoryName": "Essen 3 oder 4"
 			},
 			{
-				"name": "Nudelpfanne mit Gemüse, Radicchio und geriebenem Käse",
-				"attributes": [
-					"F",
-					"MV",
-					"KN",
-					"30",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": {
-					"fat": 26,
-					"carbohydrate": 97,
-					"protein": 33,
-					"calories": 735
-				},
-				"categoryName": "Angebot des Tages"
-			},
-			{
 				"name": "Burger mit Beef, Wakame Algen, Eisbergsalat und Guacamole-Sauerrahmdip",
 				"attributes": [
 					"1",
@@ -142,7 +119,10 @@
 				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
 					"KN",
-					"36"
+					"30",
+					"36",
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 2.6,
@@ -170,28 +150,6 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 3 oder 4"
-			},
-			{
-				"name": "Schweinerücken in Senfkruste mit Ananaskraut und Perlgraupen",
-				"attributes": [
-					"MV",
-					"30",
-					"38",
-					"39",
-					"S"
-				],
-				"price": {
-					"student": 2.7,
-					"employee": 4.1,
-					"visitor": 5
-				},
-				"vitalInfo": {
-					"fat": 24,
-					"carbohydrate": 80,
-					"protein": 40,
-					"calories": 680
-				},
-				"categoryName": "Angebot des Tages"
 			},
 			{
 				"name": "Flammkuchen mit Speck, roten Zwiebeln, Käse und Schmand",
