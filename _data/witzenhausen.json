@@ -7,27 +7,36 @@
 		}
 	},
 	"validity": {
-		"from": "2019-04-22T00:00:00.000Z",
-		"until": "2019-04-26T00:00:00.000Z"
+		"from": "2019-04-29T00:00:00.000Z",
+		"until": "2019-05-03T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen.",
-				"attributes": [],
+				"name": "Kichererbsen Pfannkuchen mit Gemüsewürfeln an hausgemachtem Karottenhummus",
+				"attributes": [
+					"V",
+					"KN",
+					"30",
+					"35",
+					"38",
+					"40"
+				],
 				"price": {
-					"student": 0,
-					"employee": 1.4,
-					"visitor": 2.3
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Berner Riesenrösti an Paprika-Zwiebel-Ragout",
+				"name": "Grüne Tortellini mit fruchtiger Tomatensauce",
 				"attributes": [
 					"V",
-					"KN"
+					"KN",
+					"30",
+					"38"
 				],
 				"price": {
 					"student": 2.1,
@@ -37,43 +46,41 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gnocchi in Béchamelsauce mit frischem Rucola",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36"
-				],
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen.",
+				"attributes": [],
 				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
+					"student": 0,
+					"employee": 1.4,
+					"visitor": 2.3
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Curry von Brokkoli und Lauch in Erdnusssauce mit Kokos",
+				"name": "Asia-Kokossuppe mit Paprika und Koriander",
 				"attributes": [
 					"V",
 					"1",
-					"30",
-					"34",
-					"35",
-					"39"
+					"3",
+					"KN"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
+					"student": 2,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Pfannenfrische Gemüsepaella",
+				"name": "Schupfnudeln in Kürbissauce",
 				"attributes": [
-					"V",
-					"KN"
+					"F",
+					"1",
+					"KN",
+					"30",
+					"32",
+					"36",
+					"39",
+					"41"
 				],
 				"price": {
 					"student": 2.1,
@@ -84,12 +91,25 @@
 			}
 		},
 		"Essen 2": {
-			"1": null,
-			"2": {
-				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
+			"1": {
+				"name": "Ofenfrische Geflügelfrikadelle an Jus mit grünen Pfefferbeeren",
 				"attributes": [
-					"8",
-					"36",
+					"30",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Zwiebel-Roststeak vom Schweinenacken",
+				"attributes": [
+					"A",
+					"41",
 					"S"
 				],
 				"price": {
@@ -99,39 +119,30 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
-				"attributes": [
-					"KN",
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null
-			},
+			"3": null,
 			"4": {
-				"name": "Hähnchenbrust mit Béchamelkartoffeln",
+				"name": "Cevapcici vom Schweinefleisch an Hot-Salsadip",
 				"attributes": [
-					"1",
+					"3",
+					"KN",
 					"30",
-					"36"
+					"32",
+					"39",
+					"S"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Orientalische Hackfleisch-Quinoapfanne",
+				"name": "Backfrisches Knusperfischfilet an Schnittlauchdip",
 				"attributes": [
-					"3",
-					"38",
-					"R"
+					"30",
+					"33",
+					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -142,13 +153,26 @@
 			}
 		},
 		"Bio-Essen": {
-			"1": null,
+			"1": {
+				"name": "Ofenkartoffeln mit Kräuerquark",
+				"attributes": [
+					"F",
+					"Ö",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null
+			},
 			"2": {
-				"name": "Türkischer Bulgursalat",
+				"name": "Türkischer Bohneneintopf",
 				"attributes": [
 					"V",
 					"Ö",
-					"30"
+					"KN"
 				],
 				"price": {
 					"student": 2.9,
@@ -157,31 +181,16 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Thailändisches Tofucurry mit Kokosmilch",
-				"attributes": [
-					"V",
-					"Ö",
-					"35",
-					"39"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
-			},
+			"3": null,
 			"4": {
-				"name": "Grünkohllasagne mit Béchamelsauce",
+				"name": "Spaghetti mit Tomatenwürfeln und Rucolapesto",
 				"attributes": [
 					"F",
 					"Ö",
 					"KN",
 					"30",
-					"35",
 					"36",
-					"38"
+					"37"
 				],
 				"price": {
 					"student": 2.9,
@@ -191,14 +200,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Gekochte Eier in Curry-Gemüsesauce",
+				"name": "Hülsenfrüchtepfanne mit Karotten, Couscous und Paprika",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
 					"30",
-					"32",
-					"35",
-					"36",
+					"38",
 					"39"
 				],
 				"price": {
@@ -210,30 +217,14 @@
 			}
 		},
 		"Aktions-Essen": {
-			"1": null,
-			"2": {
-				"name": "Südafrikanische Hähnchenpfanne mit Basmatireis",
-				"attributes": [
-					"KN",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.9,
-					"visitor": 5.8
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Paniertes Schweineschnitzel an Champignon-Rahmsauce",
+			"1": {
+				"name": "Griechisches Moussaka mit Ei gestockt",
 				"attributes": [
 					"1",
-					"KN",
 					"30",
 					"32",
 					"36",
-					"S"
+					"R"
 				],
 				"price": {
 					"student": 4,
@@ -242,12 +233,11 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Geschnetzeltes aus der Schweinekeule in Spargelrahm",
+			"2": {
+				"name": "Ghanaisches Hähnchen mit Reis",
 				"attributes": [
-					"30",
-					"36",
-					"S"
+					"KN",
+					"36"
 				],
 				"price": {
 					"student": 3.5,
@@ -256,19 +246,35 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Sommerliches Matjesfilet mit Gurken, Tomaten und Zwiebeln",
+			"3": null,
+			"4": {
+				"name": "Frisch gebratenes Hähnchenbrustschnitzel Toscana auf Sauce Hollandaise",
 				"attributes": [
-					"1",
-					"2",
-					"3",
-					"33",
-					"41"
+					"30",
+					"32",
+					"36",
+					"38"
 				],
 				"price": {
-					"student": 3.5,
-					"employee": 4.9,
-					"visitor": 5.8
+					"student": 4,
+					"employee": 5.4,
+					"visitor": 6.3
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Asia-Rindfleischstreifen in Red-Thaicurry-Sauce",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"39",
+					"R"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.4,
+					"visitor": 6.3
 				},
 				"vitalInfo": null
 			}

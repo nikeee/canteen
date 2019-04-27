@@ -8,10 +8,78 @@
 		}
 	},
 	"validity": {
-		"from": "2019-04-22T00:00:00.000Z",
-		"until": "2019-04-26T00:00:00.000Z"
+		"from": "2019-04-29T00:00:00.000Z",
+		"until": "2019-05-03T00:00:00.000Z"
 	},
 	"days": [
+		[
+			{
+				"name": "Kichererbsen Pfannkuchen mit Gemüsewürfeln an hausgemachtem Karottenhummus",
+				"attributes": [
+					"V",
+					"KN",
+					"30",
+					"35",
+					"38",
+					"40"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Ofenfrische Geflügelfrikadelle an Jus mit grünen Pfefferbeeren",
+				"attributes": [
+					"30",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.8,
+					"visitor": 4.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
+		[
+			{
+				"name": "Grüne Tortellini mit fruchtiger Tomatensauce",
+				"attributes": [
+					"V",
+					"KN",
+					"30",
+					"38"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Zwiebel-Roststeak vom Schweinenacken",
+				"attributes": [
+					"A",
+					"41",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			}
+		],
 		[
 			{
 				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
@@ -27,25 +95,28 @@
 		],
 		[
 			{
-				"name": "Berner Riesenrösti an Paprika-Zwiebel-Ragout",
+				"name": "Asia-Kokossuppe mit Paprika und Koriander",
 				"attributes": [
 					"V",
-					"KN"
+					"1",
+					"3",
+					"KN",
+					"35"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
+					"student": 2,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Grillfrische Käse-Chili-Bratwurst an Ajvarjus",
+				"name": "Backfrisches Knusperfischfilet an Schnittlauchdip",
 				"attributes": [
-					"8",
-					"36",
-					"S"
+					"30",
+					"33",
+					"36"
 				],
 				"price": {
 					"student": 2.5,
@@ -58,46 +129,16 @@
 		],
 		[
 			{
-				"name": "Gnocchi in Béchamelsauce mit frischem Rucola",
+				"name": "Schupfnudeln in Kürbissauce",
 				"attributes": [
 					"F",
 					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Geschwenkte Geflügelstreifen Gyros Art mit griechischem Zaziki",
-				"attributes": [
 					"KN",
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Curry von Brokkoli und Lauch in Erdnusssauce mit Kokos",
-				"attributes": [
-					"V",
-					"1",
 					"30",
-					"34",
-					"35",
-					"39"
+					"32",
+					"36",
+					"39",
+					"41"
 				],
 				"price": {
 					"student": 2.1,
@@ -108,42 +149,14 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Hähnchenbrust mit Béchamelkartoffeln",
-				"attributes": [
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			}
-		],
-		[
-			{
-				"name": "Pfannenfrische Gemüsepaella",
-				"attributes": [
-					"V",
-					"KN"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Orientalische Hackfleisch-Quinoapfanne",
+				"name": "Cevapcici vom Schweinefleisch an Hot-Salsadip",
 				"attributes": [
 					"3",
-					"38",
-					"R"
+					"KN",
+					"30",
+					"32",
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 2.5,
