@@ -8,10 +8,75 @@
 		}
 	},
 	"validity": {
-		"from": "2019-04-22T00:00:00.000Z",
-		"until": "2019-04-27T00:00:00.000Z"
+		"from": "2019-04-29T00:00:00.000Z",
+		"until": "2019-05-04T00:00:00.000Z"
 	},
 	"days": [
+		[
+			{
+				"name": "Zartes Hähnchenbrustfilet in Limettenmarinade auf Caipirinhajus",
+				"attributes": [
+					"A",
+					"2"
+				],
+				"price": {
+					"student": 4,
+					"employee": 5.4,
+					"visitor": 6.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Schwäbische Spätzle mit feiner Schmelzkäsesauce und Röstzwiebeln",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Kürbis-Rindfleischpfanne mit Zwiebeln und Knoblauch",
+				"attributes": [
+					"KN",
+					"R"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Italienische Kartoffelgnocchi in Rahmsauce mit Käse überbacken",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.7,
+					"employee": 4.1,
+					"visitor": 5
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
 		[
 			{
 				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
@@ -27,66 +92,10 @@
 		],
 		[
 			{
-				"name": "Ofenfrisches Schweinerückensteak mit feiner Dijon-Senfsauce",
+				"name": "Ofenfrischer Hähnchenschenkel auf Tomatensauce",
 				"attributes": [
-					"1",
-					"3",
-					"36",
-					"39",
-					"41",
-					"S"
-				],
-				"price": {
-					"student": 3.4,
-					"employee": 4.8,
-					"visitor": 5.7
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Schupfnudeln mit Wurzelgemüse",
-				"attributes": [
-					"V",
-					"1",
-					"30",
-					"38"
-				],
-				"price": {
-					"student": 3.1,
-					"employee": 4.5,
-					"visitor": 5.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Zartes Putenschnitzel in Parmesan-Eihülle an fruchtiger Basilikum-Tomatensauce",
-				"attributes": [
-					"1",
-					"2",
 					"KN",
-					"30",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.9,
-					"visitor": 5.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Ravioli mit würziger Tomatenfüllung in Bärlauchsauce mit Käse überbacken",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"36"
+					"30"
 				],
 				"price": {
 					"student": 3.2,
@@ -94,44 +103,60 @@
 					"visitor": 5.5
 				},
 				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[],
-		[
-			{
-				"name": "Gebackene Calamaris mit Cocktaildip",
-				"attributes": [
-					"1",
-					"3",
-					"30",
-					"32",
-					"36",
-					"39",
-					"43"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.9,
-					"visitor": 5.8
-				},
-				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Spaghetti in Brokkoli-Mandel-Sahnesauce",
+				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
-					"V",
-					"1",
-					"KN",
+					"F",
+					"3",
 					"30",
-					"35",
-					"37"
+					"32"
 				],
 				"price": {
 					"student": 2.5,
 					"employee": 3.9,
 					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[
+			{
+				"name": "Kassler-Nackensteak an kräftiger Bratenjus",
+				"attributes": [
+					"2",
+					"3",
+					"4",
+					"30",
+					"36",
+					"38",
+					"S"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.2,
+					"visitor": 5.1
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Gebackene Brokkoli-Nuggets an mildem Paprikarelish",
+				"attributes": [
+					"F",
+					"KN",
+					"30",
+					"32",
+					"35",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 2.8,
+					"employee": 4.2,
+					"visitor": 5.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
