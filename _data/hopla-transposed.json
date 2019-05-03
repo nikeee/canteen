@@ -107,9 +107,11 @@
 			{
 				"name": "Grüne Tortellini mit fruchtiger Tomatensauce",
 				"attributes": [
-					"V",
+					"F",
 					"KN",
 					"30",
+					"32",
+					"36",
 					"38"
 				],
 				"price": {
@@ -164,6 +166,7 @@
 					"30",
 					"31",
 					"32",
+					"33",
 					"35",
 					"36",
 					"39",
