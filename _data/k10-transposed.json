@@ -8,16 +8,15 @@
 		}
 	},
 	"validity": {
-		"from": "2019-04-29T00:00:00.000Z",
-		"until": "2019-05-04T00:00:00.000Z"
+		"from": "2019-05-06T00:00:00.000Z",
+		"until": "2019-05-11T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Zartes Hähnchenbrustfilet in Limettenmarinade auf Caipirinhajus",
+				"name": "Gegrilltes Steak von der Putenbrust mit Bratenjus",
 				"attributes": [
-					"A",
-					"2"
+					"30"
 				],
 				"price": {
 					"student": 4,
@@ -28,13 +27,12 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Schwäbische Spätzle mit feiner Schmelzkäsesauce und Röstzwiebeln",
+				"name": "Italienische Penne mit Pesto Rosso",
 				"attributes": [
-					"F",
-					"1",
+					"V",
+					"KN",
 					"30",
-					"32",
-					"36"
+					"37"
 				],
 				"price": {
 					"student": 2.5,
@@ -47,10 +45,15 @@
 		],
 		[
 			{
-				"name": "Kürbis-Rindfleischpfanne mit Zwiebeln und Knoblauch",
+				"name": "Gegrillte Bratwurstschnecke mit Rahmsauce",
 				"attributes": [
-					"KN",
-					"R"
+					"3",
+					"8",
+					"30",
+					"36",
+					"38",
+					"39",
+					"S"
 				],
 				"price": {
 					"student": 3.4,
@@ -61,17 +64,19 @@
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Italienische Kartoffelgnocchi in Rahmsauce mit Käse überbacken",
+				"name": "Asiatische Gemüsepfanne mit Vollkornreis an fruchtiger Chilisauce",
 				"attributes": [
-					"F",
+					"V",
+					"3",
 					"30",
-					"32",
-					"36"
+					"35",
+					"38",
+					"39"
 				],
 				"price": {
-					"student": 2.7,
-					"employee": 4.1,
-					"visitor": 5
+					"student": 2.9,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
@@ -79,23 +84,27 @@
 		],
 		[
 			{
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
+				"name": "Frisch gebratenes Hähnchenbrustschnitzel auf hausgemachtem Ananas-Chutney",
+				"attributes": [
+					"30",
+					"32"
+				],
 				"price": {
-					"student": 0,
-					"employee": 1.4,
-					"visitor": 2.3
+					"student": 4.5,
+					"employee": 5.9,
+					"visitor": 6.8
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 1"
-			}
-		],
-		[
+			},
 			{
-				"name": "Ofenfrischer Hähnchenschenkel auf Tomatensauce",
+				"name": "Schupfnudelauflauf überbacken mit Blattspinat und Béchamelsauce",
 				"attributes": [
-					"KN",
-					"30"
+					"F",
+					"1",
+					"30",
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 3.2,
@@ -103,60 +112,41 @@
 					"visitor": 5.5
 				},
 				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
+		[],
+		[
+			{
+				"name": "Goldgelb gebackene Chicken-Crossis mit Kräuterdip",
+				"attributes": [
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.8,
+					"visitor": 5.7
+				},
+				"vitalInfo": null,
 				"categoryName": "Angebot 1"
 			},
 			{
-				"name": "Kartoffelpuffer mit Apfelmus",
+				"name": "Radi-Nudeln in Petersilienpesto geschwenkt",
 				"attributes": [
 					"F",
-					"3",
+					"1",
+					"2",
+					"KN",
 					"30",
-					"32"
+					"32",
+					"36",
+					"37"
 				],
 				"price": {
 					"student": 2.5,
 					"employee": 3.9,
 					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 2"
-			}
-		],
-		[
-			{
-				"name": "Kassler-Nackensteak an kräftiger Bratenjus",
-				"attributes": [
-					"2",
-					"3",
-					"4",
-					"30",
-					"36",
-					"38",
-					"S"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.2,
-					"visitor": 5.1
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot 1"
-			},
-			{
-				"name": "Gebackene Brokkoli-Nuggets an mildem Paprikarelish",
-				"attributes": [
-					"F",
-					"KN",
-					"30",
-					"32",
-					"35",
-					"36",
-					"38"
-				],
-				"price": {
-					"student": 2.8,
-					"employee": 4.2,
-					"visitor": 5.1
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot 2"
