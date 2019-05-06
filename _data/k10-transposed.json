@@ -115,7 +115,39 @@
 				"categoryName": "Angebot 2"
 			}
 		],
-		[],
+		[
+			{
+				"name": "Gulasch von der Putenoberkeule mit Champignons",
+				"attributes": [
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 1"
+			},
+			{
+				"name": "Kartoffeltaschen mit Frischkäse gefüllt an Béchamelsauce",
+				"attributes": [
+					"F",
+					"1",
+					"KN",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 3.3,
+					"employee": 4.7,
+					"visitor": 5.6
+				},
+				"vitalInfo": null,
+				"categoryName": "Angebot 2"
+			}
+		],
 		[
 			{
 				"name": "Goldgelb gebackene Chicken-Crossis mit Kräuterdip",
