@@ -178,10 +178,12 @@
 			"1": {
 				"name": "Mezzelune Pasta mit Spinat gefüllt in cremiger Bärlauchsauce",
 				"attributes": [
-					"V",
+					"F",
 					"1",
+					"3",
 					"KN",
 					"30",
+					"32",
 					"35"
 				],
 				"price": {
@@ -313,6 +315,7 @@
 					"3",
 					"30",
 					"35",
+					"38",
 					"39",
 					"41"
 				],

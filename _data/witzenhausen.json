@@ -268,69 +268,10 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Veggi-Burger mit Gemüseschnitzel, zweierlei Dips und Salat",
-				"attributes": [
-					"F",
-					"3",
-					"9",
-					"30",
-					"32",
-					"36",
-					"38",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.4,
-					"visitor": 6.3
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Putengeschnetzeltes mit toskanischem Gemüse",
-				"attributes": [
-					"30"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.4,
-					"visitor": 6.3
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Rinderroulade Hausfrauen Art in Bratenjus geschmort",
-				"attributes": [
-					"9",
-					"39",
-					"R"
-				],
-				"price": {
-					"student": 5,
-					"employee": 6.4,
-					"visitor": 7.3
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Fischroulade mit Gemüse gefüllt an Currysauce",
-				"attributes": [
-					"1",
-					"30",
-					"33",
-					"36",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.9,
-					"visitor": 6.8
-				},
-				"vitalInfo": null
-			}
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null
 		}
 	}
 }
