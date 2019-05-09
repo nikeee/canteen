@@ -158,7 +158,8 @@
 					"KN",
 					"30",
 					"32",
-					"36"
+					"36",
+					"38"
 				],
 				"price": {
 					"student": 2.1,
@@ -214,9 +215,9 @@
 					"36"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.9,
-					"visitor": 6.8
+					"student": 5,
+					"employee": 6.4,
+					"visitor": 7.3
 				},
 				"vitalInfo": null,
 				"categoryName": "Angebot des Tages II"
