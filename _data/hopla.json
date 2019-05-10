@@ -33,9 +33,11 @@
 			"2": {
 				"name": "Frisch gebackene Kartoffelecken mit Currydip",
 				"attributes": [
-					"V",
+					"F",
 					"30",
+					"32",
 					"35",
+					"36",
 					"39"
 				],
 				"price": {
@@ -264,26 +266,7 @@
 				"vitalInfo": null
 			},
 			"3": null,
-			"4": {
-				"name": "Kartoffel-Karottengratin mit Kräuterschmand und Rosinen-Mandelquark",
-				"attributes": [
-					"F",
-					"MV",
-					"36",
-					"37"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": {
-					"fat": 27,
-					"carbohydrate": 83,
-					"protein": 39,
-					"calories": 719
-				}
-			},
+			"4": null,
 			"5": {
 				"name": "Putenbruststreifen in Rucolapesto mit Tomaten-Basilikum-Farfalle",
 				"attributes": [
