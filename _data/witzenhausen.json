@@ -7,17 +7,18 @@
 		}
 	},
 	"validity": {
-		"from": "2019-05-06T00:00:00.000Z",
-		"until": "2019-05-10T00:00:00.000Z"
+		"from": "2019-05-13T00:00:00.000Z",
+		"until": "2019-05-17T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Omelette mit Béchamelgemüse",
+				"name": "Backfrischer Pfannkuchen mit Kirschragout und Schlagsahne",
 				"attributes": [
 					"F",
 					"1",
+					"3",
 					"30",
 					"32",
 					"36"
@@ -30,12 +31,11 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Frisch gebackene Kartoffelecken mit Currydip",
+				"name": "Ofenfrische Kartoffel-Churros an Tomaten-Chimichurri",
 				"attributes": [
 					"V",
-					"30",
-					"35",
-					"39"
+					"KN",
+					"30"
 				],
 				"price": {
 					"student": 2.1,
@@ -45,13 +45,10 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Hausgemachter Spinatpfannkuchen an Knoblauchdip",
+				"name": "Indisch Aloo Gobi mit Kartoffeln und Blumenkohl",
 				"attributes": [
-					"F",
-					"KN",
-					"30",
-					"32",
-					"36"
+					"V",
+					"KN"
 				],
 				"price": {
 					"student": 2.1,
@@ -61,30 +58,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Spaghetti in Rote-Bete-Pesto mit Sonnenblumenkernen",
+				"name": "Drei Kartoffelklöße auf Rahmspinat",
 				"attributes": [
-					"V",
-					"3",
-					"30",
-					"37"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Orientalische Linsenpfanne mit buntem Gemüse und Orange",
-				"attributes": [
-					"V",
-					"2",
-					"3",
-					"38",
-					"39",
-					"40",
-					"41"
+					"F",
+					"1",
+					"KN",
+					"36"
 				],
 				"price": {
 					"student": 2,
@@ -92,16 +71,63 @@
 					"visitor": 4.3
 				},
 				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachte Polenta à la Crème auf tomatisierter Bratzucchini",
+				"attributes": [
+					"V",
+					"1",
+					"KN",
+					"35",
+					"38"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
+				},
+				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Mini-Hackfleischbällchen auf Tomatensauce mit Fenchel",
+				"name": "Geflügel Wiener Würstchen mit Nudelsalat",
 				"attributes": [
-					"KN",
+					"2",
+					"3",
+					"6",
 					"30",
-					"32",
-					"R",
+					"38",
+					"R"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Hähnchenbrust mit frischem Pfannengemüse",
+				"attributes": [
+					"1",
+					"KN"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Braten vom Schweinerücken auf Cognac-Rahmsauce",
+				"attributes": [
+					"A",
+					"1",
+					"30",
+					"36",
+					"41",
 					"S"
 				],
 				"price": {
@@ -111,74 +137,52 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Gulasch von der Putenoberkeule mit Paprika und Ajvar",
-				"attributes": [
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Schweinesteak vom Nacken an fermentierter Knoblauchbutter",
-				"attributes": [
-					"A",
-					"1",
-					"KN",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
 			"4": {
-				"name": "Gnocchi in Béchamelsauce mit Puten-Hackfleisch und Kräutern",
+				"name": "Spaghetti mit Hähnchenstreifen in Petersilienpesto",
 				"attributes": [
 					"1",
+					"2",
+					"KN",
 					"30",
-					"36"
+					"36",
+					"37"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Kassler-Nackenbraten auf Süßer-Senfjus",
+				"name": "Nudelpfanne mit Salami, Schinken und Ei",
 				"attributes": [
 					"2",
 					"3",
-					"4",
+					"8",
+					"KN",
+					"30",
+					"32",
 					"36",
-					"38",
-					"39",
+					"R",
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.4,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Bunte Bohnenpfanne mit Tomaten, Kartoffeln und Zwiebeln",
+				"name": "Kartoffel-Spinatcurry",
 				"attributes": [
 					"V",
-					"Ö"
+					"Ö",
+					"KN",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -188,12 +192,14 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Spaghetti mit asiatischem Kokos- Gemüse",
+				"name": "Berner Röstiauflauf mit Käsesauce",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
+					"KN",
 					"30",
-					"35"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -203,7 +209,7 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Griechische Reispfanne mit Oliven und Tofu",
+				"name": "Nudeln mit Soja-Bolognese",
 				"attributes": [
 					"V",
 					"Ö",
@@ -219,14 +225,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Eier in Senfsauce",
+				"name": "Asia-Reis-Gemüsepfanne",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
 					"30",
-					"32",
 					"35",
-					"36",
 					"39"
 				],
 				"price": {
@@ -237,11 +241,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Brätlinge mit Kressefrischkäse",
+				"name": "Nepalesisches Dal Bhat Tarkari",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"36"
+					"KN",
+					"39"
 				],
 				"price": {
 					"student": 2.9,
@@ -252,22 +257,7 @@
 			}
 		},
 		"Aktions-Essen": {
-			"1": {
-				"name": "Türkisches Hähnchenschnitzel an Feigenchutney",
-				"attributes": [
-					"3",
-					"30",
-					"32",
-					"39",
-					"40"
-				],
-				"price": {
-					"student": 4,
-					"employee": 5.4,
-					"visitor": 6.3
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": null,
 			"3": null,
 			"4": null,
