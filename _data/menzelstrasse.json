@@ -7,20 +7,20 @@
 		}
 	},
 	"validity": {
-		"from": "2019-05-13T00:00:00.000Z",
-		"until": "2019-05-17T00:00:00.000Z"
+		"from": "2019-05-20T00:00:00.000Z",
+		"until": "2019-05-24T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Backfrischer Pfannkuchen mit Kirschragout und Schlagsahne",
+				"name": "Fleischlos gefüllte Kohlroulade an Béchamelsauce",
 				"attributes": [
 					"F",
 					"1",
-					"3",
 					"30",
 					"32",
+					"35",
 					"36"
 				],
 				"price": {
@@ -31,24 +31,25 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Ofenfrische Kartoffel-Churros an Tomaten-Chimichurri",
+				"name": "Italienische Gabelspaghetti mit fruchtiger Tomatensauce",
 				"attributes": [
 					"V",
 					"KN",
 					"30"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
+					"student": 2,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Indisch Aloo Gobi mit Kartoffeln und Blumenkohl",
+				"name": "Hessische Kartoffelpfanne mit Kräutern und Champignons an veganem Dip",
 				"attributes": [
 					"V",
-					"KN"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.1,
@@ -58,11 +59,12 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Drei Kartoffelklöße auf Rahmspinat",
+				"name": "Cremige Spargelsuppe mit Schwenkkarotten und Kerbel",
 				"attributes": [
 					"F",
 					"1",
-					"KN",
+					"3",
+					"30",
 					"36"
 				],
 				"price": {
@@ -73,32 +75,30 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachte Polenta à la Crème auf tomatisierter Bratzucchini",
+				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf Vanillesauce",
 				"attributes": [
-					"V",
+					"F",
 					"1",
-					"KN",
-					"35",
-					"38"
+					"30",
+					"32",
+					"36",
+					"37"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
+					"student": 2,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Geflügel Wiener Würstchen mit Nudelsalat",
+				"name": "Geschwenkte Gyros-Reispfanne mit Pute",
 				"attributes": [
-					"2",
-					"3",
-					"6",
-					"30",
+					"KN",
 					"38",
-					"R"
+					"39"
 				],
 				"price": {
 					"student": 2.5,
@@ -108,45 +108,43 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hähnchenbrust mit frischem Pfannengemüse",
+				"name": "Gebackener Alaska-Seelachs an Red-Thaicurrydip",
 				"attributes": [
-					"1",
 					"KN",
-					"30"
+					"30",
+					"33",
+					"36",
+					"39"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Braten vom Schweinerücken auf Cognac-Rahmsauce",
+				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
 				"attributes": [
-					"A",
-					"1",
-					"30",
-					"36",
-					"41",
-					"S"
+					"KN"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Spaghetti mit Hähnchenstreifen in Sahnesauce mit Petersilienpesto",
+				"name": "Schweinesteak in Parmesanhülle auf Tomaten-Basilikumsauce",
 				"attributes": [
 					"1",
 					"2",
 					"KN",
 					"30",
+					"32",
 					"36",
-					"37"
+					"S"
 				],
 				"price": {
 					"student": 2.6,
@@ -156,22 +154,16 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Nudelpfanne mit Salami, Schinken und Ei",
+				"name": "Gebratene Krakauer auf Bratenjus",
 				"attributes": [
 					"2",
 					"3",
-					"8",
-					"KN",
-					"30",
-					"32",
-					"36",
-					"R",
 					"S"
 				],
 				"price": {
-					"student": 2.4,
-					"employee": 3.8,
-					"visitor": 4.7
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			}
