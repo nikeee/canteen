@@ -210,9 +210,9 @@
 					"KN"
 				],
 				"price": {
-					"student": 4,
-					"employee": 5.4,
-					"visitor": 6.3
+					"student": 0,
+					"employee": 1.4,
+					"visitor": 2.3
 				},
 				"vitalInfo": null
 			},

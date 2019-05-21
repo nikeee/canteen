@@ -267,20 +267,7 @@
 				},
 				"vitalInfo": null
 			},
-			"3": {
-				"name": "Rinderroulade nach Hausfrauen Art in Bratenjus geschmort",
-				"attributes": [
-					"9",
-					"39",
-					"R"
-				],
-				"price": {
-					"student": 5.5,
-					"employee": 6.9,
-					"visitor": 7.8
-				},
-				"vitalInfo": null
-			},
+			"3": null,
 			"4": {
 				"name": "Spanisch Fricco",
 				"attributes": [
