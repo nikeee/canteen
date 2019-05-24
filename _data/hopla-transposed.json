@@ -353,12 +353,11 @@
 			{
 				"name": "Fladenbrot mit Schmorgemüse und Pizzaschmelz an gartenfrischen Salaten",
 				"attributes": [
-					"F",
+					"V",
 					"1",
 					"KN",
 					"30",
-					"35",
-					"36"
+					"35"
 				],
 				"price": {
 					"student": 4,
