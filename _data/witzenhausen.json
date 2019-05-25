@@ -7,20 +7,30 @@
 		}
 	},
 	"validity": {
-		"from": "2019-05-20T00:00:00.000Z",
-		"until": "2019-05-24T00:00:00.000Z"
+		"from": "2019-05-27T00:00:00.000Z",
+		"until": "2019-05-31T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Fleischlos gefüllte Kohlroulade an Béchamelsauce",
+				"name": "Tomaten-Oliven-Graupen- auf Röstzwiebeln",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
 				"attributes": [
 					"F",
-					"1",
-					"30",
 					"32",
-					"35",
 					"36"
 				],
 				"price": {
@@ -30,28 +40,14 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Italienische Gabelspaghetti mit fruchtiger Tomatensauce",
+			"3": {
+				"name": "Gelbe Penne mit tomatisiertem Grünkernragout",
 				"attributes": [
 					"V",
 					"KN",
 					"30"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Hessische Kartoffelpfanne mit Kräutern und Champignons an veganem Dip",
-				"attributes": [
-					"V",
-					"35",
-					"39"
-				],
-				"price": {
 					"student": 2.1,
 					"employee": 3.5,
 					"visitor": 4.4
@@ -59,88 +55,53 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Cremige Spargelsuppe mit Schwenkkarotten und Kerbel",
-				"attributes": [
-					"F",
-					"1",
-					"3",
-					"30",
-					"36"
-				],
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
 				"price": {
-					"student": 2,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 0,
+					"employee": 1.4,
+					"visitor": 2.3
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf Vanillesauce",
+				"name": "Gemüse-Bulgurpfanne mit rotem Linsendip",
 				"attributes": [
-					"F",
-					"1",
+					"V",
+					"3",
+					"KN",
 					"30",
-					"32",
-					"36",
-					"37"
+					"38",
+					"39",
+					"40"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Geschwenkte Gyros-Reispfanne mit Pute",
+				"name": "Hähnchenbrust mit Jalapeño-Käsesauce",
 				"attributes": [
-					"KN",
-					"38",
-					"39"
+					"1",
+					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebratene Krakauer auf Bratenjus",
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln in Tomatenei gestockt",
 				"attributes": [
-					"2",
-					"3",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
-				"attributes": [
-					"KN"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Feuertopf mit Paprika und Zwiebeln",
-				"attributes": [
-					"2",
-					"3",
-					"4",
+					"32",
 					"36",
-					"38",
 					"S"
 				],
 				"price": {
@@ -150,16 +111,28 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Gebackener Alaska-Seelachs an Red-Thaicurrydip",
+			"3": {
+				"name": "Gegrilltes Steak vom Schweinerücken auf Bratenjus mit Speck",
 				"attributes": [
+					"2",
 					"3",
-					"KN",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"4": null,
+			"5": {
+				"name": "Geschnetzeltes nach Züricher Art",
+				"attributes": [
+					"1",
 					"30",
-					"32",
-					"33",
 					"36",
-					"39"
+					"S"
 				],
 				"price": {
 					"student": 2.5,
@@ -171,12 +144,11 @@
 		},
 		"Bio-Essen": {
 			"1": {
-				"name": "Pekingsuppe mit Tofu",
+				"name": "Kartoffelgratin mit Roter Bete an Petersilien-Schmandsauce",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
-					"35",
-					"39"
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -186,11 +158,10 @@
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Huevos Mexicanos - Rührei mexikanisch mit Tomaten, Zwiebeln und Chili",
+				"name": "Kokos-Soja-Milchreis mit Kirschgrütze",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"32",
 					"35"
 				],
 				"price": {
@@ -201,12 +172,13 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Kokosmilch-Zitronenreis mit Spinat",
+				"name": "Spinach Eggs",
 				"attributes": [
-					"V",
+					"F",
 					"Ö",
 					"KN",
-					"35"
+					"32",
+					"36"
 				],
 				"price": {
 					"student": 2.9,
@@ -215,28 +187,15 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Spaghetti aglio, olio e peperoncino",
-				"attributes": [
-					"V",
-					"Ö",
-					"KN",
-					"30"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
-			},
+			"4": null,
 			"5": {
-				"name": "Indisch Aloo Matar mit Kartoffeln und Erbsen",
+				"name": "Spaghetti in Paprika-Tomatensauce",
 				"attributes": [
 					"V",
 					"Ö",
 					"KN",
-					"39"
+					"30",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
@@ -247,31 +206,13 @@
 			}
 		},
 		"Aktions-Essen": {
-			"1": null,
-			"2": {
-				"name": "Veggie-Burger mit Spinatknusperschnitzel, Salat und Dip",
+			"1": {
+				"name": "Pizza Caprese mit Tomaten und Mozzarella",
 				"attributes": [
 					"F",
-					"6",
+					"KN",
 					"30",
-					"32",
-					"36",
-					"38",
-					"40"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.9,
-					"visitor": 6.8
-				},
-				"vitalInfo": null
-			},
-			"3": null,
-			"4": {
-				"name": "Spanisch Fricco",
-				"attributes": [
-					"36",
-					"R"
+					"36"
 				],
 				"price": {
 					"student": 5,
@@ -280,13 +221,15 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Griechisches Moussaka mit Ei gestockt",
+			"2": {
+				"name": "Fischroulade mit Gemüse gefüllt an Currysauce",
 				"attributes": [
 					"1",
-					"32",
+					"30",
+					"33",
 					"36",
-					"R"
+					"38",
+					"39"
 				],
 				"price": {
 					"student": 4.5,
@@ -294,7 +237,25 @@
 					"visitor": 6.8
 				},
 				"vitalInfo": null
-			}
+			},
+			"3": {
+				"name": "Zwei Frühlingsrollen mit Geflügelfleisch gefüllt an süß-scharfer Sauce",
+				"attributes": [
+					"30",
+					"32",
+					"35",
+					"36",
+					"38"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.9,
+					"visitor": 6.8
+				},
+				"vitalInfo": null
+			},
+			"4": null,
+			"5": null
 		}
 	}
 }

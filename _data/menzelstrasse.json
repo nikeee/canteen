@@ -7,20 +7,30 @@
 		}
 	},
 	"validity": {
-		"from": "2019-05-20T00:00:00.000Z",
-		"until": "2019-05-24T00:00:00.000Z"
+		"from": "2019-05-27T00:00:00.000Z",
+		"until": "2019-05-31T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Fleischlos gefüllte Kohlroulade an Béchamelsauce",
+				"name": "Tomaten-Oliven-Graupen auf Röstzwiebeln",
+				"attributes": [
+					"V",
+					"30"
+				],
+				"price": {
+					"student": 1.9,
+					"employee": 3.3,
+					"visitor": 4.2
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
 				"attributes": [
 					"F",
-					"1",
-					"30",
 					"32",
-					"35",
 					"36"
 				],
 				"price": {
@@ -30,28 +40,14 @@
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Italienische Gabelspaghetti mit fruchtiger Tomatensauce",
+			"3": {
+				"name": "Gelbe Penne mit tomatisiertem Grünkernragout",
 				"attributes": [
 					"V",
 					"KN",
 					"30"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.4,
-					"visitor": 4.3
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Hessische Kartoffelpfanne mit Kräutern und Champignons an veganem Dip",
-				"attributes": [
-					"V",
-					"35",
-					"39"
-				],
-				"price": {
 					"student": 2.1,
 					"employee": 3.5,
 					"visitor": 4.4
@@ -59,89 +55,52 @@
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Cremige Spargelsuppe mit Schwenkkarotten und Kerbel",
-				"attributes": [
-					"F",
-					"1",
-					"3",
-					"30",
-					"36"
-				],
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
 				"price": {
-					"student": 2,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 0,
+					"employee": 1.4,
+					"visitor": 2.3
 				},
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf Vanillesauce",
+				"name": "Gemüse-Bulgurpfanne mit rotem Linsendip",
 				"attributes": [
-					"F",
-					"1",
+					"V",
+					"3",
+					"KN",
 					"30",
-					"32",
-					"36",
-					"37"
+					"37",
+					"38",
+					"39",
+					"40"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Geschwenkte Gyros-Reispfanne mit Pute",
+				"name": "Hähnchenbrust mit Jalapeño-Käsesauce",
 				"attributes": [
-					"KN",
-					"38",
-					"39"
+					"1",
+					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Gebackener Alaska-Seelachs an Red-Thaicurrydip",
+				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln in Tomatenei gestockt",
 				"attributes": [
-					"KN",
-					"30",
-					"33",
-					"36",
-					"39"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Nasi Goreng mit buntem Gemüse und Geflügelstreifen",
-				"attributes": [
-					"KN"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"4": {
-				"name": "Schweinesteak in Parmesanhülle auf Tomaten-Basilikumsauce",
-				"attributes": [
-					"1",
-					"2",
-					"KN",
-					"30",
 					"32",
 					"36",
 					"S"
@@ -153,11 +112,27 @@
 				},
 				"vitalInfo": null
 			},
-			"5": {
-				"name": "Gebratene Krakauer auf Bratenjus",
+			"3": {
+				"name": "Gegrilltes Steak vom Schweinerücken auf Bratenjus mit Speck",
 				"attributes": [
 					"2",
 					"3",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"4": null,
+			"5": {
+				"name": "Geschnetzeltes nach Züricher Art",
+				"attributes": [
+					"1",
+					"30",
+					"36",
 					"S"
 				],
 				"price": {
