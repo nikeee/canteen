@@ -97,6 +97,8 @@
 			{
 				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln in Tomatenei gestockt",
 				"attributes": [
+					"1",
+					"2",
 					"32",
 					"36",
 					"S"
@@ -170,6 +172,7 @@
 				"attributes": [
 					"2",
 					"3",
+					"KN",
 					"S"
 				],
 				"price": {

@@ -32,7 +32,12 @@
 				"name": "Hähnchenbrust mit Jalapeño-Käsesauce",
 				"attributes": [
 					"1",
-					"36"
+					"2",
+					"3",
+					"30",
+					"36",
+					"38",
+					"S"
 				],
 				"price": {
 					"student": 2.6,
@@ -55,19 +60,6 @@
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 3 oder 4"
-			},
-			{
-				"name": "Lassen Sie sich überraschen mit einem bunten Fischteller - Preis laut Aushang vor Ort.",
-				"attributes": [
-					"33"
-				],
-				"price": {
-					"student": 0,
-					"employee": 1.4,
-					"visitor": 2.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Angebot des Tages"
 			},
 			{
 				"name": "Gemüsegratin mit Schnitzelstreifen, Hirtenkäse und Couscous",
@@ -111,6 +103,7 @@
 			{
 				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln in Tomatenei gestockt",
 				"attributes": [
+					"2",
 					"32",
 					"36",
 					"S"
