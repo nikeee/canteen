@@ -7,31 +7,35 @@
 		}
 	},
 	"validity": {
-		"from": "2019-05-27T00:00:00.000Z",
-		"until": "2019-05-31T00:00:00.000Z"
+		"from": "2019-06-03T00:00:00.000Z",
+		"until": "2019-06-07T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Tomaten-Oliven-Graupen auf Röstzwiebeln",
+				"name": "Blumenkohl-Käse-Medaillon an Béchamelsauce mit Schnittlauch",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
+					"38"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"name": "Chili sin Carne",
 				"attributes": [
-					"F",
-					"32",
-					"36"
+					"V",
+					"KN",
+					"35"
 				],
 				"price": {
 					"student": 2.1,
@@ -41,82 +45,72 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gelbe Penne mit tomatisiertem Grünkernragout",
+				"name": "Italienische Penne mit Steinpilz-Rahmsauce",
 				"attributes": [
-					"V",
-					"KN",
-					"30"
+					"F",
+					"1",
+					"30",
+					"36"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
+					"student": 2,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 0,
-					"employee": 1.4,
-					"visitor": 2.3
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Gemüse-Bulgurpfanne mit rotem Linsendip",
+				"name": "Rosmarinkartoffeln mit Tomatenmayonnaise",
 				"attributes": [
 					"V",
-					"3",
-					"KN",
-					"30",
-					"37",
-					"38",
-					"39",
-					"40"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.1,
 					"employee": 3.5,
 					"visitor": 4.4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
+					"37"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Hähnchenbrust mit Jalapeño-Käsesauce",
+				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
 				"attributes": [
 					"1",
-					"36"
+					"36",
+					"39"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln in Tomatenei gestockt",
+				"name": "Geschwenkte Schweinefleischstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
-					"32",
+					"KN",
 					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Gegrilltes Steak vom Schweinerücken auf Bratenjus mit Speck",
-				"attributes": [
-					"2",
-					"3",
 					"S"
 				],
 				"price": {
@@ -126,13 +120,43 @@
 				},
 				"vitalInfo": null
 			},
-			"4": null,
-			"5": {
-				"name": "Geschnetzeltes nach Züricher Art",
+			"3": {
+				"name": "Asiatische Nudelpfanne mit Sesam-Schweinebauch und Gemüse",
+				"attributes": [
+					"30",
+					"35",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Curry-Hähnchen Madras",
 				"attributes": [
 					"1",
 					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachte Hackfleischpizza mit Paprika, Tomaten und Mais",
+				"attributes": [
+					"KN",
+					"30",
+					"32",
 					"36",
+					"39",
 					"S"
 				],
 				"price": {

@@ -8,226 +8,68 @@
 		}
 	},
 	"validity": {
-		"from": "2019-05-27T00:00:00.000Z",
-		"until": "2019-05-31T00:00:00.000Z"
+		"from": "2019-06-03T00:00:00.000Z",
+		"until": "2019-06-07T00:00:00.000Z"
 	},
 	"days": [
 		[
 			{
-				"name": "Tomaten-Oliven-Graupen- auf Röstzwiebeln",
-				"attributes": [
-					"V",
-					"30"
-				],
-				"price": {
-					"student": 1.9,
-					"employee": 3.3,
-					"visitor": 4.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Hähnchenbrust mit Jalapeño-Käsesauce",
-				"attributes": [
-					"1",
-					"36"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Kartoffelgratin mit Roter Bete an Petersilien-Schmandsauce",
+				"name": "Blumenkohl-Käse-Medaillon an Béchamelsauce mit Schnittlauch",
 				"attributes": [
 					"F",
-					"Ö",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Pizza Caprese mit Tomaten und Mozzarella",
-				"attributes": [
-					"F",
-					"KN",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 5,
-					"employee": 6.4,
-					"visitor": 7.3
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
-				"attributes": [
-					"F",
-					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln in Tomatenei gestockt",
-				"attributes": [
-					"32",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Kokos-Soja-Milchreis mit Kirschgrütze",
-				"attributes": [
-					"V",
-					"Ö",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Fischroulade mit Gemüse gefüllt an Currysauce",
-				"attributes": [
 					"1",
 					"30",
-					"33",
-					"36",
-					"38",
-					"39"
-				],
-				"price": {
-					"student": 4.5,
-					"employee": 5.9,
-					"visitor": 6.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Gelbe Penne mit tomatisiertem Grünkernragout",
-				"attributes": [
-					"V",
-					"KN",
-					"30"
-				],
-				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 1"
-			},
-			{
-				"name": "Gegrilltes Steak vom Schweinerücken auf Bratenjus mit Speck",
-				"attributes": [
-					"2",
-					"3",
-					"S"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Essen 2"
-			},
-			{
-				"name": "Spinach Eggs",
-				"attributes": [
-					"F",
-					"Ö",
-					"KN",
 					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null,
-				"categoryName": "Bio-Essen"
-			},
-			{
-				"name": "Zwei Frühlingsrollen mit Geflügelfleisch gefüllt an süß-scharfer Sauce",
-				"attributes": [
-					"30",
-					"32",
-					"35",
 					"36",
 					"38"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.9,
-					"visitor": 6.8
-				},
-				"vitalInfo": null,
-				"categoryName": "Aktions-Essen"
-			}
-		],
-		[
-			{
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 0,
-					"employee": 1.4,
-					"visitor": 2.3
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
 				},
 				"vitalInfo": null,
 				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
+				"attributes": [
+					"1",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Gnocchi mit Tomatensauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
 			}
 		],
 		[
 			{
-				"name": "Gemüse-Bulgurpfanne mit rotem Linsendip",
+				"name": "Chili sin Carne",
 				"attributes": [
 					"V",
-					"3",
 					"KN",
-					"30",
-					"38",
-					"39",
-					"40"
+					"35"
 				],
 				"price": {
 					"student": 2.1,
@@ -238,10 +80,9 @@
 				"categoryName": "Essen 1"
 			},
 			{
-				"name": "Geschnetzeltes nach Züricher Art",
+				"name": "Geschwenkte Schweinefleischstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
-					"1",
-					"30",
+					"KN",
 					"36",
 					"S"
 				],
@@ -254,13 +95,168 @@
 				"categoryName": "Essen 2"
 			},
 			{
-				"name": "Spaghetti in Paprika-Tomatensauce",
+				"name": "Polenta-Käseschnitte an Spinatsauce",
+				"attributes": [
+					"F",
+					"Ö",
+					"KN",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Italienische Penne mit Steinpilz-Rahmsauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Asiatische Nudelpfanne mit Sesam-Schweinebauch und Gemüse",
+				"attributes": [
+					"30",
+					"35",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Rotes Thai-Blumenkohlcurry mit Paprika und Zwiebeln",
 				"attributes": [
 					"V",
 					"Ö",
 					"KN",
+					"39"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Rosmarinkartoffeln mit Tomatenmayonnaise",
+				"attributes": [
+					"V",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Curry-Hähnchen Madras",
+				"attributes": [
+					"1",
 					"30",
-					"35"
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Karotten-Pfannkuchen mit Kräuterdip",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"32",
+					"36"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null,
+				"categoryName": "Bio-Essen"
+			}
+		],
+		[
+			{
+				"name": "Asiatische Reis-Krautpfanne mit Paprika, Sprossen und Karotten",
+				"attributes": [
+					"V",
+					"3",
+					"30",
+					"35",
+					"39"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 1"
+			},
+			{
+				"name": "Hausgemachte Hackfleischpizza mit Paprika, Tomaten und Mais",
+				"attributes": [
+					"KN",
+					"30",
+					"32",
+					"36",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null,
+				"categoryName": "Essen 2"
+			},
+			{
+				"name": "Allgäuer Käse Spätzle",
+				"attributes": [
+					"F",
+					"Ö",
+					"30",
+					"32",
+					"35",
+					"36"
 				],
 				"price": {
 					"student": 2.9,

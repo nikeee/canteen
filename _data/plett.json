@@ -7,31 +7,35 @@
 		}
 	},
 	"validity": {
-		"from": "2019-05-27T00:00:00.000Z",
-		"until": "2019-05-31T00:00:00.000Z"
+		"from": "2019-06-03T00:00:00.000Z",
+		"until": "2019-06-07T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Tomaten-Oliven-Graupen auf Röstzwiebeln",
+				"name": "Blumenkohl-Käse-Medaillon an Béchamelsauce mit Schnittlauch",
 				"attributes": [
-					"V",
-					"30"
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
+					"38"
 				],
 				"price": {
-					"student": 1.9,
-					"employee": 3.3,
-					"visitor": 4.2
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Hessische Grüne Sauce mit gehacktem Ei und Salzkartoffeln",
+				"name": "Chili sin Carne",
 				"attributes": [
-					"F",
-					"32",
-					"36"
+					"V",
+					"KN",
+					"35"
 				],
 				"price": {
 					"student": 2.1,
@@ -41,83 +45,72 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Gelbe Penne mit tomatisiertem Grünkernragout",
+				"name": "Italienische Penne mit Steinpilz-Rahmsauce",
 				"attributes": [
-					"V",
-					"KN",
-					"30"
+					"F",
+					"1",
+					"30",
+					"36"
 				],
 				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
+					"student": 2,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
-				"attributes": [],
-				"price": {
-					"student": 0,
-					"employee": 1.4,
-					"visitor": 2.3
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Gemüse-Bulgurpfanne mit rotem Linsendip",
+				"name": "Rosmarinkartoffeln mit Tomatenmayonnaise",
 				"attributes": [
 					"V",
-					"3",
-					"KN",
-					"30",
-					"37",
-					"38",
-					"39",
-					"40"
+					"35",
+					"39"
 				],
 				"price": {
 					"student": 2.1,
 					"employee": 3.5,
 					"visitor": 4.4
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachter Kaiserschmarrn mit Rosinen und Mandeln auf warmer Vanillesauce",
+				"attributes": [
+					"F",
+					"1",
+					"30",
+					"32",
+					"36",
+					"37"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.4,
+					"visitor": 4.3
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
 			"1": {
-				"name": "Hähnchenbrust mit Jalapeño-Käsesauce",
+				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
 				"attributes": [
 					"1",
-					"36"
+					"36",
+					"39"
 				],
 				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Auflauf von Zucchini, Hackfleisch und Kartoffeln in Tomatenei gestockt",
+				"name": "Geschwenkte Schweinefleischstreifen Gyros Art mit griechischem Zaziki",
 				"attributes": [
-					"32",
+					"KN",
 					"36",
-					"S"
-				],
-				"price": {
-					"student": 2.6,
-					"employee": 4,
-					"visitor": 4.9
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Gegrilltes Steak vom Schweinerücken auf Bratenjus mit Speck",
-				"attributes": [
-					"2",
-					"3",
-					"8",
 					"S"
 				],
 				"price": {
@@ -127,13 +120,43 @@
 				},
 				"vitalInfo": null
 			},
-			"4": null,
-			"5": {
-				"name": "Geschnetzeltes nach Züricher Art",
+			"3": {
+				"name": "Asiatische Nudelpfanne mit Sesam-Schweinebauch und Gemüse",
+				"attributes": [
+					"30",
+					"35",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Curry-Hähnchen Madras",
 				"attributes": [
 					"1",
 					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Hausgemachte Hackfleischpizza mit Paprika, Tomaten und Mais",
+				"attributes": [
+					"KN",
+					"30",
+					"32",
 					"36",
+					"39",
 					"S"
 				],
 				"price": {
@@ -146,26 +169,41 @@
 		},
 		"Essen 3 oder 4": {
 			"1": {
-				"name": "Bratkartoffeln mit Spiegelei",
+				"name": "Italienische Tagliatelle mit Spinat-Tomatensauce und Hirtenkäsebröseln",
 				"attributes": [
 					"F",
-					"32"
+					"KN",
+					"30",
+					"36"
 				],
 				"price": {
-					"student": 3.3,
-					"employee": 4.7,
-					"visitor": 5.6
+					"student": 2.9,
+					"employee": 4.3,
+					"visitor": 5.2
 				},
 				"vitalInfo": null
 			},
-			"2": {
-				"name": "Gebratenes Putenschnitzel auf Brokkoli-Mandelsauce",
+			"2": null,
+			"3": {
+				"name": "Hähnchenbrust mit Zitrone und Thymian auf Tomatenquinoa",
+				"attributes": [],
+				"price": {
+					"student": 3.5,
+					"employee": 4.9,
+					"visitor": 5.8
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Hokifilet im Backteig an Thaicurrydip",
 				"attributes": [
-					"1",
+					"3",
+					"KN",
 					"30",
 					"32",
+					"33",
 					"36",
-					"37"
+					"39"
 				],
 				"price": {
 					"student": 3.6,
@@ -174,77 +212,109 @@
 				},
 				"vitalInfo": null
 			},
-			"3": null,
-			"4": null,
-			"5": null
-		},
-		"Angebot des Tages I": {
-			"1": {
-				"name": "Gemüsegratin mit Schnitzelstreifen, Hirtenkäse und Couscous",
+			"5": {
+				"name": "Gebratenes Putenschnitzel auf grüner Erbsen-Minzsauce",
 				"attributes": [
-					"MV",
+					"1",
 					"30",
 					"32",
-					"36",
-					"S"
-				],
-				"price": {
-					"student": 3.5,
-					"employee": 4.9,
-					"visitor": 5.8
-				},
-				"vitalInfo": {
-					"fat": 21,
-					"carbohydrate": 87,
-					"protein": 39,
-					"calories": 646
-				}
-			},
-			"2": {
-				"name": "Süßkartoffel-Kokos-Soja-Curry mit Tomatenbulgur",
-				"attributes": [
-					"V",
-					"MV",
-					"30",
-					"35",
-					"39"
+					"36"
 				],
 				"price": {
 					"student": 3.4,
 					"employee": 4.8,
 					"visitor": 5.7
 				},
-				"vitalInfo": {
-					"fat": 19,
-					"carbohydrate": 77,
-					"protein": 25,
-					"calories": 601
-				}
-			},
-			"3": {
-				"name": "Großer, bunter Salatteller mit Frenchdressing und gebackenen Chicken-Nuggets",
+				"vitalInfo": null
+			}
+		},
+		"Angebot des Tages I": {
+			"1": {
+				"name": "Kartoffelpfanne mit Artischocke, Kirschtomate und Balsamico",
 				"attributes": [
-					"30",
-					"36",
-					"39"
+					"V",
+					"1",
+					"6",
+					"41"
+				],
+				"price": {
+					"student": 3.5,
+					"employee": 4.9,
+					"visitor": 5.8
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Gemüsepfanne mit Shrimps, grünem Spargel, Kokos und Wildreis",
+				"attributes": [
+					"MV",
+					"KN",
+					"31"
 				],
 				"price": {
 					"student": 4,
 					"employee": 5.4,
 					"visitor": 6.3
 				},
-				"vitalInfo": null
+				"vitalInfo": {
+					"fat": 19,
+					"carbohydrate": 81,
+					"protein": 38,
+					"calories": 624
+				}
 			},
-			"4": null,
-			"5": {
-				"name": "Gebackenes Schollenfilet mit Zitronenecke",
+			"3": {
+				"name": "Kichererbsen-Bohnenpfanne mit mediterranem Gemüse, dazu Kräuterkartoffeln",
 				"attributes": [
-					"33"
+					"V",
+					"MV"
 				],
 				"price": {
-					"student": 4.5,
-					"employee": 5.9,
-					"visitor": 6.8
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": {
+					"fat": 23,
+					"carbohydrate": 90,
+					"protein": 25,
+					"calories": 676
+				}
+			},
+			"4": {
+				"name": "Spaghetti mit Rote-Bete-Sauce, dazu Tomatensalat",
+				"attributes": [
+					"F",
+					"MV",
+					"KN",
+					"30",
+					"36"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": {
+					"fat": 25,
+					"carbohydrate": 88,
+					"protein": 25,
+					"calories": 668
+				}
+			},
+			"5": {
+				"name": "Gewokte Gnocchi in Pilzcremesauce mit frischen Kräutern",
+				"attributes": [
+					"V",
+					"1",
+					"KN",
+					"30",
+					"35"
+				],
+				"price": {
+					"student": 3.4,
+					"employee": 4.8,
+					"visitor": 5.7
 				},
 				"vitalInfo": null
 			}
