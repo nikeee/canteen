@@ -96,8 +96,12 @@
 				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
 				"attributes": [
 					"1",
-					"36",
-					"39"
+					"3",
+					"8",
+					"KN",
+					"35",
+					"39",
+					"R"
 				],
 				"price": {
 					"student": 2.5,
@@ -254,6 +258,7 @@
 				"name": "Gemüsepfanne mit Shrimps, grünem Spargel, Kokos und Wildreis",
 				"attributes": [
 					"MV",
+					"8",
 					"KN",
 					"31"
 				],
