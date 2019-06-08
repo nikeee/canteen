@@ -7,33 +7,27 @@
 		}
 	},
 	"validity": {
-		"from": "2019-06-03T00:00:00.000Z",
-		"until": "2019-06-07T00:00:00.000Z"
+		"from": "2019-06-10T00:00:00.000Z",
+		"until": "2019-06-14T00:00:00.000Z"
 	},
 	"currency": "€",
 	"meals": {
 		"Essen 1": {
 			"1": {
-				"name": "Blumenkohl-Käse-Medaillon an Béchamelsauce mit Schnittlauch",
-				"attributes": [
-					"F",
-					"1",
-					"30",
-					"32",
-					"36",
-					"38"
-				],
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
 				"price": {
-					"student": 2.1,
-					"employee": 3.5,
-					"visitor": 4.4
+					"student": 0,
+					"employee": 1.4,
+					"visitor": 2.3
 				},
 				"vitalInfo": null
 			},
 			"2": {
-				"name": "Chili sin Carne",
+				"name": "Sojastreifen in Kräutercremesauce",
 				"attributes": [
 					"V",
+					"1",
 					"KN",
 					"35"
 				],
@@ -45,26 +39,29 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Italienische Penne mit Steinpilz-Rahmsauce",
+				"name": "Kartoffelpuffer mit Apfelmus",
 				"attributes": [
 					"F",
-					"1",
+					"3",
 					"30",
-					"36"
+					"32"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Rosmarinkartoffeln mit Tomatenmayonnaise",
+				"name": "Bunter, marinierter Penne-Salat mit Balsamicocreme, dazu Baguette",
 				"attributes": [
 					"V",
-					"35",
-					"39"
+					"1",
+					"3",
+					"6",
+					"30",
+					"41"
 				],
 				"price": {
 					"student": 2.1,
@@ -74,45 +71,29 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Asiatische Reis-Krautpfanne mit Paprika, Sprossen und Karotten",
+				"name": "Lauchkuchen mit Schmand und roten Zwiebeln",
 				"attributes": [
-					"V",
-					"3",
+					"F",
 					"30",
-					"35",
-					"39"
+					"36"
 				],
 				"price": {
-					"student": 2,
-					"employee": 3.4,
-					"visitor": 4.3
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
 				},
 				"vitalInfo": null
 			}
 		},
 		"Essen 2": {
-			"1": {
-				"name": "Gebratene Geflügel-Currywurst mit Ketchupsauce",
+			"1": null,
+			"2": {
+				"name": "Pasta mit Blattspinat, Hackfleisch und Käsecreme",
 				"attributes": [
 					"1",
-					"3",
-					"8",
 					"KN",
-					"35",
-					"39",
-					"R"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"2": {
-				"name": "Geschwenkte Schweinefleischstreifen Gyros Art mit griechischem Zaziki",
-				"attributes": [
-					"KN",
+					"30",
+					"32",
 					"36",
 					"S"
 				],
@@ -124,38 +105,23 @@
 				"vitalInfo": null
 			},
 			"3": {
-				"name": "Asiatische Nudelpfanne mit Sesam-Schweinebauch und Gemüse",
+				"name": "Hähnchenbrust mit Sauce Café de Paris",
 				"attributes": [
+					"1",
 					"30",
-					"35",
-					"39",
-					"S"
+					"32",
+					"36"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
 				},
 				"vitalInfo": null
 			},
 			"4": {
-				"name": "Curry-Hähnchen Madras",
+				"name": "Paniertes Nackenschnitzel vom Schwein an Schmanddip mit süßem Senf",
 				"attributes": [
-					"1",
-					"30",
-					"36"
-				],
-				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
-				},
-				"vitalInfo": null
-			},
-			"5": {
-				"name": "Hausgemachte Hackfleischpizza mit Paprika, Tomaten und Mais",
-				"attributes": [
-					"KN",
 					"30",
 					"32",
 					"36",
@@ -163,52 +129,39 @@
 					"S"
 				],
 				"price": {
-					"student": 2.5,
-					"employee": 3.9,
-					"visitor": 4.8
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Gebackene Fischfrikadelle mit Cocktaildip",
+				"attributes": [
+					"3",
+					"30",
+					"32",
+					"33",
+					"36",
+					"38",
+					"39"
+				],
+				"price": {
+					"student": 2.4,
+					"employee": 3.8,
+					"visitor": 4.7
 				},
 				"vitalInfo": null
 			}
 		},
 		"Bio-Essen": {
-			"1": {
-				"name": "Gnocchi mit Tomatensauce",
-				"attributes": [
-					"V",
-					"Ö",
-					"30",
-					"35"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
-			},
+			"1": null,
 			"2": {
-				"name": "Polenta-Käseschnitte an Spinatsauce",
+				"name": "Bauernfrühstück - Kartoffeln mit Ei und buntem Gemüse",
 				"attributes": [
 					"F",
 					"Ö",
-					"KN",
-					"30",
 					"32",
-					"36"
-				],
-				"price": {
-					"student": 2.9,
-					"employee": 4.3,
-					"visitor": 5.2
-				},
-				"vitalInfo": null
-			},
-			"3": {
-				"name": "Rotes Thai-Blumenkohlcurry mit Paprika und Zwiebeln",
-				"attributes": [
-					"V",
-					"Ö",
-					"KN",
 					"39"
 				],
 				"price": {
@@ -218,14 +171,27 @@
 				},
 				"vitalInfo": null
 			},
-			"4": {
-				"name": "Karotten-Pfannkuchen mit Kräuterdip",
+			"3": {
+				"name": "Türkischer Couscoussalat",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"30",
-					"32",
-					"36"
+					"30"
+				],
+				"price": {
+					"student": 2.9,
+					"employee": 4.3,
+					"visitor": 5.2
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Gado Gado - Indonesiches Gemüsegericht in Erdnusssauce",
+				"attributes": [
+					"V",
+					"Ö",
+					"KN",
+					"34"
 				],
 				"price": {
 					"student": 2.9,
@@ -235,14 +201,12 @@
 				"vitalInfo": null
 			},
 			"5": {
-				"name": "Allgäuer Käse Spätzle",
+				"name": "Tofuragout Mexikanische Art",
 				"attributes": [
-					"F",
+					"V",
 					"Ö",
-					"30",
-					"32",
-					"35",
-					"36"
+					"9",
+					"35"
 				],
 				"price": {
 					"student": 2.9,
