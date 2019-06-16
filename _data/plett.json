@@ -1,0 +1,241 @@
+{
+	"info": {
+		"name": "Mensa Heinrich-Plett-Straße",
+		"location": {
+			"lat": 51.282003,
+			"long": 9.447503
+		}
+	},
+	"validity": {
+		"from": "2019-06-17T00:00:00.000Z",
+		"until": "2019-06-21T00:00:00.000Z"
+	},
+	"currency": "€",
+	"meals": {
+		"Essen 1": {
+			"1": {
+				"name": "Goldgelb gebackenes Möhrenschnitzel auf fruchtigem Birnendip mit Koriander",
+				"attributes": [
+					"F",
+					"30",
+					"32",
+					"36",
+					"38",
+					"40"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Kritharakisalat mit buntem Gemüse und Baguette",
+				"attributes": [
+					"V",
+					"3",
+					"6",
+					"30",
+					"41"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Hausgemachter Süßkartoffelstampf auf Balsamico-Linsen",
+				"attributes": [
+					"V",
+					"1",
+					"3",
+					"35",
+					"41"
+				],
+				"price": {
+					"student": 2.1,
+					"employee": 3.5,
+					"visitor": 4.4
+				},
+				"vitalInfo": null
+			},
+			"4": {
+				"name": "Feiertag - Heute bleiben unsere Einrichtungen geschlossen",
+				"attributes": [],
+				"price": {
+					"student": 0,
+					"employee": 1.4,
+					"visitor": 2.3
+				},
+				"vitalInfo": null
+			},
+			"5": {
+				"name": "Geschmortes Ratatouille-Gemüse an gelben Penne",
+				"attributes": [
+					"V",
+					"KN",
+					"30"
+				],
+				"price": {
+					"student": 2,
+					"employee": 3.4,
+					"visitor": 4.3
+				},
+				"vitalInfo": null
+			}
+		},
+		"Essen 2": {
+			"1": {
+				"name": "Klassische Currywurst",
+				"attributes": [
+					"1",
+					"3",
+					"8",
+					"38",
+					"39",
+					"S"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			},
+			"2": {
+				"name": "Gebackenes Fleischkäseschnitzel auf Malzjus",
+				"attributes": [
+					"2",
+					"3",
+					"8",
+					"30",
+					"32",
+					"R",
+					"S"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"3": {
+				"name": "Karibisches Mango-Hühnchen",
+				"attributes": [
+					"1",
+					"30",
+					"36",
+					"39"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": null
+			},
+			"4": null,
+			"5": {
+				"name": "Spanische Paella mit buntem Gemüse und Putenstreifen",
+				"attributes": [
+					"KN"
+				],
+				"price": {
+					"student": 2.5,
+					"employee": 3.9,
+					"visitor": 4.8
+				},
+				"vitalInfo": null
+			}
+		},
+		"Essen 3 oder 4": {
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null
+		},
+		"Angebot des Tages I": {
+			"1": {
+				"name": "Bohnen, Zucchini und Chili mit Vollkornreis",
+				"attributes": [
+					"V",
+					"MV",
+					"KN"
+				],
+				"price": {
+					"student": 2.6,
+					"employee": 4,
+					"visitor": 4.9
+				},
+				"vitalInfo": {
+					"fat": 18,
+					"carbohydrate": 87,
+					"protein": 24,
+					"calories": 633
+				}
+			},
+			"2": {
+				"name": "Hähnchenbrust in Kokos-Currysauce, mit Zuckerschoten und Basmatireis",
+				"attributes": [
+					"MV",
+					"36"
+				],
+				"price": {
+					"student": 3.2,
+					"employee": 4.6,
+					"visitor": 5.5
+				},
+				"vitalInfo": {
+					"fat": 21,
+					"carbohydrate": 87,
+					"protein": 45,
+					"calories": 715
+				}
+			},
+			"3": {
+				"name": "Seehechtfilet auf Gurkengemüse und Kräuterkartoffeln, Dessert",
+				"attributes": [
+					"MV",
+					"30",
+					"33",
+					"36"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.9,
+					"visitor": 6.8
+				},
+				"vitalInfo": {
+					"fat": 18,
+					"carbohydrate": 69,
+					"protein": 38,
+					"calories": 612
+				}
+			},
+			"4": null,
+			"5": {
+				"name": "Gebackene Tintenfischringe an Limetten-Sauerrahmdip",
+				"attributes": [
+					"1",
+					"2",
+					"3",
+					"30",
+					"36",
+					"41",
+					"43"
+				],
+				"price": {
+					"student": 4.5,
+					"employee": 5.9,
+					"visitor": 6.8
+				},
+				"vitalInfo": null
+			}
+		}
+	}
+}

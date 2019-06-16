@@ -1,0 +1,23 @@
+{
+	"info": {
+		"name": "Bistro K10",
+		"location": {
+			"lat": 51.321952,
+			"long": 9.503411
+		}
+	},
+	"validity": {
+		"from": "2019-06-16T00:00:00.000Z",
+		"until": "2019-06-22T23:59:59.999Z"
+	},
+	"currency": "€",
+	"meals": {
+		"": {
+			"1": null,
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null
+		}
+	}
+}
